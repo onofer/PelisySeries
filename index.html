@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Novedades en mis plataformas</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:wght@600;800&family=Figtree:wght@400;600&display=swap" rel="stylesheet">
+<style>
+:root{--bg:#eef1f6;--surf:#fff;--ink:#141a2a;--mut:#5b6478;--line:#d9deea;--sel:#141a2a;--selt:#fff;
+box-sizing:border-box;padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px)}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){--bg:#121829;--surf:#1a2238;--ink:#eef1f8;--mut:#9aa5bf;--line:#2a3452;--sel:#eef1f8;--selt:#121829}}
+:root[data-theme="dark"]{--bg:#121829;--surf:#1a2238;--ink:#eef1f8;--mut:#9aa5bf;--line:#2a3452;--sel:#eef1f8;--selt:#121829}
+html{scroll-padding-top:env(safe-area-inset-top,0px)}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--ink);font:400 16px/1.45 Figtree,system-ui,sans-serif}
+main{max-width:860px;margin:0 auto;padding:28px 16px 48px}
+h1{font:800 clamp(28px,6vw,44px)/1.05 "Bricolage Grotesque",Figtree,sans-serif;margin:0 0 6px;letter-spacing:-.02em}
+.sub{color:var(--mut);margin:0 0 22px}
+.tabs{display:flex;gap:6px;border-bottom:1px solid var(--line);margin-bottom:16px;overflow-x:auto}
+.tab{font:600 15px Figtree,sans-serif;background:none;border:0;color:var(--mut);padding:10px 14px;cursor:pointer;border-bottom:3px solid transparent;white-space:nowrap}
+.tab[aria-selected="true"]{color:var(--ink);border-color:var(--ink)}
+.tab b{font-weight:600;background:var(--line);border-radius:99px;padding:1px 8px;margin-left:6px;font-size:13px}
+.bar{display:flex;flex-wrap:wrap;gap:8px;align-items:center;margin-bottom:8px}
+.chip{display:inline-flex;align-items:center;gap:7px;border:1.5px solid var(--line);background:var(--surf);color:var(--ink);border-radius:99px;padding:6px 12px;font:600 14px Figtree,sans-serif;cursor:pointer}
+.chip i{width:10px;height:10px;border-radius:50%;background:var(--c)}
+.chip[aria-pressed="true"]{background:var(--sel);color:var(--selt);border-color:var(--sel)}
+.chip[aria-pressed="false"]{opacity:.55}
+select,input{font:400 15px Figtree,sans-serif;background:var(--surf);color:var(--ink);border:1.5px solid var(--line);border-radius:10px;padding:7px 10px}
+input{flex:1;min-width:140px}
+button:focus-visible,select:focus-visible,input:focus-visible{outline:3px solid #6b8cff;outline-offset:2px}
+.day{margin-top:26px}
+.day h2{font:800 20px "Bricolage Grotesque",Figtree,sans-serif;margin:0 0 10px}
+.day h2 small{font:400 14px Figtree,sans-serif;color:var(--mut);margin-left:8px}
+.row{display:flex;gap:12px;align-items:center;background:var(--surf);border-radius:12px;padding:10px 12px;margin-bottom:8px;border:0;border-left:6px solid var(--c);width:100%;text-align:left;color:var(--ink);font:inherit;cursor:pointer}.row:hover{filter:brightness(1.04)}
+.pos{flex:none;position:relative;overflow:hidden;border-radius:6px;display:grid;place-items:center;color:#fff;font:800 24px "Bricolage Grotesque",sans-serif;text-align:center;padding:6px}.pos.s{width:56px;height:84px}.pos.l{width:150px;height:225px;font-size:22px;border-radius:10px}.pos img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover}
+dialog{border:0;border-radius:16px;padding:20px;max-width:560px;width:calc(100% - 32px);background:var(--surf);color:var(--ink)}dialog::backdrop{background:rgba(10,14,26,.6)}.cast{display:flex;flex-wrap:wrap;gap:12px;margin:0 0 16px}.ac{margin:0;width:64px;text-align:center}.av2{position:relative;overflow:hidden;width:56px;height:56px;border-radius:50%;margin:0 auto 4px;display:grid;place-items:center;color:#fff;font:800 17px "Bricolage Grotesque",sans-serif}.av2 img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover}.ac figcaption{font-size:12px;line-height:1.2;color:var(--mut)}.rt2{font-size:20px;margin:0 0 2px}.cast span{background:var(--bg);border-radius:99px;padding:4px 10px;font-size:14px}.acts{display:flex;flex-wrap:wrap;gap:8px}.btn{display:inline-flex;align-items:center;gap:6px;border:1.5px solid var(--line);background:var(--surf);color:var(--ink);border-radius:99px;padding:8px 14px;font:600 14px Figtree,sans-serif;cursor:pointer;text-decoration:none}.btn.on{background:var(--sel);color:var(--selt);border-color:var(--sel)}.btn:focus-visible{outline:3px solid #6b8cff;outline-offset:2px}.dh{display:flex;gap:16px;margin-bottom:12px}h3{font:800 26px/1.1 "Bricolage Grotesque",sans-serif;margin:0 0 6px}.rt{font:800 28px "Bricolage Grotesque",sans-serif;margin:10px 0 2px}.rt small{font:400 14px Figtree,sans-serif;color:var(--mut)}.av{font-weight:600;margin:6px 0 0}.sy{line-height:1.55;margin:0 0 16px}
+.info{flex:1;min-width:0}
+.t{font-weight:600;font-size:17px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.m{color:var(--mut);font-size:14px}
+.tag{flex:none;font-size:13px;font-weight:600;color:var(--c);text-align:right}
+.empty{padding:40px 0;text-align:center;color:var(--mut)}
+footer{margin-top:36px;color:var(--mut);font-size:13px;border-top:1px solid var(--line);padding-top:14px}
+@media (max-width:520px){.row{flex-wrap:wrap}.tag{width:100%;text-align:left;padding-left:68px}.pos.l{width:110px;height:165px;font-size:17px}}
+</style>
+</head>
+<body>
+<main>
+<h1>Novedades en mis plataformas</h1>
+<p class="sub" id="sub"></p>
+<div class="tabs" role="tablist" id="tabs"></div>
+<div class="bar" id="chips"></div>
+<div class="bar">
+<select id="type" aria-label="Tipo"><option value="">Películas y series</option><option value="p">Solo películas</option><option value="s">Solo series</option></select>
+<input id="q" type="search" placeholder="Buscar título" aria-label="Buscar título">
+</div>
+<div id="list"></div>
+<dialog id="dlg" aria-label="Detalle del título"></dialog>
+<footer>Datos de Streaming Availability API y TMDB (este producto usa la API de TMDB pero no está avalado ni certificado por TMDB). Notas de Rotten Tomatoes vía OMDb.</footer>
+</main>
+<script>
+var P={netflix:{n:"Netflix",c:"#e50914"},prime:{n:"Prime Video",c:"#1a98ff"},disney:{n:"Disney+",c:"#4d62f0"},hbo:{n:"HBO Max",c:"#9b5cff"}};
+// [título, tipo (s=serie, p=película), plataforma, días desde hoy (negativo = ya disponible), género, días hasta que sale]
+var D=[],INFO={},CAST={},TRAILER={},RT={},GEN="";
+var S={tab:"nuevo",on:{netflix:1,prime:1,disney:1,hbo:1},type:"",q:""};
+var TABS=[["nuevo","Novedades"],["prox","Próximamente"],["sale","Salen pronto"],["lista","Mi lista"]];
+function inTab(x,t){return t=="lista"?!!L[x[0]]:t=="nuevo"?(x[3]<=0&&x[3]>=-14):t=="prox"?x[3]>0:x[5]!=null}
+function day(x,t){return t=="lista"?0:t=="sale"?x[5]:x[3]}
+function rel(n){return n==0?"Hoy":n==1?"Mañana":n==-1?"Ayer":n>0?"En "+n+" días":"Hace "+(-n)+" días"}
+function fdate(n){var d=new Date();d.setDate(d.getDate()+n);return d.toLocaleDateString("es-ES",{weekday:"long",day:"numeric",month:"long"})}
+function hue(s){var h=0;for(var i=0;i<s.length;i++)h+=s.charCodeAt(i)*7;return h%360}
+function pass(x){return S.on[x[2]]&&(!S.type||x[1]==S.type)&&x[0].toLowerCase().indexOf(S.q)>-1}
+var L={};try{L=JSON.parse(localStorage.getItem("pend")||"{}")||{}}catch(e){}
+function saveL(){try{localStorage.setItem("pend",JSON.stringify(L))}catch(e){}}
+function cast(t){if(CAST[t])return CAST[t].map(function(c){if(c.foto)PHOTO[c.nombre]=c.foto;return c.nombre});var a=["Lucía","Mateo","Irene","Hugo","Carmen","Álvaro","Noa","Bruno","Elena","Iván","Marta","Pablo"],b=["Serrano","Valdés","Ortega","Bravo","Lozano","Cabrera","Navarro","Ibarra","Montero","Salas","Crespo","Duarte"],h=hue(t)+t.length,o=[];for(var i=0;i<4;i++)o.push(a[(h+i*5)%12]+" "+b[(h*2+i*7+3)%12]);return o}
+var PHOTO={}; // en la versión real: PHOTO[nombre]=url de la foto (p. ej. de TMDB)
+function rtv(t){return RT[t]}
+function av(n){var h=hue(n),ph=PHOTO[n],ini=n.split(" ").map(function(w){return w[0]}).join("");return '<figure class="ac"><div class="av2" style="background:linear-gradient(160deg,hsl('+h+' 50% 48%),hsl('+(h+50)+' 55% 28%))">'+(ph?'<img src="'+ph+'" alt="" loading="lazy" onerror="this.remove()">':'')+ini+'</div><figcaption>'+n+'</figcaption></figure>'}
+function pbtn(i){var on=L[D[i][0]];return '<button class="btn'+(on?' on':'')+'" data-l="'+i+'" aria-pressed="'+!!on+'">'+(on?'✓ En mi lista':'+ Pendiente de ver')+'</button>'}
+var IMG={}; // en la versión real: IMG[título]=url del póster (p. ej. de TMDB)
+function poster(x,s){var h=hue(x[0]),im=IMG[x[0]];return '<div class="pos '+s+'" style="background:linear-gradient(160deg,hsl('+h+' 55% 45%),hsl('+(h+40)+' 60% 24%))" aria-hidden="true">'+(im?'<img src="'+im+'" alt="" loading="lazy" onerror="this.remove()">':'')+'<span>'+(s=="l"?x[0]:x[0][0])+'</span></div>'}
+function openD(i){var x=D[i],p=P[x[2]],f=INFO[x[0]]||[null,"",""],d=document.getElementById("dlg"),st=(x[5]!=null?"sale "+rel(x[5]):x[3]>0?"llega "+rel(x[3]):"disponible desde "+rel(x[3])).toLowerCase();
+ d.innerHTML='<div class="dh">'+poster(x,"l")+'<div><h3>'+x[0]+'</h3><div class="m">'+(x[1]=="s"?"Serie":"Película")+', '+x[4]+'</div><p class="rt">'+(f[0]?'★ '+f[0].toFixed(1)+'<small> / 10 en IMDb</small>':'<small>Sin nota todavía</small>')+'</p>'+(rtv(x[0])!=null?'<p class="rt rt2">🍅 '+rtv(x[0])+'%<small> en Rotten Tomatoes</small></p>':'')+'<p class="m">'+f[1]+'</p><p class="av" style="color:'+p.c+'">'+p.n+', '+st+'</p></div></div><p class="sy">'+f[2]+'</p>'+(cast(x[0]).length?'<p class="m" style="margin:0 0 6px">Reparto</p><div class="cast">'+cast(x[0]).map(av).join("")+'</div>':'')+'<div class="acts">'+pbtn(i)+'<a class="btn" href="'+(TRAILER[x[0]]||"https://www.youtube.com/results?search_query="+encodeURIComponent(x[0]+" tráiler"))+'" target="_blank" rel="noopener noreferrer">▶ Ver tráiler</a><button class="btn" data-x="1">Cerrar</button></div>';
+ d.showModal()}
+function render(){
+  var now=new Date(),hh=now.toLocaleTimeString("es-ES",{hour:"2-digit",minute:"2-digit"});
+  document.getElementById("sub").textContent="Todo lo nuevo de tus cuatro plataformas en un solo sitio. Datos actualizados: "+(GEN||"sin datos")+".";
+  document.getElementById("tabs").innerHTML=TABS.map(function(t){
+    var c=D.filter(function(x){return inTab(x,t[0])&&pass(x)}).length;
+    return '<button class="tab" role="tab" data-t="'+t[0]+'" aria-selected="'+(S.tab==t[0])+'">'+t[1]+'<b>'+c+'</b></button>'}).join("");
+  document.getElementById("chips").innerHTML=Object.keys(P).map(function(k){
+    return '<button class="chip" data-p="'+k+'" aria-pressed="'+(!!S.on[k])+'" style="--c:'+P[k].c+'"><i></i>'+P[k].n+'</button>'}).join("");
+  var rows=D.filter(function(x){return inTab(x,S.tab)&&pass(x)}).sort(function(a,b){
+    var da=day(a,S.tab),db=day(b,S.tab);return S.tab=="nuevo"?db-da:da-db});
+  if(!rows.length){document.getElementById("list").innerHTML='<div class="empty">'+(S.tab=="lista"&&!Object.keys(L).length?'Aún no has marcado nada. Abre un título y pulsa «Pendiente de ver».':'No hay títulos con estos filtros. Activa más plataformas o borra la búsqueda.')+'</div>';return}
+  var html="",last=null;
+  rows.forEach(function(x){
+    var d=day(x,S.tab);
+    if(d!==last){html+=(last!==null?"</section>":"")+'<section class="day"><h2>'+(S.tab=="lista"?'Pendientes de ver':rel(d)+'<small>'+fdate(d)+'</small>')+'</h2>';last=d}
+    var p=P[x[2]],h=hue(x[0]);
+    html+='<button class="row" data-i="'+D.indexOf(x)+'" style="--c:'+p.c+'">'+poster(x,"s")
+      +'<div class="info"><div class="t">'+x[0]+'</div><div class="m">'+(x[1]=="s"?"Serie":"Película")+', '+x[4]+'</div></div>'
+      +'<div class="tag">'+(L[x[0]]?'🔖 ':'')+p.n+'</div></button>'});
+  document.getElementById("list").innerHTML=html+"</section>";
+}
+document.addEventListener("click",function(e){
+  var t=e.target.closest("[data-t]"),p=e.target.closest("[data-p]");
+  if(t){S.tab=t.dataset.t;render()}
+  if(p){S.on[p.dataset.p]=S.on[p.dataset.p]?0:1;render()}
+  var l=e.target.closest("[data-l]");if(l){var li=+l.dataset.l,k=D[li][0];if(L[k])delete L[k];else L[k]=1;saveL();l.outerHTML=pbtn(li);render();return}
+  var r=e.target.closest("[data-i]");if(r)openD(+r.dataset.i);
+  if(e.target.id=="dlg"||e.target.closest("[data-x]"))document.getElementById("dlg").close();
+});
+document.getElementById("type").onchange=function(){S.type=this.value;render()};
+document.getElementById("q").oninput=function(){S.q=this.value.toLowerCase();render();this.focus()};
+function off(iso){var a=new Date(iso+"T00:00:00"),b=new Date();b.setHours(0,0,0,0);return Math.round((a-b)/864e5)}
+fetch("data.json").then(function(r){return r.json()}).then(function(j){
+  GEN=new Date(j.generado).toLocaleString("es-ES",{dateStyle:"medium",timeStyle:"short"});
+  j.items.forEach(function(x){var n=x.titulo,ex=x.estado=="expiring",o=off(x.fecha);
+    D.push([n,x.tipo,x.plataforma,ex?-400:o,x.genero||"",ex?o:undefined]);
+    INFO[n]=[x.imdb,x.duracion||"",x.sinopsis||""];
+    if(x.poster)IMG[n]=x.poster;
+    if(x.trailer)TRAILER[n]=x.trailer;
+    if(x.rt!=null)RT[n]=x.rt;
+    CAST[n]=x.reparto||[]});
+  render();
+}).catch(function(){document.getElementById("list").innerHTML='<div class="empty">No se pudo cargar data.json. Ejecuta antes el script de actualización.</div>'});
+</script>
+</body>
+</html>
