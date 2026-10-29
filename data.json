@@ -1,5 +1,5 @@
 {
- "generado": "2026-10-29T18:55:36+00:00",
+ "generado": "2026-10-29T21:53:04+00:00",
  "pais": "ES",
  "items": [
   {
@@ -10,6 +10,11 @@
    "estado": "expiring",
    "fecha": "2026-10-29",
    "genero": "Action",
+   "generos": [
+    "Action",
+    "Horror",
+    "Thriller"
+   ],
    "imdb": 6.6,
    "rt": 57,
    "duracion": "1 h 30 min",
@@ -41,7 +46,8 @@
      "foto": null
     }
    ],
-   "trailer": null
+   "trailer": null,
+   "temporadas_det": []
   },
   {
    "id": "27050",
@@ -51,6 +57,11 @@
    "estado": "expiring",
    "fecha": "2026-10-30",
    "genero": "Action",
+   "generos": [
+    "Action",
+    "Animation",
+    "Fantasy"
+   ],
    "imdb": 5.4,
    "rt": null,
    "duracion": "1 temporada, 36 episodios",
@@ -82,7 +93,8 @@
      "foto": null
     }
    ],
-   "trailer": null
+   "trailer": null,
+   "temporadas_det": []
   },
   {
    "id": "390",
@@ -92,6 +104,10 @@
    "estado": "expiring",
    "fecha": "2026-10-30",
    "genero": "Action",
+   "generos": [
+    "Action",
+    "Adventure"
+   ],
    "imdb": 7.4,
    "rt": 90,
    "duracion": "2 h 26 min",
@@ -123,7 +139,8 @@
      "foto": null
     }
    ],
-   "trailer": null
+   "trailer": null,
+   "temporadas_det": []
   },
   {
    "id": "716",
@@ -133,6 +150,11 @@
    "estado": "expiring",
    "fecha": "2026-10-30",
    "genero": "Action",
+   "generos": [
+    "Action",
+    "Adventure",
+    "Science Fiction"
+   ],
    "imdb": 6.6,
    "rt": 70,
    "duracion": "1 h 57 min",
@@ -164,7 +186,8 @@
      "foto": null
     }
    ],
-   "trailer": null
+   "trailer": null,
+   "temporadas_det": []
   },
   {
    "id": "5461094",
@@ -174,6 +197,9 @@
    "estado": "expiring",
    "fecha": "2026-10-30",
    "genero": "Documentary",
+   "generos": [
+    "Documentary"
+   ],
    "imdb": 5.3,
    "rt": null,
    "duracion": "1 h 40 min",
@@ -205,7 +231,8 @@
      "foto": null
     }
    ],
-   "trailer": null
+   "trailer": null,
+   "temporadas_det": []
   },
   {
    "id": "101389",
@@ -215,6 +242,9 @@
    "estado": "expiring",
    "fecha": "2026-10-30",
    "genero": "Horror",
+   "generos": [
+    "Horror"
+   ],
    "imdb": 4.5,
    "rt": 78,
    "duracion": "1 h 23 min",
@@ -246,7 +276,8 @@
      "foto": null
     }
    ],
-   "trailer": null
+   "trailer": null,
+   "temporadas_det": []
   },
   {
    "id": "1292896",
@@ -256,6 +287,10 @@
    "estado": "expiring",
    "fecha": "2026-10-30",
    "genero": "Action",
+   "generos": [
+    "Action",
+    "Crime"
+   ],
    "imdb": 5.2,
    "rt": null,
    "duracion": "2 temporadas, 10 episodios",
@@ -279,7 +314,8 @@
      "foto": null
     }
    ],
-   "trailer": null
+   "trailer": null,
+   "temporadas_det": []
   },
   {
    "id": "14625544",
@@ -289,6 +325,10 @@
    "estado": "expiring",
    "fecha": "2026-10-30",
    "genero": "Science Fiction",
+   "generos": [
+    "Science Fiction",
+    "Thriller"
+   ],
    "imdb": 6.9,
    "rt": 93,
    "duracion": "1 h 33 min",
@@ -320,7 +360,8 @@
      "foto": null
     }
    ],
-   "trailer": null
+   "trailer": null,
+   "temporadas_det": []
   },
   {
    "id": "24192",
@@ -330,6 +371,11 @@
    "estado": "expiring",
    "fecha": "2026-10-31",
    "genero": "Action",
+   "generos": [
+    "Action",
+    "Adventure",
+    "Animation"
+   ],
    "imdb": 6.8,
    "rt": 92,
    "duracion": "1 h 43 min",
@@ -361,7 +407,8 @@
      "foto": null
     }
    ],
-   "trailer": null
+   "trailer": null,
+   "temporadas_det": []
   },
   {
    "id": "45143",
@@ -371,6 +418,9 @@
    "estado": "expiring",
    "fecha": "2026-10-31",
    "genero": "Thriller",
+   "generos": [
+    "Thriller"
+   ],
    "imdb": 6.3,
    "rt": null,
    "duracion": "1 h 32 min",
@@ -402,7 +452,8 @@
      "foto": null
     }
    ],
-   "trailer": null
+   "trailer": null,
+   "temporadas_det": []
   },
   {
    "id": "15414516",
@@ -412,6 +463,11 @@
    "estado": "expiring",
    "fecha": "2026-10-31",
    "genero": "Crime",
+   "generos": [
+    "Crime",
+    "Documentary",
+    "History"
+   ],
    "imdb": 6.7,
    "rt": null,
    "duracion": "1 temporada, 4 episodios",
@@ -443,7 +499,8 @@
      "foto": null
     }
    ],
-   "trailer": null
+   "trailer": null,
+   "temporadas_det": []
   },
   {
    "id": "1692412",
@@ -453,8 +510,11 @@
    "estado": "expiring",
    "fecha": "2026-10-31",
    "genero": "Horror",
+   "generos": [
+    "Horror"
+   ],
    "imdb": 6.6,
-   "rt": null,
+   "rt": 85,
    "duracion": "1 h 31 min",
    "sinopsis": "Bloodthirsty demons descend on an Los Angeles apartment building whose inhabitants include a single mother and her family.",
    "poster": "https://cdn.movieofthenight.com/show/1692412/poster/vertical/en/240.jpg?Expires=1815012513&Signature=LGNCsrZ5G7~MqQIdK~-UjCGeRWvVo8gGDJQMBS~dXxJ7a1rX90Bvl7w2fECUgCQUQ~BSzkMVsGINdHgUUmdtoXPrq1IiZCPd0B~tOXhK5Ml6qCHOyO-Rde3YPWXu07i5ka570z04CH8PeYkbiX8aFPYOhisHgByWxvb2VA8b4NlEBJuvizQvrLw3FmoSuOQg5sR8vaSRdDeyxy8bee1e6Xg0LtJvYAkytKtepqUkhBEwu4Byb7pqxj-m4UB3Nd260UtIkbPtWNuqXNxbgWxO5O2FU3pw-skGyJJXnpj81Hvuqkv4iOPPqI6qkEqPlL7g8A9F~kFpc3EDTN0872UElA__&Key-Pair-Id=KK4HN3OO4AT5R",
@@ -484,7 +544,8 @@
      "foto": null
     }
    ],
-   "trailer": null
+   "trailer": null,
+   "temporadas_det": []
   },
   {
    "id": "31704",
@@ -494,6 +555,10 @@
    "estado": "expiring",
    "fecha": "2026-10-31",
    "genero": "Crime",
+   "generos": [
+    "Crime",
+    "Documentary"
+   ],
    "imdb": 5.7,
    "rt": null,
    "duracion": "2 temporadas, 14 episodios",
@@ -517,7 +582,8 @@
      "foto": null
     }
    ],
-   "trailer": null
+   "trailer": null,
+   "temporadas_det": []
   },
   {
    "id": "7534683",
@@ -527,6 +593,9 @@
    "estado": "expiring",
    "fecha": "2026-10-31",
    "genero": "Reality",
+   "generos": [
+    "Reality"
+   ],
    "imdb": 5.2,
    "rt": null,
    "duracion": "5 temporadas, 48 episodios",
@@ -542,7 +611,8 @@
      "foto": null
     }
    ],
-   "trailer": null
+   "trailer": null,
+   "temporadas_det": []
   },
   {
    "id": "8618556",
@@ -552,6 +622,9 @@
    "estado": "expiring",
    "fecha": "2026-10-31",
    "genero": "Reality",
+   "generos": [
+    "Reality"
+   ],
    "imdb": 4.7,
    "rt": null,
    "duracion": "14 temporadas, 173 episodios",
@@ -583,7 +656,8 @@
      "foto": null
     }
    ],
-   "trailer": null
+   "trailer": null,
+   "temporadas_det": []
   },
   {
    "id": "47359",
@@ -593,6 +667,9 @@
    "estado": "expiring",
    "fecha": "2026-10-31",
    "genero": "Comedy",
+   "generos": [
+    "Comedy"
+   ],
    "imdb": 6.3,
    "rt": null,
    "duracion": "1 h 21 min",
@@ -624,7 +701,8 @@
      "foto": null
     }
    ],
-   "trailer": null
+   "trailer": null,
+   "temporadas_det": []
   },
   {
    "id": "9980",
@@ -634,8 +712,13 @@
    "estado": "expiring",
    "fecha": "2026-10-31",
    "genero": "Horror",
+   "generos": [
+    "Horror",
+    "Mystery",
+    "Thriller"
+   ],
    "imdb": 6.6,
-   "rt": null,
+   "rt": 90,
    "duracion": "1 h 52 min",
    "sinopsis": "Guillermo del Toro (Pan's Labyrinth, Hellboy) presents the story of Julia (Belen Rueda, The Orphanage), a woman suffering from a degenerative sight disease who finds her blind sister Sara hung in her basement. Despite all signs pointing to suicide, Julia decides to investigate what she intuitively feels is a murder case. Julia's sight gradually deteriorates as she uncovers the terrifying truth about Sara's death, and an invisible man with a mysterious link to Sarah begins to stalk her and leave a series of unexplained deaths in his trail.",
    "poster": "https://cdn.movieofthenight.com/show/9980/poster/vertical/en/240.jpg?Expires=1821608537&Signature=MFHRjIrjFxudYrNWzld6KapMjwWBOdkMrMwgZr7vqPC8~3zIjTRGrCFY9YOdvGPasecu2Du7oHFvm~Vbvq5scczCuDSTFOULdhBsmXhlE0SnaHyv~r5pDp7QC5YIrT12H55CJHZ8FXG8Oc5QtnOqedCr4AdNVmdFDbIDCpaRuH8VFZkKyqX53fFzUAsn2dgg2LJE1gpgcZHRF2GDCx~V1tOWib4LL85hgp6LiFMDPz7uTEVVfmXR8gYMpCleupKxBSTj7mi2c6KJ~PZSKQmGFZah~iKizKWqHV3GBSJOCM~SwbUjrOtHatgtW8PeCiHXkdurbN8PbLat5mFr0IvRGw__&Key-Pair-Id=KK4HN3OO4AT5R",
@@ -665,7 +748,8 @@
      "foto": null
     }
    ],
-   "trailer": null
+   "trailer": null,
+   "temporadas_det": []
   },
   {
    "id": "47839",
@@ -675,6 +759,9 @@
    "estado": "expiring",
    "fecha": "2026-10-31",
    "genero": "Comedy",
+   "generos": [
+    "Comedy"
+   ],
    "imdb": 5.2,
    "rt": null,
    "duracion": "1 h 31 min",
@@ -706,7 +793,8 @@
      "foto": null
     }
    ],
-   "trailer": null
+   "trailer": null,
+   "temporadas_det": []
   },
   {
    "id": "35807",
@@ -716,6 +804,9 @@
    "estado": "expiring",
    "fecha": "2026-10-31",
    "genero": "Comedy",
+   "generos": [
+    "Comedy"
+   ],
    "imdb": 6.1,
    "rt": null,
    "duracion": "1 h 37 min",
@@ -747,7 +838,8 @@
      "foto": null
     }
    ],
-   "trailer": null
+   "trailer": null,
+   "temporadas_det": []
   },
   {
    "id": "6456",
@@ -757,8 +849,12 @@
    "estado": "expiring",
    "fecha": "2026-10-31",
    "genero": "Drama",
+   "generos": [
+    "Drama",
+    "Western"
+   ],
    "imdb": 6.8,
-   "rt": null,
+   "rt": 87,
    "duracion": "2 h 01 min",
    "sinopsis": "Bickering brother assassins encounter brothels, bears, and chemical mishaps while pursuing a prospector from Oregon to Gold Rush California.",
    "poster": "https://cdn.movieofthenight.com/show/6456/poster/vertical/en/240.jpg?Expires=1819823228&Signature=fIqRfirR80NacLGKBwiBcWEV11xqHu3mu8fVCuZNjdu2kV-k-FbGro4hEr~m4RWo5ROhsS3xHgZN3NVaMe3WDf44RDeOkiJ1izoZJdhOUS6vrOMMCtSR4PkVrnLv1gboES5eKTWmr0E~VhCE7z~bxVEzCTF4CxkVZf75ZsgTg3EX6NLdlG348LuISaz1Y~Mg9uTVngRHl1PnowxNRnwekwv2QsPHzxcK3V45dGs6SuguEjBG7EGBuIDnsCTisAEU1wwMwtTFswoahLgouQLS7~zrl1bkMB4SmgE4iTKTLGPZoY7BVSB9aK1tOg4kPE6Q9MNspLBz-GQZFzChYNJCFQ__&Key-Pair-Id=KK4HN3OO4AT5R",
@@ -788,7 +884,8 @@
      "foto": null
     }
    ],
-   "trailer": null
+   "trailer": null,
+   "temporadas_det": []
   },
   {
    "id": "6337",
@@ -798,8 +895,13 @@
    "estado": "expiring",
    "fecha": "2026-10-31",
    "genero": "Action",
+   "generos": [
+    "Action",
+    "Crime",
+    "Drama"
+   ],
    "imdb": 6.9,
-   "rt": null,
+   "rt": 91,
    "duracion": "2 h 10 min",
    "sinopsis": "Michèle seems indestructible. Head of a successful video game company, she brings the same ruthless attitude to her love life as to business. Being attacked in her home by an unknown assailant changes Michèle's life forever. When she resolutely tracks the man down, they are both drawn into a curious and thrilling game that may, at any moment, spiral out of control.",
    "poster": "https://cdn.movieofthenight.com/show/6337/poster/vertical/en/240.jpg?Expires=1817606063&Signature=SFtr4mu3bf-2J-maFGyyvqPN54SGb1fXc8~RMwwxaEOMVKYGY1d19~SAUJk~JR5KvFiYMa8wNa~ct7pquqP9m~23WgjZvWFij1fbAfMw1VSSjMZPE4aSpOAjjlVjpQxRF4dkAeBFjvO1P8RiHiGdhRAqVEC0tq7D1M5t8rjsikpMuwvPmd~26q0RMAk1EQRGO-qLogULiHd44C9rmSznnkR90O3TXR-0Anrv9~Xou2P2ouzQvczJCMoSFIFnO3UzYDTEmhfmdSS-DOgqROFnQeU1OzonPV4t38aj8euh9PHWPs65AzIh~cmRDWSOIuvWH1k25gnaeD3Mc4sQuCcLgw__&Key-Pair-Id=KK4HN3OO4AT5R",
@@ -829,7 +931,8 @@
      "foto": null
     }
    ],
-   "trailer": null
+   "trailer": null,
+   "temporadas_det": []
   },
   {
    "id": "63323",
@@ -839,6 +942,9 @@
    "estado": "expiring",
    "fecha": "2026-10-31",
    "genero": "Comedy",
+   "generos": [
+    "Comedy"
+   ],
    "imdb": 5.8,
    "rt": null,
    "duracion": "1 h 43 min",
@@ -870,7 +976,8 @@
      "foto": null
     }
    ],
-   "trailer": null
+   "trailer": null,
+   "temporadas_det": []
   },
   {
    "id": "18855323",
@@ -880,6 +987,9 @@
    "estado": "expiring",
    "fecha": "2026-10-31",
    "genero": "Documentary",
+   "generos": [
+    "Documentary"
+   ],
    "imdb": 4.2,
    "rt": null,
    "duracion": "44 min",
@@ -899,7 +1009,8 @@
      "foto": null
     }
    ],
-   "trailer": null
+   "trailer": null,
+   "temporadas_det": []
   },
   {
    "id": "18895339",
@@ -909,6 +1020,9 @@
    "estado": "expiring",
    "fecha": "2026-10-31",
    "genero": "Documentary",
+   "generos": [
+    "Documentary"
+   ],
    "imdb": 3.8,
    "rt": null,
    "duracion": "43 min",
@@ -924,7 +1038,8 @@
      "foto": null
     }
    ],
-   "trailer": null
+   "trailer": null,
+   "temporadas_det": []
   },
   {
    "id": "18974349",
@@ -934,6 +1049,9 @@
    "estado": "expiring",
    "fecha": "2026-10-31",
    "genero": "Documentary",
+   "generos": [
+    "Documentary"
+   ],
    "imdb": 3.8,
    "rt": null,
    "duracion": "43 min",
@@ -965,7 +1083,8 @@
      "foto": null
     }
    ],
-   "trailer": null
+   "trailer": null,
+   "temporadas_det": []
   },
   {
    "id": "93099",
@@ -975,6 +1094,9 @@
    "estado": "expiring",
    "fecha": "2026-10-31",
    "genero": "Documentary",
+   "generos": [
+    "Documentary"
+   ],
    "imdb": 3.1,
    "rt": null,
    "duracion": "1 temporada, 6 episodios",
@@ -1006,7 +1128,8 @@
      "foto": null
     }
    ],
-   "trailer": null
+   "trailer": null,
+   "temporadas_det": []
   },
   {
    "id": "24976698",
@@ -1016,6 +1139,9 @@
    "estado": "new",
    "fecha": "2026-10-21",
    "genero": "Drama",
+   "generos": [
+    "Drama"
+   ],
    "imdb": null,
    "rt": null,
    "duracion": "1 h 31 min",
@@ -1047,7 +1173,8 @@
      "foto": "https://image.tmdb.org/t/p/w185/haPErI3TqtI02oTRn1B8lYO1cKv.jpg"
     }
    ],
-   "trailer": "https://www.youtube.com/watch?v=W4NLoQvNHXw"
+   "trailer": "https://www.youtube.com/watch?v=W4NLoQvNHXw",
+   "temporadas_det": []
   },
   {
    "id": "27066513",
@@ -1057,13 +1184,53 @@
    "estado": "new",
    "fecha": "2026-10-21",
    "genero": "Reality",
+   "generos": [
+    "Reality"
+   ],
    "imdb": null,
    "rt": null,
    "duracion": "1 temporada, 6 episodios",
    "sinopsis": "Miniserie de TV. 6 episodios. En esta reinterpretación moderna del infame estudio de Stanford, treinta personas ingresan en una cárcel real durante dos semanas, y las cambiantes dinámicas de poder revelan de qué son capaces.",
    "poster": "https://image.tmdb.org/t/p/w342/heoESrHAdmPeYECs2B7R8RIqLyN.jpg",
    "reparto": [],
-   "trailer": "https://www.youtube.com/watch?v=L1aOgRKwi5Q"
+   "trailer": "https://www.youtube.com/watch?v=L1aOgRKwi5Q",
+   "temporadas_det": [
+    {
+     "n": 1,
+     "eps": [
+      {
+       "n": 1,
+       "t": "Episodio 1",
+       "f": "2026-10-21"
+      },
+      {
+       "n": 2,
+       "t": "Episodio 2",
+       "f": "2026-10-21"
+      },
+      {
+       "n": 3,
+       "t": "Episodio 3",
+       "f": "2026-10-21"
+      },
+      {
+       "n": 4,
+       "t": "Episodio 4",
+       "f": "2026-10-21"
+      },
+      {
+       "n": 5,
+       "t": "Episodio 5",
+       "f": "2026-10-21"
+      },
+      {
+       "n": 6,
+       "t": "Episodio 6",
+       "f": "2026-10-21"
+      }
+     ]
+    }
+   ]
   },
   {
    "id": "16256553",
@@ -1072,14 +1239,40 @@
    "plataforma": "disney",
    "estado": "new",
    "fecha": "2026-10-21",
-   "genero": "Documentary",
+   "genero": "Documental",
+   "generos": [
+    "Documental",
+    "Misterio"
+   ],
    "imdb": 4.5,
    "rt": null,
    "duracion": "1 temporada, 3 episodios",
    "sinopsis": "Julio de 2014. Cuando el vuelo MH17 de Malaysian Airlines se estrella en Ucrania, matando a las 298 personas a bordo, las circunstancias están envueltas en misterio. Con una guerra regional que comienza a enfurecerse en el sitio del accidente, la desinformación está en todas partes. Los gobiernos occidentales se dejan frenar por detalles, mientras que un civil lidera la búsqueda de respuestas: papá de dos y blogger aficionado Eliot Higgins. Y con un equipo poco probable de detectives en línea a su lado, está listo para luchar hasta la verdad.",
    "poster": "https://image.tmdb.org/t/p/w342/9IAJOtAXbXstXuDj2jQsrfsckzP.jpg",
    "reparto": [],
-   "trailer": "https://www.youtube.com/watch?v=ggnF_G9ArCo"
+   "trailer": "https://www.youtube.com/watch?v=ggnF_G9ArCo",
+   "temporadas_det": [
+    {
+     "n": 1,
+     "eps": [
+      {
+       "n": 1,
+       "t": "Episodio 1",
+       "f": "2025-02-16"
+      },
+      {
+       "n": 2,
+       "t": "Episodio 2",
+       "f": "2025-02-16"
+      },
+      {
+       "n": 3,
+       "t": "Episodio 3",
+       "f": "2025-02-17"
+      }
+     ]
+    }
+   ]
   },
   {
    "id": "10246146",
@@ -1088,7 +1281,13 @@
    "plataforma": "disney",
    "estado": "new",
    "fecha": "2026-10-21",
-   "genero": "Action",
+   "genero": "Familia",
+   "generos": [
+    "Familia",
+    "Fantasía",
+    "Comedia",
+    "Aventura"
+   ],
    "imdb": 4.0,
    "rt": 33,
    "duracion": "1 h 55 min",
@@ -1120,7 +1319,8 @@
      "foto": "https://image.tmdb.org/t/p/w185/6eiNbeurpHb2fxIeT0RrJ0wRI25.jpg"
     }
    ],
-   "trailer": "https://www.youtube.com/watch?v=EEz5xbzYPKI"
+   "trailer": "https://www.youtube.com/watch?v=EEz5xbzYPKI",
+   "temporadas_det": []
   },
   {
    "id": "29247",
@@ -1130,6 +1330,11 @@
    "estado": "new",
    "fecha": "2026-10-21",
    "genero": "Drama",
+   "generos": [
+    "Drama",
+    "Música",
+    "Romance"
+   ],
    "imdb": 6.2,
    "rt": 60,
    "duracion": "1 h 35 min",
@@ -1161,7 +1366,8 @@
      "foto": "https://image.tmdb.org/t/p/w185/9M9FbnKMTTqgJmWrsKqviewLrmj.jpg"
     }
    ],
-   "trailer": null
+   "trailer": null,
+   "temporadas_det": []
   },
   {
    "id": "8865383",
@@ -1170,7 +1376,11 @@
    "plataforma": "prime",
    "estado": "new",
    "fecha": "2026-10-21",
-   "genero": "Action",
+   "genero": "Acción",
+   "generos": [
+    "Acción",
+    "Suspense"
+   ],
    "imdb": 6.5,
    "rt": 75,
    "duracion": "2 h 03 min",
@@ -1202,7 +1412,8 @@
      "foto": "https://image.tmdb.org/t/p/w185/fA949hIh8eI1rVgWj1oiTCc2h7V.jpg"
     }
    ],
-   "trailer": "https://www.youtube.com/watch?v=AZbEi95SuMg"
+   "trailer": "https://www.youtube.com/watch?v=AZbEi95SuMg",
+   "temporadas_det": []
   },
   {
    "id": "20607238",
@@ -1211,7 +1422,14 @@
    "plataforma": "prime",
    "estado": "new",
    "fecha": "2026-10-21",
-   "genero": "Action",
+   "genero": "Animación",
+   "generos": [
+    "Animación",
+    "Aventura",
+    "Familia",
+    "Fantasía",
+    "Comedia"
+   ],
    "imdb": null,
    "rt": 83,
    "duracion": "1 h 28 min",
@@ -1243,7 +1461,8 @@
      "foto": "https://image.tmdb.org/t/p/w185/4wpTUqEjHYjDMj0Fv6BvfjeIS1H.jpg"
     }
    ],
-   "trailer": "https://www.youtube.com/watch?v=l08qv9mM4fQ"
+   "trailer": "https://www.youtube.com/watch?v=l08qv9mM4fQ",
+   "temporadas_det": []
   },
   {
    "id": "15409541",
@@ -1252,7 +1471,12 @@
    "plataforma": "netflix",
    "estado": "new",
    "fecha": "2026-10-21",
-   "genero": "Romance",
+   "genero": "Drama",
+   "generos": [
+    "Drama",
+    "Romance",
+    "Música"
+   ],
    "imdb": 5.1,
    "rt": null,
    "duracion": "1 h 47 min",
@@ -1284,7 +1508,8 @@
      "foto": "https://image.tmdb.org/t/p/w185/2QEVaSaNvJIlWLvZOubtS2d710u.jpg"
     }
    ],
-   "trailer": "https://www.youtube.com/watch?v=8LEO2Cfs-90"
+   "trailer": "https://www.youtube.com/watch?v=8LEO2Cfs-90",
+   "temporadas_det": []
   },
   {
    "id": "15790532",
@@ -1293,7 +1518,11 @@
    "plataforma": "prime",
    "estado": "new",
    "fecha": "2026-10-21",
-   "genero": "Comedy",
+   "genero": "Familia",
+   "generos": [
+    "Familia",
+    "Comedia"
+   ],
    "imdb": 6.0,
    "rt": 93,
    "duracion": "1 h 47 min",
@@ -1325,7 +1554,8 @@
      "foto": "https://image.tmdb.org/t/p/w185/1gQaryvegdiX73UMmblCjA0SXTV.jpg"
     }
    ],
-   "trailer": "https://www.youtube.com/watch?v=Xo4KSEuWcIQ"
+   "trailer": "https://www.youtube.com/watch?v=Xo4KSEuWcIQ",
+   "temporadas_det": []
   },
   {
    "id": "1728",
@@ -1334,7 +1564,12 @@
    "plataforma": "hbo",
    "estado": "new",
    "fecha": "2026-10-22",
-   "genero": "Drama",
+   "genero": "Suspense",
+   "generos": [
+    "Suspense",
+    "Drama",
+    "Ciencia ficción"
+   ],
    "imdb": 6.6,
    "rt": 37,
    "duracion": "2 h 09 min",
@@ -1366,7 +1601,8 @@
      "foto": "https://image.tmdb.org/t/p/w185/8qb2Unu2907rU7k6UxmF9PFamau.jpg"
     }
    ],
-   "trailer": "https://www.youtube.com/watch?v=qYjPD1NZVac"
+   "trailer": "https://www.youtube.com/watch?v=qYjPD1NZVac",
+   "temporadas_det": []
   },
   {
    "id": "823",
@@ -1375,7 +1611,12 @@
    "plataforma": "hbo",
    "estado": "new",
    "fecha": "2026-10-22",
-   "genero": "Drama",
+   "genero": "Suspense",
+   "generos": [
+    "Suspense",
+    "Drama",
+    "Misterio"
+   ],
    "imdb": 7.2,
    "rt": 71,
    "duracion": "1 h 48 min",
@@ -1407,7 +1648,8 @@
      "foto": "https://image.tmdb.org/t/p/w185/mJ2pENrcO4uRy2TNVUzg5cEI9b3.jpg"
     }
    ],
-   "trailer": "https://www.youtube.com/watch?v=faVXsGSC1AY"
+   "trailer": "https://www.youtube.com/watch?v=faVXsGSC1AY",
+   "temporadas_det": []
   },
   {
    "id": "1653",
@@ -1416,7 +1658,12 @@
    "plataforma": "prime",
    "estado": "new",
    "fecha": "2026-10-22",
-   "genero": "Action",
+   "genero": "Crimen",
+   "generos": [
+    "Crimen",
+    "Drama",
+    "Comedia"
+   ],
    "imdb": 7.8,
    "rt": null,
    "duracion": "4 temporadas, 39 episodios",
@@ -1448,7 +1695,224 @@
      "foto": "https://image.tmdb.org/t/p/w185/m1c4zItCH0LQccJZ3oTjCww4xJ.jpg"
     }
    ],
-   "trailer": "https://www.youtube.com/watch?v=AxL5v7q76sA"
+   "trailer": "https://www.youtube.com/watch?v=AxL5v7q76sA",
+   "temporadas_det": [
+    {
+     "n": 1,
+     "eps": [
+      {
+       "n": 1,
+       "t": "Vete al Oeste, viejo",
+       "f": "2022-11-13"
+      },
+      {
+       "n": 2,
+       "t": "El centro del universo",
+       "f": "2022-11-20"
+      },
+      {
+       "n": 3,
+       "t": "Caprice",
+       "f": "2022-11-27"
+      },
+      {
+       "n": 4,
+       "t": "Lugar de castigo",
+       "f": "2022-12-04"
+      },
+      {
+       "n": 5,
+       "t": "Joe Ficha",
+       "f": "2022-12-11"
+      },
+      {
+       "n": 6,
+       "t": "Establo",
+       "f": "2022-12-18"
+      },
+      {
+       "n": 7,
+       "t": "Warr Acres",
+       "f": "2022-12-25"
+      },
+      {
+       "n": 8,
+       "t": "Adobe Walls",
+       "f": "2023-01-01"
+      },
+      {
+       "n": 9,
+       "t": "Buen viaje",
+       "f": "2023-01-08"
+      }
+     ]
+    },
+    {
+     "n": 2,
+     "eps": [
+      {
+       "n": 1,
+       "t": "De vuelta al ruedo",
+       "f": "2024-09-15"
+      },
+      {
+       "n": 2,
+       "t": "Kansas City Blues",
+       "f": "2024-09-22"
+      },
+      {
+       "n": 3,
+       "t": "Oklahoma contra Manfredi",
+       "f": "2024-09-29"
+      },
+      {
+       "n": 4,
+       "t": "Héroes y villanos",
+       "f": "2024-10-06"
+      },
+      {
+       "n": 5,
+       "t": "Lucha contra los molinos de viento",
+       "f": "2024-10-13"
+      },
+      {
+       "n": 6,
+       "t": "Navegador",
+       "f": "2024-10-20"
+      },
+      {
+       "n": 7,
+       "t": "Soporte vital",
+       "f": "2024-10-27"
+      },
+      {
+       "n": 8,
+       "t": "Una nueva dirección",
+       "f": "2024-11-03"
+      },
+      {
+       "n": 9,
+       "t": "Triada",
+       "f": "2024-11-10"
+      },
+      {
+       "n": 10,
+       "t": "Reconstrucción",
+       "f": "2024-11-17"
+      }
+     ]
+    },
+    {
+     "n": 3,
+     "eps": [
+      {
+       "n": 1,
+       "t": "Sangre y bourbon",
+       "f": "2025-09-21"
+      },
+      {
+       "n": 2,
+       "t": "Los cincuenta",
+       "f": "2025-09-28"
+      },
+      {
+       "n": 3,
+       "t": "El G y el GO",
+       "f": "2025-10-05"
+      },
+      {
+       "n": 4,
+       "t": "Amenaza inminente",
+       "f": "2025-10-12"
+      },
+      {
+       "n": 5,
+       "t": "Con hielo",
+       "f": "2025-10-19"
+      },
+      {
+       "n": 6,
+       "t": "Burbujas",
+       "f": "2025-10-26"
+      },
+      {
+       "n": 7,
+       "t": "El arte de la guerra",
+       "f": "2025-11-02"
+      },
+      {
+       "n": 8,
+       "t": "Nada se terminó",
+       "f": "2025-11-09"
+      },
+      {
+       "n": 9,
+       "t": "Peso muerto",
+       "f": "2025-11-16"
+      },
+      {
+       "n": 10,
+       "t": "Jesús Lagarto",
+       "f": "2025-11-23"
+      }
+     ]
+    },
+    {
+     "n": 4,
+     "eps": [
+      {
+       "n": 1,
+       "t": "¿Qué haría Dwight?",
+       "f": "2026-10-16"
+      },
+      {
+       "n": 2,
+       "t": "Gallo ciego",
+       "f": "2026-10-23"
+      },
+      {
+       "n": 3,
+       "t": "Episodio 3",
+       "f": "2026-10-30"
+      },
+      {
+       "n": 4,
+       "t": "Episodio 4",
+       "f": "2026-11-06"
+      },
+      {
+       "n": 5,
+       "t": "Episodio 5",
+       "f": "2026-11-13"
+      },
+      {
+       "n": 6,
+       "t": "Episodio 6",
+       "f": "2026-11-20"
+      },
+      {
+       "n": 7,
+       "t": "Episodio 7",
+       "f": "2026-11-27"
+      },
+      {
+       "n": 8,
+       "t": "Episodio 8",
+       "f": "2026-12-04"
+      },
+      {
+       "n": 9,
+       "t": "Episodio 9",
+       "f": "2026-12-11"
+      },
+      {
+       "n": 10,
+       "t": "Episodio 10",
+       "f": "2026-12-18"
+      }
+     ]
+    }
+   ]
   },
   {
    "id": "24601383",
@@ -1457,7 +1921,12 @@
    "plataforma": "prime",
    "estado": "new",
    "fecha": "2026-10-22",
-   "genero": "Horror",
+   "genero": "Terror",
+   "generos": [
+    "Terror",
+    "Suspense",
+    "Ciencia ficción"
+   ],
    "imdb": 4.0,
    "rt": null,
    "duracion": "1 h 48 min",
@@ -1489,7 +1958,8 @@
      "foto": "https://image.tmdb.org/t/p/w185/p2B2dYAvl0TMUtbrZxzOdNgBbSE.jpg"
     }
    ],
-   "trailer": "https://www.youtube.com/watch?v=f7jlCqdtwdM"
+   "trailer": "https://www.youtube.com/watch?v=f7jlCqdtwdM",
+   "temporadas_det": []
   },
   {
    "id": "24601405",
@@ -1498,7 +1968,10 @@
    "plataforma": "prime",
    "estado": "new",
    "fecha": "2026-10-22",
-   "genero": "Comedy",
+   "genero": "Comedia",
+   "generos": [
+    "Comedia"
+   ],
    "imdb": 4.1,
    "rt": null,
    "duracion": "1 h 27 min",
@@ -1530,7 +2003,8 @@
      "foto": null
     }
    ],
-   "trailer": null
+   "trailer": null,
+   "temporadas_det": []
   },
   {
    "id": "27066604",
@@ -1539,7 +2013,10 @@
    "plataforma": "netflix",
    "estado": "new",
    "fecha": "2026-10-23",
-   "genero": "Adventure",
+   "genero": "Drama",
+   "generos": [
+    "Drama"
+   ],
    "imdb": null,
    "rt": null,
    "duracion": "1 h 37 min",
@@ -1571,7 +2048,8 @@
      "foto": "https://image.tmdb.org/t/p/w185/538VabzHzFWhqNXv5I854QVq51e.jpg"
     }
    ],
-   "trailer": "https://www.youtube.com/watch?v=qC0HZLUXRXw"
+   "trailer": "https://www.youtube.com/watch?v=qC0HZLUXRXw",
+   "temporadas_det": []
   },
   {
    "id": "24977439",
@@ -1580,7 +2058,10 @@
    "plataforma": "netflix",
    "estado": "new",
    "fecha": "2026-10-23",
-   "genero": "Comedy",
+   "genero": "Comedia",
+   "generos": [
+    "Comedia"
+   ],
    "imdb": null,
    "rt": null,
    "duracion": "1 h 32 min",
@@ -1612,7 +2093,8 @@
      "foto": "https://image.tmdb.org/t/p/w185/nmmbQhVqTkktPfnO9yEAKVvgbcH.jpg"
     }
    ],
-   "trailer": null
+   "trailer": null,
+   "temporadas_det": []
   },
   {
    "id": "26635555",
@@ -1621,7 +2103,11 @@
    "plataforma": "netflix",
    "estado": "new",
    "fecha": "2026-10-23",
-   "genero": "Comedy",
+   "genero": "Comedia",
+   "generos": [
+    "Comedia",
+    "Drama"
+   ],
    "imdb": null,
    "rt": null,
    "duracion": "1 temporada, 6 episodios",
@@ -1653,7 +2139,44 @@
      "foto": "https://image.tmdb.org/t/p/w185/9veUNCdweNRAHzaRBAtaHxRbveR.jpg"
     }
    ],
-   "trailer": "https://www.youtube.com/watch?v=p2mZHdSHKXw"
+   "trailer": "https://www.youtube.com/watch?v=p2mZHdSHKXw",
+   "temporadas_det": [
+    {
+     "n": 1,
+     "eps": [
+      {
+       "n": 1,
+       "t": "El marqués",
+       "f": "2026-10-23"
+      },
+      {
+       "n": 2,
+       "t": "Conchi",
+       "f": "2026-10-23"
+      },
+      {
+       "n": 3,
+       "t": "Derivas del Mediterráneo",
+       "f": "2026-10-23"
+      },
+      {
+       "n": 4,
+       "t": "Extrarradio",
+       "f": "2026-10-23"
+      },
+      {
+       "n": 5,
+       "t": "El funeral",
+       "f": "2026-10-23"
+      },
+      {
+       "n": 6,
+       "t": "Quién es Sofía Carrington",
+       "f": "2026-10-23"
+      }
+     ]
+    }
+   ]
   },
   {
    "id": "27302842",
@@ -1662,7 +2185,11 @@
    "plataforma": "netflix",
    "estado": "new",
    "fecha": "2026-10-23",
-   "genero": "Crime",
+   "genero": "Suspense",
+   "generos": [
+    "Suspense",
+    "Crimen"
+   ],
    "imdb": null,
    "rt": null,
    "duracion": "2 h 04 min",
@@ -1694,7 +2221,8 @@
      "foto": "https://image.tmdb.org/t/p/w185/2sXJLNQn86xUuR1poilKB3NHMt.jpg"
     }
    ],
-   "trailer": "https://www.youtube.com/watch?v=BwFuJbHNE4o"
+   "trailer": "https://www.youtube.com/watch?v=BwFuJbHNE4o",
+   "temporadas_det": []
   },
   {
    "id": "25947114",
@@ -1703,7 +2231,11 @@
    "plataforma": "hbo",
    "estado": "new",
    "fecha": "2026-10-23",
-   "genero": "Crime",
+   "genero": "Documental",
+   "generos": [
+    "Documental",
+    "Crimen"
+   ],
    "imdb": 5.9,
    "rt": null,
    "duracion": "1 temporada, 3 episodios",
@@ -1715,7 +2247,29 @@
      "foto": null
     }
    ],
-   "trailer": null
+   "trailer": null,
+   "temporadas_det": [
+    {
+     "n": 1,
+     "eps": [
+      {
+       "n": 1,
+       "t": "Episodio 1",
+       "f": "2026-09-30"
+      },
+      {
+       "n": 2,
+       "t": "Episodio 2",
+       "f": "2026-09-30"
+      },
+      {
+       "n": 3,
+       "t": "Episodio 3",
+       "f": "2026-09-30"
+      }
+     ]
+    }
+   ]
   },
   {
    "id": "26635412",
@@ -1725,6 +2279,10 @@
    "estado": "new",
    "fecha": "2026-10-24",
    "genero": "Drama",
+   "generos": [
+    "Drama",
+    "Sci-Fi & Fantasy"
+   ],
    "imdb": null,
    "rt": null,
    "duracion": "1 temporada, 8 episodios",
@@ -1748,7 +2306,54 @@
      "foto": "https://image.tmdb.org/t/p/w185/9zya72vRZYBQILfetACsnmCBgdj.jpg"
     }
    ],
-   "trailer": "https://www.youtube.com/watch?v=pvFYUKzg9dQ"
+   "trailer": "https://www.youtube.com/watch?v=pvFYUKzg9dQ",
+   "temporadas_det": [
+    {
+     "n": 1,
+     "eps": [
+      {
+       "n": 1,
+       "t": "Episodio 1",
+       "f": "2026-10-23"
+      },
+      {
+       "n": 2,
+       "t": "Episodio 2",
+       "f": "2026-10-23"
+      },
+      {
+       "n": 3,
+       "t": "Episodio 3",
+       "f": "2026-10-30"
+      },
+      {
+       "n": 4,
+       "t": "Episodio 4",
+       "f": "2026-11-06"
+      },
+      {
+       "n": 5,
+       "t": "Episodio 5",
+       "f": "2026-11-13"
+      },
+      {
+       "n": 6,
+       "t": "Episodio 6",
+       "f": "2026-11-20"
+      },
+      {
+       "n": 7,
+       "t": "Episodio 7",
+       "f": "2026-11-27"
+      },
+      {
+       "n": 8,
+       "t": "Episodio 8",
+       "f": "2026-11-27"
+      }
+     ]
+    }
+   ]
   },
   {
    "id": "24602034",
@@ -1757,7 +2362,10 @@
    "plataforma": "netflix",
    "estado": "new",
    "fecha": "2026-10-24",
-   "genero": "Documentary",
+   "genero": "Documental",
+   "generos": [
+    "Documental"
+   ],
    "imdb": null,
    "rt": 94,
    "duracion": "1 h 56 min",
@@ -1789,7 +2397,8 @@
      "foto": "https://image.tmdb.org/t/p/w185/qsDfoUlRnXHUiqZeBPWHzmgmKGX.jpg"
     }
    ],
-   "trailer": "https://www.youtube.com/watch?v=36ZEt48kU7k"
+   "trailer": "https://www.youtube.com/watch?v=36ZEt48kU7k",
+   "temporadas_det": []
   },
   {
    "id": "25880572",
@@ -1799,6 +2408,9 @@
    "estado": "new",
    "fecha": "2026-10-24",
    "genero": "Reality",
+   "generos": [
+    "Reality"
+   ],
    "imdb": null,
    "rt": null,
    "duracion": "1 temporada, 188 episodios",
@@ -1822,7 +2434,954 @@
      "foto": "https://image.tmdb.org/t/p/w185/8szL6k73fWZXsgz5s9M6eO8LNbZ.jpg"
     }
    ],
-   "trailer": null
+   "trailer": null,
+   "temporadas_det": [
+    {
+     "n": 1,
+     "eps": [
+      {
+       "n": 1,
+       "t": "Episodio 1",
+       "f": "2022-08-11"
+      },
+      {
+       "n": 2,
+       "t": "Episodio 2",
+       "f": "2022-08-18"
+      },
+      {
+       "n": 3,
+       "t": "Episodio 3",
+       "f": "2022-08-25"
+      },
+      {
+       "n": 4,
+       "t": "Episodio 4",
+       "f": "2022-09-01"
+      },
+      {
+       "n": 5,
+       "t": "Episodio 5",
+       "f": "2022-09-08"
+      },
+      {
+       "n": 6,
+       "t": "Episodio 6",
+       "f": "2022-09-15"
+      },
+      {
+       "n": 7,
+       "t": "Episodio 7",
+       "f": "2022-09-22"
+      },
+      {
+       "n": 8,
+       "t": "Episodio 8",
+       "f": "2022-09-29"
+      },
+      {
+       "n": 9,
+       "t": "Episodio 9",
+       "f": "2022-10-06"
+      },
+      {
+       "n": 10,
+       "t": "Episodio 10",
+       "f": "2022-10-13"
+      },
+      {
+       "n": 11,
+       "t": "Episodio 11",
+       "f": "2022-10-20"
+      },
+      {
+       "n": 12,
+       "t": "Episodio 12",
+       "f": "2022-10-27"
+      },
+      {
+       "n": 13,
+       "t": "Episodio 13",
+       "f": "2022-11-03"
+      },
+      {
+       "n": 14,
+       "t": "Episodio 14",
+       "f": "2022-11-10"
+      },
+      {
+       "n": 15,
+       "t": "Episodio 15",
+       "f": "2022-11-17"
+      },
+      {
+       "n": 16,
+       "t": "Episodio 16",
+       "f": "2023-07-06"
+      },
+      {
+       "n": 17,
+       "t": "Episodio 17",
+       "f": "2023-07-13"
+      },
+      {
+       "n": 18,
+       "t": "Episodio 18",
+       "f": "2023-07-20"
+      },
+      {
+       "n": 19,
+       "t": "Episodio 19",
+       "f": "2023-07-27"
+      },
+      {
+       "n": 20,
+       "t": "Episodio 20",
+       "f": "2023-08-03"
+      },
+      {
+       "n": 21,
+       "t": "Episodio 21",
+       "f": "2023-08-10"
+      },
+      {
+       "n": 22,
+       "t": "Episodio 22",
+       "f": "2023-08-17"
+      },
+      {
+       "n": 23,
+       "t": "Episodio 23",
+       "f": "2023-08-24"
+      },
+      {
+       "n": 24,
+       "t": "Episodio 24",
+       "f": "2023-08-31"
+      },
+      {
+       "n": 25,
+       "t": "Episodio 25",
+       "f": "2023-09-07"
+      },
+      {
+       "n": 26,
+       "t": "Episodio 26",
+       "f": "2023-09-14"
+      },
+      {
+       "n": 27,
+       "t": "Episodio 27",
+       "f": "2023-09-21"
+      },
+      {
+       "n": 28,
+       "t": "Episodio 28",
+       "f": "2023-09-28"
+      },
+      {
+       "n": 29,
+       "t": "Episodio 29",
+       "f": "2023-10-05"
+      },
+      {
+       "n": 30,
+       "t": "Episodio 30",
+       "f": "2023-10-12"
+      },
+      {
+       "n": 31,
+       "t": "Episodio 31",
+       "f": "2023-10-19"
+      },
+      {
+       "n": 32,
+       "t": "Episodio 32",
+       "f": "2023-10-26"
+      },
+      {
+       "n": 33,
+       "t": "Episodio 33",
+       "f": "2023-11-02"
+      },
+      {
+       "n": 34,
+       "t": "Episodio 34",
+       "f": "2023-11-09"
+      },
+      {
+       "n": 35,
+       "t": "Episodio 35",
+       "f": "2023-11-16"
+      },
+      {
+       "n": 36,
+       "t": "Episodio 36",
+       "f": "2023-11-23"
+      },
+      {
+       "n": 37,
+       "t": "Episodio 37",
+       "f": "2023-11-30"
+      },
+      {
+       "n": 38,
+       "t": "Episodio 38",
+       "f": "2023-12-07"
+      },
+      {
+       "n": 39,
+       "t": "Episodio 39",
+       "f": "2023-12-14"
+      },
+      {
+       "n": 40,
+       "t": "Episodio 40",
+       "f": "2023-12-21"
+      },
+      {
+       "n": 41,
+       "t": "Episodio 41",
+       "f": "2023-12-28"
+      },
+      {
+       "n": 42,
+       "t": "Episodio 42",
+       "f": "2024-01-04"
+      },
+      {
+       "n": 43,
+       "t": "Episodio 43",
+       "f": "2024-01-11"
+      },
+      {
+       "n": 44,
+       "t": "Episodio 44",
+       "f": "2024-01-18"
+      },
+      {
+       "n": 45,
+       "t": "Episodio 45",
+       "f": "2024-01-25"
+      },
+      {
+       "n": 46,
+       "t": "Episodio 46",
+       "f": "2024-02-01"
+      },
+      {
+       "n": 47,
+       "t": "Episodio 47",
+       "f": "2024-02-08"
+      },
+      {
+       "n": 48,
+       "t": "Episodio 48",
+       "f": "2024-02-15"
+      },
+      {
+       "n": 49,
+       "t": "Episodio 49",
+       "f": "2024-02-22"
+      },
+      {
+       "n": 50,
+       "t": "Episodio 50",
+       "f": "2024-02-29"
+      },
+      {
+       "n": 51,
+       "t": "Episodio 51",
+       "f": "2024-03-07"
+      },
+      {
+       "n": 52,
+       "t": "Episodio 52",
+       "f": "2024-03-14"
+      },
+      {
+       "n": 53,
+       "t": "Episodio 53",
+       "f": "2024-03-21"
+      },
+      {
+       "n": 54,
+       "t": "Episodio 54",
+       "f": "2024-03-28"
+      },
+      {
+       "n": 55,
+       "t": "Episodio 55",
+       "f": "2024-04-04"
+      },
+      {
+       "n": 56,
+       "t": "Episodio 56",
+       "f": "2024-04-11"
+      },
+      {
+       "n": 57,
+       "t": "Episodio 57",
+       "f": "2024-04-18"
+      },
+      {
+       "n": 58,
+       "t": "Episodio 58",
+       "f": "2024-04-25"
+      },
+      {
+       "n": 59,
+       "t": "Episodio 59",
+       "f": "2024-05-02"
+      },
+      {
+       "n": 60,
+       "t": "Episodio 60",
+       "f": "2024-05-09"
+      },
+      {
+       "n": 61,
+       "t": "Episodio 61",
+       "f": "2024-05-16"
+      },
+      {
+       "n": 62,
+       "t": "Episodio 62",
+       "f": "2024-05-23"
+      },
+      {
+       "n": 63,
+       "t": "Episodio 63",
+       "f": "2024-05-30"
+      },
+      {
+       "n": 64,
+       "t": "Episodio 64",
+       "f": "2024-06-06"
+      },
+      {
+       "n": 65,
+       "t": "Episodio 65",
+       "f": "2024-06-13"
+      },
+      {
+       "n": 66,
+       "t": "Episodio 66",
+       "f": "2024-06-20"
+      },
+      {
+       "n": 67,
+       "t": "Episodio 67",
+       "f": "2024-06-27"
+      },
+      {
+       "n": 68,
+       "t": "Episodio 68",
+       "f": "2024-07-04"
+      },
+      {
+       "n": 69,
+       "t": "Episodio 69",
+       "f": "2024-07-11"
+      },
+      {
+       "n": 70,
+       "t": "Episodio 70",
+       "f": "2024-07-18"
+      },
+      {
+       "n": 71,
+       "t": "Episodio 71",
+       "f": "2024-07-25"
+      },
+      {
+       "n": 72,
+       "t": "Episodio 72",
+       "f": "2024-08-01"
+      },
+      {
+       "n": 73,
+       "t": "Episodio 73",
+       "f": "2024-08-08"
+      },
+      {
+       "n": 74,
+       "t": "Episodio 74",
+       "f": "2024-08-15"
+      },
+      {
+       "n": 75,
+       "t": "Episodio 75",
+       "f": "2024-08-22"
+      },
+      {
+       "n": 76,
+       "t": "Episodio 76",
+       "f": "2024-08-29"
+      },
+      {
+       "n": 77,
+       "t": "Episodio 77",
+       "f": "2024-09-05"
+      },
+      {
+       "n": 78,
+       "t": "Episodio 78",
+       "f": "2024-09-12"
+      },
+      {
+       "n": 79,
+       "t": "Episodio 79",
+       "f": "2024-09-19"
+      },
+      {
+       "n": 80,
+       "t": "Episodio 80",
+       "f": "2024-09-26"
+      },
+      {
+       "n": 81,
+       "t": "Episodio 81",
+       "f": "2024-10-03"
+      },
+      {
+       "n": 82,
+       "t": "Episodio 82",
+       "f": "2024-10-10"
+      },
+      {
+       "n": 83,
+       "t": "Episodio 83",
+       "f": "2024-10-17"
+      },
+      {
+       "n": 84,
+       "t": "Episodio 84",
+       "f": "2024-10-24"
+      },
+      {
+       "n": 85,
+       "t": "Episodio 85",
+       "f": "2024-10-31"
+      },
+      {
+       "n": 86,
+       "t": "Episodio 86",
+       "f": "2024-11-07"
+      },
+      {
+       "n": 87,
+       "t": "Episodio 87",
+       "f": "2024-11-14"
+      },
+      {
+       "n": 88,
+       "t": "Episodio 88",
+       "f": "2024-11-21"
+      },
+      {
+       "n": 89,
+       "t": "Episodio 89",
+       "f": "2024-11-28"
+      },
+      {
+       "n": 90,
+       "t": "Episodio 90",
+       "f": "2024-12-05"
+      },
+      {
+       "n": 91,
+       "t": "Episodio 91",
+       "f": "2024-12-12"
+      },
+      {
+       "n": 92,
+       "t": "Episodio 92",
+       "f": "2024-12-19"
+      },
+      {
+       "n": 93,
+       "t": "Episodio 93",
+       "f": "2024-12-26"
+      },
+      {
+       "n": 94,
+       "t": "Episodio 94",
+       "f": "2025-01-02"
+      },
+      {
+       "n": 95,
+       "t": "Episodio 95",
+       "f": "2025-01-09"
+      },
+      {
+       "n": 96,
+       "t": "Episodio 96",
+       "f": "2025-01-16"
+      },
+      {
+       "n": 97,
+       "t": "Episodio 97",
+       "f": "2025-01-23"
+      },
+      {
+       "n": 98,
+       "t": "Episodio 98",
+       "f": "2025-01-30"
+      },
+      {
+       "n": 99,
+       "t": "Episodio 99",
+       "f": "2025-02-06"
+      },
+      {
+       "n": 100,
+       "t": "Episodio 100",
+       "f": "2025-02-13"
+      },
+      {
+       "n": 101,
+       "t": "Episodio 101",
+       "f": "2025-02-20"
+      },
+      {
+       "n": 102,
+       "t": "Episodio 102",
+       "f": "2025-02-27"
+      },
+      {
+       "n": 103,
+       "t": "Episodio 103",
+       "f": "2025-03-06"
+      },
+      {
+       "n": 104,
+       "t": "Episodio 104",
+       "f": "2025-03-13"
+      },
+      {
+       "n": 105,
+       "t": "Episodio 105",
+       "f": "2025-03-20"
+      },
+      {
+       "n": 106,
+       "t": "Episodio 106",
+       "f": "2025-03-27"
+      },
+      {
+       "n": 107,
+       "t": "Episodio 107",
+       "f": "2025-04-03"
+      },
+      {
+       "n": 108,
+       "t": "Episodio 108",
+       "f": "2025-04-10"
+      },
+      {
+       "n": 109,
+       "t": "Episodio 109",
+       "f": "2025-04-17"
+      },
+      {
+       "n": 110,
+       "t": "Episodio 110",
+       "f": "2025-04-24"
+      },
+      {
+       "n": 111,
+       "t": "Episodio 111",
+       "f": "2025-05-01"
+      },
+      {
+       "n": 112,
+       "t": "Episodio 112",
+       "f": "2025-05-08"
+      },
+      {
+       "n": 113,
+       "t": "Episodio 113",
+       "f": "2025-05-15"
+      },
+      {
+       "n": 114,
+       "t": "Episodio 114",
+       "f": "2025-05-22"
+      },
+      {
+       "n": 115,
+       "t": "Episodio 115",
+       "f": "2025-05-29"
+      },
+      {
+       "n": 116,
+       "t": "Episodio 116",
+       "f": "2025-06-05"
+      },
+      {
+       "n": 117,
+       "t": "Episodio 117",
+       "f": "2025-06-12"
+      },
+      {
+       "n": 118,
+       "t": "Episodio 118",
+       "f": "2025-06-19"
+      },
+      {
+       "n": 119,
+       "t": "Episodio 119",
+       "f": "2025-06-26"
+      },
+      {
+       "n": 120,
+       "t": "Episodio 120",
+       "f": "2025-07-03"
+      },
+      {
+       "n": 121,
+       "t": "Episodio 121",
+       "f": "2025-07-10"
+      },
+      {
+       "n": 122,
+       "t": "Episodio 122",
+       "f": "2025-07-17"
+      },
+      {
+       "n": 123,
+       "t": "Episodio 123",
+       "f": "2025-07-24"
+      },
+      {
+       "n": 124,
+       "t": "Episodio 124",
+       "f": "2025-07-31"
+      },
+      {
+       "n": 125,
+       "t": "Episodio 125",
+       "f": "2025-08-07"
+      },
+      {
+       "n": 126,
+       "t": "Episodio 126",
+       "f": "2025-08-14"
+      },
+      {
+       "n": 127,
+       "t": "Episodio 127",
+       "f": "2025-08-21"
+      },
+      {
+       "n": 128,
+       "t": "Episodio 128",
+       "f": "2025-08-28"
+      },
+      {
+       "n": 129,
+       "t": "Episodio 129",
+       "f": "2025-09-04"
+      },
+      {
+       "n": 130,
+       "t": "Episodio 130",
+       "f": "2025-09-11"
+      },
+      {
+       "n": 131,
+       "t": "Episodio 131",
+       "f": "2025-09-18"
+      },
+      {
+       "n": 132,
+       "t": "Episodio 132",
+       "f": "2025-09-25"
+      },
+      {
+       "n": 133,
+       "t": "Episodio 133",
+       "f": "2025-10-02"
+      },
+      {
+       "n": 134,
+       "t": "Episodio 134",
+       "f": "2025-10-09"
+      },
+      {
+       "n": 135,
+       "t": "Episodio 135",
+       "f": "2025-10-16"
+      },
+      {
+       "n": 136,
+       "t": "Episodio 136",
+       "f": "2025-10-23"
+      },
+      {
+       "n": 137,
+       "t": "Episodio 137",
+       "f": "2025-10-30"
+      },
+      {
+       "n": 138,
+       "t": "Episodio 138",
+       "f": "2025-11-06"
+      },
+      {
+       "n": 139,
+       "t": "Episodio 139",
+       "f": "2025-11-13"
+      },
+      {
+       "n": 140,
+       "t": "Episodio 140",
+       "f": "2025-11-20"
+      },
+      {
+       "n": 141,
+       "t": "Episodio 141",
+       "f": "2025-11-27"
+      },
+      {
+       "n": 142,
+       "t": "Episodio 142",
+       "f": "2025-12-04"
+      },
+      {
+       "n": 143,
+       "t": "Episodio 143",
+       "f": "2025-12-11"
+      },
+      {
+       "n": 144,
+       "t": "Episodio 144",
+       "f": "2025-12-18"
+      },
+      {
+       "n": 145,
+       "t": "Episodio 145",
+       "f": "2025-12-25"
+      },
+      {
+       "n": 146,
+       "t": "Episodio 146",
+       "f": "2026-01-01"
+      },
+      {
+       "n": 147,
+       "t": "Episodio 147",
+       "f": "2026-01-08"
+      },
+      {
+       "n": 148,
+       "t": "Episodio 148",
+       "f": "2026-01-15"
+      },
+      {
+       "n": 149,
+       "t": "Episodio 149",
+       "f": "2026-01-22"
+      },
+      {
+       "n": 150,
+       "t": "Episodio 150",
+       "f": "2026-01-29"
+      },
+      {
+       "n": 151,
+       "t": "Episodio 151",
+       "f": "2026-02-05"
+      },
+      {
+       "n": 152,
+       "t": "Episodio 152",
+       "f": "2026-02-12"
+      },
+      {
+       "n": 153,
+       "t": "Episodio 153",
+       "f": "2026-02-19"
+      },
+      {
+       "n": 154,
+       "t": "Episodio 154",
+       "f": "2026-02-26"
+      },
+      {
+       "n": 155,
+       "t": "Episodio 155",
+       "f": "2026-03-05"
+      },
+      {
+       "n": 156,
+       "t": "Episodio 156",
+       "f": "2026-03-12"
+      },
+      {
+       "n": 157,
+       "t": "Episodio 157",
+       "f": "2026-03-19"
+      },
+      {
+       "n": 158,
+       "t": "Episodio 158",
+       "f": "2026-03-26"
+      },
+      {
+       "n": 159,
+       "t": "Episodio 159",
+       "f": "2026-04-02"
+      },
+      {
+       "n": 160,
+       "t": "Episodio 160",
+       "f": "2026-04-09"
+      },
+      {
+       "n": 161,
+       "t": "Episodio 161",
+       "f": "2026-04-16"
+      },
+      {
+       "n": 162,
+       "t": "Episodio 162",
+       "f": "2026-04-23"
+      },
+      {
+       "n": 163,
+       "t": "Episodio 163",
+       "f": "2026-04-30"
+      },
+      {
+       "n": 164,
+       "t": "Episodio 164",
+       "f": "2026-05-07"
+      },
+      {
+       "n": 165,
+       "t": "Episodio 165",
+       "f": "2026-05-14"
+      },
+      {
+       "n": 166,
+       "t": "Episodio 166",
+       "f": "2026-05-21"
+      },
+      {
+       "n": 167,
+       "t": "Episodio 167",
+       "f": "2026-05-28"
+      },
+      {
+       "n": 168,
+       "t": "Episodio 168",
+       "f": "2026-06-04"
+      },
+      {
+       "n": 169,
+       "t": "Episodio 169",
+       "f": "2026-06-11"
+      },
+      {
+       "n": 170,
+       "t": "Episodio 170",
+       "f": "2026-06-18"
+      },
+      {
+       "n": 171,
+       "t": "Episodio 171",
+       "f": "2026-06-25"
+      },
+      {
+       "n": 172,
+       "t": "Episodio 172",
+       "f": "2026-07-02"
+      },
+      {
+       "n": 173,
+       "t": "Episodio 173",
+       "f": "2026-07-09"
+      },
+      {
+       "n": 174,
+       "t": "Episodio 174",
+       "f": "2026-07-16"
+      },
+      {
+       "n": 175,
+       "t": "Episodio 175",
+       "f": "2026-07-23"
+      },
+      {
+       "n": 176,
+       "t": "Episodio 176",
+       "f": "2026-07-30"
+      },
+      {
+       "n": 177,
+       "t": "Episodio 177",
+       "f": "2026-08-06"
+      },
+      {
+       "n": 178,
+       "t": "Episodio 178",
+       "f": "2026-08-13"
+      },
+      {
+       "n": 179,
+       "t": "Episodio 179",
+       "f": "2026-08-20"
+      },
+      {
+       "n": 180,
+       "t": "Episodio 180",
+       "f": "2026-08-27"
+      },
+      {
+       "n": 181,
+       "t": "Episodio 181",
+       "f": "2026-09-03"
+      },
+      {
+       "n": 182,
+       "t": "Episodio 182",
+       "f": "2026-09-10"
+      },
+      {
+       "n": 183,
+       "t": "Episodio 183",
+       "f": "2026-09-17"
+      },
+      {
+       "n": 184,
+       "t": "Episodio 184",
+       "f": "2026-09-24"
+      },
+      {
+       "n": 185,
+       "t": "Episodio 185",
+       "f": "2026-10-01"
+      },
+      {
+       "n": 186,
+       "t": "Episodio 186",
+       "f": "2026-10-08"
+      },
+      {
+       "n": 187,
+       "t": "Episodio 187",
+       "f": "2026-10-15"
+      },
+      {
+       "n": 188,
+       "t": "Episodio 188",
+       "f": "2026-10-22"
+      }
+     ]
+    }
+   ]
   },
   {
    "id": "2699708",
@@ -1831,7 +3390,14 @@
    "plataforma": "netflix",
    "estado": "new",
    "fecha": "2026-10-24",
-   "genero": "Action",
+   "genero": "Historia",
+   "generos": [
+    "Historia",
+    "Acción",
+    "Drama",
+    "Comedia",
+    "Suspense"
+   ],
    "imdb": 6.0,
    "rt": 75,
    "duracion": "2 h 11 min",
@@ -1863,7 +3429,8 @@
      "foto": "https://image.tmdb.org/t/p/w185/dMyf8ZoHD5xkld66h8bEw9QgQZI.jpg"
     }
    ],
-   "trailer": "https://www.youtube.com/watch?v=Sfy7-veCsAc"
+   "trailer": "https://www.youtube.com/watch?v=Sfy7-veCsAc",
+   "temporadas_det": []
   },
   {
    "id": "13252",
@@ -1872,7 +3439,14 @@
    "plataforma": "netflix",
    "estado": "new",
    "fecha": "2026-10-24",
-   "genero": "Adventure",
+   "genero": "Aventura",
+   "generos": [
+    "Aventura",
+    "Comedia",
+    "Familia",
+    "Fantasía",
+    "Ciencia ficción"
+   ],
    "imdb": 5.4,
    "rt": 34,
    "duracion": "1 h 26 min",
@@ -1904,7 +3478,8 @@
      "foto": "https://image.tmdb.org/t/p/w185/bfJjsAKKRqUhm1lh2QC8u2atrov.jpg"
     }
    ],
-   "trailer": "https://www.youtube.com/watch?v=9OwKA_W5eXk"
+   "trailer": "https://www.youtube.com/watch?v=9OwKA_W5eXk",
+   "temporadas_det": []
   },
   {
    "id": "24333962",
@@ -1913,7 +3488,10 @@
    "plataforma": "netflix",
    "estado": "new",
    "fecha": "2026-10-24",
-   "genero": "Documentary",
+   "genero": "Documental",
+   "generos": [
+    "Documental"
+   ],
    "imdb": 5.8,
    "rt": null,
    "duracion": "1 temporada, 4 episodios",
@@ -1945,7 +3523,34 @@
      "foto": "https://image.tmdb.org/t/p/w185/iatfurQzHER1YA6ZLgLNUdWd0NZ.jpg"
     }
    ],
-   "trailer": "https://www.youtube.com/watch?v=jleilf5sDzE"
+   "trailer": "https://www.youtube.com/watch?v=jleilf5sDzE",
+   "temporadas_det": [
+    {
+     "n": 1,
+     "eps": [
+      {
+       "n": 1,
+       "t": "No tengo dinero",
+       "f": "2025-10-30"
+      },
+      {
+       "n": 2,
+       "t": "Debo hacerlo",
+       "f": "2025-10-30"
+      },
+      {
+       "n": 3,
+       "t": "Pero qué necesidad",
+       "f": "2025-10-30"
+      },
+      {
+       "n": 4,
+       "t": "Amor eterno",
+       "f": "2025-10-30"
+      }
+     ]
+    }
+   ]
   },
   {
    "id": "49327",
@@ -1954,7 +3559,11 @@
    "plataforma": "netflix",
    "estado": "new",
    "fecha": "2026-10-24",
-   "genero": "Comedy",
+   "genero": "Comedia",
+   "generos": [
+    "Comedia",
+    "Drama"
+   ],
    "imdb": 6.3,
    "rt": 100,
    "duracion": "1 h 22 min",
@@ -1978,7 +3587,8 @@
      "foto": "https://image.tmdb.org/t/p/w185/vl8mSPAkc4xr0X3BiO2bzjUbqgn.jpg"
     }
    ],
-   "trailer": "https://www.youtube.com/watch?v=a4mxHlXBy_g"
+   "trailer": "https://www.youtube.com/watch?v=a4mxHlXBy_g",
+   "temporadas_det": []
   },
   {
    "id": "670",
@@ -1987,7 +3597,12 @@
    "plataforma": "netflix",
    "estado": "new",
    "fecha": "2026-10-24",
-   "genero": "Action",
+   "genero": "Acción",
+   "generos": [
+    "Acción",
+    "Aventura",
+    "Ciencia ficción"
+   ],
    "imdb": 7.6,
    "rt": 84,
    "duracion": "2 h 12 min",
@@ -2019,7 +3634,8 @@
      "foto": "https://image.tmdb.org/t/p/w185/jw8bEEoTOithyNf0qxu4Zt1yaKp.jpg"
     }
    ],
-   "trailer": "https://www.youtube.com/watch?v=RJ1qOs7jkIQ"
+   "trailer": "https://www.youtube.com/watch?v=RJ1qOs7jkIQ",
+   "temporadas_det": []
   },
   {
    "id": "27299962",
@@ -2028,7 +3644,10 @@
    "plataforma": "netflix",
    "estado": "new",
    "fecha": "2026-10-24",
-   "genero": "Drama",
+   "genero": "Misterio",
+   "generos": [
+    "Misterio"
+   ],
    "imdb": null,
    "rt": null,
    "duracion": "1 temporada, 10 episodios",
@@ -2060,7 +3679,64 @@
      "foto": "https://image.tmdb.org/t/p/w185/w3LFvMrh7XkqFbZBItwQpZsrq8N.jpg"
     }
    ],
-   "trailer": null
+   "trailer": null,
+   "temporadas_det": [
+    {
+     "n": 1,
+     "eps": [
+      {
+       "n": 1,
+       "t": "Episodio 1",
+       "f": "2026-10-16"
+      },
+      {
+       "n": 2,
+       "t": "Episodio 2",
+       "f": "2026-10-23"
+      },
+      {
+       "n": 3,
+       "t": "Episodio 3",
+       "f": "2026-10-30"
+      },
+      {
+       "n": 4,
+       "t": "Episodio 4",
+       "f": "2026-11-06"
+      },
+      {
+       "n": 5,
+       "t": "Episodio 5",
+       "f": "2026-11-13"
+      },
+      {
+       "n": 6,
+       "t": "Episodio 6",
+       "f": "2026-11-20"
+      },
+      {
+       "n": 7,
+       "t": "Episodio 7",
+       "f": "2026-11-27"
+      },
+      {
+       "n": 8,
+       "t": "Episodio 8",
+       "f": "2026-12-04"
+      },
+      {
+       "n": 9,
+       "t": "Episodio 9",
+       "f": "2026-12-11"
+      },
+      {
+       "n": 10,
+       "t": "Episodio 10",
+       "f": "2026-12-18"
+      }
+     ]
+    }
+   ]
   },
   {
    "id": "5186",
@@ -2069,7 +3745,10 @@
    "plataforma": "netflix",
    "estado": "new",
    "fecha": "2026-10-24",
-   "genero": "Action",
+   "genero": "Terror",
+   "generos": [
+    "Terror"
+   ],
    "imdb": 5.7,
    "rt": 38,
    "duracion": "1 h 45 min",
@@ -2101,7 +3780,8 @@
      "foto": "https://image.tmdb.org/t/p/w185/cVOMBcU6qFsT7tpo4QjKrCRJ7oW.jpg"
     }
    ],
-   "trailer": "https://www.youtube.com/watch?v=N2dN_3Y-3bU"
+   "trailer": "https://www.youtube.com/watch?v=N2dN_3Y-3bU",
+   "temporadas_det": []
   },
   {
    "id": "26598842",
@@ -2110,7 +3790,11 @@
    "plataforma": "netflix",
    "estado": "new",
    "fecha": "2026-10-24",
-   "genero": "Comedy",
+   "genero": "Comedia",
+   "generos": [
+    "Comedia",
+    "Drama"
+   ],
    "imdb": null,
    "rt": null,
    "duracion": "1 temporada, 8 episodios",
@@ -2142,7 +3826,54 @@
      "foto": "https://image.tmdb.org/t/p/w185/iK0x2LJDgz07ebDf2fwFaw4D7qz.jpg"
     }
    ],
-   "trailer": "https://www.youtube.com/watch?v=MxQQ1S0N_wE"
+   "trailer": "https://www.youtube.com/watch?v=MxQQ1S0N_wE",
+   "temporadas_det": [
+    {
+     "n": 1,
+     "eps": [
+      {
+       "n": 1,
+       "t": "Episodio 1",
+       "f": "2026-10-22"
+      },
+      {
+       "n": 2,
+       "t": "Episodio 2",
+       "f": "2026-10-22"
+      },
+      {
+       "n": 3,
+       "t": "Episodio 3",
+       "f": "2026-10-22"
+      },
+      {
+       "n": 4,
+       "t": "Episodio 4",
+       "f": "2026-10-22"
+      },
+      {
+       "n": 5,
+       "t": "Episodio 5",
+       "f": "2026-10-22"
+      },
+      {
+       "n": 6,
+       "t": "Episodio 6",
+       "f": "2026-10-22"
+      },
+      {
+       "n": 7,
+       "t": "Episodio 7",
+       "f": "2026-10-22"
+      },
+      {
+       "n": 8,
+       "t": "Episodio 8",
+       "f": "2026-10-22"
+      }
+     ]
+    }
+   ]
   },
   {
    "id": "4794474",
@@ -2151,7 +3882,11 @@
    "plataforma": "netflix",
    "estado": "new",
    "fecha": "2026-10-24",
-   "genero": "Comedy",
+   "genero": "Comedia",
+   "generos": [
+    "Comedia",
+    "Romance"
+   ],
    "imdb": 5.3,
    "rt": 31,
    "duracion": "1 h 32 min",
@@ -2183,7 +3918,8 @@
      "foto": "https://image.tmdb.org/t/p/w185/lOP6nvTOvqpdHtEMfLCvNqUaRnp.jpg"
     }
    ],
-   "trailer": "https://www.youtube.com/watch?v=xRBT-v5NSJE"
+   "trailer": "https://www.youtube.com/watch?v=xRBT-v5NSJE",
+   "temporadas_det": []
   },
   {
    "id": "2934",
@@ -2192,7 +3928,11 @@
    "plataforma": "netflix",
    "estado": "new",
    "fecha": "2026-10-24",
-   "genero": "Crime",
+   "genero": "Terror",
+   "generos": [
+    "Terror",
+    "Suspense"
+   ],
    "imdb": 6.5,
    "rt": 79,
    "duracion": "1 h 49 min",
@@ -2224,7 +3964,8 @@
      "foto": "https://image.tmdb.org/t/p/w185/krCEBAIGmEUUcA4GpLt3RiTHKLC.jpg"
     }
    ],
-   "trailer": "https://www.youtube.com/watch?v=aW6MEeiNBv4"
+   "trailer": "https://www.youtube.com/watch?v=aW6MEeiNBv4",
+   "temporadas_det": []
   },
   {
    "id": "17582780",
@@ -2233,7 +3974,11 @@
    "plataforma": "netflix",
    "estado": "new",
    "fecha": "2026-10-24",
-   "genero": "Horror",
+   "genero": "Terror",
+   "generos": [
+    "Terror",
+    "Misterio"
+   ],
    "imdb": 7.3,
    "rt": 93,
    "duracion": "2 h 09 min",
@@ -2265,7 +4010,8 @@
      "foto": "https://image.tmdb.org/t/p/w185/h2jErDWMDFFJth4Y9GiVNmwZf65.jpg"
     }
    ],
-   "trailer": "https://www.youtube.com/watch?v=QKHySfXqN0I"
+   "trailer": "https://www.youtube.com/watch?v=QKHySfXqN0I",
+   "temporadas_det": []
   },
   {
    "id": "27067365",
@@ -2274,7 +4020,11 @@
    "plataforma": "hbo",
    "estado": "new",
    "fecha": "2026-10-25",
-   "genero": "Crime",
+   "genero": "Documental",
+   "generos": [
+    "Documental",
+    "Crimen"
+   ],
    "imdb": null,
    "rt": null,
    "duracion": "1 temporada, 3 episodios",
@@ -2294,7 +4044,29 @@
      "foto": null
     }
    ],
-   "trailer": null
+   "trailer": null,
+   "temporadas_det": [
+    {
+     "n": 1,
+     "eps": [
+      {
+       "n": 1,
+       "t": "Episodio 1",
+       "f": "2026-10-07"
+      },
+      {
+       "n": 2,
+       "t": "Episodio 2",
+       "f": "2026-10-14"
+      },
+      {
+       "n": 3,
+       "t": "Episodio 3",
+       "f": "2026-10-21"
+      }
+     ]
+    }
+   ]
   },
   {
    "id": "27301177",
@@ -2303,7 +4075,10 @@
    "plataforma": "hbo",
    "estado": "new",
    "fecha": "2026-10-25",
-   "genero": "Comedy",
+   "genero": "Comedia",
+   "generos": [
+    "Comedia"
+   ],
    "imdb": null,
    "rt": null,
    "duracion": "1 h 04 min",
@@ -2315,7 +4090,8 @@
      "foto": "https://image.tmdb.org/t/p/w185/92oeTjtorA37KdfzmHanoTF5HD3.jpg"
     }
    ],
-   "trailer": "https://www.youtube.com/watch?v=GeDYylNT29Y"
+   "trailer": "https://www.youtube.com/watch?v=GeDYylNT29Y",
+   "temporadas_det": []
   },
   {
    "id": "9053",
@@ -2324,7 +4100,12 @@
    "plataforma": "netflix",
    "estado": "new",
    "fecha": "2026-10-26",
-   "genero": "Action",
+   "genero": "Acción",
+   "generos": [
+    "Acción",
+    "Comedia",
+    "Crimen"
+   ],
    "imdb": 5.7,
    "rt": 22,
    "duracion": "1 h 50 min",
@@ -2356,7 +4137,8 @@
      "foto": "https://image.tmdb.org/t/p/w185/30c0szBZvqsk3nuOgg2A9PeSQFt.jpg"
     }
    ],
-   "trailer": "https://www.youtube.com/watch?v=5Odo80-WFgM"
+   "trailer": "https://www.youtube.com/watch?v=5Odo80-WFgM",
+   "temporadas_det": []
   },
   {
    "id": "2878438",
@@ -2365,7 +4147,11 @@
    "plataforma": "netflix",
    "estado": "new",
    "fecha": "2026-10-26",
-   "genero": "Adventure",
+   "genero": "Comedia",
+   "generos": [
+    "Comedia",
+    "Aventura"
+   ],
    "imdb": 6.5,
    "rt": null,
    "duracion": "1 h 33 min",
@@ -2397,7 +4183,8 @@
      "foto": "https://image.tmdb.org/t/p/w185/ub2IuMWFNQGYghHTPq0lpmn2Ue0.jpg"
     }
    ],
-   "trailer": "https://www.youtube.com/watch?v=26Xq6_g2r6Q"
+   "trailer": "https://www.youtube.com/watch?v=26Xq6_g2r6Q",
+   "temporadas_det": []
   },
   {
    "id": "474",
@@ -2406,7 +4193,12 @@
    "plataforma": "netflix",
    "estado": "new",
    "fecha": "2026-10-26",
-   "genero": "Action",
+   "genero": "Ciencia ficción",
+   "generos": [
+    "Ciencia ficción",
+    "Acción",
+    "Aventura"
+   ],
    "imdb": 7.7,
    "rt": 94,
    "duracion": "2 h 07 min",
@@ -2438,7 +4230,8 @@
      "foto": "https://image.tmdb.org/t/p/w185/7Y96dAfg0HcFrcLjlD5eD9N0uj4.jpg"
     }
    ],
-   "trailer": "https://www.youtube.com/watch?v=pFVvigZ5wQY"
+   "trailer": "https://www.youtube.com/watch?v=pFVvigZ5wQY",
+   "temporadas_det": []
   },
   {
    "id": "27068431",
@@ -2447,7 +4240,10 @@
    "plataforma": "netflix",
    "estado": "new",
    "fecha": "2026-10-26",
-   "genero": "Comedy",
+   "genero": "Comedia",
+   "generos": [
+    "Comedia"
+   ],
    "imdb": null,
    "rt": null,
    "duracion": "1 temporada, 14 episodios",
@@ -2479,7 +4275,154 @@
      "foto": "https://image.tmdb.org/t/p/w185/fweing9pUyCwVTzybO7iZnkZa88.jpg"
     }
    ],
-   "trailer": "https://www.youtube.com/watch?v=1cUdDIENS4s"
+   "trailer": "https://www.youtube.com/watch?v=1cUdDIENS4s",
+   "temporadas_det": [
+    {
+     "n": 1,
+     "eps": [
+      {
+       "n": 1,
+       "t": "Piloto",
+       "f": "2026-10-26"
+      },
+      {
+       "n": 2,
+       "t": "El club de teatro",
+       "f": "2026-10-26"
+      },
+      {
+       "n": 3,
+       "t": "La ruptura",
+       "f": "2026-10-26"
+      },
+      {
+       "n": 4,
+       "t": "La tarta de cumpleaños",
+       "f": "2026-10-26"
+      },
+      {
+       "n": 5,
+       "t": "Nada de móviles",
+       "f": "2026-10-26"
+      },
+      {
+       "n": 6,
+       "t": "Rasca y gana",
+       "f": "2026-10-26"
+      },
+      {
+       "n": 7,
+       "t": "Scouts de América",
+       "f": "2026-10-26"
+      },
+      {
+       "n": 8,
+       "t": "Las normas del restaurante",
+       "f": "2026-10-26"
+      },
+      {
+       "n": 9,
+       "t": "La fiesta de pijamas",
+       "f": "2026-10-26"
+      },
+      {
+       "n": 10,
+       "t": "Broma telefónica",
+       "f": "2026-10-26"
+      },
+      {
+       "n": 11,
+       "t": "La chica nueva",
+       "f": "2026-10-26"
+      },
+      {
+       "n": 12,
+       "t": "El anuncio",
+       "f": "2026-10-26"
+      },
+      {
+       "n": 13,
+       "t": "Profes en el trabajo",
+       "f": "2026-10-26"
+      },
+      {
+       "n": 14,
+       "t": "Nochevieja",
+       "f": "2026-10-26"
+      },
+      {
+       "n": 15,
+       "t": "Episodio 15",
+       "f": ""
+      },
+      {
+       "n": 16,
+       "t": "Episodio 16",
+       "f": ""
+      },
+      {
+       "n": 17,
+       "t": "Episodio 17",
+       "f": ""
+      },
+      {
+       "n": 18,
+       "t": "Episodio 18",
+       "f": ""
+      },
+      {
+       "n": 19,
+       "t": "Episodio 19",
+       "f": ""
+      },
+      {
+       "n": 20,
+       "t": "Episodio 20",
+       "f": ""
+      },
+      {
+       "n": 21,
+       "t": "Episodio 21",
+       "f": ""
+      },
+      {
+       "n": 22,
+       "t": "Episodio 22",
+       "f": ""
+      },
+      {
+       "n": 23,
+       "t": "Episodio 23",
+       "f": ""
+      },
+      {
+       "n": 24,
+       "t": "Episodio 24",
+       "f": ""
+      },
+      {
+       "n": 25,
+       "t": "Episodio 25",
+       "f": ""
+      },
+      {
+       "n": 26,
+       "t": "Episodio 26",
+       "f": ""
+      },
+      {
+       "n": 27,
+       "t": "Episodio 27",
+       "f": ""
+      },
+      {
+       "n": 28,
+       "t": "Episodio 28",
+       "f": ""
+      }
+     ]
+    }
+   ]
   },
   {
    "id": "24600540",
@@ -2488,7 +4431,10 @@
    "plataforma": "prime",
    "estado": "new",
    "fecha": "2026-10-26",
-   "genero": "Comedy",
+   "genero": "Comedia",
+   "generos": [
+    "Comedia"
+   ],
    "imdb": 4.0,
    "rt": null,
    "duracion": "2 h 02 min",
@@ -2520,7 +4466,8 @@
      "foto": "https://image.tmdb.org/t/p/w185/hbNAiy6lw4yKb1oA5hFvSANVP6b.jpg"
     }
    ],
-   "trailer": "https://www.youtube.com/watch?v=Ddi43H6zjbM"
+   "trailer": "https://www.youtube.com/watch?v=Ddi43H6zjbM",
+   "temporadas_det": []
   },
   {
    "id": "26635593",
@@ -2530,6 +4477,9 @@
    "estado": "new",
    "fecha": "2026-10-26",
    "genero": "Reality",
+   "generos": [
+    "Reality"
+   ],
    "imdb": null,
    "rt": null,
    "duracion": "1 temporada, 6 episodios",
@@ -2541,7 +4491,44 @@
      "foto": "https://image.tmdb.org/t/p/w185/yoFt75JfGUqQ6EV8qN6fckQuElk.jpg"
     }
    ],
-   "trailer": "https://www.youtube.com/watch?v=nAl3qxAHcT0"
+   "trailer": "https://www.youtube.com/watch?v=nAl3qxAHcT0",
+   "temporadas_det": [
+    {
+     "n": 1,
+     "eps": [
+      {
+       "n": 1,
+       "t": "Besa el anillo",
+       "f": "2026-10-26"
+      },
+      {
+       "n": 2,
+       "t": "There’s Always a Rat",
+       "f": "2026-10-26"
+      },
+      {
+       "n": 3,
+       "t": "This Is a Deadly Game",
+       "f": "2026-11-02"
+      },
+      {
+       "n": 4,
+       "t": "Going to War",
+       "f": "2026-11-02"
+      },
+      {
+       "n": 5,
+       "t": "Turns Out, I Am That Bitch",
+       "f": "2026-11-09"
+      },
+      {
+       "n": 6,
+       "t": "I Can Spot a Fake From a Mile Away",
+       "f": "2026-11-16"
+      }
+     ]
+    }
+   ]
   },
   {
    "id": "27073635",
@@ -2550,7 +4537,10 @@
    "plataforma": "hbo",
    "estado": "new",
    "fecha": "2026-10-27",
-   "genero": "Documentary",
+   "genero": "Documental",
+   "generos": [
+    "Documental"
+   ],
    "imdb": null,
    "rt": null,
    "duracion": "1 h 20 min",
@@ -2562,7 +4552,8 @@
      "foto": null
     }
    ],
-   "trailer": "https://www.youtube.com/watch?v=d91YgqwD8VQ"
+   "trailer": "https://www.youtube.com/watch?v=d91YgqwD8VQ",
+   "temporadas_det": []
   },
   {
    "id": "22535675",
@@ -2571,14 +4562,100 @@
    "plataforma": "hbo",
    "estado": "new",
    "fecha": "2026-10-27",
-   "genero": "Crime",
+   "genero": "Crimen",
+   "generos": [
+    "Crimen",
+    "Documental"
+   ],
    "imdb": 5.1,
    "rt": null,
    "duracion": "2 temporadas, 14 episodios",
    "sinopsis": "Three horrific murders. Three different 911 calls. All three callers claim they’re innocent — but for the police, the call can reveal so much more than just the facts of the case. Find out which of them is the real killer in disguise.",
    "poster": "https://image.tmdb.org/t/p/w342/xeJtcahQpVexcYB3MHHNQR6abk.jpg",
    "reparto": [],
-   "trailer": null
+   "trailer": null,
+   "temporadas_det": [
+    {
+     "n": 1,
+     "eps": [
+      {
+       "n": 1,
+       "t": "Episodio 1",
+       "f": "2025-07-15"
+      },
+      {
+       "n": 2,
+       "t": "Episodio 2",
+       "f": "2025-07-22"
+      },
+      {
+       "n": 3,
+       "t": "Episodio 3",
+       "f": "2025-07-29"
+      },
+      {
+       "n": 4,
+       "t": "Episodio 4",
+       "f": "2025-08-04"
+      },
+      {
+       "n": 5,
+       "t": "Episodio 5",
+       "f": "2025-08-12"
+      },
+      {
+       "n": 6,
+       "t": "Episodio 6",
+       "f": "2025-08-19"
+      }
+     ]
+    },
+    {
+     "n": 2,
+     "eps": [
+      {
+       "n": 1,
+       "t": "Episodio 1",
+       "f": "2026-07-15"
+      },
+      {
+       "n": 2,
+       "t": "Episodio 2",
+       "f": "2026-07-22"
+      },
+      {
+       "n": 3,
+       "t": "Episodio 3",
+       "f": "2026-07-29"
+      },
+      {
+       "n": 4,
+       "t": "Episodio 4",
+       "f": "2026-08-05"
+      },
+      {
+       "n": 5,
+       "t": "Episodio 5",
+       "f": "2026-08-12"
+      },
+      {
+       "n": 6,
+       "t": "Episodio 6",
+       "f": "2026-08-19"
+      },
+      {
+       "n": 7,
+       "t": "Episodio 7",
+       "f": "2026-08-26"
+      },
+      {
+       "n": 8,
+       "t": "Episodio 8",
+       "f": "2026-09-02"
+      }
+     ]
+    }
+   ]
   },
   {
    "id": "26596616",
@@ -2587,7 +4664,10 @@
    "plataforma": "netflix",
    "estado": "new",
    "fecha": "2026-10-27",
-   "genero": "Documentary",
+   "genero": "Documental",
+   "generos": [
+    "Documental"
+   ],
    "imdb": null,
    "rt": null,
    "duracion": "1 temporada, 3 episodios",
@@ -2599,7 +4679,29 @@
      "foto": "https://image.tmdb.org/t/p/w185/ecDzkLWPV1z0x31I1GTjNmLxAHk.jpg"
     }
    ],
-   "trailer": "https://www.youtube.com/watch?v=_iM1AOFxoDI"
+   "trailer": "https://www.youtube.com/watch?v=_iM1AOFxoDI",
+   "temporadas_det": [
+    {
+     "n": 1,
+     "eps": [
+      {
+       "n": 1,
+       "t": "Primera parte",
+       "f": "2026-10-27"
+      },
+      {
+       "n": 2,
+       "t": "Segunda parte",
+       "f": "2026-10-27"
+      },
+      {
+       "n": 3,
+       "t": "Tercera parte",
+       "f": "2026-10-27"
+      }
+     ]
+    }
+   ]
   },
   {
    "id": "16977483",
@@ -2608,7 +4710,11 @@
    "plataforma": "prime",
    "estado": "new",
    "fecha": "2026-10-28",
-   "genero": "Drama",
+   "genero": "Ciencia ficción",
+   "generos": [
+    "Ciencia ficción",
+    "Suspense"
+   ],
    "imdb": 5.0,
    "rt": 88,
    "duracion": "1 h 33 min",
@@ -2640,7 +4746,8 @@
      "foto": "https://image.tmdb.org/t/p/w185/a2c8lAKDLT8j5jVVjpAM66BMNkT.jpg"
     }
    ],
-   "trailer": "https://www.youtube.com/watch?v=HC1QwsXuO6E"
+   "trailer": "https://www.youtube.com/watch?v=HC1QwsXuO6E",
+   "temporadas_det": []
   },
   {
    "id": "6416386",
@@ -2649,14 +4756,75 @@
    "plataforma": "prime",
    "estado": "new",
    "fecha": "2026-10-28",
-   "genero": "Crime",
+   "genero": "Documental",
+   "generos": [
+    "Documental",
+    "Crimen"
+   ],
    "imdb": 4.7,
    "rt": null,
    "duracion": "1 temporada, 10 episodios",
    "sinopsis": "\"Undercover: Caught on Tape\" is a true crime series offering viewers a first-hand account of dangerous criminal investigations from those closest to the action - the undercover agents themselves. Living in secrecy and often unrecognized beyond their tightest circles, these agents rarely get to tell their stories, until now.",
    "poster": "https://image.tmdb.org/t/p/w342/1LmSBUh4yXeuHzHmRCnbmqUIOl.jpg",
    "reparto": [],
-   "trailer": "https://www.youtube.com/watch?v=aNr_jMkOGZc"
+   "trailer": "https://www.youtube.com/watch?v=aNr_jMkOGZc",
+   "temporadas_det": [
+    {
+     "n": 1,
+     "eps": [
+      {
+       "n": 1,
+       "t": "Episodio 1",
+       "f": "2024-01-11"
+      },
+      {
+       "n": 2,
+       "t": "Episodio 2",
+       "f": "2024-01-18"
+      },
+      {
+       "n": 3,
+       "t": "Episodio 3",
+       "f": "2024-01-25"
+      },
+      {
+       "n": 4,
+       "t": "Episodio 4",
+       "f": "2024-02-01"
+      },
+      {
+       "n": 5,
+       "t": "Episodio 5",
+       "f": "2024-02-08"
+      },
+      {
+       "n": 6,
+       "t": "Episodio 6",
+       "f": "2024-02-15"
+      },
+      {
+       "n": 7,
+       "t": "Episodio 7",
+       "f": "2024-02-22"
+      },
+      {
+       "n": 8,
+       "t": "Episodio 8",
+       "f": "2024-02-29"
+      },
+      {
+       "n": 9,
+       "t": "Episodio 9",
+       "f": "2024-03-07"
+      },
+      {
+       "n": 10,
+       "t": "Episodio 10",
+       "f": "2024-03-14"
+      }
+     ]
+    }
+   ]
   },
   {
    "id": "14378122",
@@ -2665,7 +4833,12 @@
    "plataforma": "prime",
    "estado": "new",
    "fecha": "2026-10-28",
-   "genero": "Action",
+   "genero": "Comedia",
+   "generos": [
+    "Comedia",
+    "Acción",
+    "Drama"
+   ],
    "imdb": 7.1,
    "rt": 79,
    "duracion": "1 h 40 min",
@@ -2697,7 +4870,8 @@
      "foto": "https://image.tmdb.org/t/p/w185/hM7yB43TFtzKg8W3rW0LOceVnok.jpg"
     }
    ],
-   "trailer": "https://www.youtube.com/watch?v=Np4MAXPz_PM"
+   "trailer": "https://www.youtube.com/watch?v=Np4MAXPz_PM",
+   "temporadas_det": []
   },
   {
    "id": "27068296",
@@ -2707,6 +4881,9 @@
    "estado": "new",
    "fecha": "2026-10-28",
    "genero": "Drama",
+   "generos": [
+    "Drama"
+   ],
    "imdb": null,
    "rt": null,
    "duracion": "1 temporada, 10 episodios",
@@ -2738,7 +4915,64 @@
      "foto": "https://image.tmdb.org/t/p/w185/1Xwwci6AcdTzdLbikwhTkax73EX.jpg"
     }
    ],
-   "trailer": null
+   "trailer": null,
+   "temporadas_det": [
+    {
+     "n": 1,
+     "eps": [
+      {
+       "n": 1,
+       "t": "Episodio 1",
+       "f": "2026-10-28"
+      },
+      {
+       "n": 2,
+       "t": "Episodio 2",
+       "f": "2026-10-28"
+      },
+      {
+       "n": 3,
+       "t": "Episodio 3",
+       "f": "2026-10-28"
+      },
+      {
+       "n": 4,
+       "t": "Episodio 4",
+       "f": "2026-10-28"
+      },
+      {
+       "n": 5,
+       "t": "Episodio 5",
+       "f": "2026-10-28"
+      },
+      {
+       "n": 6,
+       "t": "Episodio 6",
+       "f": "2026-10-28"
+      },
+      {
+       "n": 7,
+       "t": "Episodio 7",
+       "f": "2026-10-28"
+      },
+      {
+       "n": 8,
+       "t": "Episodio 8",
+       "f": "2026-10-28"
+      },
+      {
+       "n": 9,
+       "t": "Episodio 9",
+       "f": "2026-10-28"
+      },
+      {
+       "n": 10,
+       "t": "Episodio 10",
+       "f": "2026-10-28"
+      }
+     ]
+    }
+   ]
   },
   {
    "id": "24862426",
@@ -2747,7 +4981,11 @@
    "plataforma": "netflix",
    "estado": "new",
    "fecha": "2026-10-29",
-   "genero": "Horror",
+   "genero": "Misterio",
+   "generos": [
+    "Misterio",
+    "Drama"
+   ],
    "imdb": null,
    "rt": null,
    "duracion": "1 temporada, 8 episodios",
@@ -2771,7 +5009,54 @@
      "foto": "https://image.tmdb.org/t/p/w185/7faCmRBH2912iXtCn4cDojOAVr4.jpg"
     }
    ],
-   "trailer": null
+   "trailer": null,
+   "temporadas_det": [
+    {
+     "n": 1,
+     "eps": [
+      {
+       "n": 1,
+       "t": "Episodio 1",
+       "f": "2026-10-29"
+      },
+      {
+       "n": 2,
+       "t": "Episodio 2",
+       "f": "2026-10-29"
+      },
+      {
+       "n": 3,
+       "t": "Episodio 3",
+       "f": "2026-10-29"
+      },
+      {
+       "n": 4,
+       "t": "Episodio 4",
+       "f": "2026-10-29"
+      },
+      {
+       "n": 5,
+       "t": "Episodio 5",
+       "f": "2026-10-29"
+      },
+      {
+       "n": 6,
+       "t": "Episodio 6",
+       "f": "2026-10-29"
+      },
+      {
+       "n": 7,
+       "t": "Episodio 7",
+       "f": "2026-10-29"
+      },
+      {
+       "n": 8,
+       "t": "Episodio 8",
+       "f": "2026-10-29"
+      }
+     ]
+    }
+   ]
   },
   {
    "id": "26899719",
@@ -2780,7 +5065,11 @@
    "plataforma": "netflix",
    "estado": "new",
    "fecha": "2026-10-29",
-   "genero": "Comedy",
+   "genero": "Drama",
+   "generos": [
+    "Drama",
+    "Comedia"
+   ],
    "imdb": null,
    "rt": null,
    "duracion": "",
@@ -2812,7 +5101,8 @@
      "foto": "https://image.tmdb.org/t/p/w185/ky2R6fkYU15ALp5PysYTR6DfkIU.jpg"
     }
    ],
-   "trailer": null
+   "trailer": null,
+   "temporadas_det": []
   },
   {
    "id": "26345975",
@@ -2821,7 +5111,11 @@
    "plataforma": "prime",
    "estado": "upcoming",
    "fecha": "2026-10-30",
-   "genero": "Horror",
+   "genero": "Terror",
+   "generos": [
+    "Terror",
+    "Suspense"
+   ],
    "imdb": null,
    "rt": null,
    "duracion": "1 h 36 min",
@@ -2853,7 +5147,8 @@
      "foto": "https://image.tmdb.org/t/p/w185/GEV4PnIhxAAPxIHvsyhdLUjnSv.jpg"
     }
    ],
-   "trailer": "https://www.youtube.com/watch?v=BIEzwpyawtw"
+   "trailer": "https://www.youtube.com/watch?v=BIEzwpyawtw",
+   "temporadas_det": []
   },
   {
    "id": "26606065",
@@ -2862,7 +5157,11 @@
    "plataforma": "netflix",
    "estado": "upcoming",
    "fecha": "2026-10-30",
-   "genero": "Crime",
+   "genero": "Suspense",
+   "generos": [
+    "Suspense",
+    "Drama"
+   ],
    "imdb": null,
    "rt": null,
    "duracion": "",
@@ -2894,7 +5193,8 @@
      "foto": "https://image.tmdb.org/t/p/w185/p1AFBzyZRbHzA6S8q3RWw0YXoAf.jpg"
     }
    ],
-   "trailer": "https://www.youtube.com/watch?v=8hVLhaK619k"
+   "trailer": "https://www.youtube.com/watch?v=8hVLhaK619k",
+   "temporadas_det": []
   },
   {
    "id": "26894672",
@@ -2904,6 +5204,10 @@
    "estado": "upcoming",
    "fecha": "2026-10-30",
    "genero": "Drama",
+   "generos": [
+    "Drama",
+    "Misterio"
+   ],
    "imdb": null,
    "rt": null,
    "duracion": "1 temporada, 4 episodios",
@@ -2927,7 +5231,34 @@
      "foto": "https://image.tmdb.org/t/p/w185/ypyMSXwABVXHjTOfpEHW008cw1A.jpg"
     }
    ],
-   "trailer": "https://www.youtube.com/watch?v=ARYGWtBnQEA"
+   "trailer": "https://www.youtube.com/watch?v=ARYGWtBnQEA",
+   "temporadas_det": [
+    {
+     "n": 1,
+     "eps": [
+      {
+       "n": 1,
+       "t": "Episodio 1",
+       "f": "2026-10-30"
+      },
+      {
+       "n": 2,
+       "t": "Episodio 2",
+       "f": "2026-10-30"
+      },
+      {
+       "n": 3,
+       "t": "Episodio 3",
+       "f": "2026-10-30"
+      },
+      {
+       "n": 4,
+       "t": "Episodio 4",
+       "f": "2026-10-30"
+      }
+     ]
+    }
+   ]
   },
   {
    "id": "27065890",
@@ -2936,7 +5267,11 @@
    "plataforma": "netflix",
    "estado": "upcoming",
    "fecha": "2026-10-30",
-   "genero": "Crime",
+   "genero": "Drama",
+   "generos": [
+    "Drama",
+    "Crimen"
+   ],
    "imdb": null,
    "rt": null,
    "duracion": "1 temporada, 1 episodios",
@@ -2968,7 +5303,19 @@
      "foto": "https://image.tmdb.org/t/p/w185/wbvr7PkiGYpRTKND5Mja4Dlhv8u.jpg"
     }
    ],
-   "trailer": null
+   "trailer": null,
+   "temporadas_det": [
+    {
+     "n": 1,
+     "eps": [
+      {
+       "n": 1,
+       "t": "Episodio 1",
+       "f": "2026-10-30"
+      }
+     ]
+    }
+   ]
   },
   {
    "id": "11820",
@@ -2977,7 +5324,12 @@
    "plataforma": "netflix",
    "estado": "upcoming",
    "fecha": "2026-10-30",
-   "genero": "Comedy",
+   "genero": "Comedia",
+   "generos": [
+    "Comedia",
+    "Romance",
+    "Drama"
+   ],
    "imdb": 5.3,
    "rt": null,
    "duracion": "1 h 27 min",
@@ -3009,7 +5361,8 @@
      "foto": "https://image.tmdb.org/t/p/w185/yyD9u0ziaHBrNs2eYx21pMG4Iq5.jpg"
     }
    ],
-   "trailer": "https://www.youtube.com/watch?v=elF04ebuXHI"
+   "trailer": "https://www.youtube.com/watch?v=elF04ebuXHI",
+   "temporadas_det": []
   },
   {
    "id": "273",
@@ -3018,7 +5371,12 @@
    "plataforma": "netflix",
    "estado": "upcoming",
    "fecha": "2026-10-30",
-   "genero": "Drama",
+   "genero": "Comedia",
+   "generos": [
+    "Comedia",
+    "Suspense",
+    "Drama"
+   ],
    "imdb": 8.5,
    "rt": null,
    "duracion": "2 h 12 min",
@@ -3050,7 +5408,8 @@
      "foto": "https://image.tmdb.org/t/p/w185/4r3K47UpSmzZ5t9cyTRRqRl9rdz.jpg"
     }
    ],
-   "trailer": "https://www.youtube.com/watch?v=bM9QabAojCg"
+   "trailer": "https://www.youtube.com/watch?v=bM9QabAojCg",
+   "temporadas_det": []
   },
   {
    "id": "6413",
@@ -3059,7 +5418,12 @@
    "plataforma": "netflix",
    "estado": "upcoming",
    "fecha": "2026-10-30",
-   "genero": "Crime",
+   "genero": "Misterio",
+   "generos": [
+    "Misterio",
+    "Drama",
+    "Suspense"
+   ],
    "imdb": 7.3,
    "rt": null,
    "duracion": "2 h 28 min",
@@ -3091,7 +5455,8 @@
      "foto": "https://image.tmdb.org/t/p/w185/wQjOvAFqCItwMw7dxa486KnGgEE.jpg"
     }
    ],
-   "trailer": "https://www.youtube.com/watch?v=irBLY-Ev9vo"
+   "trailer": "https://www.youtube.com/watch?v=irBLY-Ev9vo",
+   "temporadas_det": []
   },
   {
    "id": "31727",
@@ -3100,7 +5465,11 @@
    "plataforma": "netflix",
    "estado": "upcoming",
    "fecha": "2026-10-30",
-   "genero": "Crime",
+   "genero": "Drama",
+   "generos": [
+    "Drama",
+    "Suspense"
+   ],
    "imdb": 4.8,
    "rt": null,
    "duracion": "1 h 37 min",
@@ -3132,7 +5501,8 @@
      "foto": "https://image.tmdb.org/t/p/w185/LYEnyNrJ6mS2tsFKlh7XAVV0iu.jpg"
     }
    ],
-   "trailer": "https://www.youtube.com/watch?v=kMZA9aafu18"
+   "trailer": "https://www.youtube.com/watch?v=kMZA9aafu18",
+   "temporadas_det": []
   },
   {
    "id": "26601582",
@@ -3141,7 +5511,10 @@
    "plataforma": "netflix",
    "estado": "upcoming",
    "fecha": "2026-10-30",
-   "genero": "Documentary",
+   "genero": "Documental",
+   "generos": [
+    "Documental"
+   ],
    "imdb": null,
    "rt": null,
    "duracion": "1 h 28 min",
@@ -3173,7 +5546,8 @@
      "foto": "https://image.tmdb.org/t/p/w185/rr7Oqu4mlUOKBevTuHHMKdvAtlu.jpg"
     }
    ],
-   "trailer": "https://www.youtube.com/watch?v=24skSoZsJv0"
+   "trailer": "https://www.youtube.com/watch?v=24skSoZsJv0",
+   "temporadas_det": []
   },
   {
    "id": "23827",
@@ -3183,6 +5557,9 @@
    "estado": "upcoming",
    "fecha": "2026-10-30",
    "genero": "Drama",
+   "generos": [
+    "Drama"
+   ],
    "imdb": 6.6,
    "rt": null,
    "duracion": "2 h 23 min",
@@ -3214,7 +5591,8 @@
      "foto": "https://image.tmdb.org/t/p/w185/9aRFozglCaE05NR3zdkhW3AUodR.jpg"
     }
    ],
-   "trailer": "https://www.youtube.com/watch?v=yFt-i-LTXpo"
+   "trailer": "https://www.youtube.com/watch?v=yFt-i-LTXpo",
+   "temporadas_det": []
   },
   {
    "id": "27067063",
@@ -3224,6 +5602,10 @@
    "estado": "upcoming",
    "fecha": "2026-10-30",
    "genero": "Fantasy",
+   "generos": [
+    "Fantasy",
+    "Horror"
+   ],
    "imdb": null,
    "rt": null,
    "duracion": "1 temporada, 8 episodios",
@@ -3255,7 +5637,8 @@
      "foto": null
     }
    ],
-   "trailer": null
+   "trailer": null,
+   "temporadas_det": []
   },
   {
    "id": "2035",
@@ -3265,6 +5648,9 @@
    "estado": "upcoming",
    "fecha": "2026-11-01",
    "genero": "Comedy",
+   "generos": [
+    "Comedy"
+   ],
    "imdb": 6.2,
    "rt": null,
    "duracion": "1 h 46 min",
@@ -3296,7 +5682,8 @@
      "foto": null
     }
    ],
-   "trailer": null
+   "trailer": null,
+   "temporadas_det": []
   },
   {
    "id": "9884172",
@@ -3306,6 +5693,11 @@
    "estado": "upcoming",
    "fecha": "2026-11-01",
    "genero": "Action",
+   "generos": [
+    "Action",
+    "Adventure",
+    "Animation"
+   ],
    "imdb": 6.2,
    "rt": null,
    "duracion": "2 h 13 min",
@@ -3337,7 +5729,8 @@
      "foto": null
     }
    ],
-   "trailer": null
+   "trailer": null,
+   "temporadas_det": []
   },
   {
    "id": "9694",
@@ -3347,6 +5740,11 @@
    "estado": "upcoming",
    "fecha": "2026-11-01",
    "genero": "Action",
+   "generos": [
+    "Action",
+    "Crime",
+    "Drama"
+   ],
    "imdb": 6.4,
    "rt": null,
    "duracion": "1 h 44 min",
@@ -3378,7 +5776,8 @@
      "foto": null
     }
    ],
-   "trailer": null
+   "trailer": null,
+   "temporadas_det": []
   },
   {
    "id": "6162",
@@ -3388,6 +5787,10 @@
    "estado": "upcoming",
    "fecha": "2026-11-01",
    "genero": "Adventure",
+   "generos": [
+    "Adventure",
+    "Comedy"
+   ],
    "imdb": 6.1,
    "rt": null,
    "duracion": "1 h 30 min",
@@ -3419,7 +5822,8 @@
      "foto": null
     }
    ],
-   "trailer": null
+   "trailer": null,
+   "temporadas_det": []
   },
   {
    "id": "19382",
@@ -3429,6 +5833,9 @@
    "estado": "upcoming",
    "fecha": "2026-11-01",
    "genero": "Comedy",
+   "generos": [
+    "Comedy"
+   ],
    "imdb": 3.6,
    "rt": null,
    "duracion": "1 h 36 min",
@@ -3460,7 +5867,8 @@
      "foto": null
     }
    ],
-   "trailer": null
+   "trailer": null,
+   "temporadas_det": []
   },
   {
    "id": "2700332",
@@ -3470,6 +5878,9 @@
    "estado": "upcoming",
    "fecha": "2026-11-01",
    "genero": "Drama",
+   "generos": [
+    "Drama"
+   ],
    "imdb": 5.5,
    "rt": null,
    "duracion": "1 h 39 min",
@@ -3501,7 +5912,8 @@
      "foto": null
     }
    ],
-   "trailer": null
+   "trailer": null,
+   "temporadas_det": []
   },
   {
    "id": "14086",
@@ -3511,6 +5923,10 @@
    "estado": "upcoming",
    "fecha": "2026-11-01",
    "genero": "Crime",
+   "generos": [
+    "Crime",
+    "Drama"
+   ],
    "imdb": 6.0,
    "rt": null,
    "duracion": "1 h 28 min",
@@ -3542,7 +5958,8 @@
      "foto": null
     }
    ],
-   "trailer": null
+   "trailer": null,
+   "temporadas_det": []
   },
   {
    "id": "9653",
@@ -3552,6 +5969,10 @@
    "estado": "upcoming",
    "fecha": "2026-11-03",
    "genero": "Crime",
+   "generos": [
+    "Crime",
+    "Drama"
+   ],
    "imdb": 7.3,
    "rt": null,
    "duracion": "4 temporadas, 59 episodios",
@@ -3583,7 +6004,8 @@
      "foto": null
     }
    ],
-   "trailer": null
+   "trailer": null,
+   "temporadas_det": []
   },
   {
    "id": "24862332",
@@ -3593,6 +6015,11 @@
    "estado": "upcoming",
    "fecha": "2026-11-03",
    "genero": "Action",
+   "generos": [
+    "Action",
+    "Animation",
+    "Fantasy"
+   ],
    "imdb": null,
    "rt": null,
    "duracion": "1 temporada, 6 episodios",
@@ -3624,7 +6051,8 @@
      "foto": null
     }
    ],
-   "trailer": null
+   "trailer": null,
+   "temporadas_det": []
   },
   {
    "id": "25665430",
@@ -3634,6 +6062,9 @@
    "estado": "upcoming",
    "fecha": "2026-11-04",
    "genero": "Drama",
+   "generos": [
+    "Drama"
+   ],
    "imdb": null,
    "rt": null,
    "duracion": "1 temporada, 8 episodios",
@@ -3665,7 +6096,8 @@
      "foto": null
     }
    ],
-   "trailer": null
+   "trailer": null,
+   "temporadas_det": []
   },
   {
    "id": "27301858",
@@ -3675,6 +6107,9 @@
    "estado": "upcoming",
    "fecha": "2026-11-04",
    "genero": "Drama",
+   "generos": [
+    "Drama"
+   ],
    "imdb": null,
    "rt": null,
    "duracion": "1 temporada, 8 episodios",
@@ -3706,7 +6141,8 @@
      "foto": null
     }
    ],
-   "trailer": null
+   "trailer": null,
+   "temporadas_det": []
   },
   {
    "id": "15409211",
@@ -3716,6 +6152,9 @@
    "estado": "upcoming",
    "fecha": "2026-11-04",
    "genero": "Drama",
+   "generos": [
+    "Drama"
+   ],
    "imdb": 6.3,
    "rt": null,
    "duracion": "1 h 39 min",
@@ -3747,7 +6186,8 @@
      "foto": null
     }
    ],
-   "trailer": null
+   "trailer": null,
+   "temporadas_det": []
   },
   {
    "id": "26602168",
@@ -3757,6 +6197,9 @@
    "estado": "upcoming",
    "fecha": "2026-11-04",
    "genero": "Drama",
+   "generos": [
+    "Drama"
+   ],
    "imdb": null,
    "rt": null,
    "duracion": "",
@@ -3788,7 +6231,8 @@
      "foto": null
     }
    ],
-   "trailer": null
+   "trailer": null,
+   "temporadas_det": []
   },
   {
    "id": "26635575",
@@ -3798,6 +6242,10 @@
    "estado": "upcoming",
    "fecha": "2026-11-05",
    "genero": "Drama",
+   "generos": [
+    "Drama",
+    "Romance"
+   ],
    "imdb": null,
    "rt": null,
    "duracion": "",
@@ -3829,7 +6277,8 @@
      "foto": null
     }
    ],
-   "trailer": null
+   "trailer": null,
+   "temporadas_det": []
   },
   {
    "id": "9246",
@@ -3839,6 +6288,11 @@
    "estado": "upcoming",
    "fecha": "2026-11-05",
    "genero": "Adventure",
+   "generos": [
+    "Adventure",
+    "Animation",
+    "Comedy"
+   ],
    "imdb": 5.8,
    "rt": null,
    "duracion": "1 h 25 min",
@@ -3870,7 +6324,8 @@
      "foto": null
     }
    ],
-   "trailer": null
+   "trailer": null,
+   "temporadas_det": []
   },
   {
    "id": "59017",
@@ -3880,6 +6335,9 @@
    "estado": "upcoming",
    "fecha": "2026-11-05",
    "genero": "Romance",
+   "generos": [
+    "Romance"
+   ],
    "imdb": 6.1,
    "rt": null,
    "duracion": "1 h 26 min",
@@ -3911,7 +6369,8 @@
      "foto": null
     }
    ],
-   "trailer": null
+   "trailer": null,
+   "temporadas_det": []
   },
   {
    "id": "27068994",
@@ -3921,6 +6380,11 @@
    "estado": "upcoming",
    "fecha": "2026-11-05",
    "genero": "Action",
+   "generos": [
+    "Action",
+    "Comedy",
+    "Crime"
+   ],
    "imdb": null,
    "rt": null,
    "duracion": "",
@@ -3952,7 +6416,8 @@
      "foto": null
     }
    ],
-   "trailer": null
+   "trailer": null,
+   "temporadas_det": []
   },
   {
    "id": "24598706",
@@ -3962,6 +6427,9 @@
    "estado": "upcoming",
    "fecha": "2026-11-06",
    "genero": "Drama",
+   "generos": [
+    "Drama"
+   ],
    "imdb": null,
    "rt": null,
    "duracion": "1 temporada, 8 episodios",
@@ -3993,7 +6461,8 @@
      "foto": null
     }
    ],
-   "trailer": null
+   "trailer": null,
+   "temporadas_det": []
   },
   {
    "id": "25949551",
@@ -4003,6 +6472,9 @@
    "estado": "upcoming",
    "fecha": "2026-11-06",
    "genero": "Drama",
+   "generos": [
+    "Drama"
+   ],
    "imdb": 6.2,
    "rt": null,
    "duracion": "",
@@ -4034,7 +6506,8 @@
      "foto": null
     }
    ],
-   "trailer": null
+   "trailer": null,
+   "temporadas_det": []
   },
   {
    "id": "1034",
@@ -4044,6 +6517,10 @@
    "estado": "upcoming",
    "fecha": "2026-11-09",
    "genero": "Crime",
+   "generos": [
+    "Crime",
+    "Drama"
+   ],
    "imdb": 7.4,
    "rt": null,
    "duracion": "6 temporadas, 63 episodios",
@@ -4075,7 +6552,8 @@
      "foto": null
     }
    ],
-   "trailer": null
+   "trailer": null,
+   "temporadas_det": []
   },
   {
    "id": "6805",
@@ -4085,6 +6563,10 @@
    "estado": "upcoming",
    "fecha": "2026-11-09",
    "genero": "Crime",
+   "generos": [
+    "Crime",
+    "Drama"
+   ],
    "imdb": 6.7,
    "rt": null,
    "duracion": "5 temporadas, 48 episodios",
@@ -4116,7 +6598,8 @@
      "foto": null
     }
    ],
-   "trailer": null
+   "trailer": null,
+   "temporadas_det": []
   },
   {
    "id": "5045017",
@@ -4126,6 +6609,9 @@
    "estado": "upcoming",
    "fecha": "2026-11-09",
    "genero": "Horror",
+   "generos": [
+    "Horror"
+   ],
    "imdb": 5.0,
    "rt": null,
    "duracion": "1 h 51 min",
@@ -4157,7 +6643,8 @@
      "foto": null
     }
    ],
-   "trailer": null
+   "trailer": null,
+   "temporadas_det": []
   },
   {
    "id": "26635759",
@@ -4167,6 +6654,9 @@
    "estado": "upcoming",
    "fecha": "2026-11-09",
    "genero": "Drama",
+   "generos": [
+    "Drama"
+   ],
    "imdb": null,
    "rt": null,
    "duracion": "",
@@ -4194,7 +6684,8 @@
      "foto": null
     }
    ],
-   "trailer": null
+   "trailer": null,
+   "temporadas_det": []
   },
   {
    "id": "17017",
@@ -4204,6 +6695,11 @@
    "estado": "upcoming",
    "fecha": "2026-11-09",
    "genero": "Drama",
+   "generos": [
+    "Drama",
+    "Romance",
+    "Western"
+   ],
    "imdb": 5.7,
    "rt": null,
    "duracion": "1 h 56 min",
@@ -4235,7 +6731,8 @@
      "foto": null
     }
    ],
-   "trailer": null
+   "trailer": null,
+   "temporadas_det": []
   },
   {
    "id": "26343460",
@@ -4245,6 +6742,11 @@
    "estado": "upcoming",
    "fecha": "2026-11-11",
    "genero": "Drama",
+   "generos": [
+    "Drama",
+    "Horror",
+    "Thriller"
+   ],
    "imdb": null,
    "rt": null,
    "duracion": "1 temporada, 8 episodios",
@@ -4276,7 +6778,8 @@
      "foto": null
     }
    ],
-   "trailer": null
+   "trailer": null,
+   "temporadas_det": []
   },
   {
    "id": "27299844",
@@ -4286,6 +6789,9 @@
    "estado": "upcoming",
    "fecha": "2026-11-11",
    "genero": "Drama",
+   "generos": [
+    "Drama"
+   ],
    "imdb": null,
    "rt": null,
    "duracion": "1 temporada, 1 episodios",
@@ -4317,7 +6823,8 @@
      "foto": null
     }
    ],
-   "trailer": null
+   "trailer": null,
+   "temporadas_det": []
   },
   {
    "id": "27301081",
@@ -4327,13 +6834,18 @@
    "estado": "upcoming",
    "fecha": "2026-11-11",
    "genero": "Comedy",
+   "generos": [
+    "Comedy",
+    "Crime"
+   ],
    "imdb": null,
    "rt": null,
    "duracion": "1 temporada, 8 episodios",
    "sinopsis": "",
    "poster": "https://cdn.movieofthenight.com/show/27301081/poster/vertical/en/240.jpg?Expires=1823980909&Signature=k1kdly5lypmdOlMHskdfaTm3NWJEEFryEE0AAKqxmsmMzv1Lq~j8bzbrWxPtn00jMBRiPCOucqRfGc1ndAdltQtJljFHmnSaUuGiu9S0dFzF4co8T4lbPkrvGv~lkRQKM6IlhN5~doE7I-W-MrskNzkFPTQCpGnXz~3AhO~jJBIAnpFAdM9X81anNNAI7S-E5DmKY-vf5-yMAlWSRHaK26D95wvGrO0JgETMmEiois81GO2aCLWkicUmd24v4L84oEqlZkL35qHxR0F7N2oQ11~RIRFEFu39i0rtplAHTNFBFLoaYrwP2xrt09I-cbyN85dtTrZezGjATnwQRxhWXw__&Key-Pair-Id=KK4HN3OO4AT5R",
    "reparto": [],
-   "trailer": null
+   "trailer": null,
+   "temporadas_det": []
   },
   {
    "id": "24976114",
@@ -4343,6 +6855,9 @@
    "estado": "upcoming",
    "fecha": "2026-11-11",
    "genero": "Documentary",
+   "generos": [
+    "Documentary"
+   ],
    "imdb": null,
    "rt": null,
    "duracion": "",
@@ -4354,7 +6869,8 @@
      "foto": null
     }
    ],
-   "trailer": null
+   "trailer": null,
+   "temporadas_det": []
   },
   {
    "id": "27068123",
@@ -4364,6 +6880,9 @@
    "estado": "upcoming",
    "fecha": "2026-11-12",
    "genero": "Reality",
+   "generos": [
+    "Reality"
+   ],
    "imdb": null,
    "rt": null,
    "duracion": "1 temporada, 10 episodios",
@@ -4395,7 +6914,8 @@
      "foto": null
     }
    ],
-   "trailer": null
+   "trailer": null,
+   "temporadas_det": []
   }
  ]
 }
