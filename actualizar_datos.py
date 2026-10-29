@@ -41,6 +41,49 @@ SA_URL_DEV = "https://api.movieofthenight.com/v4"   # Developers Platform (cabec
 SA_HOST_RAPID = "streaming-availability.p.rapidapi.com"  # RapidAPI (cabecera X-RapidAPI-Key)
 
 
+# Unifica los géneros (inglés, español, géneros de series de TMDB) en un solo nombre en español.
+GENEROS = {
+    "action": ["Acción"], "acción": ["Acción"], "accion": ["Acción"],
+    "adventure": ["Aventura"], "aventura": ["Aventura"], "aventuras": ["Aventura"],
+    "action & adventure": ["Acción", "Aventura"], "acción y aventura": ["Acción", "Aventura"],
+    "animation": ["Animación"], "animación": ["Animación"], "animacion": ["Animación"],
+    "comedy": ["Comedia"], "comedia": ["Comedia"],
+    "crime": ["Crimen"], "crimen": ["Crimen"],
+    "documentary": ["Documental"], "documental": ["Documental"],
+    "drama": ["Drama"],
+    "family": ["Familia"], "familia": ["Familia"],
+    "fantasy": ["Fantasía"], "fantasía": ["Fantasía"], "fantasia": ["Fantasía"],
+    "history": ["Historia"], "historia": ["Historia"],
+    "horror": ["Terror"], "terror": ["Terror"],
+    "music": ["Música"], "música": ["Música"], "musica": ["Música"], "musical": ["Música"],
+    "mystery": ["Misterio"], "misterio": ["Misterio"],
+    "romance": ["Romance"],
+    "science fiction": ["Ciencia ficción"], "sci-fi": ["Ciencia ficción"],
+    "ciencia ficción": ["Ciencia ficción"], "ciencia ficcion": ["Ciencia ficción"],
+    "sci-fi & fantasy": ["Ciencia ficción", "Fantasía"],
+    "ciencia ficción y fantasía": ["Ciencia ficción", "Fantasía"],
+    "thriller": ["Suspense"], "suspense": ["Suspense"],
+    "war": ["Bélica"], "bélica": ["Bélica"], "belica": ["Bélica"], "guerra": ["Bélica"],
+    "war & politics": ["Bélica"], "bélica y política": ["Bélica"],
+    "western": ["Western"],
+    "kids": ["Infantil"], "infantil": ["Infantil"],
+    "reality": ["Reality"], "reality-tv": ["Reality"],
+    "news": ["Noticias"], "noticias": ["Noticias"],
+    "talk": ["Entrevistas"], "talk show": ["Entrevistas"], "entrevistas": ["Entrevistas"],
+    "soap": ["Telenovela"], "telenovela": ["Telenovela"],
+    "tv movie": ["Película de TV"], "película de tv": ["Película de TV"],
+}
+
+
+def normalizar_generos(nombres):
+    res = []
+    for n in nombres:
+        for g in GENEROS.get(n.strip().lower(), [n.strip()]):
+            if g and g not in res:
+                res.append(g)
+    return res
+
+
 def http_json(url, headers=None, intentos=3):
     for n in range(intentos):
         try:
@@ -229,6 +272,7 @@ def construir(cambio, show, estado, cache, pres):
     reparto = extra.get("reparto") or [{"nombre": n, "foto": None} for n in (show.get("cast") or [])[:6]]
     rt = omdb_rt(show.get("imdbId"), cache, pres) if estado != "upcoming" else None
     generos = extra.get("generos") or [g["name"] for g in (show.get("genres") or []) if g.get("name")]
+    generos = normalizar_generos(generos)
     temp_det = temporadas(ti, extra.get("nums_temp") or [], cache, pres) if tipo == "s" and tt == "tv" else []
     return {
         "id": show.get("id"),
