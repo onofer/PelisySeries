@@ -36,6 +36,7 @@ PAGINAS = {"new": 4, "upcoming": 2, "expiring": 2}  # 25 cambios por página
 DIAS_ATRAS = 14
 MAX_TMDB = 60   # consultas nuevas a TMDB por ejecución
 MAX_OMDB = 60   # consultas nuevas a OMDb por ejecución
+MAX_TEMP = 40   # temporadas nuevas (episodios) a consultar por ejecución
 SA_URL_DEV = "https://api.movieofthenight.com/v4"   # Developers Platform (cabecera X-API-Key)
 SA_HOST_RAPID = "streaming-availability.p.rapidapi.com"  # RapidAPI (cabecera X-RapidAPI-Key)
 
@@ -138,8 +139,38 @@ def tmdb(tipo, i, cache, pres):
            "reparto": reparto, "trailer": trailer,
            "temporadas": d.get("number_of_seasons"),
            "episodios": d.get("number_of_episodes"),
-           "minutos": d.get("runtime")}
+           "minutos": d.get("runtime"),
+           "generos": [g["name"] for g in d.get("genres", []) if g.get("name")],
+           "nums_temp": [t["season_number"] for t in d.get("seasons", []) if t.get("season_number", 0) > 0]}
     cache["tmdb"][k] = res
+    return res
+
+
+def temporadas(i, numeros, cache, pres):
+    """Episodios por temporada (TMDB). La última temporada se refresca cada 3 días."""
+    clave = os.environ.get("TMDB_API_KEY")
+    limite = (datetime.now() - timedelta(days=3)).date().isoformat()
+    res = []
+    for n in numeros:
+        k = f"tv/{i}/s{n}"
+        c = cache["temp"].get(k)
+        if not c or (n == max(numeros) and c["fecha"] <= limite):
+            if not clave or pres["temp"] <= 0:
+                if c:
+                    res.append({"n": n, "eps": c["eps"]})
+                continue
+            pres["temp"] -= 1
+            q = urllib.parse.urlencode({"api_key": clave, "language": "es-ES"})
+            try:
+                d = http_json(f"https://api.themoviedb.org/3/tv/{i}/season/{n}?{q}")
+            except Exception as e:
+                print(f"AVISO: TMDB temporada {k}: {e}", file=sys.stderr)
+                continue
+            c = {"fecha": datetime.now().date().isoformat(),
+                 "eps": [{"n": e["episode_number"], "t": e.get("name") or "", "f": e.get("air_date") or ""}
+                         for e in d.get("episodes", [])]}
+            cache["temp"][k] = c
+        res.append({"n": n, "eps": c["eps"]})
     return res
 
 
@@ -197,6 +228,8 @@ def construir(cambio, show, estado, cache, pres):
         poster = vp.get("w240") or next(iter(vp.values()), None)
     reparto = extra.get("reparto") or [{"nombre": n, "foto": None} for n in (show.get("cast") or [])[:6]]
     rt = omdb_rt(show.get("imdbId"), cache, pres) if estado != "upcoming" else None
+    generos = extra.get("generos") or [g["name"] for g in (show.get("genres") or []) if g.get("name")]
+    temp_det = temporadas(ti, extra.get("nums_temp") or [], cache, pres) if tipo == "s" and tt == "tv" else []
     return {
         "id": show.get("id"),
         "titulo": extra.get("titulo") or show.get("title"),
@@ -204,7 +237,8 @@ def construir(cambio, show, estado, cache, pres):
         "plataforma": plat,
         "estado": estado,                       # new | upcoming | expiring
         "fecha": fecha_iso(ts),                 # alta, estreno previsto o caducidad
-        "genero": ((show.get("genres") or [{}])[0]).get("name", ""),
+        "genero": generos[0] if generos else "",
+        "generos": generos,
         "imdb": imdb,
         "rt": rt,
         "duracion": duracion(tipo, extra.get("temporadas") or show.get("seasonCount"),
@@ -214,6 +248,7 @@ def construir(cambio, show, estado, cache, pres):
         "poster": poster,
         "reparto": reparto,
         "trailer": extra.get("trailer"),
+        "temporadas_det": temp_det,
     }
 
 
@@ -238,10 +273,13 @@ def main():
     salida = Path(args.salida)
     ruta_cache = salida.with_name("cache.json")
     cache = cargar(ruta_cache, {})
+    if cache.get("v") != 2:  # formato nuevo: se rehace la caché de TMDB
+        cache = {"v": 2, "omdb": cache.get("omdb", {})}
     cache.setdefault("tmdb", {})
     cache.setdefault("omdb", {})
+    cache.setdefault("temp", {})
     previo = cargar(salida, {"items": []})
-    pres = {"tmdb": MAX_TMDB, "omdb": MAX_OMDB}
+    pres = {"tmdb": MAX_TMDB, "omdb": MAX_OMDB, "temp": MAX_TEMP}
 
     items, fallos = {}, 0
     for estado in ("new", "upcoming", "expiring"):

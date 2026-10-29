@@ -26,7 +26,19 @@ A partir de ahí se actualiza solo cada 6 horas.
 
 Si algún servicio no sale, ajusta los ids del diccionario SERVICIOS al principio del script.
 
+## Sincronizar Mi lista y Vistos entre dispositivos
+
+El panel guarda tu lista de pendientes, los títulos vistos y los episodios vistos en un gist secreto de tu cuenta de GitHub.
+
+1. En GitHub: Settings, Developer settings, Personal access tokens, Tokens (classic), Generate new token (classic).
+2. Marca únicamente el permiso `gist` y genera el token. No uses un token con acceso a repositorios.
+3. En el panel pulsa «Sincronizar», pega el token y pulsa «Conectar». Repite en cada dispositivo con el mismo token.
+
+El token se guarda solo en el navegador de cada dispositivo. Si lo pierdes, revócalo en GitHub y crea otro.
+
 ## Notas
+
+- Tras actualizar a esta versión, la primera ejecución rehace la caché de TMDB, así que pósters, géneros y episodios irán apareciendo en las siguientes ejecuciones.
 
 - El script usa unas 8 consultas a Streaming Availability por ejecución; comprueba el límite de tu plan gratuito en su panel.
 - Si tu clave viene de RapidAPI en vez de la Developers Platform, define también la variable `SA_PLATAFORMA=rapidapi`.
