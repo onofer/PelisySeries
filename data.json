@@ -1,5 +1,5 @@
 {
- "generado": "2026-10-30T05:10:22+00:00",
+ "generado": "2026-10-30T12:30:22+00:00",
  "pais": "ES",
  "items": [
   {
@@ -7641,6 +7641,286 @@
    "temporadas_det": []
   },
   {
+   "id": "26894672",
+   "titulo": "Bytet",
+   "tipo": "s",
+   "plataforma": "netflix",
+   "estado": "new",
+   "fecha": "2026-10-30",
+   "genero": "Drama",
+   "generos": [
+    "Drama",
+    "Misterio"
+   ],
+   "imdb": null,
+   "rt": null,
+   "duracion": "1 temporada, 4 episodios",
+   "sinopsis": "",
+   "poster": "https://image.tmdb.org/t/p/w342/xJupFp4GS4sRwH5xTEJLvvnNqaq.jpg",
+   "reparto": [
+    {
+     "nombre": "Frida Gustavsson",
+     "foto": "https://image.tmdb.org/t/p/w185/jtD5lJSSAc61AWCNKGlQmlyYNWv.jpg"
+    },
+    {
+     "nombre": "Fares Fares",
+     "foto": "https://image.tmdb.org/t/p/w185/rLk2uAENs1cNyWFy039fErxNpLj.jpg"
+    },
+    {
+     "nombre": "Emma Appleton",
+     "foto": "https://image.tmdb.org/t/p/w185/gsr6C5aj8IyewAQRlB36yLun8sS.jpg"
+    },
+    {
+     "nombre": "Jakob Oftebro",
+     "foto": "https://image.tmdb.org/t/p/w185/ypyMSXwABVXHjTOfpEHW008cw1A.jpg"
+    }
+   ],
+   "trailer": "https://www.youtube.com/watch?v=ARYGWtBnQEA",
+   "temporadas_det": [
+    {
+     "n": 1,
+     "eps": [
+      {
+       "n": 1,
+       "t": "Episodio 1",
+       "f": "2026-10-30"
+      },
+      {
+       "n": 2,
+       "t": "Episodio 2",
+       "f": "2026-10-30"
+      },
+      {
+       "n": 3,
+       "t": "Episodio 3",
+       "f": "2026-10-30"
+      },
+      {
+       "n": 4,
+       "t": "Episodio 4",
+       "f": "2026-10-30"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "27065890",
+   "titulo": "அக்கா",
+   "tipo": "s",
+   "plataforma": "netflix",
+   "estado": "new",
+   "fecha": "2026-10-30",
+   "genero": "Drama",
+   "generos": [
+    "Drama",
+    "Crimen"
+   ],
+   "imdb": null,
+   "rt": null,
+   "duracion": "1 temporada, 1 episodios",
+   "sinopsis": "",
+   "poster": "https://image.tmdb.org/t/p/w342/cF0Ao5K99yDAWU1UFR72IbIc3OD.jpg",
+   "reparto": [
+    {
+     "nombre": "கீர்த்தி சுரேஷ்",
+     "foto": "https://image.tmdb.org/t/p/w185/fTdgSinsAitdujBBEUEA72GY0pv.jpg"
+    },
+    {
+     "nombre": "Radhika Apte",
+     "foto": "https://image.tmdb.org/t/p/w185/wKPybRcSYcbgDiJZwELudrRNf0r.jpg"
+    },
+    {
+     "nombre": "Tanvi Azmi",
+     "foto": "https://image.tmdb.org/t/p/w185/zKxZCZahNstKxkF7YPa2DqgadWC.jpg"
+    },
+    {
+     "nombre": "Nivedita Bhargava",
+     "foto": "https://image.tmdb.org/t/p/w185/zGFHvqzfo0K2gdajhbnQG0n9UHz.jpg"
+    },
+    {
+     "nombre": "अंशुमान पुष्कर",
+     "foto": "https://image.tmdb.org/t/p/w185/ktbqCXjoqLuD96tTkHo1PVqVi14.jpg"
+    },
+    {
+     "nombre": "പൂർണ്ണിമ ഇന്ദ്രജിത്ത്",
+     "foto": "https://image.tmdb.org/t/p/w185/wbvr7PkiGYpRTKND5Mja4Dlhv8u.jpg"
+    }
+   ],
+   "trailer": null,
+   "temporadas_det": [
+    {
+     "n": 1,
+     "eps": [
+      {
+       "n": 1,
+       "t": "Episodio 1",
+       "f": "2026-10-30"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "27072710",
+   "titulo": "Obsess",
+   "tipo": "p",
+   "plataforma": "netflix",
+   "estado": "new",
+   "fecha": "2026-10-30",
+   "genero": "Drama",
+   "generos": [
+    "Drama"
+   ],
+   "imdb": 4.8,
+   "rt": null,
+   "duracion": "",
+   "sinopsis": "",
+   "poster": "https://image.tmdb.org/t/p/w342/wIS45OCcDh8PuhLf4A9aBrBh034.jpg",
+   "reparto": [],
+   "trailer": null,
+   "temporadas_det": []
+  },
+  {
+   "id": "27067063",
+   "titulo": "Un trabajo maldito",
+   "tipo": "s",
+   "plataforma": "netflix",
+   "estado": "new",
+   "fecha": "2026-10-30",
+   "genero": "Misterio",
+   "generos": [
+    "Misterio",
+    "Ciencia ficción",
+    "Fantasía"
+   ],
+   "imdb": null,
+   "rt": null,
+   "duracion": "1 temporada, 8 episodios",
+   "sinopsis": "Un joven ahogado por las deudas acepta trabajos temporales de una agencia misteriosa… hasta que su búsqueda de dinero se vuelve una pesadilla.",
+   "poster": "https://image.tmdb.org/t/p/w342/yyA9CI8BLNg6LtVRvmVxki4xiGb.jpg",
+   "reparto": [
+    {
+     "nombre": "이재욱",
+     "foto": "https://image.tmdb.org/t/p/w185/9dsWM2kiXO4utrg4GctdXDvhOKD.jpg"
+    },
+    {
+     "nombre": "고민시",
+     "foto": "https://image.tmdb.org/t/p/w185/tgBb9dDyewLlautcmJH9KSXZz1O.jpg"
+    },
+    {
+     "nombre": "김민하",
+     "foto": "https://image.tmdb.org/t/p/w185/zPNNamrJLWoXADXALQmuTdo6zBS.jpg"
+    },
+    {
+     "nombre": "이희준",
+     "foto": "https://image.tmdb.org/t/p/w185/4slyXnHbKgzmeyJNetBSORgDDEF.jpg"
+    },
+    {
+     "nombre": "Yoon Byung-hee",
+     "foto": "https://image.tmdb.org/t/p/w185/77HOYpL0BI6BN4kaTYUMNIlnLM0.jpg"
+    },
+    {
+     "nombre": "조현철",
+     "foto": "https://image.tmdb.org/t/p/w185/i1yEjtwITyedbFCealmBfuaAn3M.jpg"
+    }
+   ],
+   "trailer": "https://www.youtube.com/watch?v=Sn2ZCxOxsN0",
+   "temporadas_det": [
+    {
+     "n": 1,
+     "eps": [
+      {
+       "n": 1,
+       "t": "Episodio 1",
+       "f": "2026-10-30"
+      },
+      {
+       "n": 2,
+       "t": "Episodio 2",
+       "f": "2026-10-30"
+      },
+      {
+       "n": 3,
+       "t": "Episodio 3",
+       "f": "2026-10-30"
+      },
+      {
+       "n": 4,
+       "t": "Episodio 4",
+       "f": "2026-10-30"
+      },
+      {
+       "n": 5,
+       "t": "Episodio 5",
+       "f": "2026-10-30"
+      },
+      {
+       "n": 6,
+       "t": "Episodio 6",
+       "f": "2026-10-30"
+      },
+      {
+       "n": 7,
+       "t": "Episodio 7",
+       "f": "2026-10-30"
+      },
+      {
+       "n": 8,
+       "t": "Episodio 8",
+       "f": "2026-10-30"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "26606065",
+   "titulo": "Colisión",
+   "tipo": "p",
+   "plataforma": "netflix",
+   "estado": "new",
+   "fecha": "2026-10-30",
+   "genero": "Suspense",
+   "generos": [
+    "Suspense",
+    "Drama"
+   ],
+   "imdb": null,
+   "rt": null,
+   "duracion": "",
+   "sinopsis": "España, 2013. Tras atracar un banco, un fatal accidente de auto saca a la luz la cara oculta de una banda de ladrones y desvela que las traiciones comenzaron mucho antes del robo.",
+   "poster": "https://image.tmdb.org/t/p/w342/L2SDL6pi8jyvMRmh1vWbqfwHtf.jpg",
+   "reparto": [
+    {
+     "nombre": "Laia Costa",
+     "foto": "https://image.tmdb.org/t/p/w185/kSbdpHWLlfzvOfZKJ0dgP0ieVL6.jpg"
+    },
+    {
+     "nombre": "Karra Elejalde",
+     "foto": "https://image.tmdb.org/t/p/w185/kHODqgc2c7RaZz9Sp7cedgadvzG.jpg"
+    },
+    {
+     "nombre": "Luis Zahera",
+     "foto": "https://image.tmdb.org/t/p/w185/ozfRIrvu8i93RJAaeWbaCLKAlPq.jpg"
+    },
+    {
+     "nombre": "Tamar Novas",
+     "foto": "https://image.tmdb.org/t/p/w185/3MpjB6lxeTUA9EunaV4kAyvOvIG.jpg"
+    },
+    {
+     "nombre": "Álvaro Cervantes",
+     "foto": "https://image.tmdb.org/t/p/w185/6RAiI4SXIMxLRM1RejLJzMPK7wa.jpg"
+    },
+    {
+     "nombre": "Lluís Homar",
+     "foto": "https://image.tmdb.org/t/p/w185/p1AFBzyZRbHzA6S8q3RWw0YXoAf.jpg"
+    }
+   ],
+   "trailer": "https://www.youtube.com/watch?v=8hVLhaK619k",
+   "temporadas_det": []
+  },
+  {
    "id": "12539",
    "titulo": "Sin Escape (Ganar o morir)",
    "tipo": "p",
@@ -7734,543 +8014,6 @@
    ],
    "trailer": "https://www.youtube.com/watch?v=kgpwDLMowBM",
    "temporadas_det": []
-  },
-  {
-   "id": "26606065",
-   "titulo": "Colisión",
-   "tipo": "p",
-   "plataforma": "netflix",
-   "estado": "upcoming",
-   "fecha": "2026-10-30",
-   "genero": "Suspense",
-   "generos": [
-    "Suspense",
-    "Drama"
-   ],
-   "imdb": null,
-   "rt": null,
-   "duracion": "",
-   "sinopsis": "España, 2013. Tras atracar un banco, un fatal accidente de auto saca a la luz la cara oculta de una banda de ladrones y desvela que las traiciones comenzaron mucho antes del robo.",
-   "poster": "https://image.tmdb.org/t/p/w342/L2SDL6pi8jyvMRmh1vWbqfwHtf.jpg",
-   "reparto": [
-    {
-     "nombre": "Laia Costa",
-     "foto": "https://image.tmdb.org/t/p/w185/kSbdpHWLlfzvOfZKJ0dgP0ieVL6.jpg"
-    },
-    {
-     "nombre": "Karra Elejalde",
-     "foto": "https://image.tmdb.org/t/p/w185/kHODqgc2c7RaZz9Sp7cedgadvzG.jpg"
-    },
-    {
-     "nombre": "Luis Zahera",
-     "foto": "https://image.tmdb.org/t/p/w185/ozfRIrvu8i93RJAaeWbaCLKAlPq.jpg"
-    },
-    {
-     "nombre": "Tamar Novas",
-     "foto": "https://image.tmdb.org/t/p/w185/3MpjB6lxeTUA9EunaV4kAyvOvIG.jpg"
-    },
-    {
-     "nombre": "Álvaro Cervantes",
-     "foto": "https://image.tmdb.org/t/p/w185/6RAiI4SXIMxLRM1RejLJzMPK7wa.jpg"
-    },
-    {
-     "nombre": "Lluís Homar",
-     "foto": "https://image.tmdb.org/t/p/w185/p1AFBzyZRbHzA6S8q3RWw0YXoAf.jpg"
-    }
-   ],
-   "trailer": "https://www.youtube.com/watch?v=8hVLhaK619k",
-   "temporadas_det": []
-  },
-  {
-   "id": "26894672",
-   "titulo": "Bytet",
-   "tipo": "s",
-   "plataforma": "netflix",
-   "estado": "upcoming",
-   "fecha": "2026-10-30",
-   "genero": "Drama",
-   "generos": [
-    "Drama",
-    "Misterio"
-   ],
-   "imdb": null,
-   "rt": null,
-   "duracion": "1 temporada, 4 episodios",
-   "sinopsis": "",
-   "poster": "https://image.tmdb.org/t/p/w342/xJupFp4GS4sRwH5xTEJLvvnNqaq.jpg",
-   "reparto": [
-    {
-     "nombre": "Frida Gustavsson",
-     "foto": "https://image.tmdb.org/t/p/w185/jtD5lJSSAc61AWCNKGlQmlyYNWv.jpg"
-    },
-    {
-     "nombre": "Fares Fares",
-     "foto": "https://image.tmdb.org/t/p/w185/rLk2uAENs1cNyWFy039fErxNpLj.jpg"
-    },
-    {
-     "nombre": "Emma Appleton",
-     "foto": "https://image.tmdb.org/t/p/w185/gsr6C5aj8IyewAQRlB36yLun8sS.jpg"
-    },
-    {
-     "nombre": "Jakob Oftebro",
-     "foto": "https://image.tmdb.org/t/p/w185/ypyMSXwABVXHjTOfpEHW008cw1A.jpg"
-    }
-   ],
-   "trailer": "https://www.youtube.com/watch?v=ARYGWtBnQEA",
-   "temporadas_det": [
-    {
-     "n": 1,
-     "eps": [
-      {
-       "n": 1,
-       "t": "Episodio 1",
-       "f": "2026-10-30"
-      },
-      {
-       "n": 2,
-       "t": "Episodio 2",
-       "f": "2026-10-30"
-      },
-      {
-       "n": 3,
-       "t": "Episodio 3",
-       "f": "2026-10-30"
-      },
-      {
-       "n": 4,
-       "t": "Episodio 4",
-       "f": "2026-10-30"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "id": "27065890",
-   "titulo": "அக்கா",
-   "tipo": "s",
-   "plataforma": "netflix",
-   "estado": "upcoming",
-   "fecha": "2026-10-30",
-   "genero": "Drama",
-   "generos": [
-    "Drama",
-    "Crimen"
-   ],
-   "imdb": null,
-   "rt": null,
-   "duracion": "1 temporada, 1 episodios",
-   "sinopsis": "",
-   "poster": "https://image.tmdb.org/t/p/w342/cF0Ao5K99yDAWU1UFR72IbIc3OD.jpg",
-   "reparto": [
-    {
-     "nombre": "கீர்த்தி சுரேஷ்",
-     "foto": "https://image.tmdb.org/t/p/w185/fTdgSinsAitdujBBEUEA72GY0pv.jpg"
-    },
-    {
-     "nombre": "Radhika Apte",
-     "foto": "https://image.tmdb.org/t/p/w185/wKPybRcSYcbgDiJZwELudrRNf0r.jpg"
-    },
-    {
-     "nombre": "Tanvi Azmi",
-     "foto": "https://image.tmdb.org/t/p/w185/zKxZCZahNstKxkF7YPa2DqgadWC.jpg"
-    },
-    {
-     "nombre": "Nivedita Bhargava",
-     "foto": "https://image.tmdb.org/t/p/w185/zGFHvqzfo0K2gdajhbnQG0n9UHz.jpg"
-    },
-    {
-     "nombre": "अंशुमान पुष्कर",
-     "foto": "https://image.tmdb.org/t/p/w185/ktbqCXjoqLuD96tTkHo1PVqVi14.jpg"
-    },
-    {
-     "nombre": "പൂർണ്ണിമ ഇന്ദ്രജിത്ത്",
-     "foto": "https://image.tmdb.org/t/p/w185/wbvr7PkiGYpRTKND5Mja4Dlhv8u.jpg"
-    }
-   ],
-   "trailer": null,
-   "temporadas_det": [
-    {
-     "n": 1,
-     "eps": [
-      {
-       "n": 1,
-       "t": "Episodio 1",
-       "f": "2026-10-30"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "id": "11820",
-   "titulo": "Amor en el aire",
-   "tipo": "p",
-   "plataforma": "netflix",
-   "estado": "upcoming",
-   "fecha": "2026-10-30",
-   "genero": "Comedia",
-   "generos": [
-    "Comedia",
-    "Romance",
-    "Drama"
-   ],
-   "imdb": 5.3,
-   "rt": null,
-   "duracion": "1 h 27 min",
-   "sinopsis": "Donna Jensen (Gwyneth Paltrow), una atractiva joven de provincias, sueña con llegar a ser azafata de vuelo de una importante compañía aérea y está dispuesta a hacer cualquier cosa para conseguirlo. Sin embargo, el camino del éxito estará lleno de turbulencias...",
-   "poster": "https://image.tmdb.org/t/p/w342/q8oHvYoFICQpTWjC15ZMwQr5Sox.jpg",
-   "reparto": [
-    {
-     "nombre": "Gwyneth Paltrow",
-     "foto": "https://image.tmdb.org/t/p/w185/r4wbWWEEjmtRFZ0GU10XbLTgp47.jpg"
-    },
-    {
-     "nombre": "Christina Applegate",
-     "foto": "https://image.tmdb.org/t/p/w185/ncWS3iguCMCQ53ewacGpMGA6MHv.jpg"
-    },
-    {
-     "nombre": "Mark Ruffalo",
-     "foto": "https://image.tmdb.org/t/p/w185/5GilHMOt5PAQh6rlUKZzGmaKEI7.jpg"
-    },
-    {
-     "nombre": "Candice Bergen",
-     "foto": "https://image.tmdb.org/t/p/w185/yDthvXPRkcwSVcPj9QZz3Z7ZH5B.jpg"
-    },
-    {
-     "nombre": "Joshua Malina",
-     "foto": "https://image.tmdb.org/t/p/w185/xk7HdU7ndu082YF3RhUcgqT2E73.jpg"
-    },
-    {
-     "nombre": "Kelly Preston",
-     "foto": "https://image.tmdb.org/t/p/w185/yyD9u0ziaHBrNs2eYx21pMG4Iq5.jpg"
-    }
-   ],
-   "trailer": "https://www.youtube.com/watch?v=elF04ebuXHI",
-   "temporadas_det": []
-  },
-  {
-   "id": "273",
-   "titulo": "Parásitos",
-   "tipo": "p",
-   "plataforma": "netflix",
-   "estado": "upcoming",
-   "fecha": "2026-10-30",
-   "genero": "Comedia",
-   "generos": [
-    "Comedia",
-    "Suspense",
-    "Drama"
-   ],
-   "imdb": 8.5,
-   "rt": null,
-   "duracion": "2 h 12 min",
-   "sinopsis": "Tanto Gi Taek (Song Kang-ho) como su familia están sin trabajo. Cuando su hijo mayor, Gi Woo (Choi Woo-sik), empieza a dar clases particulares en casa de Park (Lee Seon-gyun), las dos familias, que tienen mucho en común pese a pertenecer a dos mundos totalmente distintos, comienzan una interrelación de resultados imprevisibles.",
-   "poster": "https://image.tmdb.org/t/p/w342/4N55tgxDW0RRATyrZHbx0q9HUKv.jpg",
-   "reparto": [
-    {
-     "nombre": "Song Kang-ho",
-     "foto": "https://image.tmdb.org/t/p/w185/kBM9UTPYXUA2RNk210DXhztLFns.jpg"
-    },
-    {
-     "nombre": "Lee Sun-kyun",
-     "foto": "https://image.tmdb.org/t/p/w185/nHFBbSFohzOUOvMxPVwe3Es2nJw.jpg"
-    },
-    {
-     "nombre": "Cho Yeo-jeong",
-     "foto": "https://image.tmdb.org/t/p/w185/5MgWM8pkUiYkj9MEaEpO0Ir1FD9.jpg"
-    },
-    {
-     "nombre": "Choi Woo-shik",
-     "foto": "https://image.tmdb.org/t/p/w185/9mZ9DNopxpCLUjXd0rLd42TLamw.jpg"
-    },
-    {
-     "nombre": "Park So-dam",
-     "foto": "https://image.tmdb.org/t/p/w185/fGVOikpvivopeATDy6ZzLdKYXDu.jpg"
-    },
-    {
-     "nombre": "Lee Jung-eun",
-     "foto": "https://image.tmdb.org/t/p/w185/4r3K47UpSmzZ5t9cyTRRqRl9rdz.jpg"
-    }
-   ],
-   "trailer": "https://www.youtube.com/watch?v=bM9QabAojCg",
-   "temporadas_det": []
-  },
-  {
-   "id": "6413",
-   "titulo": "Burning",
-   "tipo": "p",
-   "plataforma": "netflix",
-   "estado": "upcoming",
-   "fecha": "2026-10-30",
-   "genero": "Misterio",
-   "generos": [
-    "Misterio",
-    "Drama",
-    "Suspense"
-   ],
-   "imdb": 7.3,
-   "rt": null,
-   "duracion": "2 h 28 min",
-   "sinopsis": "Jong Soo es un trabajador a tiempo parcial, un día se encuentra con Hae Mi mientras hace una entrega, ellos solían vivir en el mismo vecindario. Hae Mi le pide que cuide de su gato mientras ella está en un viaje a África. Cuando Hae Mi regresa, ella le presenta a Jong Soo a un hombre misterioso que conoció en África, Ben. Después de algunos días Ben y Hae Mi visitan a Jong Soo y le confiesan su pasatiempo secreto.",
-   "poster": "https://image.tmdb.org/t/p/w342/ipSjmdgDb9RzORoJlCslh9ueRON.jpg",
-   "reparto": [
-    {
-     "nombre": "유아인",
-     "foto": "https://image.tmdb.org/t/p/w185/a1OhZlBbONBLJ6RhJRK9geS5TU2.jpg"
-    },
-    {
-     "nombre": "Steven Yeun",
-     "foto": "https://image.tmdb.org/t/p/w185/fOMFO2Xx4duzpNgS9Q5ytO44yGb.jpg"
-    },
-    {
-     "nombre": "전종서",
-     "foto": "https://image.tmdb.org/t/p/w185/13mReqKdJFy3NjbqAFzVBLiyF9d.jpg"
-    },
-    {
-     "nombre": "김수경",
-     "foto": "https://image.tmdb.org/t/p/w185/856ubkjKFHdvp8L2QPvfWO6Oq76.jpg"
-    },
-    {
-     "nombre": "최승호",
-     "foto": "https://image.tmdb.org/t/p/w185/kiwz9IJXgYknUPhnQLcrhzQp8xd.jpg"
-    },
-    {
-     "nombre": "문성근",
-     "foto": "https://image.tmdb.org/t/p/w185/wQjOvAFqCItwMw7dxa486KnGgEE.jpg"
-    }
-   ],
-   "trailer": "https://www.youtube.com/watch?v=irBLY-Ev9vo",
-   "temporadas_det": []
-  },
-  {
-   "id": "31727",
-   "titulo": "Atrapado en Grand Isle",
-   "tipo": "p",
-   "plataforma": "netflix",
-   "estado": "upcoming",
-   "fecha": "2026-10-30",
-   "genero": "Drama",
-   "generos": [
-    "Drama",
-    "Suspense"
-   ],
-   "imdb": 4.8,
-   "rt": null,
-   "duracion": "1 h 37 min",
-   "sinopsis": "Walter y su esposa descuidada atraen a un joven a su casa victoriana para escapar de un huracán. Cuando el hombre es acusado de asesinato por el detective Jones, debe revelar los perversos secretos de la pareja para salvarse.",
-   "poster": "https://image.tmdb.org/t/p/w342/OQf805zU1G5W1fAFc5pWTsvSCn.jpg",
-   "reparto": [
-    {
-     "nombre": "Nicolas Cage",
-     "foto": "https://image.tmdb.org/t/p/w185/y1RtezurZYveYkVNRht7CwEgSYY.jpg"
-    },
-    {
-     "nombre": "KaDee Strickland",
-     "foto": "https://image.tmdb.org/t/p/w185/73xvqIpgGN4KqfFQJQR6q54I6FA.jpg"
-    },
-    {
-     "nombre": "Luke Benward",
-     "foto": "https://image.tmdb.org/t/p/w185/pPKFHQbwRgCKea3I75V0z9kUTKX.jpg"
-    },
-    {
-     "nombre": "Kelsey Grammer",
-     "foto": "https://image.tmdb.org/t/p/w185/qn38jJHEqRBsj50Gqo2uM38fgJx.jpg"
-    },
-    {
-     "nombre": "Zulay Henao",
-     "foto": "https://image.tmdb.org/t/p/w185/7Ml8SyHeGj9BfYTaiGxFL358fI2.jpg"
-    },
-    {
-     "nombre": "Emily Marie Palmer",
-     "foto": "https://image.tmdb.org/t/p/w185/LYEnyNrJ6mS2tsFKlh7XAVV0iu.jpg"
-    }
-   ],
-   "trailer": "https://www.youtube.com/watch?v=kMZA9aafu18",
-   "temporadas_det": []
-  },
-  {
-   "id": "26601582",
-   "titulo": "SCTV: The Greatest Show You've Never Heard Of",
-   "tipo": "p",
-   "plataforma": "netflix",
-   "estado": "upcoming",
-   "fecha": "2026-10-30",
-   "genero": "Documental",
-   "generos": [
-    "Documental"
-   ],
-   "imdb": null,
-   "rt": null,
-   "duracion": "1 h 28 min",
-   "sinopsis": "",
-   "poster": "https://image.tmdb.org/t/p/w342/dSp528gsiCTMEth1DrJcxIXBXim.jpg",
-   "reparto": [
-    {
-     "nombre": "Martin Short",
-     "foto": "https://image.tmdb.org/t/p/w185/vWoZIOk7K8TSKu1IN90akswsWjZ.jpg"
-    },
-    {
-     "nombre": "Eugene Levy",
-     "foto": "https://image.tmdb.org/t/p/w185/epZE1ZohKhEFCdCKYFyvtJEj0I7.jpg"
-    },
-    {
-     "nombre": "John Candy",
-     "foto": "https://image.tmdb.org/t/p/w185/uvLWbMDE6UfWNF5tfrsrC9NqeEA.jpg"
-    },
-    {
-     "nombre": "Andrea Martin",
-     "foto": "https://image.tmdb.org/t/p/w185/lOP6nvTOvqpdHtEMfLCvNqUaRnp.jpg"
-    },
-    {
-     "nombre": "Rick Moranis",
-     "foto": "https://image.tmdb.org/t/p/w185/nCIh203hALUsQW44x3dzpjSA4yf.jpg"
-    },
-    {
-     "nombre": "Dave Thomas",
-     "foto": "https://image.tmdb.org/t/p/w185/rr7Oqu4mlUOKBevTuHHMKdvAtlu.jpg"
-    }
-   ],
-   "trailer": "https://www.youtube.com/watch?v=24skSoZsJv0",
-   "temporadas_det": []
-  },
-  {
-   "id": "23827",
-   "titulo": "Secret Sunshine",
-   "tipo": "p",
-   "plataforma": "netflix",
-   "estado": "upcoming",
-   "fecha": "2026-10-30",
-   "genero": "Drama",
-   "generos": [
-    "Drama"
-   ],
-   "imdb": 6.6,
-   "rt": null,
-   "duracion": "2 h 23 min",
-   "sinopsis": "Shin-Ae (Jeon Do-Yeon) es una joven profesora de piano que acaba de quedarse viuda y quiere empezar una nueva vida con su hijo Jun en Miryang, pueblo natal de su difunto marido, cerca de Seúl. Shin-Ae abre una academia de piano y busca tierra de cultivo, preparada para afrontar valientemente a la vida. Pero todas sus expectativas de futuro se derrumban cuando de nuevo una tragedia aparece en su vida... (FILMAFFINITY)",
-   "poster": "https://image.tmdb.org/t/p/w342/qdIKYTahcRgE87uEOE7XtSfIkRh.jpg",
-   "reparto": [
-    {
-     "nombre": "전도연",
-     "foto": "https://image.tmdb.org/t/p/w185/ev2tT7ZbReE06rZy7SX0Mv8evZ7.jpg"
-    },
-    {
-     "nombre": "Song Kang-ho",
-     "foto": "https://image.tmdb.org/t/p/w185/kBM9UTPYXUA2RNk210DXhztLFns.jpg"
-    },
-    {
-     "nombre": "조영진",
-     "foto": "https://image.tmdb.org/t/p/w185/uDIPyNM9Oy31tzlH9YlV0XfGA7S.jpg"
-    },
-    {
-     "nombre": "선정엽",
-     "foto": null
-    },
-    {
-     "nombre": "김영재",
-     "foto": "https://image.tmdb.org/t/p/w185/wSgDPw6fSGgrwJLO0QaITbS758L.jpg"
-    },
-    {
-     "nombre": "Park Myung-shin",
-     "foto": "https://image.tmdb.org/t/p/w185/9aRFozglCaE05NR3zdkhW3AUodR.jpg"
-    }
-   ],
-   "trailer": "https://www.youtube.com/watch?v=yFt-i-LTXpo",
-   "temporadas_det": []
-  },
-  {
-   "id": "27067063",
-   "titulo": "Un trabajo maldito",
-   "tipo": "s",
-   "plataforma": "netflix",
-   "estado": "upcoming",
-   "fecha": "2026-10-30",
-   "genero": "Misterio",
-   "generos": [
-    "Misterio",
-    "Ciencia ficción",
-    "Fantasía"
-   ],
-   "imdb": null,
-   "rt": null,
-   "duracion": "1 temporada, 8 episodios",
-   "sinopsis": "Un joven ahogado por las deudas acepta trabajos temporales de una agencia misteriosa… hasta que su búsqueda de dinero se vuelve una pesadilla.",
-   "poster": "https://image.tmdb.org/t/p/w342/yyA9CI8BLNg6LtVRvmVxki4xiGb.jpg",
-   "reparto": [
-    {
-     "nombre": "이재욱",
-     "foto": "https://image.tmdb.org/t/p/w185/9dsWM2kiXO4utrg4GctdXDvhOKD.jpg"
-    },
-    {
-     "nombre": "고민시",
-     "foto": "https://image.tmdb.org/t/p/w185/tgBb9dDyewLlautcmJH9KSXZz1O.jpg"
-    },
-    {
-     "nombre": "김민하",
-     "foto": "https://image.tmdb.org/t/p/w185/zPNNamrJLWoXADXALQmuTdo6zBS.jpg"
-    },
-    {
-     "nombre": "이희준",
-     "foto": "https://image.tmdb.org/t/p/w185/4slyXnHbKgzmeyJNetBSORgDDEF.jpg"
-    },
-    {
-     "nombre": "Yoon Byung-hee",
-     "foto": "https://image.tmdb.org/t/p/w185/77HOYpL0BI6BN4kaTYUMNIlnLM0.jpg"
-    },
-    {
-     "nombre": "조현철",
-     "foto": "https://image.tmdb.org/t/p/w185/i1yEjtwITyedbFCealmBfuaAn3M.jpg"
-    }
-   ],
-   "trailer": "https://www.youtube.com/watch?v=Sn2ZCxOxsN0",
-   "temporadas_det": [
-    {
-     "n": 1,
-     "eps": [
-      {
-       "n": 1,
-       "t": "Episodio 1",
-       "f": "2026-10-30"
-      },
-      {
-       "n": 2,
-       "t": "Episodio 2",
-       "f": "2026-10-30"
-      },
-      {
-       "n": 3,
-       "t": "Episodio 3",
-       "f": "2026-10-30"
-      },
-      {
-       "n": 4,
-       "t": "Episodio 4",
-       "f": "2026-10-30"
-      },
-      {
-       "n": 5,
-       "t": "Episodio 5",
-       "f": "2026-10-30"
-      },
-      {
-       "n": 6,
-       "t": "Episodio 6",
-       "f": "2026-10-30"
-      },
-      {
-       "n": 7,
-       "t": "Episodio 7",
-       "f": "2026-10-30"
-      },
-      {
-       "n": 8,
-       "t": "Episodio 8",
-       "f": "2026-10-30"
-      }
-     ]
-    }
-   ]
   },
   {
    "id": "2035",
@@ -10941,6 +10684,212 @@
     }
    ],
    "trailer": "https://www.youtube.com/watch?v=P8G5Y25W3eA",
+   "temporadas_det": []
+  },
+  {
+   "id": "27299404",
+   "titulo": "El crimen de Pazos",
+   "tipo": "s",
+   "plataforma": "netflix",
+   "estado": "upcoming",
+   "fecha": "2026-11-13",
+   "genero": "Crimen",
+   "generos": [
+    "Crimen",
+    "Misterio",
+    "Drama"
+   ],
+   "imdb": null,
+   "rt": null,
+   "duracion": "1 temporada, 3 episodios",
+   "sinopsis": "En el tranquilo pueblo de Pazos, Aniceto y su mujer Irene parecen ser la pareja perfecta hasta que, una noche, ella sufre un brutal ataque como resultado de un presunto robo, lo que le lleva al hospital a luchar por su vida. Elías, un sargento de la Guardia Civil, está convencido de que Aniceto es el autor del crimen.",
+   "poster": "https://image.tmdb.org/t/p/w342/t7bQuXEN4dvWtUBY2DUDxsKjZlv.jpg",
+   "reparto": [
+    {
+     "nombre": "Tristán Ulloa",
+     "foto": "https://image.tmdb.org/t/p/w185/sglKcvdU3e8hTy1kOghEbT0GdHS.jpg"
+    },
+    {
+     "nombre": "Carlos Blanco",
+     "foto": null
+    },
+    {
+     "nombre": "Fer Fraga",
+     "foto": "https://image.tmdb.org/t/p/w185/k88nGh91fLjdnS0etnU8BrkGwlh.jpg"
+    },
+    {
+     "nombre": "Miguel Borines",
+     "foto": "https://image.tmdb.org/t/p/w185/zWJ71vcHjuJB7GsMMpO7JElyWdK.jpg"
+    },
+    {
+     "nombre": "Marta Nieto",
+     "foto": "https://image.tmdb.org/t/p/w185/59261r4l1nqgdnvRPmmCBa7y98M.jpg"
+    },
+    {
+     "nombre": "Verónica Sánchez",
+     "foto": "https://image.tmdb.org/t/p/w185/4Z7OHkdHIQ9VPp3JBU8QPUzMewR.jpg"
+    }
+   ],
+   "trailer": null,
+   "temporadas_det": [
+    {
+     "n": 1,
+     "eps": [
+      {
+       "n": 1,
+       "t": "Episodio 1",
+       "f": "2026-11-13"
+      },
+      {
+       "n": 2,
+       "t": "Episodio 2",
+       "f": "2026-11-13"
+      },
+      {
+       "n": 3,
+       "t": "Episodio 3",
+       "f": "2026-11-13"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "26603358",
+   "titulo": "Heartland",
+   "tipo": "p",
+   "plataforma": "netflix",
+   "estado": "upcoming",
+   "fecha": "2026-11-13",
+   "genero": "Misterio",
+   "generos": [
+    "Misterio",
+    "Suspense"
+   ],
+   "imdb": null,
+   "rt": null,
+   "duracion": "",
+   "sinopsis": "",
+   "poster": "https://image.tmdb.org/t/p/w342/zhxlzxBlO1sWB1rPn7RmAoeQ2na.jpg",
+   "reparto": [
+    {
+     "nombre": "Jessica Chastain",
+     "foto": "https://image.tmdb.org/t/p/w185/mR1ELpP0T2Q1ZRSaADPgtrbPGla.jpg"
+    },
+    {
+     "nombre": "Garrett Hedlund",
+     "foto": "https://image.tmdb.org/t/p/w185/9zec61HuFJgiUEzPSt0NfPIj0Xv.jpg"
+    },
+    {
+     "nombre": "Carter Faith",
+     "foto": "https://image.tmdb.org/t/p/w185/bO46yvJpxObiPnnwEmQNk4FxJ83.jpg"
+    },
+    {
+     "nombre": "Ross Lynch",
+     "foto": "https://image.tmdb.org/t/p/w185/AlCEYF6SbZtCoOWBkVZvzdufMjs.jpg"
+    },
+    {
+     "nombre": "Jennifer Nettles",
+     "foto": "https://image.tmdb.org/t/p/w185/s6IDogtE93cMaMe4EYBjUeXVOV4.jpg"
+    },
+    {
+     "nombre": "Hill Harper",
+     "foto": "https://image.tmdb.org/t/p/w185/cgaRPrgB4DBxogIgiLwuABVmJVw.jpg"
+    }
+   ],
+   "trailer": "https://www.youtube.com/watch?v=ziIz59enN1c",
+   "temporadas_det": []
+  },
+  {
+   "id": "24669036",
+   "titulo": "Madden",
+   "tipo": "p",
+   "plataforma": "prime",
+   "estado": "upcoming",
+   "fecha": "2026-11-18",
+   "genero": "Drama",
+   "generos": [
+    "Drama",
+    "Historia"
+   ],
+   "imdb": null,
+   "rt": null,
+   "duracion": "1 h 50 min",
+   "sinopsis": "Narra la increíble trayectoria de John Madden junto a su mejor amigo y figura verdaderamente singular, Al Davis: desde su colaboración con los Raiders —con quienes ganaron un Super Bowl— hasta convertirse en la voz más reconocible del fútbol americano y crear la serie de videojuegos Madden NFL, conocida a nivel mundial.",
+   "poster": "https://image.tmdb.org/t/p/w342/bRa83oPFFPqaAF3wrpVWPqqfFel.jpg",
+   "reparto": [
+    {
+     "nombre": "Nicolas Cage",
+     "foto": "https://image.tmdb.org/t/p/w185/y1RtezurZYveYkVNRht7CwEgSYY.jpg"
+    },
+    {
+     "nombre": "Christian Bale",
+     "foto": "https://image.tmdb.org/t/p/w185/7Pxez9J8fuPd2Mn9kex13YALrCQ.jpg"
+    },
+    {
+     "nombre": "John Mulaney",
+     "foto": "https://image.tmdb.org/t/p/w185/i3dGv3WoIONVLSlOpW4NIaT8Fs2.jpg"
+    },
+    {
+     "nombre": "Kathryn Hahn",
+     "foto": "https://image.tmdb.org/t/p/w185/9sVllAKfEls3SJD3GoPm2JEZoa5.jpg"
+    },
+    {
+     "nombre": "Sienna Miller",
+     "foto": "https://image.tmdb.org/t/p/w185/lq2mEeDbL98bSz0H7xcHA3F2Rrb.jpg"
+    },
+    {
+     "nombre": "Shane Gillis",
+     "foto": "https://image.tmdb.org/t/p/w185/ijRXBDjfazwne2jxjWEaaWqPw2.jpg"
+    }
+   ],
+   "trailer": "https://www.youtube.com/watch?v=xzh7HzLXXpk",
+   "temporadas_det": []
+  },
+  {
+   "id": "26597286",
+   "titulo": "Guarding Stars",
+   "tipo": "p",
+   "plataforma": "netflix",
+   "estado": "upcoming",
+   "fecha": "2026-11-18",
+   "genero": "Comedia",
+   "generos": [
+    "Comedia",
+    "Romance"
+   ],
+   "imdb": null,
+   "rt": null,
+   "duracion": "",
+   "sinopsis": "",
+   "poster": "https://image.tmdb.org/t/p/w342/wWNizZ4IcSld3xXH1WEXziJiNJN.jpg",
+   "reparto": [
+    {
+     "nombre": "Leighton Meester",
+     "foto": "https://image.tmdb.org/t/p/w185/6P8sa2eR2wpNkA1n1NVHREaeXPV.jpg"
+    },
+    {
+     "nombre": "Jared Padalecki",
+     "foto": "https://image.tmdb.org/t/p/w185/dTV5ImKP5uIdFShiG3VFbbjLFWo.jpg"
+    },
+    {
+     "nombre": "Andie MacDowell",
+     "foto": "https://image.tmdb.org/t/p/w185/akeheO4i3cR1HpSU8yu9HrLcsKm.jpg"
+    },
+    {
+     "nombre": "Walker Hayes",
+     "foto": "https://image.tmdb.org/t/p/w185/8kC7c8lO9grfgCP5FxLmEKCKMP6.jpg"
+    },
+    {
+     "nombre": "Noah LaLonde",
+     "foto": "https://image.tmdb.org/t/p/w185/kFN2p5zW8kbsLaEOA4usN88lq86.jpg"
+    },
+    {
+     "nombre": "Toby Sandeman",
+     "foto": "https://image.tmdb.org/t/p/w185/5ZmXTHbRlbkQDtga4Cbk447osUY.jpg"
+    }
+   ],
+   "trailer": "https://www.youtube.com/watch?v=mFvtVPMa5ak",
    "temporadas_det": []
   }
  ]
