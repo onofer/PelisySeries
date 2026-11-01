@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-01T12:57:40+00:00",
+ "generado": "2026-11-01T20:00:56+00:00",
  "pais": "ES",
  "items": [
   {
@@ -48,50 +48,49 @@
    "temporadas_det": []
   },
   {
-   "id": "62358",
-   "titulo": "Aguja en una pila de tiempo",
+   "id": "8606",
+   "titulo": "Una novia para dos",
    "tipo": "p",
    "plataforma": "prime",
    "estado": "expiring",
    "fecha": "2026-11-01",
-   "genero": "Drama",
+   "genero": "Romance",
    "generos": [
-    "Drama",
     "Romance",
-    "Ciencia ficción"
+    "Comedia"
    ],
-   "imdb": 5.3,
-   "rt": 38,
-   "duracion": "1 h 51 min",
-   "sinopsis": "Nick y Janine viven en la felicidad conyugal hasta que el exmarido de Janine distorsiona el tiempo para intentar separarlos. A medida que los recuerdos de Nick desaparecen, debe decidir qué está dispuesto a sacrificar para conservar -o dejar ir- todo lo que ama.",
-   "poster": "https://image.tmdb.org/t/p/w342/rjGYOszxlaUAe6EC5yZ4Q8l3aVL.jpg",
+   "imdb": 5.7,
+   "rt": 14,
+   "duracion": "1 h 41 min",
+   "sinopsis": "Tank (Dane Cook) es un joven especialista en seducir y, sobre todo, en ofender a las mujeres. Y por eso le contratan: los ex novios le pagan para que salga con sus ex chicas y haga que pasen un rato horrible. Después, tras esa cita espantosa, ellas suelen volver encantadas. Todo va bien hasta que el mejor amigo de Tank, Dustin (Jason Biggs), contrata sus servicios para recuperar a su ex, Alexis (Kate Hudson). Pero la presunta horrible cita no lo es tanto y Tank se enamora de Alexis.",
+   "poster": "https://image.tmdb.org/t/p/w342/8cA1gDSDKApO6mc8yxOa9SeGzHa.jpg",
    "reparto": [
     {
-     "nombre": "Leslie Odom Jr.",
-     "foto": "https://image.tmdb.org/t/p/w185/pDA11JMNAGQGJo7nRpZHp7pdp9N.jpg"
+     "nombre": "Dane Cook",
+     "foto": "https://image.tmdb.org/t/p/w185/4UGHKnDOf75GZR5z0QHjrhjfpIu.jpg"
     },
     {
-     "nombre": "Cynthia Erivo",
-     "foto": "https://image.tmdb.org/t/p/w185/gIAXqZwZCBqkh2ppfAV4xcnMxki.jpg"
+     "nombre": "Kate Hudson",
+     "foto": "https://image.tmdb.org/t/p/w185/s79lH1QzEg2fkXULKBxRmU9aNr8.jpg"
     },
     {
-     "nombre": "Freida Pinto",
-     "foto": "https://image.tmdb.org/t/p/w185/tub18dfDNMxlempVIuPXh8fmZVs.jpg"
+     "nombre": "Jason Biggs",
+     "foto": "https://image.tmdb.org/t/p/w185/3nRgOQylYbNuDiddtNoh8uWTz5P.jpg"
     },
     {
-     "nombre": "Jadyn Wong",
-     "foto": "https://image.tmdb.org/t/p/w185/gV3nVEq8qqN1bhM91fCQMXgjGJ7.jpg"
+     "nombre": "Alec Baldwin",
+     "foto": "https://image.tmdb.org/t/p/w185/hzKy7x574eeUS3wt1R3yvWBRpeR.jpg"
     },
     {
-     "nombre": "Orlando Bloom",
-     "foto": "https://image.tmdb.org/t/p/w185/lwQoA0qJTCZ6l2FH6PjmhRQjiaB.jpg"
+     "nombre": "Lizzy Caplan",
+     "foto": "https://image.tmdb.org/t/p/w185/cHs9pPpjcEMpWrGmrAYAn0QOE78.jpg"
     },
     {
-     "nombre": "Ulka Simone Mohanty",
-     "foto": "https://image.tmdb.org/t/p/w185/vGxK0NL21sxQUcTY8zDh6jNGwp3.jpg"
+     "nombre": "Diora Baird",
+     "foto": "https://image.tmdb.org/t/p/w185/iOVBvwBhcHIZuLZT3S9tJQ6mbTT.jpg"
     }
    ],
-   "trailer": "https://www.youtube.com/watch?v=ZPKL9aSgbCw",
+   "trailer": "https://www.youtube.com/watch?v=PsIt1K1C2c4",
    "temporadas_det": []
   },
   {
@@ -184,52 +183,6 @@
     }
    ],
    "trailer": null,
-   "temporadas_det": []
-  },
-  {
-   "id": "8606",
-   "titulo": "Una novia para dos",
-   "tipo": "p",
-   "plataforma": "prime",
-   "estado": "expiring",
-   "fecha": "2026-11-01",
-   "genero": "Romance",
-   "generos": [
-    "Romance",
-    "Comedia"
-   ],
-   "imdb": 5.7,
-   "rt": 14,
-   "duracion": "1 h 41 min",
-   "sinopsis": "Tank (Dane Cook) es un joven especialista en seducir y, sobre todo, en ofender a las mujeres. Y por eso le contratan: los ex novios le pagan para que salga con sus ex chicas y haga que pasen un rato horrible. Después, tras esa cita espantosa, ellas suelen volver encantadas. Todo va bien hasta que el mejor amigo de Tank, Dustin (Jason Biggs), contrata sus servicios para recuperar a su ex, Alexis (Kate Hudson). Pero la presunta horrible cita no lo es tanto y Tank se enamora de Alexis.",
-   "poster": "https://image.tmdb.org/t/p/w342/8cA1gDSDKApO6mc8yxOa9SeGzHa.jpg",
-   "reparto": [
-    {
-     "nombre": "Dane Cook",
-     "foto": "https://image.tmdb.org/t/p/w185/4UGHKnDOf75GZR5z0QHjrhjfpIu.jpg"
-    },
-    {
-     "nombre": "Kate Hudson",
-     "foto": "https://image.tmdb.org/t/p/w185/s79lH1QzEg2fkXULKBxRmU9aNr8.jpg"
-    },
-    {
-     "nombre": "Jason Biggs",
-     "foto": "https://image.tmdb.org/t/p/w185/3nRgOQylYbNuDiddtNoh8uWTz5P.jpg"
-    },
-    {
-     "nombre": "Alec Baldwin",
-     "foto": "https://image.tmdb.org/t/p/w185/hzKy7x574eeUS3wt1R3yvWBRpeR.jpg"
-    },
-    {
-     "nombre": "Lizzy Caplan",
-     "foto": "https://image.tmdb.org/t/p/w185/cHs9pPpjcEMpWrGmrAYAn0QOE78.jpg"
-    },
-    {
-     "nombre": "Diora Baird",
-     "foto": "https://image.tmdb.org/t/p/w185/iOVBvwBhcHIZuLZT3S9tJQ6mbTT.jpg"
-    }
-   ],
-   "trailer": "https://www.youtube.com/watch?v=PsIt1K1C2c4",
    "temporadas_det": []
   },
   {
@@ -352,6 +305,53 @@
     }
    ],
    "trailer": "https://www.youtube.com/watch?v=9gEiRcNc2Rs",
+   "temporadas_det": []
+  },
+  {
+   "id": "62358",
+   "titulo": "Aguja en una pila de tiempo",
+   "tipo": "p",
+   "plataforma": "prime",
+   "estado": "expiring",
+   "fecha": "2026-11-01",
+   "genero": "Drama",
+   "generos": [
+    "Drama",
+    "Romance",
+    "Ciencia ficción"
+   ],
+   "imdb": 5.3,
+   "rt": 38,
+   "duracion": "1 h 51 min",
+   "sinopsis": "Nick y Janine viven en la felicidad conyugal hasta que el exmarido de Janine distorsiona el tiempo para intentar separarlos. A medida que los recuerdos de Nick desaparecen, debe decidir qué está dispuesto a sacrificar para conservar -o dejar ir- todo lo que ama.",
+   "poster": "https://image.tmdb.org/t/p/w342/rjGYOszxlaUAe6EC5yZ4Q8l3aVL.jpg",
+   "reparto": [
+    {
+     "nombre": "Leslie Odom Jr.",
+     "foto": "https://image.tmdb.org/t/p/w185/pDA11JMNAGQGJo7nRpZHp7pdp9N.jpg"
+    },
+    {
+     "nombre": "Cynthia Erivo",
+     "foto": "https://image.tmdb.org/t/p/w185/gIAXqZwZCBqkh2ppfAV4xcnMxki.jpg"
+    },
+    {
+     "nombre": "Freida Pinto",
+     "foto": "https://image.tmdb.org/t/p/w185/tub18dfDNMxlempVIuPXh8fmZVs.jpg"
+    },
+    {
+     "nombre": "Jadyn Wong",
+     "foto": "https://image.tmdb.org/t/p/w185/gV3nVEq8qqN1bhM91fCQMXgjGJ7.jpg"
+    },
+    {
+     "nombre": "Orlando Bloom",
+     "foto": "https://image.tmdb.org/t/p/w185/lwQoA0qJTCZ6l2FH6PjmhRQjiaB.jpg"
+    },
+    {
+     "nombre": "Ulka Simone Mohanty",
+     "foto": "https://image.tmdb.org/t/p/w185/vGxK0NL21sxQUcTY8zDh6jNGwp3.jpg"
+    }
+   ],
+   "trailer": "https://www.youtube.com/watch?v=ZPKL9aSgbCw",
    "temporadas_det": []
   },
   {
@@ -2966,51 +2966,6 @@
     }
    ],
    "trailer": "https://www.youtube.com/watch?v=BnBMoZ0-zZw",
-   "temporadas_det": []
-  },
-  {
-   "id": "48400",
-   "titulo": "El ataque de los muertos sin ojos",
-   "tipo": "p",
-   "plataforma": "prime",
-   "estado": "new",
-   "fecha": "2026-11-01",
-   "genero": "Terror",
-   "generos": [
-    "Terror"
-   ],
-   "imdb": 5.7,
-   "rt": 25,
-   "duracion": "1 h 31 min",
-   "sinopsis": "Un grupo de templarios que fueron ejecutados por cometer sacrificios humanos, regresa para vengarse. Encerrados en una catedral, un grupo de gente intentará acabar con ellos.",
-   "poster": "https://image.tmdb.org/t/p/w342/xBFsSkCiaPKVCj81yZx1mpcRbA2.jpg",
-   "reparto": [
-    {
-     "nombre": "Tony Kendall",
-     "foto": "https://image.tmdb.org/t/p/w185/rbiwlLTFPN95NKnPRh4BwfCgRRU.jpg"
-    },
-    {
-     "nombre": "Fernando Sancho Les",
-     "foto": "https://image.tmdb.org/t/p/w185/zttePUBplDv07MPT4jYPO4daAq5.jpg"
-    },
-    {
-     "nombre": "Esperanza Roy",
-     "foto": "https://image.tmdb.org/t/p/w185/i4NMYbfYyCoZR9ilUf9KrorNLvc.jpg"
-    },
-    {
-     "nombre": "Frank Braña",
-     "foto": "https://image.tmdb.org/t/p/w185/cVl6735BB319Xm8q2N39upkN177.jpg"
-    },
-    {
-     "nombre": "José Canalejas",
-     "foto": "https://image.tmdb.org/t/p/w185/j0Es58iqXQC1HlEVyqmZiZp8PCf.jpg"
-    },
-    {
-     "nombre": "Loreta Tovar",
-     "foto": "https://image.tmdb.org/t/p/w185/aXeQ180xkINFSBk9aPDKuhTc7EL.jpg"
-    }
-   ],
-   "trailer": "https://www.youtube.com/watch?v=im_Aq5RMMSM",
    "temporadas_det": []
   },
   {
