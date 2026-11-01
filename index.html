@@ -112,12 +112,14 @@ var S={tab:"nuevo",on:{netflix:1,prime:1,disney:1,hbo:1},tipo:"",gen:"",nota:0,q
 function $(i){return document.getElementById(i)}
 function ls(k,v){try{if(v===undefined)return localStorage.getItem(k)||"";if(v===null)localStorage.removeItem(k);else localStorage.setItem(k,v)}catch(e){}return ""}
 function E(s){return String(s==null?"":s).replace(/[&<>"]/g,function(c){return{"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]})}
-try{var s0=JSON.parse(ls("estado")||"null");if(s0)ST=s0}catch(e){}
+function loadST(k){try{var o=JSON.parse(ls(k)||"null");return o&&o.p?o:null}catch(e){return null}}
+var ADOPT=false,AVISO="";
+ST=loadST("estado")||ST;
 var USER=null;
 function K(x){return String(x.id||x.titulo)}
 function on(m,k){var a=ST[m][k];return !!(a&&a.v)}
 function put(m,k,v){ST[m][k]={v:v?1:0,t:Date.now()}}
-function save(){var lim=Date.now()-90*864e5;["p","v","e"].forEach(function(m){for(var k in ST[m]){var a=ST[m][k];if(!a.v&&a.t<lim)delete ST[m][k]}});ls("estado",JSON.stringify(ST))}
+function save(){var lim=Date.now()-90*864e5;["p","v","e"].forEach(function(m){for(var k in ST[m]){var a=ST[m][k];if(!a.v&&a.t<lim)delete ST[m][k]}});ls(USER?"estado_"+USER.uid:"estado",JSON.stringify(ST))}
 function off(iso){var a=new Date(iso+"T00:00:00"),b=new Date();b.setHours(0,0,0,0);return Math.round((a-b)/864e5)}
 function rel(n){return n==0?"Hoy":n==1?"Mañana":n==-1?"Ayer":n>0?"En "+n+" días":"Hace "+(-n)+" días"}
 function fdate(n){var d=new Date();d.setDate(d.getDate()+n);return d.toLocaleDateString("es-ES",{weekday:"long",day:"numeric",month:"long"})}
@@ -161,9 +163,13 @@ function setS(t){$("sst").textContent=t}
 function merge(o){["p","v","e"].forEach(function(m){var s=o[m]||{};for(var k in s){var a=ST[m][k];if(!a||s[k].t>a.t)ST[m][k]=s[k]}})}
 function sync(){if(!USER||!window.FB)return Promise.resolve();setS("Sincronizando…");
   return FB.load().then(function(o){if(o)merge(o);save();return FB.save(ST)})
-  .then(function(){setS("Sesión iniciada como "+USER.email+". Última sincronización: "+new Date().toLocaleTimeString("es-ES",{hour:"2-digit",minute:"2-digit"}));render();if(CUR&&$("dlg").open)ficha(CUR)})
-  .catch(function(e){setS("Error al sincronizar ("+(e.code||e.message)+").")})}
-window.onUser=function(u){USER=u;render();if(u)sync();else setS("Aún no has iniciado sesión.")};
+  .then(function(){if(ADOPT){ls("estado",null);ADOPT=false}setS("Sesión iniciada como "+USER.email+". Última sincronización: "+new Date().toLocaleTimeString("es-ES",{hour:"2-digit",minute:"2-digit"}));render();if(CUR&&$("dlg").open)ficha(CUR)})
+  .catch(function(e){if(e.code=="permission-denied"){AVISO="La cuenta "+(USER?USER.email:"")+" no tiene permiso en esta base de datos. Se ha cerrado su sesión: entra con tu cuenta autorizada.";FB.logout()}else setS("Error al sincronizar ("+(e.code||e.message)+").")})}
+window.onUser=function(u){
+  if(u){var own=loadST("estado_"+u.uid),anon=loadST("estado");USER=u;ST=own||anon||{p:{},v:{},e:{}};ADOPT=!own&&!!anon}
+  else{USER=null;ADOPT=false;ST=loadST("estado")||{p:{},v:{},e:{}}}
+  render();if(CUR&&$("dlg").open)ficha(CUR);
+  if(u)sync();else{setS(AVISO||"Aún no has iniciado sesión.");AVISO=""}};
 document.addEventListener("click",function(e){var t=e.target,c;
   if(c=t.closest("[data-t]")){S.tab=c.dataset.t;render();return}
   if(c=t.closest("[data-p]")){S.on[c.dataset.p]=S.on[c.dataset.p]?0:1;render();return}
@@ -174,7 +180,7 @@ document.addEventListener("click",function(e){var t=e.target,c;
   if(t.tagName=="DIALOG")t.close();
   if(t.id=="sbtn"){setS(USER?"Sesión iniciada como "+USER.email+".":"Inicia sesión con Google para guardar tus listas en la nube.");$("sdlg").showModal()}
   if(t.id=="login"){if(!window.FB)setS("Firebase aún no ha cargado, inténtalo de nuevo en unos segundos.");else FB.login().catch(function(err){setS("No se pudo iniciar sesión ("+(err.code||err.message)+")")})}
-  if(t.id=="logout"&&window.FB){FB.logout().then(function(){setS("Sesión cerrada. Tu lista sigue guardada en este navegador.")})}
+  if(t.id=="logout"&&window.FB){AVISO="Sesión cerrada. Tus listas siguen guardadas en tu cuenta: vuelve a entrar para verlas.";FB.logout()}
 });
 document.addEventListener("change",function(e){var t=e.target;if(t.dataset&&t.dataset.q){togEp(CUR,t.dataset.q,t.checked)}});
 document.addEventListener("toggle",function(e){var t=e.target;if(t.classList&&t.classList.contains("tp"))OPEN[t.dataset.n]=t.open},true);
