@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-01T20:00:56+00:00",
+ "generado": "2026-11-01T21:52:52+00:00",
  "pais": "ES",
  "items": [
   {
@@ -94,98 +94,6 @@
    "temporadas_det": []
   },
   {
-   "id": "9631",
-   "titulo": "La fría luz del día",
-   "tipo": "p",
-   "plataforma": "prime",
-   "estado": "expiring",
-   "fecha": "2026-11-01",
-   "genero": "Acción",
-   "generos": [
-    "Acción",
-    "Suspense",
-    "Misterio"
-   ],
-   "imdb": 5.0,
-   "rt": 4,
-   "duracion": "1 h 33 min",
-   "sinopsis": "“La fría luz del día” nos cuenta la historia de Will Shaw, un joven norteamericano cuya familia es secuestrada cuando se encuentran en plenas vacaciones por España. Shaw dispone de pocas horas para encontrarlos, poner al descubierto una conspiración del gobierno y además encontrar la conexión existente entre la desaparición de su familia y los secretos de su padre.",
-   "poster": "https://image.tmdb.org/t/p/w342/iiTJrl57Upfs3e80LyIGf50kNAq.jpg",
-   "reparto": [
-    {
-     "nombre": "Henry Cavill",
-     "foto": "https://image.tmdb.org/t/p/w185/dgTD7Q9owL3DyX9uYoSX9KZeUUz.jpg"
-    },
-    {
-     "nombre": "Bruce Willis",
-     "foto": "https://image.tmdb.org/t/p/w185/w3aXr1e7gQCn8MSp1vW4sXHn99P.jpg"
-    },
-    {
-     "nombre": "Sigourney Weaver",
-     "foto": "https://image.tmdb.org/t/p/w185/wTSnfktNBLd6kwQxgvkqYw6vEon.jpg"
-    },
-    {
-     "nombre": "Verónica Echegui",
-     "foto": "https://image.tmdb.org/t/p/w185/A6bHIHnDlmKY6pWOlgLNsUf60W5.jpg"
-    },
-    {
-     "nombre": "Joseph Mawle",
-     "foto": "https://image.tmdb.org/t/p/w185/1Ocb9v3h54beGVoJMm4w50UQhLf.jpg"
-    },
-    {
-     "nombre": "Caroline Goodall",
-     "foto": "https://image.tmdb.org/t/p/w185/4cagGtMqACvkuw6Llq8Li8UJ1AR.jpg"
-    }
-   ],
-   "trailer": "https://www.youtube.com/watch?v=tNlVzFeKKcQ",
-   "temporadas_det": []
-  },
-  {
-   "id": "4812261",
-   "titulo": "L'amour au temps de la guerre civile",
-   "tipo": "p",
-   "plataforma": "prime",
-   "estado": "expiring",
-   "fecha": "2026-11-01",
-   "genero": "Drama",
-   "generos": [
-    "Drama"
-   ],
-   "imdb": 5.3,
-   "rt": null,
-   "duracion": "2 h 00 min",
-   "sinopsis": "A young addict and prostitute and his friends in Montreal become fallen angels of a dark and violent time.",
-   "poster": "https://image.tmdb.org/t/p/w342/208DVfNWIXAMUtd0cvT5id1ygE2.jpg",
-   "reparto": [
-    {
-     "nombre": "Alexandre Landry",
-     "foto": "https://image.tmdb.org/t/p/w185/OmGOXEqqFspcS3pP3uwSkEefVj.jpg"
-    },
-    {
-     "nombre": "Jean-Simon Leduc",
-     "foto": "https://image.tmdb.org/t/p/w185/aO20bc5T3HZe1ADIkyyoXFgTAbT.jpg"
-    },
-    {
-     "nombre": "Simon Lefebvre",
-     "foto": null
-    },
-    {
-     "nombre": "Catherine-Audrey Lachapelle",
-     "foto": "https://image.tmdb.org/t/p/w185/56SU5sagRTDIXCUwMXKGDco0r5.jpg"
-    },
-    {
-     "nombre": "Ana Christina Alva",
-     "foto": null
-    },
-    {
-     "nombre": "Éric Robidoux",
-     "foto": "https://image.tmdb.org/t/p/w185/qquKYjVWugnJv5dgbI7sfjsZaXP.jpg"
-    }
-   ],
-   "trailer": null,
-   "temporadas_det": []
-  },
-  {
    "id": "7199",
    "titulo": "Historias de San Francisco",
    "tipo": "s",
@@ -261,6 +169,98 @@
      ]
     }
    ]
+  },
+  {
+   "id": "4812261",
+   "titulo": "L'amour au temps de la guerre civile",
+   "tipo": "p",
+   "plataforma": "prime",
+   "estado": "expiring",
+   "fecha": "2026-11-01",
+   "genero": "Drama",
+   "generos": [
+    "Drama"
+   ],
+   "imdb": 5.3,
+   "rt": null,
+   "duracion": "2 h 00 min",
+   "sinopsis": "A young addict and prostitute and his friends in Montreal become fallen angels of a dark and violent time.",
+   "poster": "https://image.tmdb.org/t/p/w342/208DVfNWIXAMUtd0cvT5id1ygE2.jpg",
+   "reparto": [
+    {
+     "nombre": "Alexandre Landry",
+     "foto": "https://image.tmdb.org/t/p/w185/OmGOXEqqFspcS3pP3uwSkEefVj.jpg"
+    },
+    {
+     "nombre": "Jean-Simon Leduc",
+     "foto": "https://image.tmdb.org/t/p/w185/aO20bc5T3HZe1ADIkyyoXFgTAbT.jpg"
+    },
+    {
+     "nombre": "Simon Lefebvre",
+     "foto": null
+    },
+    {
+     "nombre": "Catherine-Audrey Lachapelle",
+     "foto": "https://image.tmdb.org/t/p/w185/56SU5sagRTDIXCUwMXKGDco0r5.jpg"
+    },
+    {
+     "nombre": "Ana Christina Alva",
+     "foto": null
+    },
+    {
+     "nombre": "Éric Robidoux",
+     "foto": "https://image.tmdb.org/t/p/w185/qquKYjVWugnJv5dgbI7sfjsZaXP.jpg"
+    }
+   ],
+   "trailer": null,
+   "temporadas_det": []
+  },
+  {
+   "id": "9631",
+   "titulo": "La fría luz del día",
+   "tipo": "p",
+   "plataforma": "prime",
+   "estado": "expiring",
+   "fecha": "2026-11-01",
+   "genero": "Acción",
+   "generos": [
+    "Acción",
+    "Suspense",
+    "Misterio"
+   ],
+   "imdb": 5.0,
+   "rt": 4,
+   "duracion": "1 h 33 min",
+   "sinopsis": "“La fría luz del día” nos cuenta la historia de Will Shaw, un joven norteamericano cuya familia es secuestrada cuando se encuentran en plenas vacaciones por España. Shaw dispone de pocas horas para encontrarlos, poner al descubierto una conspiración del gobierno y además encontrar la conexión existente entre la desaparición de su familia y los secretos de su padre.",
+   "poster": "https://image.tmdb.org/t/p/w342/iiTJrl57Upfs3e80LyIGf50kNAq.jpg",
+   "reparto": [
+    {
+     "nombre": "Henry Cavill",
+     "foto": "https://image.tmdb.org/t/p/w185/dgTD7Q9owL3DyX9uYoSX9KZeUUz.jpg"
+    },
+    {
+     "nombre": "Bruce Willis",
+     "foto": "https://image.tmdb.org/t/p/w185/w3aXr1e7gQCn8MSp1vW4sXHn99P.jpg"
+    },
+    {
+     "nombre": "Sigourney Weaver",
+     "foto": "https://image.tmdb.org/t/p/w185/wTSnfktNBLd6kwQxgvkqYw6vEon.jpg"
+    },
+    {
+     "nombre": "Verónica Echegui",
+     "foto": "https://image.tmdb.org/t/p/w185/A6bHIHnDlmKY6pWOlgLNsUf60W5.jpg"
+    },
+    {
+     "nombre": "Joseph Mawle",
+     "foto": "https://image.tmdb.org/t/p/w185/1Ocb9v3h54beGVoJMm4w50UQhLf.jpg"
+    },
+    {
+     "nombre": "Caroline Goodall",
+     "foto": "https://image.tmdb.org/t/p/w185/4cagGtMqACvkuw6Llq8Li8UJ1AR.jpg"
+    }
+   ],
+   "trailer": "https://www.youtube.com/watch?v=tNlVzFeKKcQ",
+   "temporadas_det": []
   },
   {
    "id": "301",
