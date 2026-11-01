@@ -101,25 +101,23 @@ footer{margin-top:40px;color:var(--mut);font-size:12px;border-top:1px solid var(
 <dialog id="sdlg" class="sd" aria-label="Sincronización"><div class="in">
 <h3 style="margin:0 0 8px;font-size:22px">Sincronizar entre dispositivos</h3>
 <p class="m" id="sst"></p>
-<ol><li>En GitHub: Settings, Developer settings, Personal access tokens, Tokens (classic), Generate new token (classic).</li><li>Marca solo el permiso <b>gist</b> y genera el token.</li><li>Pégalo aquí. Repite lo mismo en cada dispositivo con el mismo token.</li></ol>
-<input type="password" id="tok" placeholder="Token de GitHub" autocomplete="off">
-<div class="acts"><button class="btn pri" id="conn">Conectar</button><button class="btn" id="disc">Desconectar</button><button class="btn" data-x="1">Cerrar</button></div>
-<p class="m" style="margin-top:12px">Tu lista se guarda en un gist secreto de tu cuenta. El token se queda solo en este navegador.</p>
+<p class="m">Tus pendientes, vistos y episodios vistos se guardan en tu cuenta, así que los verás igual en el móvil y en el ordenador.</p>
+<div class="acts"><button class="btn pri" id="login">Entrar con Google</button><button class="btn" id="logout">Cerrar sesión</button><button class="btn" data-x="1">Cerrar</button></div>
 </div></dialog>
 <script>
 var P={netflix:{n:"Netflix",c:"#e50914"},prime:{n:"Prime Video",c:"#1a98ff"},disney:{n:"Disney+",c:"#4d62f0"},hbo:{n:"HBO Max",c:"#9b5cff"}};
 var TABS=[["nuevo","Novedades"],["prox","Próximamente"],["sale","Salen pronto"],["pend","Pendientes"],["vist","Vistos"]];
-var D=[],GEN="",CUR=null,OPEN={},ST={p:{},v:{},e:{}},timer,DESC="PelisySeries lista",FILE="pelisyseries.json";
+var D=[],GEN="",CUR=null,OPEN={},ST={p:{},v:{},e:{}},timer;
 var S={tab:"nuevo",on:{netflix:1,prime:1,disney:1,hbo:1},tipo:"",gen:"",nota:0,q:"",oc:1};
 function $(i){return document.getElementById(i)}
 function ls(k,v){try{if(v===undefined)return localStorage.getItem(k)||"";if(v===null)localStorage.removeItem(k);else localStorage.setItem(k,v)}catch(e){}return ""}
 function E(s){return String(s==null?"":s).replace(/[&<>"]/g,function(c){return{"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]})}
 try{var s0=JSON.parse(ls("estado")||"null");if(s0)ST=s0}catch(e){}
-var TOK=ls("sync_tok"),GID=ls("sync_gid");
+var USER=null;
 function K(x){return String(x.id||x.titulo)}
 function on(m,k){var a=ST[m][k];return !!(a&&a.v)}
 function put(m,k,v){ST[m][k]={v:v?1:0,t:Date.now()}}
-function save(){ls("estado",JSON.stringify(ST))}
+function save(){var lim=Date.now()-90*864e5;["p","v","e"].forEach(function(m){for(var k in ST[m]){var a=ST[m][k];if(!a.v&&a.t<lim)delete ST[m][k]}});ls("estado",JSON.stringify(ST))}
 function off(iso){var a=new Date(iso+"T00:00:00"),b=new Date();b.setHours(0,0,0,0);return Math.round((a-b)/864e5)}
 function rel(n){return n==0?"Hoy":n==1?"Mañana":n==-1?"Ayer":n>0?"En "+n+" días":"Hace "+(-n)+" días"}
 function fdate(n){var d=new Date();d.setDate(d.getDate()+n);return d.toLocaleDateString("es-ES",{weekday:"long",day:"numeric",month:"long"})}
@@ -139,7 +137,7 @@ function render(){
   $("sub").textContent="Datos actualizados: "+(GEN||"sin datos");
   $("tabs").innerHTML=TABS.map(function(t){return '<button class="tab" role="tab" data-t="'+t[0]+'" aria-selected="'+(S.tab==t[0])+'">'+t[1]+'<b>'+lista(t[0]).length+'</b></button>'}).join("");
   $("chips").innerHTML=Object.keys(P).map(function(k){return '<button class="chip" data-p="'+k+'" aria-pressed="'+!!S.on[k]+'" style="--c:'+P[k].c+'"><i></i>'+P[k].n+'</button>'}).join("");
-  $("sbtn").textContent=TOK?"Sincronizado":"Sincronizar";
+  $("sbtn").textContent=USER?"Sincronizado":"Entrar";
   var r=lista(S.tab);
   if(!r.length){$("list").innerHTML='<div class="empty">'+(S.tab=="pend"||S.tab=="vist"?"Aún no hay nada aquí. Abre un título y márcalo.":"No hay títulos con estos filtros.")+'</div>';return}
   var h="",last=null;
@@ -158,18 +156,14 @@ function ficha(x){CUR=x;var d=$("dlg"),p=P[x.plataforma],k=K(x),ep=eps(x),n=off(
     return '<details class="tp" data-n="'+t.n+'"'+(OPEN[t.n]?' open':'')+'><summary>Temporada '+t.n+'<b>'+c+'/'+ks.length+'</b></summary><button class="btn" data-ts="'+t.n+'">'+(c==ks.length?"Desmarcar temporada":"Marcar temporada")+'</button>'+t.eps.map(function(e,j){return '<label class="ep"><input type="checkbox" data-q="'+E(ks[j])+'"'+(on("e",ks[j])?' checked':'')+'><span>'+e.n+'. '+E(e.t||"Episodio")+'</span><small>'+(e.f?new Date(e.f+"T00:00:00").toLocaleDateString("es-ES",{day:"numeric",month:"short"}):"")+'</small></label>'}).join("")+'</details>'}).join("")}
   h+='<div class="acts"><button class="btn'+(on("p",k)?' on':'')+'" data-act="p">'+(on("p",k)?'✓ Pendiente':'+ Pendiente de ver')+'</button><button class="btn'+(on("v",k)?' on':'')+'" data-act="v">'+(on("v",k)?'✓ Visto':'Marcar como visto')+'</button><a class="btn" href="'+E(x.trailer||"https://www.youtube.com/results?search_query="+encodeURIComponent(x.titulo+" tráiler"))+'" target="_blank" rel="noopener noreferrer">▶ Tráiler</a><button class="btn" data-x="1">Cerrar</button></div></div>';
   var sc=d.scrollTop;d.innerHTML=h;if(!d.open)d.showModal();d.scrollTop=sc}
-// Sincronización con un gist secreto de GitHub
+// Sincronización con Firebase (Firestore, inicio de sesión con Google)
 function setS(t){$("sst").textContent=t}
-function api(path,o){o=o||{};o.headers={"Authorization":"Bearer "+TOK,"Accept":"application/vnd.github+json","Content-Type":"application/json"};return fetch("https://api.github.com"+path,o).then(function(r){if(!r.ok)throw new Error(r.status);return r.json()})}
 function merge(o){["p","v","e"].forEach(function(m){var s=o[m]||{};for(var k in s){var a=ST[m][k];if(!a||s[k].t>a.t)ST[m][k]=s[k]}})}
-function sync(){if(!TOK)return Promise.resolve();setS("Sincronizando…");
-  var f=GID?Promise.resolve(GID):api("/gists?per_page=100").then(function(l){var g=l.filter(function(x){return x.description==DESC})[0];return g?g.id:null});
-  return f.then(function(id){if(!id)return null;return api("/gists/"+id).then(function(g){GID=id;ls("sync_gid",id);var fi=g.files[FILE];if(fi)merge(JSON.parse(fi.content));return id})})
-  .then(function(id){save();var b={files:{}};b.files[FILE]={content:JSON.stringify(ST)};
-    if(id)return api("/gists/"+id,{method:"PATCH",body:JSON.stringify(b)});
-    b.description=DESC;b.public=false;return api("/gists",{method:"POST",body:JSON.stringify(b)}).then(function(g){GID=g.id;ls("sync_gid",g.id)})})
-  .then(function(){setS("Conectado. Última sincronización: "+new Date().toLocaleTimeString("es-ES",{hour:"2-digit",minute:"2-digit"}));render();if(CUR&&$("dlg").open)ficha(CUR)})
-  .catch(function(e){setS("Error al sincronizar ("+e.message+"). Revisa que el token tenga el permiso gist.")})}
+function sync(){if(!USER||!window.FB)return Promise.resolve();setS("Sincronizando…");
+  return FB.load().then(function(o){if(o)merge(o);save();return FB.save(ST)})
+  .then(function(){setS("Sesión iniciada como "+USER.email+". Última sincronización: "+new Date().toLocaleTimeString("es-ES",{hour:"2-digit",minute:"2-digit"}));render();if(CUR&&$("dlg").open)ficha(CUR)})
+  .catch(function(e){setS("Error al sincronizar ("+(e.code||e.message)+").")})}
+window.onUser=function(u){USER=u;render();if(u)sync();else setS("Aún no has iniciado sesión.")};
 document.addEventListener("click",function(e){var t=e.target,c;
   if(c=t.closest("[data-t]")){S.tab=c.dataset.t;render();return}
   if(c=t.closest("[data-p]")){S.on[c.dataset.p]=S.on[c.dataset.p]?0:1;render();return}
@@ -178,13 +172,13 @@ document.addEventListener("click",function(e){var t=e.target,c;
   if(c=t.closest("[data-ts]")){togTemp(CUR,c.dataset.ts);return}
   if(t.closest("[data-x]")){t.closest("dialog").close();return}
   if(t.tagName=="DIALOG")t.close();
-  if(t.id=="sbtn"){$("sst").textContent=TOK?"Sincronización activa en este dispositivo.":"Aún no está conectada.";$("sdlg").showModal()}
-  if(t.id=="conn"){var v=$("tok").value.trim();if(v){TOK=v;GID="";ls("sync_tok",v);ls("sync_gid",null);$("tok").value="";sync()}}
-  if(t.id=="disc"){TOK="";GID="";ls("sync_tok",null);ls("sync_gid",null);setS("Desconectado. Tu lista sigue guardada en este navegador.");render()}
+  if(t.id=="sbtn"){setS(USER?"Sesión iniciada como "+USER.email+".":"Inicia sesión con Google para guardar tus listas en la nube.");$("sdlg").showModal()}
+  if(t.id=="login"){if(!window.FB)setS("Firebase aún no ha cargado, inténtalo de nuevo en unos segundos.");else FB.login().catch(function(err){setS("No se pudo iniciar sesión ("+(err.code||err.message)+")")})}
+  if(t.id=="logout"&&window.FB){FB.logout().then(function(){setS("Sesión cerrada. Tu lista sigue guardada en este navegador.")})}
 });
 document.addEventListener("change",function(e){var t=e.target;if(t.dataset&&t.dataset.q){togEp(CUR,t.dataset.q,t.checked)}});
 document.addEventListener("toggle",function(e){var t=e.target;if(t.classList&&t.classList.contains("tp"))OPEN[t.dataset.n]=t.open},true);
-document.addEventListener("visibilitychange",function(){if(!document.hidden&&TOK)sync()});
+document.addEventListener("visibilitychange",function(){if(!document.hidden&&USER)sync()});
 $("gen").onchange=function(){S.gen=this.value;render()};$("nota").onchange=function(){S.nota=+this.value;render()};
 $("tipo").onchange=function(){S.tipo=this.value;render()};$("oc").onchange=function(){S.oc=this.checked?1:0;render()};
 $("q").oninput=function(){S.q=this.value.toLowerCase();render()};
@@ -195,6 +189,28 @@ fetch("data.json").then(function(r){return r.json()}).then(function(j){
   $("gen").innerHTML='<option value="">Todos los géneros</option>'+Object.keys(gs).sort().map(function(g){return '<option>'+E(g)+'</option>'}).join("");
   render();sync();
 }).catch(function(){$("list").innerHTML='<div class="empty">No se pudo cargar data.json. Ejecuta antes el workflow de actualización.</div>'});
+</script>
+<script type="module">
+import {initializeApp} from "https://www.gstatic.com/firebasejs/10.12.2/firebase-app.js";
+import {getAuth,GoogleAuthProvider,signInWithPopup,signOut,onAuthStateChanged} from "https://www.gstatic.com/firebasejs/10.12.2/firebase-auth.js";
+import {getFirestore,doc,getDoc,setDoc} from "https://www.gstatic.com/firebasejs/10.12.2/firebase-firestore.js";
+const app=initializeApp({
+  apiKey:"AIzaSyCRhMw--WT4e2Qduw55w-db0IZLbiL33IE",
+  authDomain:"pelisyseries-a24f7.firebaseapp.com",
+  projectId:"pelisyseries-a24f7",
+  storageBucket:"pelisyseries-a24f7.firebasestorage.app",
+  messagingSenderId:"471565936575",
+  appId:"1:471565936575:web:94af7db9890ca37dc0230a"
+});
+const auth=getAuth(app),db=getFirestore(app);
+const ref=()=>doc(db,"usuarios",auth.currentUser.uid,"datos","estado");
+window.FB={
+  login:()=>signInWithPopup(auth,new GoogleAuthProvider()),
+  logout:()=>signOut(auth),
+  load:async()=>{const s=await getDoc(ref());return s.exists()?JSON.parse(s.data().json):null},
+  save:(st)=>setDoc(ref(),{json:JSON.stringify(st),t:Date.now()})
+};
+onAuthStateChanged(auth,u=>window.onUser&&window.onUser(u));
 </script>
 </body>
 </html>
