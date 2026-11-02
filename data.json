@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-02T05:22:28+00:00",
+ "generado": "2026-11-02T15:17:08+00:00",
  "pais": "ES",
  "items": [
   {
@@ -5257,6 +5257,88 @@
    "temporadas_det": []
   },
   {
+   "id": "25030545",
+   "titulo": "The Good Daughter",
+   "tipo": "s",
+   "plataforma": "hbo",
+   "estado": "upcoming",
+   "fecha": "2026-11-12",
+   "genero": "Drama",
+   "generos": [
+    "Drama",
+    "Misterio"
+   ],
+   "imdb": null,
+   "rt": null,
+   "duracion": "1 temporada, 6 episodios",
+   "sinopsis": "",
+   "poster": "https://image.tmdb.org/t/p/w342/1LMcI1OV9GtWpszBkj4uFZQcSZ6.jpg",
+   "reparto": [
+    {
+     "nombre": "Rose Byrne",
+     "foto": "https://image.tmdb.org/t/p/w185/wR8YZlrewVW2FixRBrJcxaXU3R1.jpg"
+    },
+    {
+     "nombre": "Meghann Fahy",
+     "foto": "https://image.tmdb.org/t/p/w185/vn1JwgdLoFerqqgzcg61tgCJ0ZE.jpg"
+    },
+    {
+     "nombre": "Brendan Gleeson",
+     "foto": "https://image.tmdb.org/t/p/w185/ctPPJu5ZYDZr1IPmzoNpezczrm0.jpg"
+    },
+    {
+     "nombre": "Harper Steele",
+     "foto": "https://image.tmdb.org/t/p/w185/jWo1tHt9UDUBaf8m5YgNyH7kOUV.jpg"
+    },
+    {
+     "nombre": "Michael Dorman",
+     "foto": "https://image.tmdb.org/t/p/w185/7Ut9ofZ7fJAvLZ95LVLO1Lepbuc.jpg"
+    },
+    {
+     "nombre": "Audrey Grace Marshall",
+     "foto": "https://image.tmdb.org/t/p/w185/u9j51KnphsW0zg05nCOXxXKlWex.jpg"
+    }
+   ],
+   "trailer": "https://www.youtube.com/watch?v=Kjwbn5AF_3E",
+   "temporadas_det": [
+    {
+     "n": 1,
+     "eps": [
+      {
+       "n": 1,
+       "t": "Episodio 1",
+       "f": "2026-11-12"
+      },
+      {
+       "n": 2,
+       "t": "Episodio 2",
+       "f": "2026-11-12"
+      },
+      {
+       "n": 3,
+       "t": "Episodio 3",
+       "f": "2026-11-12"
+      },
+      {
+       "n": 4,
+       "t": "Episodio 4",
+       "f": "2026-11-12"
+      },
+      {
+       "n": 5,
+       "t": "Episodio 5",
+       "f": "2026-11-12"
+      },
+      {
+       "n": 6,
+       "t": "Episodio 6",
+       "f": "2026-11-12"
+      }
+     ]
+    }
+   ]
+  },
+  {
    "id": "27299404",
    "titulo": "El crimen de Pazos",
    "tipo": "s",
@@ -5462,6 +5544,64 @@
    ],
    "trailer": "https://www.youtube.com/watch?v=0A-O1MJAl9E",
    "temporadas_det": []
+  },
+  {
+   "id": "27300393",
+   "titulo": "Wśród nocnej ciszy",
+   "tipo": "s",
+   "plataforma": "hbo",
+   "estado": "upcoming",
+   "fecha": "2026-11-13",
+   "genero": "Crimen",
+   "generos": [
+    "Crimen",
+    "Drama",
+    "Misterio"
+   ],
+   "imdb": null,
+   "rt": null,
+   "duracion": "1 temporada, 6 episodios",
+   "sinopsis": "Nochebuena de 1976. Nieve, silencio y oscuridad. Tres jóvenes mueren bajo las ruedas de un autobús mientras regresan de la misa del gallo: una chica embarazada, su esposo y su hermano menor. Nadie vio nada. O nadie quiere hablar. En lugar de respuestas, se levanta un férreo muro de silencio en toda la comunidad. Aunque el caso es cerrado oficialmente como un trágico accidente, la madre de las víctimas y un joven policía, Henryk Maczek, se niegan a creer en la versión oficial. Él arriesga su carrera; ella, lo único que le queda en la vida. Cuanto más profundo excavan, más información impactante sale a la superficie. Y la verdad... podría resultar mucho peor que la mentira.",
+   "poster": "https://image.tmdb.org/t/p/w342/avV8XpBHNSnqYHzUNskv9LVVTFu.jpg",
+   "reparto": [],
+   "trailer": null,
+   "temporadas_det": [
+    {
+     "n": 1,
+     "eps": [
+      {
+       "n": 1,
+       "t": "Episodio 1",
+       "f": "2026-11-13"
+      },
+      {
+       "n": 2,
+       "t": "Episodio 2",
+       "f": "2026-11-20"
+      },
+      {
+       "n": 3,
+       "t": "Episodio 3",
+       "f": "2026-11-27"
+      },
+      {
+       "n": 4,
+       "t": "Episodio 4",
+       "f": "2026-12-04"
+      },
+      {
+       "n": 5,
+       "t": "Episodio 5",
+       "f": "2026-12-11"
+      },
+      {
+       "n": 6,
+       "t": "Episodio 6",
+       "f": "2026-12-18"
+      }
+     ]
+    }
+   ]
   },
   {
    "id": "14625322",
