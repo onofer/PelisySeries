@@ -1,641 +1,7 @@
 {
- "generado": "2026-11-01T21:52:52+00:00",
+ "generado": "2026-11-02T05:22:28+00:00",
  "pais": "ES",
  "items": [
-  {
-   "id": "23191985",
-   "titulo": "Ozzy: No Escape from Now",
-   "tipo": "p",
-   "plataforma": "prime",
-   "estado": "expiring",
-   "fecha": "2026-11-01",
-   "genero": "Documental",
-   "generos": [
-    "Documental"
-   ],
-   "imdb": 6.3,
-   "rt": null,
-   "duracion": "2 h 00 min",
-   "sinopsis": "Ozzy Osbourne se enfrenta a su identidad y a su mortalidad tras el fin de su mundo. Lidiando con problemas de salud y párkinson, se pregunta si podrá volver a actuar mientras la música siga siendo el pilar de su vida.",
-   "poster": "https://image.tmdb.org/t/p/w342/7xlmn0xpEYiqGN7bINAbEUjNqbr.jpg",
-   "reparto": [
-    {
-     "nombre": "Ozzy Osbourne",
-     "foto": "https://image.tmdb.org/t/p/w185/mixaKGozKp2Nrzj7YbPYHYpkXoT.jpg"
-    },
-    {
-     "nombre": "Sharon Osbourne",
-     "foto": "https://image.tmdb.org/t/p/w185/1dSXEIPb2ZHB69XppoJ2W6hhMsk.jpg"
-    },
-    {
-     "nombre": "Jack Osbourne",
-     "foto": "https://image.tmdb.org/t/p/w185/wfFwjLaRGmgLDzTyVV7pgJwu3K5.jpg"
-    },
-    {
-     "nombre": "Kelly Osbourne",
-     "foto": "https://image.tmdb.org/t/p/w185/rMZ8iNLHVsuvkDaf3xWMP3xT1lc.jpg"
-    },
-    {
-     "nombre": "Tony Iommi",
-     "foto": "https://image.tmdb.org/t/p/w185/4jmT2pcsEUUIkPDcXHkL9kKG2GC.jpg"
-    },
-    {
-     "nombre": "Duff McKagan",
-     "foto": "https://image.tmdb.org/t/p/w185/6Nbg5MScYZnZMyQsRBSk8mo1RSe.jpg"
-    }
-   ],
-   "trailer": "https://www.youtube.com/watch?v=RxBYxFZccks",
-   "temporadas_det": []
-  },
-  {
-   "id": "8606",
-   "titulo": "Una novia para dos",
-   "tipo": "p",
-   "plataforma": "prime",
-   "estado": "expiring",
-   "fecha": "2026-11-01",
-   "genero": "Romance",
-   "generos": [
-    "Romance",
-    "Comedia"
-   ],
-   "imdb": 5.7,
-   "rt": 14,
-   "duracion": "1 h 41 min",
-   "sinopsis": "Tank (Dane Cook) es un joven especialista en seducir y, sobre todo, en ofender a las mujeres. Y por eso le contratan: los ex novios le pagan para que salga con sus ex chicas y haga que pasen un rato horrible. Después, tras esa cita espantosa, ellas suelen volver encantadas. Todo va bien hasta que el mejor amigo de Tank, Dustin (Jason Biggs), contrata sus servicios para recuperar a su ex, Alexis (Kate Hudson). Pero la presunta horrible cita no lo es tanto y Tank se enamora de Alexis.",
-   "poster": "https://image.tmdb.org/t/p/w342/8cA1gDSDKApO6mc8yxOa9SeGzHa.jpg",
-   "reparto": [
-    {
-     "nombre": "Dane Cook",
-     "foto": "https://image.tmdb.org/t/p/w185/4UGHKnDOf75GZR5z0QHjrhjfpIu.jpg"
-    },
-    {
-     "nombre": "Kate Hudson",
-     "foto": "https://image.tmdb.org/t/p/w185/s79lH1QzEg2fkXULKBxRmU9aNr8.jpg"
-    },
-    {
-     "nombre": "Jason Biggs",
-     "foto": "https://image.tmdb.org/t/p/w185/3nRgOQylYbNuDiddtNoh8uWTz5P.jpg"
-    },
-    {
-     "nombre": "Alec Baldwin",
-     "foto": "https://image.tmdb.org/t/p/w185/hzKy7x574eeUS3wt1R3yvWBRpeR.jpg"
-    },
-    {
-     "nombre": "Lizzy Caplan",
-     "foto": "https://image.tmdb.org/t/p/w185/cHs9pPpjcEMpWrGmrAYAn0QOE78.jpg"
-    },
-    {
-     "nombre": "Diora Baird",
-     "foto": "https://image.tmdb.org/t/p/w185/iOVBvwBhcHIZuLZT3S9tJQ6mbTT.jpg"
-    }
-   ],
-   "trailer": "https://www.youtube.com/watch?v=PsIt1K1C2c4",
-   "temporadas_det": []
-  },
-  {
-   "id": "7199",
-   "titulo": "Historias de San Francisco",
-   "tipo": "s",
-   "plataforma": "prime",
-   "estado": "expiring",
-   "fecha": "2026-11-01",
-   "genero": "Drama",
-   "generos": [
-    "Drama",
-    "Misterio"
-   ],
-   "imdb": 7.1,
-   "rt": null,
-   "duracion": "1 temporada, 5 episodios",
-   "sinopsis": "Primera entrega de la serie \"Historias de San Francisco\" (\"Tales of the City\").\n\nEn los años 70, Mary Ann Singleton, es una joven secretaria ingenua, recién llegada al colorido mundo de San Francisco des de el medio Oeste estadounidense.  Rápidamente se da cuenta de lo lejos que está de Cleveland en realidad. Un despreocupado caos gira en torno al peculiar y antiguo edificio de apartamentos del número 28 de la calle Barbary Lane.",
-   "poster": "https://image.tmdb.org/t/p/w342/EfM6EHyzr2q7TWFO5uEBNssgo4.jpg",
-   "reparto": [
-    {
-     "nombre": "Olympia Dukakis",
-     "foto": "https://image.tmdb.org/t/p/w185/pwoIzB9QSjKkWORQ7SpetnxFizf.jpg"
-    },
-    {
-     "nombre": "Donald Moffat",
-     "foto": "https://image.tmdb.org/t/p/w185/8kZ2Ow3cPtTmDwTxL7jFEsQi4ia.jpg"
-    },
-    {
-     "nombre": "Chloe Webb",
-     "foto": "https://image.tmdb.org/t/p/w185/7ylnbM8jTG0WQ3oFFaG0VuEJxnb.jpg"
-    },
-    {
-     "nombre": "Laura Linney",
-     "foto": "https://image.tmdb.org/t/p/w185/6I31xZxo9Hq6T0OhSwCUjHd8jkB.jpg"
-    },
-    {
-     "nombre": "Marcus D'Amico",
-     "foto": "https://image.tmdb.org/t/p/w185/xCTjgqihIzxwGgoK1tVMfVUyhwl.jpg"
-    },
-    {
-     "nombre": "Thomas Gibson",
-     "foto": "https://image.tmdb.org/t/p/w185/cnTJvFNtQW3HqlBSwkXAgvjXDi2.jpg"
-    }
-   ],
-   "trailer": "https://www.youtube.com/watch?v=FOzpSSsJbV8",
-   "temporadas_det": [
-    {
-     "n": 1,
-     "eps": [
-      {
-       "n": 1,
-       "t": "Episodio 1",
-       "f": "1993-09-28"
-      },
-      {
-       "n": 2,
-       "t": "Episodio 2",
-       "f": "1993-10-05"
-      },
-      {
-       "n": 3,
-       "t": "Episodio 3",
-       "f": "1993-10-12"
-      },
-      {
-       "n": 4,
-       "t": "Episodio 4",
-       "f": "1993-10-19"
-      },
-      {
-       "n": 5,
-       "t": "Episodio 5",
-       "f": "1993-10-26"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "id": "4812261",
-   "titulo": "L'amour au temps de la guerre civile",
-   "tipo": "p",
-   "plataforma": "prime",
-   "estado": "expiring",
-   "fecha": "2026-11-01",
-   "genero": "Drama",
-   "generos": [
-    "Drama"
-   ],
-   "imdb": 5.3,
-   "rt": null,
-   "duracion": "2 h 00 min",
-   "sinopsis": "A young addict and prostitute and his friends in Montreal become fallen angels of a dark and violent time.",
-   "poster": "https://image.tmdb.org/t/p/w342/208DVfNWIXAMUtd0cvT5id1ygE2.jpg",
-   "reparto": [
-    {
-     "nombre": "Alexandre Landry",
-     "foto": "https://image.tmdb.org/t/p/w185/OmGOXEqqFspcS3pP3uwSkEefVj.jpg"
-    },
-    {
-     "nombre": "Jean-Simon Leduc",
-     "foto": "https://image.tmdb.org/t/p/w185/aO20bc5T3HZe1ADIkyyoXFgTAbT.jpg"
-    },
-    {
-     "nombre": "Simon Lefebvre",
-     "foto": null
-    },
-    {
-     "nombre": "Catherine-Audrey Lachapelle",
-     "foto": "https://image.tmdb.org/t/p/w185/56SU5sagRTDIXCUwMXKGDco0r5.jpg"
-    },
-    {
-     "nombre": "Ana Christina Alva",
-     "foto": null
-    },
-    {
-     "nombre": "Éric Robidoux",
-     "foto": "https://image.tmdb.org/t/p/w185/qquKYjVWugnJv5dgbI7sfjsZaXP.jpg"
-    }
-   ],
-   "trailer": null,
-   "temporadas_det": []
-  },
-  {
-   "id": "9631",
-   "titulo": "La fría luz del día",
-   "tipo": "p",
-   "plataforma": "prime",
-   "estado": "expiring",
-   "fecha": "2026-11-01",
-   "genero": "Acción",
-   "generos": [
-    "Acción",
-    "Suspense",
-    "Misterio"
-   ],
-   "imdb": 5.0,
-   "rt": 4,
-   "duracion": "1 h 33 min",
-   "sinopsis": "“La fría luz del día” nos cuenta la historia de Will Shaw, un joven norteamericano cuya familia es secuestrada cuando se encuentran en plenas vacaciones por España. Shaw dispone de pocas horas para encontrarlos, poner al descubierto una conspiración del gobierno y además encontrar la conexión existente entre la desaparición de su familia y los secretos de su padre.",
-   "poster": "https://image.tmdb.org/t/p/w342/iiTJrl57Upfs3e80LyIGf50kNAq.jpg",
-   "reparto": [
-    {
-     "nombre": "Henry Cavill",
-     "foto": "https://image.tmdb.org/t/p/w185/dgTD7Q9owL3DyX9uYoSX9KZeUUz.jpg"
-    },
-    {
-     "nombre": "Bruce Willis",
-     "foto": "https://image.tmdb.org/t/p/w185/w3aXr1e7gQCn8MSp1vW4sXHn99P.jpg"
-    },
-    {
-     "nombre": "Sigourney Weaver",
-     "foto": "https://image.tmdb.org/t/p/w185/wTSnfktNBLd6kwQxgvkqYw6vEon.jpg"
-    },
-    {
-     "nombre": "Verónica Echegui",
-     "foto": "https://image.tmdb.org/t/p/w185/A6bHIHnDlmKY6pWOlgLNsUf60W5.jpg"
-    },
-    {
-     "nombre": "Joseph Mawle",
-     "foto": "https://image.tmdb.org/t/p/w185/1Ocb9v3h54beGVoJMm4w50UQhLf.jpg"
-    },
-    {
-     "nombre": "Caroline Goodall",
-     "foto": "https://image.tmdb.org/t/p/w185/4cagGtMqACvkuw6Llq8Li8UJ1AR.jpg"
-    }
-   ],
-   "trailer": "https://www.youtube.com/watch?v=tNlVzFeKKcQ",
-   "temporadas_det": []
-  },
-  {
-   "id": "301",
-   "titulo": "El bueno, el feo y el malo",
-   "tipo": "p",
-   "plataforma": "prime",
-   "estado": "expiring",
-   "fecha": "2026-11-01",
-   "genero": "Western",
-   "generos": [
-    "Western"
-   ],
-   "imdb": 8.3,
-   "rt": 97,
-   "duracion": "2 h 41 min",
-   "sinopsis": "Durante la Guerra de Secesión, tres cazadores de recompensas se lanzan a la búsqueda de un tesoro que ninguno de los tres truhanes puede localizar sin la ayuda de los otros dos. Tuco sabe que el tesoro se encuentra en un cementerio, mientras que Joe conoce el nombre inscrito en la tumba que lo esconde. Mientras tanto, Sentenza no duda en matar a mujeres y niños para conseguir su meta. De esta forma, los tres hombres colaboran en apariencia, pero al final intentarán eliminarse mutuamente.",
-   "poster": "https://image.tmdb.org/t/p/w342/71HKV5F9bfm05ZZnjGmRuFpUVCo.jpg",
-   "reparto": [
-    {
-     "nombre": "Clint Eastwood",
-     "foto": "https://image.tmdb.org/t/p/w185/8TwdCfeOZH7ucRlfLZ6wObxa7cO.jpg"
-    },
-    {
-     "nombre": "Eli Wallach",
-     "foto": "https://image.tmdb.org/t/p/w185/tX1kYpW1K8XjEA3i9FXrgFqNAaw.jpg"
-    },
-    {
-     "nombre": "Lee Van Cleef",
-     "foto": "https://image.tmdb.org/t/p/w185/prcDQR2pp0b92j0G8rnX5kQeQk0.jpg"
-    },
-    {
-     "nombre": "Aldo Giuffrè",
-     "foto": "https://image.tmdb.org/t/p/w185/aT6eECl1R3YGYL4KatyIQrq0zG8.jpg"
-    },
-    {
-     "nombre": "Luigi Pistilli",
-     "foto": "https://image.tmdb.org/t/p/w185/bH5vmD2CMBHzJyBe0P0bL6iTUNL.jpg"
-    },
-    {
-     "nombre": "Rada Rassimov",
-     "foto": "https://image.tmdb.org/t/p/w185/xJhnSHn2vKp0MJ2KZaihrgqq0Mc.jpg"
-    }
-   ],
-   "trailer": "https://www.youtube.com/watch?v=9gEiRcNc2Rs",
-   "temporadas_det": []
-  },
-  {
-   "id": "62358",
-   "titulo": "Aguja en una pila de tiempo",
-   "tipo": "p",
-   "plataforma": "prime",
-   "estado": "expiring",
-   "fecha": "2026-11-01",
-   "genero": "Drama",
-   "generos": [
-    "Drama",
-    "Romance",
-    "Ciencia ficción"
-   ],
-   "imdb": 5.3,
-   "rt": 38,
-   "duracion": "1 h 51 min",
-   "sinopsis": "Nick y Janine viven en la felicidad conyugal hasta que el exmarido de Janine distorsiona el tiempo para intentar separarlos. A medida que los recuerdos de Nick desaparecen, debe decidir qué está dispuesto a sacrificar para conservar -o dejar ir- todo lo que ama.",
-   "poster": "https://image.tmdb.org/t/p/w342/rjGYOszxlaUAe6EC5yZ4Q8l3aVL.jpg",
-   "reparto": [
-    {
-     "nombre": "Leslie Odom Jr.",
-     "foto": "https://image.tmdb.org/t/p/w185/pDA11JMNAGQGJo7nRpZHp7pdp9N.jpg"
-    },
-    {
-     "nombre": "Cynthia Erivo",
-     "foto": "https://image.tmdb.org/t/p/w185/gIAXqZwZCBqkh2ppfAV4xcnMxki.jpg"
-    },
-    {
-     "nombre": "Freida Pinto",
-     "foto": "https://image.tmdb.org/t/p/w185/tub18dfDNMxlempVIuPXh8fmZVs.jpg"
-    },
-    {
-     "nombre": "Jadyn Wong",
-     "foto": "https://image.tmdb.org/t/p/w185/gV3nVEq8qqN1bhM91fCQMXgjGJ7.jpg"
-    },
-    {
-     "nombre": "Orlando Bloom",
-     "foto": "https://image.tmdb.org/t/p/w185/lwQoA0qJTCZ6l2FH6PjmhRQjiaB.jpg"
-    },
-    {
-     "nombre": "Ulka Simone Mohanty",
-     "foto": "https://image.tmdb.org/t/p/w185/vGxK0NL21sxQUcTY8zDh6jNGwp3.jpg"
-    }
-   ],
-   "trailer": "https://www.youtube.com/watch?v=ZPKL9aSgbCw",
-   "temporadas_det": []
-  },
-  {
-   "id": "27050",
-   "titulo": "Karakuri Circus",
-   "tipo": "s",
-   "plataforma": "prime",
-   "estado": "expiring",
-   "fecha": "2026-11-02",
-   "genero": "Acción",
-   "generos": [
-    "Acción",
-    "Aventura",
-    "Misterio",
-    "Crimen",
-    "Animación",
-    "Drama"
-   ],
-   "imdb": 5.4,
-   "rt": null,
-   "duracion": "1 temporada, 36 episodios",
-   "sinopsis": "Masaru Saiga es un niño de quinto grado que aspira a convertirse en titiritero. Después de que Sadayoshi Saiga, el CEO de Saiga, el gigante fabricante de teléfonos domésticos, y el padre de Masaru fallece, Masaru hereda 18 mil millones de yenes. Masaru es blanco de su riqueza y es salvado por dos personas. Narumi Katō es un hombre que ha estudiado Kung-Fu y tiene una extraña enfermedad llamada \"síndrome de Zonapha\", y Shirogane es una mujer de cabello plateado que controla el títere \"Arurukan\" (Arlequín). Juntos, Masaru, Narumi y Shirogane son arrojados a varias conspiraciones por aquellos que intentan robarle la fortuna a Masaru.",
-   "poster": "https://image.tmdb.org/t/p/w342/5n4QAkGDDpujWlHNDU9nDDbLMBn.jpg",
-   "reparto": [
-    {
-     "nombre": "Chihiro Ueda",
-     "foto": "https://image.tmdb.org/t/p/w185/vPVTSLPEHb9qkbNq6uDWAKYY39q.jpg"
-    },
-    {
-     "nombre": "Rikiya Koyama",
-     "foto": "https://image.tmdb.org/t/p/w185/hsZm87BORLpzhaycBaWOD5xpjVC.jpg"
-    },
-    {
-     "nombre": "Megumi Hayashibara",
-     "foto": "https://image.tmdb.org/t/p/w185/3Alm4pmBIxpeeh0Sdippxdbkpne.jpg"
-    },
-    {
-     "nombre": "Romi Park",
-     "foto": "https://image.tmdb.org/t/p/w185/fl9vyA3HEkOyTiZBJBhAR3OSmrO.jpg"
-    },
-    {
-     "nombre": "Masahiko Tanaka",
-     "foto": "https://image.tmdb.org/t/p/w185/ozi2h5bDv82EkYLJYSazrO3dzjh.jpg"
-    },
-    {
-     "nombre": "Akio Otsuka",
-     "foto": "https://image.tmdb.org/t/p/w185/uH9oiqOOgrsz2zNnouVZ1qPzDyb.jpg"
-    }
-   ],
-   "trailer": null,
-   "temporadas_det": [
-    {
-     "n": 1,
-     "eps": [
-      {
-       "n": 1,
-       "t": "El Telón Se Levanta",
-       "f": "2018-10-11"
-      },
-      {
-       "n": 2,
-       "t": "Promesa",
-       "f": "2018-10-19"
-      },
-      {
-       "n": 3,
-       "t": "Abismo",
-       "f": "2018-10-26"
-      },
-      {
-       "n": 4,
-       "t": "Tigre giratorio",
-       "f": "2018-11-01"
-      },
-      {
-       "n": 5,
-       "t": "Circo - Salida",
-       "f": "2018-11-08"
-      },
-      {
-       "n": 6,
-       "t": "Infierno",
-       "f": "2018-11-15"
-      },
-      {
-       "n": 7,
-       "t": "Demoníaco",
-       "f": "2018-11-22"
-      },
-      {
-       "n": 8,
-       "t": "Momento de Inicio, Momento de Fin",
-       "f": "2018-11-29"
-      },
-      {
-       "n": 9,
-       "t": "Memorias",
-       "f": "2018-12-06"
-      },
-      {
-       "n": 10,
-       "t": "Francine",
-       "f": "2018-12-13"
-      },
-      {
-       "n": 11,
-       "t": "Trompeteo",
-       "f": "2018-12-20"
-      },
-      {
-       "n": 12,
-       "t": "El comandante sin rostro",
-       "f": "2018-12-27"
-      },
-      {
-       "n": 13,
-       "t": "Lucila",
-       "f": "2019-01-10"
-      },
-      {
-       "n": 14,
-       "t": "Junto al mar, en la oscuridad de la noche",
-       "f": "2019-01-17"
-      },
-      {
-       "n": 15,
-       "t": "De vuelta al punto de partida",
-       "f": "2019-01-24"
-      },
-      {
-       "n": 16,
-       "t": "Encuentro",
-       "f": "2019-02-07"
-      },
-      {
-       "n": 17,
-       "t": "Visitante",
-       "f": "2019-02-14"
-      },
-      {
-       "n": 18,
-       "t": "Una sonrisa",
-       "f": "2019-02-21"
-      },
-      {
-       "n": 19,
-       "t": "La verdad detrás de la sombra",
-       "f": "2019-02-28"
-      },
-      {
-       "n": 20,
-       "t": "Negro sol",
-       "f": "2019-03-07"
-      },
-      {
-       "n": 21,
-       "t": "Diosa de plata",
-       "f": "2019-03-14"
-      },
-      {
-       "n": 22,
-       "t": "¡Dirígete a Harry!",
-       "f": "2019-03-21"
-      },
-      {
-       "n": 23,
-       "t": "El regreso del demonio",
-       "f": "2019-03-28"
-      },
-      {
-       "n": 24,
-       "t": "Escapar",
-       "f": "2019-04-04"
-      },
-      {
-       "n": 25,
-       "t": "En el Monte Saint-Michel",
-       "f": "2019-04-11"
-      },
-      {
-       "n": 26,
-       "t": "Espectáculo de animales",
-       "f": "2019-04-18"
-      },
-      {
-       "n": 27,
-       "t": "Descargar",
-       "f": "2019-04-25"
-      },
-      {
-       "n": 28,
-       "t": "Pig-chan se había ido",
-       "f": "2019-05-02"
-      },
-      {
-       "n": 29,
-       "t": "Lo que hizo Shirogane",
-       "f": "2019-05-09"
-      },
-      {
-       "n": 30,
-       "t": "Piedad",
-       "f": "2019-05-16"
-      },
-      {
-       "n": 31,
-       "t": "Meteorito negro",
-       "f": "2019-05-23"
-      },
-      {
-       "n": 32,
-       "t": "Despedida",
-       "f": "2019-05-30"
-      },
-      {
-       "n": 33,
-       "t": "El trío Nakamachi contra Lady Spider",
-       "f": "2019-06-06"
-      },
-      {
-       "n": 34,
-       "t": "Retaguardia",
-       "f": "2019-06-13"
-      },
-      {
-       "n": 35,
-       "t": "Abarcar",
-       "f": "2019-06-20"
-      },
-      {
-       "n": 36,
-       "t": "Cae el telón",
-       "f": "2019-06-27"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "id": "7538",
-   "titulo": "Colonia",
-   "tipo": "p",
-   "plataforma": "prime",
-   "estado": "expiring",
-   "fecha": "2026-11-02",
-   "genero": "Drama",
-   "generos": [
-    "Drama",
-    "Historia"
-   ],
-   "imdb": 7.0,
-   "rt": 29,
-   "duracion": "1 h 50 min",
-   "sinopsis": "Una joven pareja se ve envuelta en el golpe de Estado de Chile en 1973. Él es secuestrado por la policía secreta de Pinochet, y ella le seguirá la pista hasta una zona del sur del país llamada Colonia Dignidad, que aparenta ser una misión de caridad regida por un sacerdote.",
-   "poster": "https://image.tmdb.org/t/p/w342/9HoHMkUF5RvG6iWXw7WQey4OFOy.jpg",
-   "reparto": [
-    {
-     "nombre": "Emma Watson",
-     "foto": "https://image.tmdb.org/t/p/w185/mf0OANvWYSzU1d8yggrhyw8IbIz.jpg"
-    },
-    {
-     "nombre": "Daniel Brühl",
-     "foto": "https://image.tmdb.org/t/p/w185/3YlmTfiy5qZXkrdKGjaM1uMjGKP.jpg"
-    },
-    {
-     "nombre": "Michael Nyqvist",
-     "foto": "https://image.tmdb.org/t/p/w185/d9nGt8MloJwosRbGp10gaeHExcZ.jpg"
-    },
-    {
-     "nombre": "Richenda Carey",
-     "foto": "https://image.tmdb.org/t/p/w185/xKaV4lvbQqDm4csYKgwSzEbtAuF.jpg"
-    },
-    {
-     "nombre": "Vicky Krieps",
-     "foto": "https://image.tmdb.org/t/p/w185/9laK3w40qBnE5UY41wJfnUAYMmC.jpg"
-    },
-    {
-     "nombre": "Jeanne Werner",
-     "foto": "https://image.tmdb.org/t/p/w185/A2n2e3wrdaCErKCS9MlaMbcVi6m.jpg"
-    }
-   ],
-   "trailer": "https://www.youtube.com/watch?v=SiVAGDTmlpY",
-   "temporadas_det": []
-  },
   {
    "id": "24267",
    "titulo": "The Vigil",
@@ -870,6 +236,242 @@
    "temporadas_det": []
   },
   {
+   "id": "27050",
+   "titulo": "Karakuri Circus",
+   "tipo": "s",
+   "plataforma": "prime",
+   "estado": "expiring",
+   "fecha": "2026-11-03",
+   "genero": "Acción",
+   "generos": [
+    "Acción",
+    "Aventura",
+    "Misterio",
+    "Crimen",
+    "Animación",
+    "Drama"
+   ],
+   "imdb": 5.4,
+   "rt": null,
+   "duracion": "1 temporada, 36 episodios",
+   "sinopsis": "Masaru Saiga es un niño de quinto grado que aspira a convertirse en titiritero. Después de que Sadayoshi Saiga, el CEO de Saiga, el gigante fabricante de teléfonos domésticos, y el padre de Masaru fallece, Masaru hereda 18 mil millones de yenes. Masaru es blanco de su riqueza y es salvado por dos personas. Narumi Katō es un hombre que ha estudiado Kung-Fu y tiene una extraña enfermedad llamada \"síndrome de Zonapha\", y Shirogane es una mujer de cabello plateado que controla el títere \"Arurukan\" (Arlequín). Juntos, Masaru, Narumi y Shirogane son arrojados a varias conspiraciones por aquellos que intentan robarle la fortuna a Masaru.",
+   "poster": "https://image.tmdb.org/t/p/w342/5n4QAkGDDpujWlHNDU9nDDbLMBn.jpg",
+   "reparto": [
+    {
+     "nombre": "Chihiro Ueda",
+     "foto": "https://image.tmdb.org/t/p/w185/vPVTSLPEHb9qkbNq6uDWAKYY39q.jpg"
+    },
+    {
+     "nombre": "Rikiya Koyama",
+     "foto": "https://image.tmdb.org/t/p/w185/hsZm87BORLpzhaycBaWOD5xpjVC.jpg"
+    },
+    {
+     "nombre": "Megumi Hayashibara",
+     "foto": "https://image.tmdb.org/t/p/w185/3Alm4pmBIxpeeh0Sdippxdbkpne.jpg"
+    },
+    {
+     "nombre": "Romi Park",
+     "foto": "https://image.tmdb.org/t/p/w185/fl9vyA3HEkOyTiZBJBhAR3OSmrO.jpg"
+    },
+    {
+     "nombre": "Masahiko Tanaka",
+     "foto": "https://image.tmdb.org/t/p/w185/ozi2h5bDv82EkYLJYSazrO3dzjh.jpg"
+    },
+    {
+     "nombre": "Akio Otsuka",
+     "foto": "https://image.tmdb.org/t/p/w185/uH9oiqOOgrsz2zNnouVZ1qPzDyb.jpg"
+    }
+   ],
+   "trailer": null,
+   "temporadas_det": [
+    {
+     "n": 1,
+     "eps": [
+      {
+       "n": 1,
+       "t": "El Telón Se Levanta",
+       "f": "2018-10-11"
+      },
+      {
+       "n": 2,
+       "t": "Promesa",
+       "f": "2018-10-19"
+      },
+      {
+       "n": 3,
+       "t": "Abismo",
+       "f": "2018-10-26"
+      },
+      {
+       "n": 4,
+       "t": "Tigre giratorio",
+       "f": "2018-11-01"
+      },
+      {
+       "n": 5,
+       "t": "Circo - Salida",
+       "f": "2018-11-08"
+      },
+      {
+       "n": 6,
+       "t": "Infierno",
+       "f": "2018-11-15"
+      },
+      {
+       "n": 7,
+       "t": "Demoníaco",
+       "f": "2018-11-22"
+      },
+      {
+       "n": 8,
+       "t": "Momento de Inicio, Momento de Fin",
+       "f": "2018-11-29"
+      },
+      {
+       "n": 9,
+       "t": "Memorias",
+       "f": "2018-12-06"
+      },
+      {
+       "n": 10,
+       "t": "Francine",
+       "f": "2018-12-13"
+      },
+      {
+       "n": 11,
+       "t": "Trompeteo",
+       "f": "2018-12-20"
+      },
+      {
+       "n": 12,
+       "t": "El comandante sin rostro",
+       "f": "2018-12-27"
+      },
+      {
+       "n": 13,
+       "t": "Lucila",
+       "f": "2019-01-10"
+      },
+      {
+       "n": 14,
+       "t": "Junto al mar, en la oscuridad de la noche",
+       "f": "2019-01-17"
+      },
+      {
+       "n": 15,
+       "t": "De vuelta al punto de partida",
+       "f": "2019-01-24"
+      },
+      {
+       "n": 16,
+       "t": "Encuentro",
+       "f": "2019-02-07"
+      },
+      {
+       "n": 17,
+       "t": "Visitante",
+       "f": "2019-02-14"
+      },
+      {
+       "n": 18,
+       "t": "Una sonrisa",
+       "f": "2019-02-21"
+      },
+      {
+       "n": 19,
+       "t": "La verdad detrás de la sombra",
+       "f": "2019-02-28"
+      },
+      {
+       "n": 20,
+       "t": "Negro sol",
+       "f": "2019-03-07"
+      },
+      {
+       "n": 21,
+       "t": "Diosa de plata",
+       "f": "2019-03-14"
+      },
+      {
+       "n": 22,
+       "t": "¡Dirígete a Harry!",
+       "f": "2019-03-21"
+      },
+      {
+       "n": 23,
+       "t": "El regreso del demonio",
+       "f": "2019-03-28"
+      },
+      {
+       "n": 24,
+       "t": "Escapar",
+       "f": "2019-04-04"
+      },
+      {
+       "n": 25,
+       "t": "En el Monte Saint-Michel",
+       "f": "2019-04-11"
+      },
+      {
+       "n": 26,
+       "t": "Espectáculo de animales",
+       "f": "2019-04-18"
+      },
+      {
+       "n": 27,
+       "t": "Descargar",
+       "f": "2019-04-25"
+      },
+      {
+       "n": 28,
+       "t": "Pig-chan se había ido",
+       "f": "2019-05-02"
+      },
+      {
+       "n": 29,
+       "t": "Lo que hizo Shirogane",
+       "f": "2019-05-09"
+      },
+      {
+       "n": 30,
+       "t": "Piedad",
+       "f": "2019-05-16"
+      },
+      {
+       "n": 31,
+       "t": "Meteorito negro",
+       "f": "2019-05-23"
+      },
+      {
+       "n": 32,
+       "t": "Despedida",
+       "f": "2019-05-30"
+      },
+      {
+       "n": 33,
+       "t": "El trío Nakamachi contra Lady Spider",
+       "f": "2019-06-06"
+      },
+      {
+       "n": 34,
+       "t": "Retaguardia",
+       "f": "2019-06-13"
+      },
+      {
+       "n": 35,
+       "t": "Abarcar",
+       "f": "2019-06-20"
+      },
+      {
+       "n": 36,
+       "t": "Cae el telón",
+       "f": "2019-06-27"
+      }
+     ]
+    }
+   ]
+  },
+  {
    "id": "154089",
    "titulo": "La masacre de Jonestown",
    "tipo": "p",
@@ -900,6 +502,52 @@
     }
    ],
    "trailer": "https://www.youtube.com/watch?v=Fa7UckNeh7o",
+   "temporadas_det": []
+  },
+  {
+   "id": "58590",
+   "titulo": "Una canta, la otra no",
+   "tipo": "p",
+   "plataforma": "prime",
+   "estado": "expiring",
+   "fecha": "2026-11-03",
+   "genero": "Drama",
+   "generos": [
+    "Drama",
+    "Música"
+   ],
+   "imdb": 5.9,
+   "rt": 65,
+   "duracion": "1 h 50 min",
+   "sinopsis": "Tras nueve años sin estrenar una película, Varda vuelve con un film feminista que narra la histora de dos amigas de vidas diferentes. (FILMAFFINITY)",
+   "poster": "https://image.tmdb.org/t/p/w342/fTe8Fd6I7auRVkTociUxHTiWSdK.jpg",
+   "reparto": [
+    {
+     "nombre": "Thérèse Liotard",
+     "foto": "https://image.tmdb.org/t/p/w185/5xmBMc1QqvYDRCUEl3JvuZAPG2L.jpg"
+    },
+    {
+     "nombre": "Valérie Mairesse",
+     "foto": "https://image.tmdb.org/t/p/w185/8CzY5dK1phwzQVgvoxJY4MGjqvi.jpg"
+    },
+    {
+     "nombre": "Robert Dadiès",
+     "foto": null
+    },
+    {
+     "nombre": "Mona Mairesse",
+     "foto": null
+    },
+    {
+     "nombre": "Francis Lemaire",
+     "foto": "https://image.tmdb.org/t/p/w185/j6qOGLufxPLyRNS0P7VaoL4yO5F.jpg"
+    },
+    {
+     "nombre": "François Courbin",
+     "foto": null
+    }
+   ],
+   "trailer": "https://www.youtube.com/watch?v=e81uf9dyT7c",
    "temporadas_det": []
   },
   {
@@ -1639,52 +1287,6 @@
     }
    ],
    "trailer": "https://www.youtube.com/watch?v=btj7FNzT2j8",
-   "temporadas_det": []
-  },
-  {
-   "id": "58590",
-   "titulo": "Una canta, la otra no",
-   "tipo": "p",
-   "plataforma": "prime",
-   "estado": "expiring",
-   "fecha": "2026-11-04",
-   "genero": "Drama",
-   "generos": [
-    "Drama",
-    "Música"
-   ],
-   "imdb": 5.9,
-   "rt": 65,
-   "duracion": "1 h 50 min",
-   "sinopsis": "Tras nueve años sin estrenar una película, Varda vuelve con un film feminista que narra la histora de dos amigas de vidas diferentes. (FILMAFFINITY)",
-   "poster": "https://image.tmdb.org/t/p/w342/fTe8Fd6I7auRVkTociUxHTiWSdK.jpg",
-   "reparto": [
-    {
-     "nombre": "Thérèse Liotard",
-     "foto": "https://image.tmdb.org/t/p/w185/5xmBMc1QqvYDRCUEl3JvuZAPG2L.jpg"
-    },
-    {
-     "nombre": "Valérie Mairesse",
-     "foto": "https://image.tmdb.org/t/p/w185/8CzY5dK1phwzQVgvoxJY4MGjqvi.jpg"
-    },
-    {
-     "nombre": "Robert Dadiès",
-     "foto": null
-    },
-    {
-     "nombre": "Mona Mairesse",
-     "foto": null
-    },
-    {
-     "nombre": "Francis Lemaire",
-     "foto": "https://image.tmdb.org/t/p/w185/j6qOGLufxPLyRNS0P7VaoL4yO5F.jpg"
-    },
-    {
-     "nombre": "François Courbin",
-     "foto": null
-    }
-   ],
-   "trailer": "https://www.youtube.com/watch?v=e81uf9dyT7c",
    "temporadas_det": []
   },
   {
@@ -2966,6 +2568,324 @@
     }
    ],
    "trailer": "https://www.youtube.com/watch?v=BnBMoZ0-zZw",
+   "temporadas_det": []
+  },
+  {
+   "id": "13678",
+   "titulo": "Nunca es tarde para enamorarse",
+   "tipo": "p",
+   "plataforma": "prime",
+   "estado": "expiring",
+   "fecha": "2026-11-08",
+   "genero": "Drama",
+   "generos": [
+    "Drama",
+    "Romance"
+   ],
+   "imdb": 6.5,
+   "rt": 71,
+   "duracion": "1 h 39 min",
+   "sinopsis": "Estando en Londres para la boda de su hija, Harvey Shine, pierde el avión a Nueva York, y por lo tanto pierde su trabajo. Mientras ahoga sus penas en el bar del aeropuerto, Harvey conoce a Kate, una empleada del gobierno británico atrapada en un ciclo sin fin de trabajo, llamadas telefónicas de su madre, y citas a ciegas. Inmediatamente se crea un vínculo entre este par de infelices, que pronto verán llegar el amor.",
+   "poster": "https://image.tmdb.org/t/p/w342/tfzXz3EJaiiz6dfoir3uoFo7JNq.jpg",
+   "reparto": [
+    {
+     "nombre": "Dustin Hoffman",
+     "foto": "https://image.tmdb.org/t/p/w185/yFjTzJHE6AFbwQifOlnNDzmiwlq.jpg"
+    },
+    {
+     "nombre": "Emma Thompson",
+     "foto": "https://image.tmdb.org/t/p/w185/zQ0hWHh3tzaOOziPbABQI8s9WCu.jpg"
+    },
+    {
+     "nombre": "Eileen Atkins",
+     "foto": "https://image.tmdb.org/t/p/w185/8gac03PfTFz2vByZi1aun0NiTqM.jpg"
+    },
+    {
+     "nombre": "Kathy Baker",
+     "foto": "https://image.tmdb.org/t/p/w185/34zuI0qWTD5jdqmJRtPwaW70JcQ.jpg"
+    },
+    {
+     "nombre": "Liane Balaban",
+     "foto": "https://image.tmdb.org/t/p/w185/uSa9AaXz8E4Mly9jHp9v0z8Kv6V.jpg"
+    },
+    {
+     "nombre": "Daniel Lapaine",
+     "foto": "https://image.tmdb.org/t/p/w185/5usnxFLjVgrJjY9T3Pvpy51Foh.jpg"
+    }
+   ],
+   "trailer": "https://www.youtube.com/watch?v=aI78CQ_T2LI",
+   "temporadas_det": []
+  },
+  {
+   "id": "7521557",
+   "titulo": "Un movimiento extraño",
+   "tipo": "p",
+   "plataforma": "prime",
+   "estado": "expiring",
+   "fecha": "2026-11-08",
+   "genero": "Comedia",
+   "generos": [
+    "Comedia"
+   ],
+   "imdb": 5.5,
+   "rt": null,
+   "duracion": "22 min",
+   "sinopsis": "Buenos Aires, 2019. Lucrecia, que trabaja como guardia de seguridad en un museo, prevé con su péndulo una fuerte subida del valor del dólar y se enamora de una empleada de una casa de cambio.",
+   "poster": "https://image.tmdb.org/t/p/w342/7SXOhrqOtszamsvM0EvquOA0YKy.jpg",
+   "reparto": [
+    {
+     "nombre": "Laila Maltz",
+     "foto": "https://image.tmdb.org/t/p/w185/nmxx7qarVqfjQQxhocSbdr3GTFv.jpg"
+    },
+    {
+     "nombre": "Paco Gorriz",
+     "foto": "https://image.tmdb.org/t/p/w185/1LQCoc1e5hdyQDZ4VOCKoxY1k55.jpg"
+    },
+    {
+     "nombre": "Sofía Palomino",
+     "foto": "https://image.tmdb.org/t/p/w185/i3YDGg6PSq8u3Vno4Z2JMwClT1R.jpg"
+    },
+    {
+     "nombre": "Jorge Prado",
+     "foto": "https://image.tmdb.org/t/p/w185/ixbqYtlsc7mAAntvgMUo3Jrfc9X.jpg"
+    },
+    {
+     "nombre": "Cecilia Rainero",
+     "foto": "https://image.tmdb.org/t/p/w185/5s1Hwa9Krpcly5KDjcMv3wWCpzj.jpg"
+    },
+    {
+     "nombre": "Marcela Guerty",
+     "foto": null
+    }
+   ],
+   "trailer": "https://www.youtube.com/watch?v=VXAC6UUx5-U",
+   "temporadas_det": []
+  },
+  {
+   "id": "17584226",
+   "titulo": "The Carters: Hurts to Love You",
+   "tipo": "s",
+   "plataforma": "prime",
+   "estado": "expiring",
+   "fecha": "2026-11-09",
+   "genero": "Documental",
+   "generos": [
+    "Documental"
+   ],
+   "imdb": 5.4,
+   "rt": null,
+   "duracion": "1 temporada, 2 episodios",
+   "sinopsis": "Desentraña un camino profundamente inquietante contado por Angel Conrad, la hermana de Nick y Aaron Carter, junto con entrevistas por primera vez con amigos Melissa Joan Hart y Scout Willis. Las películas caseras nunca antes vistas que detallan el ascenso a la fama de los hermanos y el devastador costo que tuvo para su familia también ayudan a contar la historia de los Carter.",
+   "poster": "https://image.tmdb.org/t/p/w342/t8SizJ3I5ye5Bh1Y6FD5jggXRvF.jpg",
+   "reparto": [
+    {
+     "nombre": "Angel Carter Conrad",
+     "foto": "https://image.tmdb.org/t/p/w185/kB6pJGgRQER3Keg0NgZNpt2J67E.jpg"
+    }
+   ],
+   "trailer": "https://www.youtube.com/watch?v=gQncVA6zZtk",
+   "temporadas_det": [
+    {
+     "n": 1,
+     "eps": [
+      {
+       "n": 1,
+       "t": "Episodio 1",
+       "f": "2025-04-15"
+      },
+      {
+       "n": 2,
+       "t": "Episodio 2",
+       "f": "2025-04-15"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "26071",
+   "titulo": "Bienvenidos a Villa Capri",
+   "tipo": "p",
+   "plataforma": "prime",
+   "estado": "expiring",
+   "fecha": "2026-11-09",
+   "genero": "Acción",
+   "generos": [
+    "Acción",
+    "Comedia"
+   ],
+   "imdb": 4.6,
+   "rt": 5,
+   "duracion": "1 h 31 min",
+   "sinopsis": "Duke Diver (Morgan Freeman) es el irresponsable manager del Villa Capri, un resort de lujo en Palm Springs. Con un pasado misterioso, Diver es un hacha en asegurarse de que la vida de los residentes de Villa Capri sea una gran fiesta continua. Duke verá peligrar su estatus cuando un encantador exmilitar llamado Leo (Tommy Lee Jones) llega a Villa Capri dispuesto a ser el rey del mambo y compitiendo con Duke por los favores de la recién llegada Suzie (Rene Russo). Pero cuando el pasado de Duke le alcanza inesperadamente, los dos hombres dejarán atrás sus rivalidades y trabajarán juntos para salvar Villa Capri y detener a quien intenta asesinar a Duke.",
+   "poster": "https://image.tmdb.org/t/p/w342/vtfYt7vi0cdzRCD7iUMTg3PPSoi.jpg",
+   "reparto": [
+    {
+     "nombre": "Morgan Freeman",
+     "foto": "https://image.tmdb.org/t/p/w185/905k0RFzH0Kd6gx8oSxRdnr6FL.jpg"
+    },
+    {
+     "nombre": "Tommy Lee Jones",
+     "foto": "https://image.tmdb.org/t/p/w185/mCiZNRAzbnPojJEZwVZWLw9kzxR.jpg"
+    },
+    {
+     "nombre": "Rene Russo",
+     "foto": "https://image.tmdb.org/t/p/w185/yWPSqrv3nfPPKC6I2S0sRTWZ5Yi.jpg"
+    },
+    {
+     "nombre": "Joe Pantoliano",
+     "foto": "https://image.tmdb.org/t/p/w185/3OHUI3nX4SYGGItDk3xqeIvWtIf.jpg"
+    },
+    {
+     "nombre": "Glenne Headly",
+     "foto": "https://image.tmdb.org/t/p/w185/ucndAdXmTfF6PfZx3tIMOOOOGcL.jpg"
+    },
+    {
+     "nombre": "Sheryl Lee Ralph",
+     "foto": "https://image.tmdb.org/t/p/w185/eq7FeNDJFUVtdHAtvzNkOIapzX.jpg"
+    }
+   ],
+   "trailer": "https://www.youtube.com/watch?v=VDFuiM2J9kc",
+   "temporadas_det": []
+  },
+  {
+   "id": "2093477",
+   "titulo": "Oregon",
+   "tipo": "p",
+   "plataforma": "netflix",
+   "estado": "expiring",
+   "fecha": "2026-11-09",
+   "genero": "Drama",
+   "generos": [
+    "Drama",
+    "Comedia",
+    "Romance"
+   ],
+   "imdb": 4.5,
+   "rt": null,
+   "duracion": "1 h 34 min",
+   "sinopsis": "On vacation in Istanbul in the '80s, an offbeat couple lands in a sticky situation while trying to return a friend's cassette tape.",
+   "poster": "https://image.tmdb.org/t/p/w342/h5ZysOOHYsQFGzYBpEKgGmiLde0.jpg",
+   "reparto": [
+    {
+     "nombre": "Aslı İnandık",
+     "foto": "https://image.tmdb.org/t/p/w185/dzYpsJucu3qaQ2SlaajKQeukInu.jpg"
+    },
+    {
+     "nombre": "Serkan Çayoğlu",
+     "foto": "https://image.tmdb.org/t/p/w185/ryi7hQzOvxEzuy2Vr7DC378LlhR.jpg"
+    },
+    {
+     "nombre": "Ferit Aktuğ",
+     "foto": "https://image.tmdb.org/t/p/w185/txZkWJki9quXGGrCEOiorfk9xPO.jpg"
+    },
+    {
+     "nombre": "Selen Uçer",
+     "foto": "https://image.tmdb.org/t/p/w185/mMLJD36aFnYNGQ2Ln5LCoT1ALIe.jpg"
+    },
+    {
+     "nombre": "Nevra Serezli",
+     "foto": "https://image.tmdb.org/t/p/w185/5DArwRh28vTJmk7qG5oCQl4RjRZ.jpg"
+    },
+    {
+     "nombre": "Zihni Göktay",
+     "foto": "https://image.tmdb.org/t/p/w185/puBsKSghbhfr5b8HitcTbHYfCwG.jpg"
+    }
+   ],
+   "trailer": null,
+   "temporadas_det": []
+  },
+  {
+   "id": "52750",
+   "titulo": "Corten!",
+   "tipo": "p",
+   "plataforma": "prime",
+   "estado": "expiring",
+   "fecha": "2026-11-10",
+   "genero": "Terror",
+   "generos": [
+    "Terror",
+    "Comedia"
+   ],
+   "imdb": 6.4,
+   "rt": 71,
+   "duracion": "1 h 50 min",
+   "sinopsis": "Un grupo de amigos se dispone a realizar una película de zombis en un edificio abandonado. Entre técnicos y actores desganados, parece que sólo el director está dispuesto a invertir la energía necesaria para terminar su película de terror de bajo presupuesto. Pero la inesperada irrupción de auténticos muertos vivientes perturbará el rodaje original.",
+   "poster": "https://image.tmdb.org/t/p/w342/ozZ5J72Cj547V6Sonb8whTSIye7.jpg",
+   "reparto": [
+    {
+     "nombre": "Romain Duris",
+     "foto": "https://image.tmdb.org/t/p/w185/70KN228eNpvouPTCxDSurnCzx9G.jpg"
+    },
+    {
+     "nombre": "Bérénice Bejo",
+     "foto": "https://image.tmdb.org/t/p/w185/geRiss2B8CWgmY0VZW0dHsWiAOt.jpg"
+    },
+    {
+     "nombre": "Grégory Gadebois",
+     "foto": "https://image.tmdb.org/t/p/w185/AvF337m0eGL9JLPEgG6Dy1T2Zu4.jpg"
+    },
+    {
+     "nombre": "Finnegan Oldfield",
+     "foto": "https://image.tmdb.org/t/p/w185/mvc8BnamGxAyU4gfe5K7TvgB9OZ.jpg"
+    },
+    {
+     "nombre": "Matilda Lutz",
+     "foto": "https://image.tmdb.org/t/p/w185/yqeYvGgDvrhvn5lP6fuRE1ImQXv.jpg"
+    },
+    {
+     "nombre": "Raphaël Quenard",
+     "foto": "https://image.tmdb.org/t/p/w185/lMLzNtZKalKX1tO0QHKlfZphg7m.jpg"
+    }
+   ],
+   "trailer": "https://www.youtube.com/watch?v=ImPJItdaiDM",
+   "temporadas_det": []
+  },
+  {
+   "id": "802618",
+   "titulo": "Sí, quiero... o no",
+   "tipo": "p",
+   "plataforma": "prime",
+   "estado": "expiring",
+   "fecha": "2026-11-10",
+   "genero": "Comedia",
+   "generos": [
+    "Comedia",
+    "Romance",
+    "Drama"
+   ],
+   "imdb": 5.1,
+   "rt": 30,
+   "duracion": "1 h 35 min",
+   "sinopsis": "Michelle y Allen han llegado a un punto en su relación en el que están considerando los próximos pasos. Deciden invitar a sus padres para que finalmente se conozcan y ofrezcan su \"sabiduría\" de cómo funciona el matrimonio. Lo que no saben es que los padres ya se conocen bastante bien, lo que lleva a algunas opiniones muy distintas sobre el valor del amor.",
+   "poster": "https://image.tmdb.org/t/p/w342/2vu2kXcmGOtZou1CnZafcepCpp4.jpg",
+   "reparto": [
+    {
+     "nombre": "Diane Keaton",
+     "foto": "https://image.tmdb.org/t/p/w185/A8B3BsFgbmw2WEmJuQX38qeU9eR.jpg"
+    },
+    {
+     "nombre": "Richard Gere",
+     "foto": "https://image.tmdb.org/t/p/w185/i7wcBNmFldh2E4QInCvmv7CPSIR.jpg"
+    },
+    {
+     "nombre": "Susan Sarandon",
+     "foto": "https://image.tmdb.org/t/p/w185/jR6l2EfvvGA8qCzZ7MB5FT9ZLkq.jpg"
+    },
+    {
+     "nombre": "Emma Roberts",
+     "foto": "https://image.tmdb.org/t/p/w185/utggW2yIufP3A5CGdT8H5mXyGLs.jpg"
+    },
+    {
+     "nombre": "Luke Bracey",
+     "foto": "https://image.tmdb.org/t/p/w185/ot2h7IrXpC8XSnIZDSVsj2FQ5cx.jpg"
+    },
+    {
+     "nombre": "William H. Macy",
+     "foto": "https://image.tmdb.org/t/p/w185/hdVEGSrP8qWlJnt0v5vSVcGOjy7.jpg"
+    }
+   ],
+   "trailer": "https://www.youtube.com/watch?v=cggAjaFSDic",
    "temporadas_det": []
   },
   {
