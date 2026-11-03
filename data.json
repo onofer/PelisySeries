@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-03T00:48:00+00:00",
+ "generado": "2026-11-03T13:55:02+00:00",
  "pais": "ES",
  "items": [
   {
@@ -2657,414 +2657,49 @@
    "temporadas_det": []
   },
   {
-   "id": "9653",
-   "titulo": "Will Trent, Agente Especial",
+   "id": "23351844",
+   "titulo": "The Friday the 13th Murders",
    "tipo": "s",
-   "plataforma": "netflix",
-   "estado": "upcoming",
+   "plataforma": "hbo",
+   "estado": "new",
    "fecha": "2026-11-03",
    "genero": "Crimen",
    "generos": [
     "Crimen",
-    "Drama",
-    "Comedia"
+    "Documental"
    ],
-   "imdb": 7.3,
-   "rt": null,
-   "duracion": "4 temporadas, 59 episodios",
-   "sinopsis": "El agente especial Will Trent del Gabinete de Investigación de Georgia (GBI) fue abandonado al nacer y creció en el complicado ambiente de las casas de acogida de Atlanta. Sin embargo, a día de hoy, está decidido a utilizar su inimitable agudeza para asegurarse de que a nadie lo abandonan como le hicieron a él. Will Trent cuenta con la tasa de resolución más alta del gabinete.",
-   "poster": "https://image.tmdb.org/t/p/w342/g3uXy5GZFKJflyHWEnU827q6qqM.jpg",
-   "reparto": [
-    {
-     "nombre": "Ramón Rodríguez",
-     "foto": "https://image.tmdb.org/t/p/w185/1gobmVevxCWVhV7s6J2B0oWPDZj.jpg"
-    },
-    {
-     "nombre": "Erika Christensen",
-     "foto": "https://image.tmdb.org/t/p/w185/2QQJgrGVe3Fr8x7y50dBpN2g9lS.jpg"
-    },
-    {
-     "nombre": "Iantha Richardson",
-     "foto": "https://image.tmdb.org/t/p/w185/nI4x1PDMH1iJ3hR2POpI2WvVwgZ.jpg"
-    },
-    {
-     "nombre": "Jake McLaughlin",
-     "foto": "https://image.tmdb.org/t/p/w185/14ZiT9mSr50N2sNXbzEthiiyVH9.jpg"
-    },
-    {
-     "nombre": "Sonja Sohn",
-     "foto": "https://image.tmdb.org/t/p/w185/ywx9VUp66kr7vt3xiSKHRtYBjw1.jpg"
-    },
-    {
-     "nombre": "Kevin Daniels",
-     "foto": "https://image.tmdb.org/t/p/w185/poBtBxOZ4VxNox0I3Fd5nysviNg.jpg"
-    }
-   ],
-   "trailer": "https://www.youtube.com/watch?v=Iy9PoT19ujk",
-   "temporadas_det": [
-    {
-     "n": 1,
-     "eps": [
-      {
-       "n": 1,
-       "t": "Piloto",
-       "f": "2023-01-03"
-      },
-      {
-       "n": 2,
-       "t": "Soy un tío muy observador",
-       "f": "2023-01-10"
-      },
-      {
-       "n": 3,
-       "t": "No permitas que vuelva a pasar",
-       "f": "2023-01-17"
-      },
-      {
-       "n": 4,
-       "t": "Mi estúpido cerebro de detective",
-       "f": "2023-01-24"
-      },
-      {
-       "n": 5,
-       "t": "La vigilancia",
-       "f": "2023-01-31"
-      },
-      {
-       "n": 6,
-       "t": "¿Voy a por mi gorrito de albal?",
-       "f": "2023-02-14"
-      },
-      {
-       "n": 7,
-       "t": "En paradero desconocido",
-       "f": "2023-02-21"
-      },
-      {
-       "n": 8,
-       "t": "Doscientos dólares y un abono de autobús",
-       "f": "2023-02-28"
-      },
-      {
-       "n": 9,
-       "t": "Cacería",
-       "f": "2023-03-21"
-      },
-      {
-       "n": 10,
-       "t": "Los pterodáctilos vuelan",
-       "f": "2023-03-28"
-      },
-      {
-       "n": 11,
-       "t": "Bill Black",
-       "f": "2023-04-18"
-      },
-      {
-       "n": 12,
-       "t": "No ha cambiado nada, aparte de todo",
-       "f": "2023-04-25"
-      },
-      {
-       "n": 13,
-       "t": "Mal carácter y falta de empatía",
-       "f": "2023-05-02"
-      }
-     ]
-    },
-    {
-     "n": 2,
-     "eps": [
-      {
-       "n": 1,
-       "t": "Me llamo Will Trent",
-       "f": "2024-02-20"
-      },
-      {
-       "n": 2,
-       "t": "Es el trabajo para el que me apunté",
-       "f": "2024-02-27"
-      },
-      {
-       "n": 3,
-       "t": "No hace falta que lo entiendas",
-       "f": "2024-03-05"
-      },
-      {
-       "n": 4,
-       "t": "Es más sencillo esposar a un humano",
-       "f": "2024-03-26"
-      },
-      {
-       "n": 5,
-       "t": "La hija del capitán Duke Wagner",
-       "f": "2024-04-02"
-      },
-      {
-       "n": 6,
-       "t": "Somos familia",
-       "f": "2024-04-09"
-      },
-      {
-       "n": 7,
-       "t": "¿Has ido alguna vez a una boda?",
-       "f": "2024-04-30"
-      },
-      {
-       "n": 8,
-       "t": "¿Por qué le sangra el brazo a Jack?",
-       "f": "2024-05-07"
-      },
-      {
-       "n": 9,
-       "t": "Residente o visitante",
-       "f": "2024-05-14"
-      },
-      {
-       "n": 10,
-       "t": "¿Ves la ilusión?",
-       "f": "2024-05-21"
-      }
-     ]
-    },
-    {
-     "n": 3,
-     "eps": [
-      {
-       "n": 1,
-       "t": "Yo solo estoy de paso",
-       "f": "2025-01-07"
-      },
-      {
-       "n": 2,
-       "t": "Solecito",
-       "f": "2025-01-14"
-      },
-      {
-       "n": 3,
-       "t": "En busca de otro estanque",
-       "f": "2025-01-21"
-      },
-      {
-       "n": 4,
-       "t": "El suelo es lava",
-       "f": "2025-01-28"
-      },
-      {
-       "n": 5,
-       "t": "Respira conmigo",
-       "f": "2025-02-04"
-      },
-      {
-       "n": 6,
-       "t": "Poca fe en las segundas oportunidades",
-       "f": "2025-02-11"
-      },
-      {
-       "n": 7,
-       "t": "Frankenstein de Mariachi Shelley",
-       "f": "2025-02-18"
-      },
-      {
-       "n": 8,
-       "t": "Abigail B.",
-       "f": "2025-02-25"
-      },
-      {
-       "n": 9,
-       "t": "Este crío promete",
-       "f": "2025-03-11"
-      },
-      {
-       "n": 10,
-       "t": "A propósito de la muerte de Whitney McAdams",
-       "f": "2025-03-18"
-      },
-      {
-       "n": 11,
-       "t": "Leal saber y entender",
-       "f": "2025-03-25"
-      },
-      {
-       "n": 12,
-       "t": "Eres la peor persona del mundo",
-       "f": "2025-04-01"
-      },
-      {
-       "n": 13,
-       "t": "Uno más. Si sirve de consuelo",
-       "f": "2025-04-08"
-      },
-      {
-       "n": 14,
-       "t": "Un funeral digno de un Quartermaine",
-       "f": "2025-04-15"
-      },
-      {
-       "n": 15,
-       "t": "El ser más hermoso, fiero, astuto y valeroso del mundo entero",
-       "f": "2025-04-22"
-      },
-      {
-       "n": 16,
-       "t": "Empujón, salto, caída",
-       "f": "2025-04-29"
-      },
-      {
-       "n": 17,
-       "t": "Caramba, sheriff",
-       "f": "2025-05-06"
-      },
-      {
-       "n": 18,
-       "t": "Pendientes de un latido",
-       "f": "2025-05-13"
-      }
-     ]
-    },
-    {
-     "n": 4,
-     "eps": [
-      {
-       "n": 1,
-       "t": "...Hablando de tiburones",
-       "f": "2026-01-06"
-      },
-      {
-       "n": 2,
-       "t": "El amor lleva su tiempo",
-       "f": "2026-01-13"
-      },
-      {
-       "n": 3,
-       "t": "Estudio 4B",
-       "f": "2026-01-20"
-      },
-      {
-       "n": 4,
-       "t": "El hombre de ningún lugar",
-       "f": "2026-01-27"
-      },
-      {
-       "n": 5,
-       "t": "Es un placer, Malcom",
-       "f": "2026-02-03"
-      },
-      {
-       "n": 6,
-       "t": "Ya no eres la misma persona",
-       "f": "2026-02-10"
-      },
-      {
-       "n": 7,
-       "t": "Llama a Paul",
-       "f": "2026-02-17"
-      },
-      {
-       "n": 8,
-       "t": "Buscamos a un Vampiro",
-       "f": "2026-02-24"
-      },
-      {
-       "n": 9,
-       "t": "Loaf para cual",
-       "f": "2026-03-03"
-      },
-      {
-       "n": 10,
-       "t": "Los secretos nos maldicen",
-       "f": "2026-03-10"
-      },
-      {
-       "n": 11,
-       "t": "¡Está vivo!",
-       "f": "2026-03-17"
-      },
-      {
-       "n": 12,
-       "t": "Lo escucho ahora, era bueno",
-       "f": "2026-03-24"
-      },
-      {
-       "n": 13,
-       "t": "¿La he fastidiado?",
-       "f": "2026-03-31"
-      },
-      {
-       "n": 14,
-       "t": "Una bandera en el barro",
-       "f": "2026-04-07"
-      },
-      {
-       "n": 15,
-       "t": "La vasta extensión de la nada",
-       "f": "2026-04-14"
-      },
-      {
-       "n": 16,
-       "t": "Nuestro último baile",
-       "f": "2026-04-21"
-      },
-      {
-       "n": 17,
-       "t": "¿De dónde vienes, angelito?",
-       "f": "2026-04-28"
-      },
-      {
-       "n": 18,
-       "t": "Ponte al servicio de los demás",
-       "f": "2026-05-05"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "id": "24862332",
-   "titulo": "Bass X Machina",
-   "tipo": "s",
-   "plataforma": "netflix",
-   "estado": "upcoming",
-   "fecha": "2026-11-03",
-   "genero": "Animación",
-   "generos": [
-    "Animación",
-    "Western",
-    "Ciencia ficción",
-    "Fantasía"
-   ],
-   "imdb": null,
+   "imdb": 5.3,
    "rt": null,
    "duracion": "1 temporada, 6 episodios",
-   "sinopsis": "",
-   "poster": "https://image.tmdb.org/t/p/w342/y9c1AwrldWRsY9edSf21cOgbI0h.jpg",
+   "sinopsis": "This chilling six-part true crime series explores real killings that unfold on or around the infamous date. Each episode unravels a haunting case, revealing how Friday the 13th transforms from superstition into a real-life horror story.",
+   "poster": "https://image.tmdb.org/t/p/w342/nKiGQ9UOgUw8sw7sPO0dQogg6l8.jpg",
    "reparto": [
     {
-     "nombre": "Brian Tyree Henry",
-     "foto": "https://image.tmdb.org/t/p/w185/2MsJh0bpyzwvOUnXOltHp3j85Pb.jpg"
+     "nombre": "Kenneth Glenn Milner",
+     "foto": null
     },
     {
-     "nombre": "Janelle Monáe",
-     "foto": "https://image.tmdb.org/t/p/w185/eTYG6eBH1LzLWcdQJaH72Wzxemm.jpg"
+     "nombre": "Lori Mccoy",
+     "foto": null
     },
     {
-     "nombre": "Tati Gabrielle",
-     "foto": "https://image.tmdb.org/t/p/w185/txZTL1HkPVxliTilbjlwR51VIt6.jpg"
+     "nombre": "Kenja Purkey",
+     "foto": null
     },
     {
-     "nombre": "Cree Summer",
-     "foto": "https://image.tmdb.org/t/p/w185/7DRq0zPUUWu55pUbnc2roVnzOJ9.jpg"
+     "nombre": "Tam Terry",
+     "foto": null
     },
     {
-     "nombre": "Chaske Spencer",
-     "foto": "https://image.tmdb.org/t/p/w185/yYXfNYra3BKPTXfLtAdUJ0RinjE.jpg"
+     "nombre": "Ken Williams",
+     "foto": null
     },
     {
-     "nombre": "Currie Graham",
-     "foto": "https://image.tmdb.org/t/p/w185/c0kOOb2HXq4BdUbFatw6B3TOTVk.jpg"
+     "nombre": "Patti Williams",
+     "foto": null
     }
    ],
-   "trailer": "https://www.youtube.com/watch?v=jjr5mf9i42Q",
+   "trailer": "https://www.youtube.com/watch?v=e9HBWRxt7ro",
    "temporadas_det": [
     {
      "n": 1,
@@ -3072,32 +2707,32 @@
       {
        "n": 1,
        "t": "Episodio 1",
-       "f": "2026-11-03"
+       "f": "2025-10-01"
       },
       {
        "n": 2,
        "t": "Episodio 2",
-       "f": "2026-11-03"
+       "f": "2025-10-08"
       },
       {
        "n": 3,
        "t": "Episodio 3",
-       "f": "2026-11-03"
+       "f": "2025-10-15"
       },
       {
        "n": 4,
        "t": "Episodio 4",
-       "f": "2026-11-03"
+       "f": "2025-10-22"
       },
       {
        "n": 5,
        "t": "Episodio 5",
-       "f": "2026-11-03"
+       "f": "2025-10-29"
       },
       {
        "n": 6,
        "t": "Episodio 6",
-       "f": "2026-11-03"
+       "f": "2025-11-05"
       }
      ]
     }
