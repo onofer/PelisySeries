@@ -1,792 +1,7 @@
 {
- "generado": "2026-11-03T13:55:02+00:00",
+ "generado": "2026-11-03T23:04:26+00:00",
  "pais": "ES",
  "items": [
-  {
-   "id": "58590",
-   "titulo": "Una canta, la otra no",
-   "tipo": "p",
-   "plataforma": "prime",
-   "estado": "expiring",
-   "fecha": "2026-11-03",
-   "genero": "Drama",
-   "generos": [
-    "Drama",
-    "Música"
-   ],
-   "imdb": 5.9,
-   "rt": 65,
-   "duracion": "1 h 50 min",
-   "sinopsis": "Tras nueve años sin estrenar una película, Varda vuelve con un film feminista que narra la histora de dos amigas de vidas diferentes. (FILMAFFINITY)",
-   "poster": "https://image.tmdb.org/t/p/w342/fTe8Fd6I7auRVkTociUxHTiWSdK.jpg",
-   "reparto": [
-    {
-     "nombre": "Thérèse Liotard",
-     "foto": "https://image.tmdb.org/t/p/w185/5xmBMc1QqvYDRCUEl3JvuZAPG2L.jpg"
-    },
-    {
-     "nombre": "Valérie Mairesse",
-     "foto": "https://image.tmdb.org/t/p/w185/8CzY5dK1phwzQVgvoxJY4MGjqvi.jpg"
-    },
-    {
-     "nombre": "Robert Dadiès",
-     "foto": null
-    },
-    {
-     "nombre": "Mona Mairesse",
-     "foto": null
-    },
-    {
-     "nombre": "Francis Lemaire",
-     "foto": "https://image.tmdb.org/t/p/w185/j6qOGLufxPLyRNS0P7VaoL4yO5F.jpg"
-    },
-    {
-     "nombre": "François Courbin",
-     "foto": null
-    }
-   ],
-   "trailer": "https://www.youtube.com/watch?v=e81uf9dyT7c",
-   "temporadas_det": []
-  },
-  {
-   "id": "126371",
-   "titulo": "Amina",
-   "tipo": "p",
-   "plataforma": "netflix",
-   "estado": "expiring",
-   "fecha": "2026-11-03",
-   "genero": "Bélica",
-   "generos": [
-    "Bélica",
-    "Historia",
-    "Drama"
-   ],
-   "imdb": 4.5,
-   "rt": null,
-   "duracion": "2 h 00 min",
-   "sinopsis": "En Zazzau del siglo XVI, ahora Zaria, Nigeria, Amina debe utilizar sus habilidades y tácticas militares para defender el reino de su familia. Basado en una historia real.",
-   "poster": "https://image.tmdb.org/t/p/w342/hMIQiwLpBfTfe3ZbRlNx4225Mgg.jpg",
-   "reparto": [
-    {
-     "nombre": "Lucy Ameh",
-     "foto": "https://image.tmdb.org/t/p/w185/eSGoU3NIvQSrIewRBXuofxp5AMD.jpg"
-    },
-    {
-     "nombre": "Ali Nuhu",
-     "foto": "https://image.tmdb.org/t/p/w185/etT4I7SYLWeo9CJL6SHcuOizgCC.jpg"
-    },
-    {
-     "nombre": "Clarion Chukwurah-Abiola",
-     "foto": null
-    },
-    {
-     "nombre": "Chris Gbakann",
-     "foto": null
-    },
-    {
-     "nombre": "Ibrahim Mijinyawa",
-     "foto": null
-    },
-    {
-     "nombre": "Ummi Mohammed",
-     "foto": null
-    }
-   ],
-   "trailer": "https://www.youtube.com/watch?v=RW87asYGq7g",
-   "temporadas_det": []
-  },
-  {
-   "id": "465",
-   "titulo": "Weeds",
-   "tipo": "s",
-   "plataforma": "netflix",
-   "estado": "expiring",
-   "fecha": "2026-11-03",
-   "genero": "Comedia",
-   "generos": [
-    "Comedia",
-    "Crimen",
-    "Drama"
-   ],
-   "imdb": 7.6,
-   "rt": null,
-   "duracion": "8 temporadas, 102 episodios",
-   "sinopsis": "Ambientada en Agrestic, una ciudad californiana de ficción, la serie narra la historia de Nancy Botwin (Mary-Louise Parker), una madre de familia, cuyo marido Judah (Jeffrey Dean Morgan) ha fallecido reciente y repentinamente, y termina vendiendo marihuana a sus vecinos del barrio residencial donde vive para poder mantener el nivel de vida de clase alta al que está acostumbrada. Su vida gira en torno a sus dos hijos, Shane Botwin (Alexander Gould), un excéntrico y solitario niño de 10 años, y Silas Botwin (Hunter Parrish), un adolescente obsesionado con las relaciones sexuales. Los tres viven en Agrestic, un barrio idílico en apariencia, pero que en realidad oculta oscuros secretos tras las atildadas puertas de sus casas.",
-   "poster": "https://image.tmdb.org/t/p/w342/8QjwQpFllRipS1AbSyp7CO8RmVJ.jpg",
-   "reparto": [
-    {
-     "nombre": "Mary-Louise Parker",
-     "foto": "https://image.tmdb.org/t/p/w185/1ohhrIZ4OMlLx9DvHjPhQJAIP0F.jpg"
-    },
-    {
-     "nombre": "Justin Kirk",
-     "foto": "https://image.tmdb.org/t/p/w185/7zRJN1qkaGPhUoGoIEtZDsDY9e6.jpg"
-    },
-    {
-     "nombre": "Hunter Parrish",
-     "foto": "https://image.tmdb.org/t/p/w185/wFJhOeUeyHJrfkU6lUuHuwDuEaf.jpg"
-    },
-    {
-     "nombre": "Alexander Gould",
-     "foto": "https://image.tmdb.org/t/p/w185/zzfj8LHhSiRntnyThvOBirEEmII.jpg"
-    },
-    {
-     "nombre": "Kevin Nealon",
-     "foto": "https://image.tmdb.org/t/p/w185/qM7LSgoQezyENsqGzxFTzwM5CQ4.jpg"
-    },
-    {
-     "nombre": "Jennifer Jason Leigh",
-     "foto": "https://image.tmdb.org/t/p/w185/7DbG2AO3nygHAkNC866HLPKkxv9.jpg"
-    }
-   ],
-   "trailer": "https://www.youtube.com/watch?v=qZDIH2gbJMM",
-   "temporadas_det": [
-    {
-     "n": 1,
-     "eps": [
-      {
-       "n": 1,
-       "t": "No puedes fallar con el oso",
-       "f": "2005-08-07"
-      },
-      {
-       "n": 2,
-       "t": "Buga prestado",
-       "f": "2005-08-15"
-      },
-      {
-       "n": 3,
-       "t": "Un pirulí de buena mierda",
-       "f": "2005-08-22"
-      },
-      {
-       "n": 4,
-       "t": "La moda de Cristo",
-       "f": "2005-08-29"
-      },
-      {
-       "n": 5,
-       "t": "Renacer",
-       "f": "2005-09-05"
-      },
-      {
-       "n": 6,
-       "t": "Muerte en el infierno",
-       "f": "2005-09-12"
-      },
-      {
-       "n": 7,
-       "t": "Educación superior",
-       "f": "2005-09-19"
-      },
-      {
-       "n": 8,
-       "t": "El castigo del semáforo",
-       "f": "2005-09-26"
-      },
-      {
-       "n": 9,
-       "t": "La venganza del encendedor",
-       "f": "2005-10-03"
-      },
-      {
-       "n": 10,
-       "t": "La padrina",
-       "f": "2005-10-10"
-      }
-     ]
-    },
-    {
-     "n": 2,
-     "eps": [
-      {
-       "n": 1,
-       "t": "La serpiente del maíz",
-       "f": "2006-08-14"
-      },
-      {
-       "n": 2,
-       "t": "Cocinando con Jesús",
-       "f": "2006-08-21"
-      },
-      {
-       "n": 3,
-       "t": "El último tango en Agrestic",
-       "f": "2006-08-28"
-      },
-      {
-       "n": 4,
-       "t": "Lacy Laplante",
-       "f": "2006-09-04"
-      },
-      {
-       "n": 5,
-       "t": "El barrio de la señora Botwin",
-       "f": "2006-09-11"
-      },
-      {
-       "n": 6,
-       "t": "Enamoramiento chica amor pánico",
-       "f": "2006-09-18"
-      },
-      {
-       "n": 7,
-       "t": "Tenemos que encontrar los dedos",
-       "f": "2006-09-25"
-      },
-      {
-       "n": 8,
-       "t": "Dinero de una MQF",
-       "f": "2006-10-02"
-      },
-      {
-       "n": 9,
-       "t": "La fiesta",
-       "f": "2006-10-09"
-      },
-      {
-       "n": 10,
-       "t": "Un kilómetro de profundidad y medio metro de ancho",
-       "f": "2006-10-16"
-      },
-      {
-       "n": 11,
-       "t": "Sí, como los tomates",
-       "f": "2006-10-23"
-      },
-      {
-       "n": 12,
-       "t": "Pittsburgh",
-       "f": "2006-10-30"
-      }
-     ]
-    },
-    {
-     "n": 3,
-     "eps": [
-      {
-       "n": 1,
-       "t": "Más difícil todavía",
-       "f": "2007-08-13"
-      },
-      {
-       "n": 2,
-       "t": "Una piscina y su dinero",
-       "f": "2007-08-20"
-      },
-      {
-       "n": 3,
-       "t": "El baile de la hierba",
-       "f": "2007-08-27"
-      },
-      {
-       "n": 4,
-       "t": "Autopista de mierda",
-       "f": "2007-09-03"
-      },
-      {
-       "n": 5,
-       "t": "Bill Sussman",
-       "f": "2007-09-10"
-      },
-      {
-       "n": 6,
-       "t": "Saltamontes",
-       "f": "2007-09-17"
-      },
-      {
-       "n": 7,
-       "t": "Él me enseñó a defenderme",
-       "f": "2007-09-24"
-      },
-      {
-       "n": 8,
-       "t": "Las dos señoras Scottson",
-       "f": "2007-10-01"
-      },
-      {
-       "n": 9,
-       "t": "Suelten los perros",
-       "f": "2007-10-08"
-      },
-      {
-       "n": 10,
-       "t": "Ha llamado Roy Till",
-       "f": "2007-10-15"
-      },
-      {
-       "n": 11,
-       "t": "Tobillos gordos",
-       "f": "2007-10-22"
-      },
-      {
-       "n": 12,
-       "t": "Tiempos oscuros",
-       "f": "2007-10-29"
-      },
-      {
-       "n": 13,
-       "t": "El juego del risk",
-       "f": "2007-11-05"
-      },
-      {
-       "n": 14,
-       "t": "Protección",
-       "f": "2007-11-12"
-      },
-      {
-       "n": 15,
-       "t": "Nos vamos",
-       "f": "2007-11-19"
-      }
-     ]
-    },
-    {
-     "n": 4,
-     "eps": [
-      {
-       "n": 1,
-       "t": "Mamá cree que los pájaros van a por ella",
-       "f": "2008-06-16"
-      },
-      {
-       "n": 2,
-       "t": "Dama encantadora",
-       "f": "2008-06-23"
-      },
-      {
-       "n": 3,
-       "t": "Todo el maldito bla, bla, bla",
-       "f": "2008-06-30"
-      },
-      {
-       "n": 4,
-       "t": "Tres neveras portátiles",
-       "f": "2008-07-07"
-      },
-      {
-       "n": 5,
-       "t": "Ningún hombre es pudín",
-       "f": "2008-07-14"
-      },
-      {
-       "n": 6,
-       "t": "Tesoros extraordinarios",
-       "f": "2008-07-21"
-      },
-      {
-       "n": 7,
-       "t": "Sí, yo puedo",
-       "f": "2008-07-28"
-      },
-      {
-       "n": 8,
-       "t": "Yo soy la mesa",
-       "f": "2008-08-04"
-      },
-      {
-       "n": 9,
-       "t": "Barquitos de papel",
-       "f": "2008-08-11"
-      },
-      {
-       "n": 10,
-       "t": "Círculos de amor superpuestos",
-       "f": "2008-08-18"
-      },
-      {
-       "n": 11,
-       "t": "Cabeza de queso",
-       "f": "2008-08-25"
-      },
-      {
-       "n": 12,
-       "t": "Hasta que volvamos a vernos",
-       "f": "2008-09-08"
-      },
-      {
-       "n": 13,
-       "t": "Si trabajas para vivir, ¿por qué te matas trabajando?",
-       "f": "2008-09-15"
-      }
-     ]
-    },
-    {
-     "n": 5,
-     "eps": [
-      {
-       "n": 1,
-       "t": "Maravilloso maravilloso",
-       "f": "2009-06-08"
-      },
-      {
-       "n": 2,
-       "t": "Los machetes, arriba",
-       "f": "2009-06-15"
-      },
-      {
-       "n": 3,
-       "t": "Su-su-sucio",
-       "f": "2009-06-22"
-      },
-      {
-       "n": 4,
-       "t": "Superafortunado y feliz",
-       "f": "2009-06-29"
-      },
-      {
-       "n": 5,
-       "t": "Van Nuys",
-       "f": "2009-07-06"
-      },
-      {
-       "n": 6,
-       "t": "Una propuesta modesta",
-       "f": "2009-07-13"
-      },
-      {
-       "n": 7,
-       "t": "Donde el camino se corta",
-       "f": "2009-07-20"
-      },
-      {
-       "n": 8,
-       "t": "Un claxon muy particular",
-       "f": "2009-07-27"
-      },
-      {
-       "n": 9,
-       "t": "Chupar y escupir",
-       "f": "2009-08-03"
-      },
-      {
-       "n": 10,
-       "t": "Perro insano",
-       "f": "2009-08-10"
-      },
-      {
-       "n": 11,
-       "t": "Patos y tigres",
-       "f": "2009-08-17"
-      },
-      {
-       "n": 12,
-       "t": "Pegamento",
-       "f": "2009-08-24"
-      },
-      {
-       "n": 13,
-       "t": "Todo sobre mi madre",
-       "f": "2009-08-31"
-      }
-     ]
-    },
-    {
-     "n": 6,
-     "eps": [
-      {
-       "n": 1,
-       "t": "Un mazazo",
-       "f": "2010-08-16"
-      },
-      {
-       "n": 2,
-       "t": "Talando y podando",
-       "f": "2010-08-23"
-      },
-      {
-       "n": 3,
-       "t": "Un Yippity Sippity",
-       "f": "2010-08-30"
-      },
-      {
-       "n": 4,
-       "t": "Felicidad",
-       "f": "2010-09-13"
-      },
-      {
-       "n": 5,
-       "t": "Bumerán",
-       "f": "2010-09-20"
-      },
-      {
-       "n": 6,
-       "t": "Un zapato por un zapato",
-       "f": "2010-09-27"
-      },
-      {
-       "n": 7,
-       "t": "Molinillos de papel y madera",
-       "f": "2010-10-04"
-      },
-      {
-       "n": 8,
-       "t": "Cachorros tranquilos",
-       "f": "2010-10-11"
-      },
-      {
-       "n": 9,
-       "t": "A Moscú, y rápidamente",
-       "f": "2010-10-18"
-      },
-      {
-       "n": 10,
-       "t": "Otra vez Dearborn",
-       "f": "2010-10-25"
-      },
-      {
-       "n": 11,
-       "t": "Orgullo vikingo",
-       "f": "2010-11-01"
-      },
-      {
-       "n": 12,
-       "t": "Fran Tarkenton",
-       "f": "2010-11-08"
-      },
-      {
-       "n": 13,
-       "t": "El amor teórico no ha muerto",
-       "f": "2010-11-15"
-      }
-     ]
-    },
-    {
-     "n": 7,
-     "eps": [
-      {
-       "n": 1,
-       "t": "Maletas",
-       "f": "2011-06-27"
-      },
-      {
-       "n": 2,
-       "t": "De un trauma surge algo",
-       "f": "2011-07-04"
-      },
-      {
-       "n": 3,
-       "t": "Partido jugado",
-       "f": "2011-07-11"
-      },
-      {
-       "n": 4,
-       "t": "Un agujero en el niqab",
-       "f": "2011-07-18"
-      },
-      {
-       "n": 5,
-       "t": "Banquete de carne, solo con los dedos",
-       "f": "2011-07-25"
-      },
-      {
-       "n": 6,
-       "t": "Objeto transitorio",
-       "f": "2011-08-01"
-      },
-      {
-       "n": 7,
-       "t": "Vehement versus Vigorous",
-       "f": "2011-08-08"
-      },
-      {
-       "n": 8,
-       "t": "Sintéticos",
-       "f": "2011-08-15"
-      },
-      {
-       "n": 9,
-       "t": "¡Gatos, gatos, gatos!",
-       "f": "2011-08-22"
-      },
-      {
-       "n": 10,
-       "t": "La carga del sistema",
-       "f": "2011-08-29"
-      },
-      {
-       "n": 11,
-       "t": "Une mère que j'aimerais baiser",
-       "f": "2011-09-12"
-      },
-      {
-       "n": 12,
-       "t": "Razonamiento espacial cualitativo",
-       "f": "2011-09-19"
-      },
-      {
-       "n": 13,
-       "t": "Esa sí, esa no",
-       "f": "2011-09-26"
-      }
-     ]
-    },
-    {
-     "n": 8,
-     "eps": [
-      {
-       "n": 1,
-       "t": "¡Qué desorden!",
-       "f": "2012-07-01"
-      },
-      {
-       "n": 2,
-       "t": "Un rayo de sol",
-       "f": "2012-07-08"
-      },
-      {
-       "n": 3,
-       "t": "Ve todo azul, huele a queso y muere",
-       "f": "2012-07-15"
-      },
-      {
-       "n": 4,
-       "t": "Solo Judy puede juzgar",
-       "f": "2012-07-22"
-      },
-      {
-       "n": 5,
-       "t": "Roja en diente y garra",
-       "f": "2012-07-29"
-      },
-      {
-       "n": 6,
-       "t": "Allosaurus, aplasta el castillo",
-       "f": "2012-08-05"
-      },
-      {
-       "n": 7,
-       "t": "Desbloqueados",
-       "f": "2012-08-12"
-      },
-      {
-       "n": 8,
-       "t": "A 5 millas del Yetzer Hara",
-       "f": "2012-08-19"
-      },
-      {
-       "n": 9,
-       "t": "Retoños",
-       "f": "2012-08-26"
-      },
-      {
-       "n": 10,
-       "t": "El umbral",
-       "f": "2012-09-02"
-      },
-      {
-       "n": 11,
-       "t": "Si Dios quiere y el tiempo lo permite",
-       "f": "2012-09-09"
-      },
-      {
-       "n": 12,
-       "t": "Es la hora (Parte 1)",
-       "f": "2012-09-16"
-      },
-      {
-       "n": 13,
-       "t": "Es la hora (Parte 2)",
-       "f": "2012-09-16"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "id": "1292179",
-   "titulo": "Oso vicioso",
-   "tipo": "p",
-   "plataforma": "netflix",
-   "estado": "expiring",
-   "fecha": "2026-11-03",
-   "genero": "Suspense",
-   "generos": [
-    "Suspense",
-    "Comedia",
-    "Crimen"
-   ],
-   "imdb": 5.9,
-   "rt": 65,
-   "duracion": "1 h 35 min",
-   "sinopsis": "Inspirado en hechos reales ocurridos en Kentucky en 1985, donde un oso negro de 80 Kilos ingirió 40 Kilogramos de cocaína pura.",
-   "poster": "https://image.tmdb.org/t/p/w342/yGCpehozPDlaczL4Fas1d01mfAH.jpg",
-   "reparto": [
-    {
-     "nombre": "Keri Russell",
-     "foto": "https://image.tmdb.org/t/p/w185/4bLtisDjmCOemk3uC65NAlmdIjz.jpg"
-    },
-    {
-     "nombre": "Alden Ehrenreich",
-     "foto": "https://image.tmdb.org/t/p/w185/vOLiUSDT8rubu0J2YKwBkOL0K6V.jpg"
-    },
-    {
-     "nombre": "O'Shea Jackson Jr.",
-     "foto": "https://image.tmdb.org/t/p/w185/kXJ02sXvnExbGNJ11piC6d6WMOc.jpg"
-    },
-    {
-     "nombre": "Ray Liotta",
-     "foto": "https://image.tmdb.org/t/p/w185/ve9sB0o1MYTaL2SXEisVW2RMkD5.jpg"
-    },
-    {
-     "nombre": "Isiah Whitlock Jr.",
-     "foto": "https://image.tmdb.org/t/p/w185/8OIhQb53rMX7VcTLZbAMeVd7tHc.jpg"
-    },
-    {
-     "nombre": "Brooklynn Prince",
-     "foto": "https://image.tmdb.org/t/p/w185/k9oSIk7V8Sbgs0Dw8tX71f9YeXi.jpg"
-    }
-   ],
-   "trailer": "https://www.youtube.com/watch?v=CvYGl5BESEI",
-   "temporadas_det": []
-  },
-  {
-   "id": "11272",
-   "titulo": "Bugsy",
-   "tipo": "p",
-   "plataforma": "netflix",
-   "estado": "expiring",
-   "fecha": "2026-11-03",
-   "genero": "Crimen",
-   "generos": [
-    "Crimen",
-    "Drama",
-    "Misterio"
-   ],
-   "imdb": 6.6,
-   "rt": 84,
-   "duracion": "2 h 15 min",
-   "sinopsis": "Benjamin \"Bugsy\" Siegel (Warren Beatty), Meyer Lansky (Ben Kingsley) y Charlie \"Lucky\" Luciano (Bill Graham) controlan los negocios del hampa en Nueva York, y quieren extenderse hacia el oeste. Bugsy se traslada a Los Angeles y se vincula a la industria del cine. Dejando atrás a su familia, dos grandes pasiones se apoderarán de su vida: la atractiva y temperamental Virginia Hill (Annette Bening), y su obsesiva idea de levantar una ciudad de lujo y juego en medio del desierto de Nevada, Las Vegas.",
-   "poster": "https://image.tmdb.org/t/p/w342/hSGncpMByW8zx2aOSXdZB0e70yA.jpg",
-   "reparto": [
-    {
-     "nombre": "Warren Beatty",
-     "foto": "https://image.tmdb.org/t/p/w185/zjKCKPNw5PEInsJl7MJ9BIHlR1.jpg"
-    },
-    {
-     "nombre": "Annette Bening",
-     "foto": "https://image.tmdb.org/t/p/w185/kGslMAWcpv8MKzODhDRDkFE0uX7.jpg"
-    },
-    {
-     "nombre": "Harvey Keitel",
-     "foto": "https://image.tmdb.org/t/p/w185/7P30hza1neYWW3r7rSQOC736K2Z.jpg"
-    },
-    {
-     "nombre": "Ben Kingsley",
-     "foto": "https://image.tmdb.org/t/p/w185/k3Dmu49B2akwDvgqy52MOxznI59.jpg"
-    },
-    {
-     "nombre": "Elliott Gould",
-     "foto": "https://image.tmdb.org/t/p/w185/vqjRBbuqXOvalAx5JZEaWx6kQOw.jpg"
-    },
-    {
-     "nombre": "Joe Mantegna",
-     "foto": "https://image.tmdb.org/t/p/w185/4jzvAE6B1eoiZDUnDUuMazirCPP.jpg"
-    }
-   ],
-   "trailer": "https://www.youtube.com/watch?v=btj7FNzT2j8",
-   "temporadas_det": []
-  },
   {
    "id": "4224",
    "titulo": "Familia al instante",
@@ -2657,6 +1872,449 @@
    "temporadas_det": []
   },
   {
+   "id": "217462",
+   "titulo": "Detetive Madeinusa",
+   "tipo": "p",
+   "plataforma": "prime",
+   "estado": "expiring",
+   "fecha": "2026-11-12",
+   "genero": "Comedia",
+   "generos": [
+    "Comedia"
+   ],
+   "imdb": 3.8,
+   "rt": null,
+   "duracion": "1 h 41 min",
+   "sinopsis": "Madeinusa es un ex político convertido en detective torpe. Es contratado por Neldson, un cabildero millonario, para desentrañar el robo de un buey preciado y contará con la ayuda de un equipo aún más confuso.",
+   "poster": "https://image.tmdb.org/t/p/w342/kBDp6c8YlrH1Cq13JwnSShnKgBc.jpg",
+   "reparto": [
+    {
+     "nombre": "Tirullipa",
+     "foto": "https://image.tmdb.org/t/p/w185/zT168h81BdQ1Zjm3al0JT3ki4y4.jpg"
+    },
+    {
+     "nombre": "Whindersson Nunes",
+     "foto": "https://image.tmdb.org/t/p/w185/avHMFCG8hB04O9EgqRpH7IjcX48.jpg"
+    },
+    {
+     "nombre": "Bruno Montaleone",
+     "foto": "https://image.tmdb.org/t/p/w185/eXkQ1K9JMaZsZ3WYv8MVwPX9HRD.jpg"
+    },
+    {
+     "nombre": "Gessica Kayane",
+     "foto": "https://image.tmdb.org/t/p/w185/6juTVrLeeHWsJEMeumUzjrs6mhG.jpg"
+    },
+    {
+     "nombre": "Aisha Jambo",
+     "foto": "https://image.tmdb.org/t/p/w185/gXKT4cBmlq9YEUZ408jcav74ZQa.jpg"
+    },
+    {
+     "nombre": "Luana Tanaka",
+     "foto": "https://image.tmdb.org/t/p/w185/t9wj5axKlgB4IHi4p4xHpwxJ5Hi.jpg"
+    }
+   ],
+   "trailer": null,
+   "temporadas_det": []
+  },
+  {
+   "id": "3325",
+   "titulo": "Ni en sueños",
+   "tipo": "p",
+   "plataforma": "hbo",
+   "estado": "expiring",
+   "fecha": "2026-11-12",
+   "genero": "Romance",
+   "generos": [
+    "Romance",
+    "Comedia"
+   ],
+   "imdb": 6.4,
+   "rt": 57,
+   "duracion": "1 h 44 min",
+   "sinopsis": "Kirk (Jay Baruchel, \"Tropic Thunder\") es un tipo normal y corriente, que no suele tener éxito con las chicas, que se queda sorprendido cuando un día una chica despampanante muestra interés en él. Kirk no puede creer en la suerte que está teniendo. A pesar de que está estancado en un trabajo sin futuro como guardia de seguridad del aeropuerto, contra todo pronóstico, Molly (Alice Eve), una chica con éxito y escandalosamente guapa, se enamora de él. Kirk está aturdido. También lo están sus amigos, su familia y hasta su ex-novia. Ahora tiene que encontrar la manera de hacer que la relación funcione, a pesar de que él es el primero en admitir que ella está totalmente \"fuera de su liga\".",
+   "poster": "https://image.tmdb.org/t/p/w342/oFWxPE8mXiOmqLc8bfncOuJqbw5.jpg",
+   "reparto": [
+    {
+     "nombre": "Jay Baruchel",
+     "foto": "https://image.tmdb.org/t/p/w185/1GYJeQzPcY9Pfmc3FFsBwClkCv7.jpg"
+    },
+    {
+     "nombre": "Alice Eve",
+     "foto": "https://image.tmdb.org/t/p/w185/tJUSx0Cw7pCnRsCWbGTX2POiTKM.jpg"
+    },
+    {
+     "nombre": "T.J. Miller",
+     "foto": "https://image.tmdb.org/t/p/w185/rRrVvBxOkyYM5XdLXimShHR1Itn.jpg"
+    },
+    {
+     "nombre": "Nate Torrence",
+     "foto": "https://image.tmdb.org/t/p/w185/yT9o149xPygdY0NsF9sNgiQwuru.jpg"
+    },
+    {
+     "nombre": "Mike Vogel",
+     "foto": "https://image.tmdb.org/t/p/w185/s85Qt8oUJZ3QnUeAmQjh5amq6R6.jpg"
+    },
+    {
+     "nombre": "Lindsay Sloane",
+     "foto": "https://image.tmdb.org/t/p/w185/sbUraumaXThpJ6ewhLuxWNn0dOf.jpg"
+    }
+   ],
+   "trailer": "https://www.youtube.com/watch?v=6apjIe7G7BY",
+   "temporadas_det": []
+  },
+  {
+   "id": "1522",
+   "titulo": "Wonder Woman 1984",
+   "tipo": "p",
+   "plataforma": "netflix",
+   "estado": "expiring",
+   "fecha": "2026-11-12",
+   "genero": "Acción",
+   "generos": [
+    "Acción",
+    "Aventura",
+    "Fantasía"
+   ],
+   "imdb": 5.5,
+   "rt": 57,
+   "duracion": "2 h 31 min",
+   "sinopsis": "En 1984, en plena guerra fría, Diana Prince, conocida como Wonder Woman se enfrenta al empresario Maxwell Lord y a su antigua amiga Barbara Minerva / Cheetah, una villana que posee fuerza y agilidad sobrehumanas.",
+   "poster": "https://image.tmdb.org/t/p/w342/jIIjsExCEv6lsfQGHTXDPk3Q0M5.jpg",
+   "reparto": [
+    {
+     "nombre": "Gal Gadot",
+     "foto": "https://image.tmdb.org/t/p/w185/AbXKtWQwuDiwhoQLh34VRglwuBE.jpg"
+    },
+    {
+     "nombre": "Chris Pine",
+     "foto": "https://image.tmdb.org/t/p/w185/vSe6sIsdtcoqBhuWRXynahFg8Vf.jpg"
+    },
+    {
+     "nombre": "Kristen Wiig",
+     "foto": "https://image.tmdb.org/t/p/w185/gEKYhc3HvNxWhxneVfeePu0rTm.jpg"
+    },
+    {
+     "nombre": "Pedro Pascal",
+     "foto": "https://image.tmdb.org/t/p/w185/oKcMbVn0NJTNzQt0ClKKvVXkm60.jpg"
+    },
+    {
+     "nombre": "Robin Wright",
+     "foto": "https://image.tmdb.org/t/p/w185/d3rIv0y2p0jMsQ7ViR7O1606NZa.jpg"
+    },
+    {
+     "nombre": "Connie Nielsen",
+     "foto": "https://image.tmdb.org/t/p/w185/gSQ3O3PJ6ly6nT63joOtfZyscFP.jpg"
+    }
+   ],
+   "trailer": "https://www.youtube.com/watch?v=EMgbWouN4wE",
+   "temporadas_det": []
+  },
+  {
+   "id": "400",
+   "titulo": "Wonder Woman",
+   "tipo": "p",
+   "plataforma": "netflix",
+   "estado": "expiring",
+   "fecha": "2026-11-12",
+   "genero": "Acción",
+   "generos": [
+    "Acción",
+    "Aventura",
+    "Fantasía"
+   ],
+   "imdb": 7.2,
+   "rt": 93,
+   "duracion": "2 h 21 min",
+   "sinopsis": "Diana, princesa de las Amazonas, entrenada para ser una guerrera invencible, fue criada en una isla paradisíaca protegida, hasta que un día, un piloto norteamericano, que tuvo un accidente y acabó en sus costas, le habló de un gran conflicto existente en el mundo, la Primera Guerra Mundial. Diana decidió salir de la isla, convencida de que podía detener la terrible amenaza. Ahora lucha como Wonder Woman, junto a los hombres, en la guerra que acabará con todas las guerras y descubre todos sus poderes y su verdadero destino.",
+   "poster": "https://image.tmdb.org/t/p/w342/yjzHtHSAPDdRQejnTyFbifX2gef.jpg",
+   "reparto": [
+    {
+     "nombre": "Gal Gadot",
+     "foto": "https://image.tmdb.org/t/p/w185/AbXKtWQwuDiwhoQLh34VRglwuBE.jpg"
+    },
+    {
+     "nombre": "Chris Pine",
+     "foto": "https://image.tmdb.org/t/p/w185/vSe6sIsdtcoqBhuWRXynahFg8Vf.jpg"
+    },
+    {
+     "nombre": "Connie Nielsen",
+     "foto": "https://image.tmdb.org/t/p/w185/gSQ3O3PJ6ly6nT63joOtfZyscFP.jpg"
+    },
+    {
+     "nombre": "Robin Wright",
+     "foto": "https://image.tmdb.org/t/p/w185/d3rIv0y2p0jMsQ7ViR7O1606NZa.jpg"
+    },
+    {
+     "nombre": "Danny Huston",
+     "foto": "https://image.tmdb.org/t/p/w185/mNz9t7MNANopavbLgcsZMMQBJ0u.jpg"
+    },
+    {
+     "nombre": "David Thewlis",
+     "foto": "https://image.tmdb.org/t/p/w185/gJqz8h5AKaVvOLS0hm5Vdvel6JB.jpg"
+    }
+   ],
+   "trailer": "https://www.youtube.com/watch?v=VSB4wGIdDwo",
+   "temporadas_det": []
+  },
+  {
+   "id": "1129",
+   "titulo": "The Great",
+   "tipo": "s",
+   "plataforma": "netflix",
+   "estado": "expiring",
+   "fecha": "2026-11-12",
+   "genero": "Drama",
+   "generos": [
+    "Drama",
+    "Comedia"
+   ],
+   "imdb": 7.5,
+   "rt": null,
+   "duracion": "3 temporadas, 30 episodios",
+   "sinopsis": "Un viaje antihistórico a través de la Rusia del siglo XVIII siguiendo el ascenso de Catalina la Nada a Catalina la Grande y su explosiva relación con su esposo Pedro, el emperador de Rusia.",
+   "poster": "https://image.tmdb.org/t/p/w342/AlTkcgEmw25OFYyrBbjEbez5kk1.jpg",
+   "reparto": [
+    {
+     "nombre": "Elle Fanning",
+     "foto": "https://image.tmdb.org/t/p/w185/hGL46Q5bkVkQbKAT0SrXcV6ZvRg.jpg"
+    },
+    {
+     "nombre": "Nicholas Hoult",
+     "foto": "https://image.tmdb.org/t/p/w185/pXm8GWTm9eIA8pUGOjvmYjlxamu.jpg"
+    },
+    {
+     "nombre": "Phoebe Fox",
+     "foto": "https://image.tmdb.org/t/p/w185/1xY991AhQRGMlA7tq7L5iHLIBod.jpg"
+    },
+    {
+     "nombre": "Gwilym Lee",
+     "foto": "https://image.tmdb.org/t/p/w185/bHSmjJLJyrg5Q0tC0W2FFreuOnO.jpg"
+    },
+    {
+     "nombre": "Adam Godley",
+     "foto": "https://image.tmdb.org/t/p/w185/5a7c36DeI6GA73D5XC7rNX2VIvv.jpg"
+    },
+    {
+     "nombre": "Douglas Hodge",
+     "foto": "https://image.tmdb.org/t/p/w185/tENL3Uxt07Rn21o0y0eolwTnkoZ.jpg"
+    }
+   ],
+   "trailer": "https://www.youtube.com/watch?v=EZ0miUsNFx8",
+   "temporadas_det": [
+    {
+     "n": 1,
+     "eps": [
+      {
+       "n": 1,
+       "t": "La Grande",
+       "f": "2020-05-15"
+      },
+      {
+       "n": 2,
+       "t": "La barba",
+       "f": "2020-05-15"
+      },
+      {
+       "n": 3,
+       "t": "Y usted señor, no es Pedro el Grande",
+       "f": "2020-05-15"
+      },
+      {
+       "n": 4,
+       "t": "Mula de Moscú",
+       "f": "2020-05-15"
+      },
+      {
+       "n": 5,
+       "t": "Guerra y vómito",
+       "f": "2020-05-15"
+      },
+      {
+       "n": 6,
+       "t": "Paracaídas",
+       "f": "2020-05-15"
+      },
+      {
+       "n": 7,
+       "t": "Una viruela sobre la esperanza",
+       "f": "2020-05-15"
+      },
+      {
+       "n": 8,
+       "t": "Albóndigas en la Dacha",
+       "f": "2020-05-15"
+      },
+      {
+       "n": 9,
+       "t": "El amor duele",
+       "f": "2020-05-15"
+      },
+      {
+       "n": 10,
+       "t": "La nariz del castor",
+       "f": "2020-05-15"
+      }
+     ]
+    },
+    {
+     "n": 2,
+     "eps": [
+      {
+       "n": 1,
+       "t": "Aquí mando yo",
+       "f": "2021-11-19"
+      },
+      {
+       "n": 2,
+       "t": "Idiota",
+       "f": "2021-11-19"
+      },
+      {
+       "n": 3,
+       "t": "Por fin solos",
+       "f": "2021-11-19"
+      },
+      {
+       "n": 4,
+       "t": "El almuerzo del diablo",
+       "f": "2021-11-19"
+      },
+      {
+       "n": 5,
+       "t": "Instintos animales",
+       "f": "2021-11-19"
+      },
+      {
+       "n": 6,
+       "t": "Una simple bufonada",
+       "f": "2021-11-19"
+      },
+      {
+       "n": 7,
+       "t": "Grapadora",
+       "f": "2021-11-19"
+      },
+      {
+       "n": 8,
+       "t": "Siete días",
+       "f": "2021-11-19"
+      },
+      {
+       "n": 9,
+       "t": "Temporada de nueces",
+       "f": "2021-11-19"
+      },
+      {
+       "n": 10,
+       "t": "Casamiento",
+       "f": "2021-11-19"
+      }
+     ]
+    },
+    {
+     "n": 3,
+     "eps": [
+      {
+       "n": 1,
+       "t": "La bala o el oso",
+       "f": "2023-05-12"
+      },
+      {
+       "n": 2,
+       "t": "Elige tu arma",
+       "f": "2023-05-12"
+      },
+      {
+       "n": 3,
+       "t": "Vosotros, el pueblo",
+       "f": "2023-05-12"
+      },
+      {
+       "n": 4,
+       "t": "Ciervo",
+       "f": "2023-05-12"
+      },
+      {
+       "n": 5,
+       "t": "Suecia",
+       "f": "2023-05-12"
+      },
+      {
+       "n": 6,
+       "t": "Hielo",
+       "f": "2023-05-12"
+      },
+      {
+       "n": 7,
+       "t": "Diversión",
+       "f": "2023-05-12"
+      },
+      {
+       "n": 8,
+       "t": "Pedro y el lobo",
+       "f": "2023-05-12"
+      },
+      {
+       "n": 9,
+       "t": "Destino",
+       "f": "2023-05-12"
+      },
+      {
+       "n": 10,
+       "t": "Érase una vez",
+       "f": "2023-05-12"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "7527",
+   "titulo": "¡Qué guapa soy!",
+   "tipo": "p",
+   "plataforma": "netflix",
+   "estado": "expiring",
+   "fecha": "2026-11-12",
+   "genero": "Comedia",
+   "generos": [
+    "Comedia",
+    "Romance"
+   ],
+   "imdb": 5.8,
+   "rt": 35,
+   "duracion": "1 h 55 min",
+   "sinopsis": "Una mujer que lucha con la inseguridad se despierta de una caída creyendo que es la mujer más bella y capaz del planeta. Su nueva confianza le permite vivir sin miedo, pero ¿qué sucede cuando se da cuenta de que su apariencia nunca cambia?",
+   "poster": "https://image.tmdb.org/t/p/w342/tgUdIs0UmxakUO8Go6BwgxEW9x8.jpg",
+   "reparto": [
+    {
+     "nombre": "Amy Schumer",
+     "foto": "https://image.tmdb.org/t/p/w185/saXAIob0JOf8B4Z9v2pgzEHV8wb.jpg"
+    },
+    {
+     "nombre": "Michelle Williams",
+     "foto": "https://image.tmdb.org/t/p/w185/jn3BVMVbIptz2gc6Fhxo1qwJVvW.jpg"
+    },
+    {
+     "nombre": "Tom Hopper",
+     "foto": "https://image.tmdb.org/t/p/w185/4Bx09xFBXIWIhptQ10yJEPbB1HI.jpg"
+    },
+    {
+     "nombre": "Rory Scovel",
+     "foto": "https://image.tmdb.org/t/p/w185/5YjzkFvHUjEyDTg8JitAHgfYY1J.jpg"
+    },
+    {
+     "nombre": "Adrian Martinez",
+     "foto": "https://image.tmdb.org/t/p/w185/id70SLEpj9jelZZepJlapaXH8lR.jpg"
+    },
+    {
+     "nombre": "Emily Ratajkowski",
+     "foto": "https://image.tmdb.org/t/p/w185/1YngeK5Bbgw9bu6YG5ZgvCIo4ZX.jpg"
+    }
+   ],
+   "trailer": "https://www.youtube.com/watch?v=9uG5hxgSGeQ",
+   "temporadas_det": []
+  },
+  {
    "id": "23351844",
    "titulo": "The Friday the 13th Murders",
    "tipo": "s",
@@ -2733,97 +2391,6 @@
        "n": 6,
        "t": "Episodio 6",
        "f": "2025-11-05"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "id": "25665430",
-   "titulo": "The Greatest",
-   "tipo": "s",
-   "plataforma": "prime",
-   "estado": "upcoming",
-   "fecha": "2026-11-04",
-   "genero": "Drama",
-   "generos": [
-    "Drama"
-   ],
-   "imdb": null,
-   "rt": null,
-   "duracion": "1 temporada, 8 episodios",
-   "sinopsis": "",
-   "poster": "https://image.tmdb.org/t/p/w342/hu4jco5AOs8NSIctuc9KsRyuSg8.jpg",
-   "reparto": [
-    {
-     "nombre": "Jaalen Best",
-     "foto": "https://image.tmdb.org/t/p/w185/qD1RCdmW9kxACsmnW84JJuVMgnb.jpg"
-    },
-    {
-     "nombre": "Omari Hardwick",
-     "foto": "https://image.tmdb.org/t/p/w185/acUogRPe6eyhiK33EavBk3SWGlB.jpg"
-    },
-    {
-     "nombre": "Dana Gourrier",
-     "foto": "https://image.tmdb.org/t/p/w185/v3krc3R7LKMsHJEm8esPqEa7CR.jpg"
-    },
-    {
-     "nombre": "Amin Joseph",
-     "foto": "https://image.tmdb.org/t/p/w185/kTr5Lf7NUullsj0g1klTOScwzRp.jpg"
-    },
-    {
-     "nombre": "Kai Parham",
-     "foto": "https://image.tmdb.org/t/p/w185/1R5T5ejA37qVathStWn0MCiXEao.jpg"
-    },
-    {
-     "nombre": "Giovanni Ribisi",
-     "foto": "https://image.tmdb.org/t/p/w185/8EAiS9D3YtGOrwNM0OrwmDpWK7s.jpg"
-    }
-   ],
-   "trailer": null,
-   "temporadas_det": [
-    {
-     "n": 1,
-     "eps": [
-      {
-       "n": 1,
-       "t": "Episodio 1",
-       "f": "2026-11-04"
-      },
-      {
-       "n": 2,
-       "t": "Episodio 2",
-       "f": "2026-11-04"
-      },
-      {
-       "n": 3,
-       "t": "Episodio 3",
-       "f": "2026-11-04"
-      },
-      {
-       "n": 4,
-       "t": "Episodio 4",
-       "f": "2026-11-04"
-      },
-      {
-       "n": 5,
-       "t": "Episodio 5",
-       "f": "2026-11-04"
-      },
-      {
-       "n": 6,
-       "t": "Episodio 6",
-       "f": "2026-11-04"
-      },
-      {
-       "n": 7,
-       "t": "Episodio 7",
-       "f": "2026-11-04"
-      },
-      {
-       "n": 8,
-       "t": "Episodio 8",
-       "f": "2026-11-04"
       }
      ]
     }
@@ -5209,6 +4776,141 @@
     }
    ],
    "trailer": "https://www.youtube.com/watch?v=mFvtVPMa5ak",
+   "temporadas_det": []
+  },
+  {
+   "id": "26342533",
+   "titulo": "The Altruists",
+   "tipo": "s",
+   "plataforma": "netflix",
+   "estado": "upcoming",
+   "fecha": "2026-11-19",
+   "genero": "Drama",
+   "generos": [
+    "Drama",
+    "Crimen"
+   ],
+   "imdb": null,
+   "rt": null,
+   "duracion": "1 temporada, 8 episodios",
+   "sinopsis": "",
+   "poster": "https://image.tmdb.org/t/p/w342/fXcNdv6VkuIVfGc2tbHjKFWzqj9.jpg",
+   "reparto": [
+    {
+     "nombre": "Julia Garner",
+     "foto": "https://image.tmdb.org/t/p/w185/2JHzTzO6G9ELyOBpDv3otAFzWlG.jpg"
+    },
+    {
+     "nombre": "Anthony Boyle",
+     "foto": "https://image.tmdb.org/t/p/w185/jF015vIjbrq72nTzWd2mWcybuiC.jpg"
+    },
+    {
+     "nombre": "Alex Lawther",
+     "foto": "https://image.tmdb.org/t/p/w185/zZZP8VrYIYXBZfoRxSYeAd4phsO.jpg"
+    },
+    {
+     "nombre": "Karan Soni",
+     "foto": "https://image.tmdb.org/t/p/w185/t3eNrzRKy3wTVCUiEp002UXbjxX.jpg"
+    },
+    {
+     "nombre": "Naomi Okada",
+     "foto": null
+    },
+    {
+     "nombre": "Madison Hu",
+     "foto": "https://image.tmdb.org/t/p/w185/aeRq5Www5Oh3MJG6yTfDi4nRlyw.jpg"
+    }
+   ],
+   "trailer": "https://www.youtube.com/watch?v=9aGeKSSyuhk",
+   "temporadas_det": [
+    {
+     "n": 1,
+     "eps": [
+      {
+       "n": 1,
+       "t": "Episodio 1",
+       "f": "2026-11-19"
+      },
+      {
+       "n": 2,
+       "t": "Episodio 2",
+       "f": "2026-11-19"
+      },
+      {
+       "n": 3,
+       "t": "Episodio 3",
+       "f": "2026-11-19"
+      },
+      {
+       "n": 4,
+       "t": "Episodio 4",
+       "f": "2026-11-19"
+      },
+      {
+       "n": 5,
+       "t": "Episodio 5",
+       "f": "2026-11-19"
+      },
+      {
+       "n": 6,
+       "t": "Episodio 6",
+       "f": "2026-11-19"
+      },
+      {
+       "n": 7,
+       "t": "Episodio 7",
+       "f": "2026-11-19"
+      },
+      {
+       "n": 8,
+       "t": "Episodio 8",
+       "f": "2026-11-19"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "26895080",
+   "titulo": "Perfectos mentirosos",
+   "tipo": "p",
+   "plataforma": "prime",
+   "estado": "upcoming",
+   "fecha": "2026-11-20",
+   "genero": "Drama",
+   "generos": [
+    "Drama",
+    "Romance",
+    "Suspense"
+   ],
+   "imdb": null,
+   "rt": null,
+   "duracion": "1 h 43 min",
+   "sinopsis": "Bienvenidos a Tagus, donde el poder, el privilegio y los secretos mortales se esconden tras fachadas perfectas. Jude Derry llega a esta exclusiva universidad con una misión oculta: infiltrarse en el círculo de los hermanos Cash para descubrir la verdad sobre la muerte de su hermano. Los tres herederos del imperio familiar, Aegan, el carismático y calculador primogénito, Adrik, el enigmático y misterioso hermano mediano, y Alex, el rebelde e impredecible hermano pequeño, dominan Tagus con un magnetismo al que nadie puede resistirse. Lo que comienza como una venganza personal se transforma en un peligroso triángulo de seducción, atracción prohibida y mentiras cuando Jude queda envuelta en la compleja dinámica familiar de los Cash. Con cada pista que descubre, se acerca más a una verdad que podría no solo destruir a la poderosa familia… sino también desvelar secretos que quizás ella misma no está preparada para enfrentar.",
+   "poster": "https://image.tmdb.org/t/p/w342/ofb4SsnYB3wVT6APbjMZiBUR1CB.jpg",
+   "reparto": [
+    {
+     "nombre": "Irene Balmes",
+     "foto": null
+    },
+    {
+     "nombre": "Gleb Abrosimov",
+     "foto": "https://image.tmdb.org/t/p/w185/7FxcYwxyp5t5RfP0wuRXelhVcd5.jpg"
+    },
+    {
+     "nombre": "Pau Simon",
+     "foto": "https://image.tmdb.org/t/p/w185/6oyosrmBUREw3Nq9cwKXlkn9pJe.jpg"
+    },
+    {
+     "nombre": "Pablo Scapigliati",
+     "foto": "https://image.tmdb.org/t/p/w185/8VDS2NnHHoinvCuqi9MdEJaUwVx.jpg"
+    },
+    {
+     "nombre": "Asier Etxeandia",
+     "foto": "https://image.tmdb.org/t/p/w185/pi0zU6nfgUk7tulpgZaVtVZqHBY.jpg"
+    }
+   ],
+   "trailer": "https://www.youtube.com/watch?v=50v6k3LUcxU",
    "temporadas_det": []
   }
  ]
