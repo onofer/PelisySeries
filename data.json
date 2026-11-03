@@ -1,509 +1,7 @@
 {
- "generado": "2026-11-02T15:17:08+00:00",
+ "generado": "2026-11-03T00:48:00+00:00",
  "pais": "ES",
  "items": [
-  {
-   "id": "24267",
-   "titulo": "The Vigil",
-   "tipo": "p",
-   "plataforma": "prime",
-   "estado": "expiring",
-   "fecha": "2026-11-02",
-   "genero": "Terror",
-   "generos": [
-    "Terror",
-    "Misterio"
-   ],
-   "imdb": 5.8,
-   "rt": 90,
-   "duracion": "1 h 28 min",
-   "sinopsis": "Un hombre que vigila durante la noche a un miembro fallecido de su antigua comunidad judía ortodoxa se encuentra frente a una entidad malévola.",
-   "poster": "https://image.tmdb.org/t/p/w342/rwQ7uMNLBTXGNZ4aAZ7p9Uj0BL8.jpg",
-   "reparto": [
-    {
-     "nombre": "Dave Davis",
-     "foto": "https://image.tmdb.org/t/p/w185/9cPhpNYacn5Lc8bUIWX44Lj5K0z.jpg"
-    },
-    {
-     "nombre": "Lynn Cohen",
-     "foto": "https://image.tmdb.org/t/p/w185/gF2YATtRwDbnLB5eG0DGeHFW2QM.jpg"
-    },
-    {
-     "nombre": "Menashe Lustig",
-     "foto": "https://image.tmdb.org/t/p/w185/2tujyGy07KsN1MRCOmT16fwCmfZ.jpg"
-    },
-    {
-     "nombre": "Malky Goldman",
-     "foto": "https://image.tmdb.org/t/p/w185/mULOoKC4xm6QUy9XhboCebJ4dDx.jpg"
-    },
-    {
-     "nombre": "Fred Melamed",
-     "foto": "https://image.tmdb.org/t/p/w185/cb5HSNuu6n4OVuxxQCDd5CfEocb.jpg"
-    },
-    {
-     "nombre": "Nati Rabinowitz",
-     "foto": "https://image.tmdb.org/t/p/w185/3zAhnnnINgnnB1WUA1HrQTlpC5d.jpg"
-    }
-   ],
-   "trailer": "https://www.youtube.com/watch?v=TN5GLCyevbs",
-   "temporadas_det": []
-  },
-  {
-   "id": "48129",
-   "titulo": "The Fortress",
-   "tipo": "p",
-   "plataforma": "netflix",
-   "estado": "expiring",
-   "fecha": "2026-11-02",
-   "genero": "Bélica",
-   "generos": [
-    "Bélica",
-    "Drama",
-    "Historia",
-    "Acción"
-   ],
-   "imdb": 6.2,
-   "rt": 63,
-   "duracion": "2 h 20 min",
-   "sinopsis": "Antigua Corea, siglo XVII. El poderoso khan de la tribu Jurchen de Manchuria, que lucha contra la dinastía Ming para hacerse con China, se convierte en el primer emperador de la dinastía Qing y exige al rey In-jo de Joseon que se incline ante él, pero In-jo se niega, pues es leal a los Ming. El 14 de diciembre de 1636, la horda Qing invade Joseon. El rey y su corte se refugian en la fortaleza de la montaña de Namhan y se preparan para defender el reino.",
-   "poster": "https://image.tmdb.org/t/p/w342/iqvpNbgNuEnZfuuOsAIQWjdnLSZ.jpg",
-   "reparto": [
-    {
-     "nombre": "Lee Byung-hun",
-     "foto": "https://image.tmdb.org/t/p/w185/5p5LDbZtnKhXDZL5227ExukbnRo.jpg"
-    },
-    {
-     "nombre": "김윤석",
-     "foto": "https://image.tmdb.org/t/p/w185/kScVbOdmlQC8Og8NoTn0UEE1Cq7.jpg"
-    },
-    {
-     "nombre": "박해일",
-     "foto": "https://image.tmdb.org/t/p/w185/8ltdBxd40m2iAnsRKV0JMbv7rZT.jpg"
-    },
-    {
-     "nombre": "고수",
-     "foto": "https://image.tmdb.org/t/p/w185/77209yRtUHOEk3ILJY1rG3X3VUj.jpg"
-    },
-    {
-     "nombre": "Park Hee-soon",
-     "foto": "https://image.tmdb.org/t/p/w185/s2SSzvlsSfCPP5EXhCoWUr8970F.jpg"
-    },
-    {
-     "nombre": "송영창",
-     "foto": "https://image.tmdb.org/t/p/w185/gcidJKlJtyr7mAlI3ffMRxBj0qG.jpg"
-    }
-   ],
-   "trailer": "https://www.youtube.com/watch?v=EYsv-rSW3n0",
-   "temporadas_det": []
-  },
-  {
-   "id": "15338",
-   "titulo": "Silenced",
-   "tipo": "p",
-   "plataforma": "netflix",
-   "estado": "expiring",
-   "fecha": "2026-11-02",
-   "genero": "Drama",
-   "generos": [
-    "Drama"
-   ],
-   "imdb": 7.0,
-   "rt": 100,
-   "duracion": "2 h 05 min",
-   "sinopsis": "Basada en el best seller de la escritora Gong Ji Young, trata un caso real de violación y abusos sexuales ocurridos en una escuela para sordomudos en Gwangju. Gong Yoo interpreta el papel de un profesor que descubre el caso al lado de una activista de derechos humanos, interpretada por Jeong Yu Mi. Juntos intentarán por todos los medios dar a conocer los hechos, a pesar de que para ello deban enfrentarse al personal docente y algunos oficiales que tratan de ocultar el incidente.",
-   "poster": "https://image.tmdb.org/t/p/w342/pUfuy7mSXw0dohRPeWnrhoIJdOU.jpg",
-   "reparto": [
-    {
-     "nombre": "공유",
-     "foto": "https://image.tmdb.org/t/p/w185/ocGoFb6TrK3uWGXt4WnuibUG1vD.jpg"
-    },
-    {
-     "nombre": "정유미",
-     "foto": "https://image.tmdb.org/t/p/w185/pU8iBcZHhuc4kQe6HHZVcommefG.jpg"
-    },
-    {
-     "nombre": "김현수",
-     "foto": "https://image.tmdb.org/t/p/w185/gMZ8YoCtv2cVdLvvIhm4SGLSlgU.jpg"
-    },
-    {
-     "nombre": "정인서",
-     "foto": "https://image.tmdb.org/t/p/w185/fk4x26OuFUUlnw9KWNxi2oFKI5K.jpg"
-    },
-    {
-     "nombre": "백승환",
-     "foto": "https://image.tmdb.org/t/p/w185/fZK9j3bVfQDdW7XR5yoeCaowVbl.jpg"
-    },
-    {
-     "nombre": "Jang Kwang",
-     "foto": "https://image.tmdb.org/t/p/w185/t8xMsqeIe3YzdFNeeh43TPs7c1Y.jpg"
-    }
-   ],
-   "trailer": "https://www.youtube.com/watch?v=SSZh4qb8ybs",
-   "temporadas_det": []
-  },
-  {
-   "id": "40428",
-   "titulo": "수상한 그녀",
-   "tipo": "p",
-   "plataforma": "netflix",
-   "estado": "expiring",
-   "fecha": "2026-11-02",
-   "genero": "Drama",
-   "generos": [
-    "Drama",
-    "Comedia",
-    "Música"
-   ],
-   "imdb": 6.3,
-   "rt": 83,
-   "duracion": "2 h 04 min",
-   "sinopsis": "Una viuda de 74 años comienza a darse cuenta de que es una carga para su familia. Pero misteriosamente recupera el aspecto de cuando tenía 20 años...",
-   "poster": "https://image.tmdb.org/t/p/w342/tmY4b9sO8KDszQCvPKiKYJSNaqe.jpg",
-   "reparto": [
-    {
-     "nombre": "심은경",
-     "foto": "https://image.tmdb.org/t/p/w185/kgtHFruNAjOuAuba3wXdYzYFzAW.jpg"
-    },
-    {
-     "nombre": "나문희",
-     "foto": "https://image.tmdb.org/t/p/w185/ly5hCJSjgCM0i2JQ0xeWqJZSliR.jpg"
-    },
-    {
-     "nombre": "이진욱",
-     "foto": "https://image.tmdb.org/t/p/w185/uqzreNzDqiiSFCMv8bhzfSttHyk.jpg"
-    },
-    {
-     "nombre": "정진영",
-     "foto": "https://image.tmdb.org/t/p/w185/8NHVBNi1Jb7f0RujRLtjD2i05tc.jpg"
-    },
-    {
-     "nombre": "박인환",
-     "foto": "https://image.tmdb.org/t/p/w185/nQ9gZB2u5SXNnwTU8FLlIVYZBOS.jpg"
-    },
-    {
-     "nombre": "성동일",
-     "foto": "https://image.tmdb.org/t/p/w185/9VLRIvOyQSHkpJaeaBcmHzcEUQn.jpg"
-    }
-   ],
-   "trailer": "https://www.youtube.com/watch?v=H_wDiuRu8Jw",
-   "temporadas_det": []
-  },
-  {
-   "id": "243",
-   "titulo": "El precio del poder",
-   "tipo": "p",
-   "plataforma": "netflix",
-   "estado": "expiring",
-   "fecha": "2026-11-02",
-   "genero": "Acción",
-   "generos": [
-    "Acción",
-    "Crimen",
-    "Drama"
-   ],
-   "imdb": 8.2,
-   "rt": 77,
-   "duracion": "2 h 50 min",
-   "sinopsis": "Un emigrante cubano frío y sanguinario, Tony Montana, llega de Cuba para instalarse en Miami, donde se propone hacerse con un nombre dentro del crimen organizado de Florida. Junto a su amigo, Manny Rivera, inicia una ascendente carrera delictiva.",
-   "poster": "https://image.tmdb.org/t/p/w342/iDABT5GD9OQmFiXM3wR0DJIxtkY.jpg",
-   "reparto": [
-    {
-     "nombre": "Al Pacino",
-     "foto": "https://image.tmdb.org/t/p/w185/m8HAAjq1T75JypKk0v1FFQn4ysZ.jpg"
-    },
-    {
-     "nombre": "Steven Bauer",
-     "foto": "https://image.tmdb.org/t/p/w185/eMSeKPgfilE2v5VcmwSt5pxbp0x.jpg"
-    },
-    {
-     "nombre": "Michelle Pfeiffer",
-     "foto": "https://image.tmdb.org/t/p/w185/8qwNMFzmM3BxGKIj1iIqiHHBpx3.jpg"
-    },
-    {
-     "nombre": "Mary Elizabeth Mastrantonio",
-     "foto": "https://image.tmdb.org/t/p/w185/vbZ1E557K5oj34xLHR5ErO8wPCi.jpg"
-    },
-    {
-     "nombre": "Robert Loggia",
-     "foto": "https://image.tmdb.org/t/p/w185/mRSUgJnfprCNw83pyVfpfW7ryfK.jpg"
-    },
-    {
-     "nombre": "Miriam Colon",
-     "foto": "https://image.tmdb.org/t/p/w185/9jnz7htVMCTDNRDmoi2mdOKv6Pj.jpg"
-    }
-   ],
-   "trailer": "https://www.youtube.com/watch?v=lZMIrD36MG8",
-   "temporadas_det": []
-  },
-  {
-   "id": "27050",
-   "titulo": "Karakuri Circus",
-   "tipo": "s",
-   "plataforma": "prime",
-   "estado": "expiring",
-   "fecha": "2026-11-03",
-   "genero": "Acción",
-   "generos": [
-    "Acción",
-    "Aventura",
-    "Misterio",
-    "Crimen",
-    "Animación",
-    "Drama"
-   ],
-   "imdb": 5.4,
-   "rt": null,
-   "duracion": "1 temporada, 36 episodios",
-   "sinopsis": "Masaru Saiga es un niño de quinto grado que aspira a convertirse en titiritero. Después de que Sadayoshi Saiga, el CEO de Saiga, el gigante fabricante de teléfonos domésticos, y el padre de Masaru fallece, Masaru hereda 18 mil millones de yenes. Masaru es blanco de su riqueza y es salvado por dos personas. Narumi Katō es un hombre que ha estudiado Kung-Fu y tiene una extraña enfermedad llamada \"síndrome de Zonapha\", y Shirogane es una mujer de cabello plateado que controla el títere \"Arurukan\" (Arlequín). Juntos, Masaru, Narumi y Shirogane son arrojados a varias conspiraciones por aquellos que intentan robarle la fortuna a Masaru.",
-   "poster": "https://image.tmdb.org/t/p/w342/5n4QAkGDDpujWlHNDU9nDDbLMBn.jpg",
-   "reparto": [
-    {
-     "nombre": "Chihiro Ueda",
-     "foto": "https://image.tmdb.org/t/p/w185/vPVTSLPEHb9qkbNq6uDWAKYY39q.jpg"
-    },
-    {
-     "nombre": "Rikiya Koyama",
-     "foto": "https://image.tmdb.org/t/p/w185/hsZm87BORLpzhaycBaWOD5xpjVC.jpg"
-    },
-    {
-     "nombre": "Megumi Hayashibara",
-     "foto": "https://image.tmdb.org/t/p/w185/3Alm4pmBIxpeeh0Sdippxdbkpne.jpg"
-    },
-    {
-     "nombre": "Romi Park",
-     "foto": "https://image.tmdb.org/t/p/w185/fl9vyA3HEkOyTiZBJBhAR3OSmrO.jpg"
-    },
-    {
-     "nombre": "Masahiko Tanaka",
-     "foto": "https://image.tmdb.org/t/p/w185/ozi2h5bDv82EkYLJYSazrO3dzjh.jpg"
-    },
-    {
-     "nombre": "Akio Otsuka",
-     "foto": "https://image.tmdb.org/t/p/w185/uH9oiqOOgrsz2zNnouVZ1qPzDyb.jpg"
-    }
-   ],
-   "trailer": null,
-   "temporadas_det": [
-    {
-     "n": 1,
-     "eps": [
-      {
-       "n": 1,
-       "t": "El Telón Se Levanta",
-       "f": "2018-10-11"
-      },
-      {
-       "n": 2,
-       "t": "Promesa",
-       "f": "2018-10-19"
-      },
-      {
-       "n": 3,
-       "t": "Abismo",
-       "f": "2018-10-26"
-      },
-      {
-       "n": 4,
-       "t": "Tigre giratorio",
-       "f": "2018-11-01"
-      },
-      {
-       "n": 5,
-       "t": "Circo - Salida",
-       "f": "2018-11-08"
-      },
-      {
-       "n": 6,
-       "t": "Infierno",
-       "f": "2018-11-15"
-      },
-      {
-       "n": 7,
-       "t": "Demoníaco",
-       "f": "2018-11-22"
-      },
-      {
-       "n": 8,
-       "t": "Momento de Inicio, Momento de Fin",
-       "f": "2018-11-29"
-      },
-      {
-       "n": 9,
-       "t": "Memorias",
-       "f": "2018-12-06"
-      },
-      {
-       "n": 10,
-       "t": "Francine",
-       "f": "2018-12-13"
-      },
-      {
-       "n": 11,
-       "t": "Trompeteo",
-       "f": "2018-12-20"
-      },
-      {
-       "n": 12,
-       "t": "El comandante sin rostro",
-       "f": "2018-12-27"
-      },
-      {
-       "n": 13,
-       "t": "Lucila",
-       "f": "2019-01-10"
-      },
-      {
-       "n": 14,
-       "t": "Junto al mar, en la oscuridad de la noche",
-       "f": "2019-01-17"
-      },
-      {
-       "n": 15,
-       "t": "De vuelta al punto de partida",
-       "f": "2019-01-24"
-      },
-      {
-       "n": 16,
-       "t": "Encuentro",
-       "f": "2019-02-07"
-      },
-      {
-       "n": 17,
-       "t": "Visitante",
-       "f": "2019-02-14"
-      },
-      {
-       "n": 18,
-       "t": "Una sonrisa",
-       "f": "2019-02-21"
-      },
-      {
-       "n": 19,
-       "t": "La verdad detrás de la sombra",
-       "f": "2019-02-28"
-      },
-      {
-       "n": 20,
-       "t": "Negro sol",
-       "f": "2019-03-07"
-      },
-      {
-       "n": 21,
-       "t": "Diosa de plata",
-       "f": "2019-03-14"
-      },
-      {
-       "n": 22,
-       "t": "¡Dirígete a Harry!",
-       "f": "2019-03-21"
-      },
-      {
-       "n": 23,
-       "t": "El regreso del demonio",
-       "f": "2019-03-28"
-      },
-      {
-       "n": 24,
-       "t": "Escapar",
-       "f": "2019-04-04"
-      },
-      {
-       "n": 25,
-       "t": "En el Monte Saint-Michel",
-       "f": "2019-04-11"
-      },
-      {
-       "n": 26,
-       "t": "Espectáculo de animales",
-       "f": "2019-04-18"
-      },
-      {
-       "n": 27,
-       "t": "Descargar",
-       "f": "2019-04-25"
-      },
-      {
-       "n": 28,
-       "t": "Pig-chan se había ido",
-       "f": "2019-05-02"
-      },
-      {
-       "n": 29,
-       "t": "Lo que hizo Shirogane",
-       "f": "2019-05-09"
-      },
-      {
-       "n": 30,
-       "t": "Piedad",
-       "f": "2019-05-16"
-      },
-      {
-       "n": 31,
-       "t": "Meteorito negro",
-       "f": "2019-05-23"
-      },
-      {
-       "n": 32,
-       "t": "Despedida",
-       "f": "2019-05-30"
-      },
-      {
-       "n": 33,
-       "t": "El trío Nakamachi contra Lady Spider",
-       "f": "2019-06-06"
-      },
-      {
-       "n": 34,
-       "t": "Retaguardia",
-       "f": "2019-06-13"
-      },
-      {
-       "n": 35,
-       "t": "Abarcar",
-       "f": "2019-06-20"
-      },
-      {
-       "n": 36,
-       "t": "Cae el telón",
-       "f": "2019-06-27"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "id": "154089",
-   "titulo": "La masacre de Jonestown",
-   "tipo": "p",
-   "plataforma": "prime",
-   "estado": "expiring",
-   "fecha": "2026-11-03",
-   "genero": "Documental",
-   "generos": [
-    "Documental"
-   ],
-   "imdb": 5.1,
-   "rt": null,
-   "duracion": "2 h 00 min",
-   "sinopsis": "La historia de cuatro mujeres en el círculo íntimo de Jim Jones que ayudaron a planear la masacre de Jonestown en 1978, uno de los mayores eventos de asesinato y suicidio en la historia moderna que dejó 918 hombres, mujeres y niños muertos.",
-   "poster": "https://image.tmdb.org/t/p/w342/hCGA1TS3kqCja6ZqVVcOvMC6FCh.jpg",
-   "reparto": [
-    {
-     "nombre": "Jim Jones",
-     "foto": "https://image.tmdb.org/t/p/w185/qcgfqqRai5JvDHMna23iz88gfPG.jpg"
-    },
-    {
-     "nombre": "Leo J. Ryan",
-     "foto": "https://image.tmdb.org/t/p/w185/sqAPuBpPBFhy8vTXrDIveFU4jz0.jpg"
-    },
-    {
-     "nombre": "Jessica Savitch",
-     "foto": "https://image.tmdb.org/t/p/w185/pMEOV7rxuUOhmaFcEnsx5DBXOkS.jpg"
-    }
-   ],
-   "trailer": "https://www.youtube.com/watch?v=Fa7UckNeh7o",
-   "temporadas_det": []
-  },
   {
    "id": "58590",
    "titulo": "Una canta, la otra no",
@@ -2886,6 +2384,276 @@
     }
    ],
    "trailer": "https://www.youtube.com/watch?v=cggAjaFSDic",
+   "temporadas_det": []
+  },
+  {
+   "id": "86",
+   "titulo": "Interstellar",
+   "tipo": "p",
+   "plataforma": "hbo",
+   "estado": "expiring",
+   "fecha": "2026-11-10",
+   "genero": "Aventura",
+   "generos": [
+    "Aventura",
+    "Drama",
+    "Ciencia ficción"
+   ],
+   "imdb": 8.6,
+   "rt": 73,
+   "duracion": "2 h 49 min",
+   "sinopsis": "Un grupo de exploradores hacen uso de un agujero de gusano recientemente descubierto para superar las limitaciones de los viajes espaciales tripulados y vencer las inmensas distancias que tiene un viaje interestelar.",
+   "poster": "https://image.tmdb.org/t/p/w342/d1QKiYtceF3GDtxvTFXFAqwwah9.jpg",
+   "reparto": [
+    {
+     "nombre": "Matthew McConaughey",
+     "foto": "https://image.tmdb.org/t/p/w185/lCySuYjhXix3FzQdS4oceDDrXKI.jpg"
+    },
+    {
+     "nombre": "Anne Hathaway",
+     "foto": "https://image.tmdb.org/t/p/w185/s6tflSD20MGz04ZR2R1lZvhmC4Y.jpg"
+    },
+    {
+     "nombre": "Michael Caine",
+     "foto": "https://image.tmdb.org/t/p/w185/bVZRMlpjTAO2pJK6v90buFgVbSW.jpg"
+    },
+    {
+     "nombre": "Jessica Chastain",
+     "foto": "https://image.tmdb.org/t/p/w185/mR1ELpP0T2Q1ZRSaADPgtrbPGla.jpg"
+    },
+    {
+     "nombre": "Casey Affleck",
+     "foto": "https://image.tmdb.org/t/p/w185/304ilSygaCRWykoBWAL67TOw8g9.jpg"
+    },
+    {
+     "nombre": "Wes Bentley",
+     "foto": "https://image.tmdb.org/t/p/w185/voD93lzFZrr9xfAggwFcPRBi84i.jpg"
+    }
+   ],
+   "trailer": "https://www.youtube.com/watch?v=UoSSbmD9vqc",
+   "temporadas_det": []
+  },
+  {
+   "id": "1863938",
+   "titulo": "Super Mario Bros: La película",
+   "tipo": "p",
+   "plataforma": "netflix",
+   "estado": "expiring",
+   "fecha": "2026-11-10",
+   "genero": "Familia",
+   "generos": [
+    "Familia",
+    "Comedia",
+    "Aventura",
+    "Fantasía",
+    "Animación"
+   ],
+   "imdb": 7.1,
+   "rt": 58,
+   "duracion": "1 h 33 min",
+   "sinopsis": "Mientras trabajan en una avería subterránea, los fontaneros de Brooklyn, Mario y su hermano Luigi, viajan por una misteriosa tubería hasta un nuevo mundo mágico. Pero, cuando los hermanos se separan, Mario deberá emprender una épica misión para encontrar a Luigi. Con la ayuda del champiñón local Toad y unas cuantas nociones de combate de la guerrera líder del Reino Champiñón, la princesa Peach, Mario descubre todo el poder que alberga en su interior.",
+   "poster": "https://image.tmdb.org/t/p/w342/4CDkQMpNDTtVKwS0BBZw5RIXDtY.jpg",
+   "reparto": [
+    {
+     "nombre": "Chris Pratt",
+     "foto": "https://image.tmdb.org/t/p/w185/cRH6HPAQ98PlOwwEvhYO4CM9lwu.jpg"
+    },
+    {
+     "nombre": "Anya Taylor-Joy",
+     "foto": "https://image.tmdb.org/t/p/w185/qYNofOjlRke2MlJVihmJmEdQI4v.jpg"
+    },
+    {
+     "nombre": "Charlie Day",
+     "foto": "https://image.tmdb.org/t/p/w185/c0HNhjChGybnHa4eoLyqO4dDu1j.jpg"
+    },
+    {
+     "nombre": "Jack Black",
+     "foto": "https://image.tmdb.org/t/p/w185/rtCx0fiYxJVhzXXdwZE2XRTfIKE.jpg"
+    },
+    {
+     "nombre": "Keegan-Michael Key",
+     "foto": "https://image.tmdb.org/t/p/w185/xmdzYXP9j87a43FSiL138nLesuS.jpg"
+    },
+    {
+     "nombre": "Seth Rogen",
+     "foto": "https://image.tmdb.org/t/p/w185/nYl9bvQzaPQLzlf0wf75clLN6Hi.jpg"
+    }
+   ],
+   "trailer": "https://www.youtube.com/watch?v=8OtTfN6k7_Y",
+   "temporadas_det": []
+  },
+  {
+   "id": "86",
+   "titulo": "Interstellar",
+   "tipo": "p",
+   "plataforma": "prime",
+   "estado": "expiring",
+   "fecha": "2026-11-11",
+   "genero": "Aventura",
+   "generos": [
+    "Aventura",
+    "Drama",
+    "Ciencia ficción"
+   ],
+   "imdb": 8.6,
+   "rt": 73,
+   "duracion": "2 h 49 min",
+   "sinopsis": "Un grupo de exploradores hacen uso de un agujero de gusano recientemente descubierto para superar las limitaciones de los viajes espaciales tripulados y vencer las inmensas distancias que tiene un viaje interestelar.",
+   "poster": "https://image.tmdb.org/t/p/w342/d1QKiYtceF3GDtxvTFXFAqwwah9.jpg",
+   "reparto": [
+    {
+     "nombre": "Matthew McConaughey",
+     "foto": "https://image.tmdb.org/t/p/w185/lCySuYjhXix3FzQdS4oceDDrXKI.jpg"
+    },
+    {
+     "nombre": "Anne Hathaway",
+     "foto": "https://image.tmdb.org/t/p/w185/s6tflSD20MGz04ZR2R1lZvhmC4Y.jpg"
+    },
+    {
+     "nombre": "Michael Caine",
+     "foto": "https://image.tmdb.org/t/p/w185/bVZRMlpjTAO2pJK6v90buFgVbSW.jpg"
+    },
+    {
+     "nombre": "Jessica Chastain",
+     "foto": "https://image.tmdb.org/t/p/w185/mR1ELpP0T2Q1ZRSaADPgtrbPGla.jpg"
+    },
+    {
+     "nombre": "Casey Affleck",
+     "foto": "https://image.tmdb.org/t/p/w185/304ilSygaCRWykoBWAL67TOw8g9.jpg"
+    },
+    {
+     "nombre": "Wes Bentley",
+     "foto": "https://image.tmdb.org/t/p/w185/voD93lzFZrr9xfAggwFcPRBi84i.jpg"
+    }
+   ],
+   "trailer": "https://www.youtube.com/watch?v=UoSSbmD9vqc",
+   "temporadas_det": []
+  },
+  {
+   "id": "5055764",
+   "titulo": "Codename: Annika",
+   "tipo": "s",
+   "plataforma": "prime",
+   "estado": "expiring",
+   "fecha": "2026-11-11",
+   "genero": "Drama",
+   "generos": [
+    "Drama",
+    "Crimen"
+   ],
+   "imdb": 5.8,
+   "rt": null,
+   "duracion": "1 temporada, 6 episodios",
+   "sinopsis": "La detective Emma Haka todavía no ha completado su formación cuando le encargan una misión que la llevará a infiltrarse en el corrupto mundo del comercio de obras de arte de Estocolmo, para la cual adopta la personalidad de la salvaje y pasional Annika Stormare. A medida que la investigación sumerge a Emma cada vez más en el inframundo, las líneas comienzan a desdibujarse entre ella y Annika, una persona que realmente existió y dejó una compleja trama de misterios tras su muerte.",
+   "poster": "https://image.tmdb.org/t/p/w342/r5xPGmMh6JVOh5RzoB46CoC005S.jpg",
+   "reparto": [
+    {
+     "nombre": "Sannah Nedergård",
+     "foto": "https://image.tmdb.org/t/p/w185/t1OuJjsrys0VvNgioY90rd6kvv4.jpg"
+    },
+    {
+     "nombre": "اردلان اسماعیلی",
+     "foto": "https://image.tmdb.org/t/p/w185/tLJjHlTwwR7QGD4UfTkj3i90opU.jpg"
+    },
+    {
+     "nombre": "Eva Melander",
+     "foto": "https://image.tmdb.org/t/p/w185/rhRJbKhetk4M9KpswhBuWcvZ7Ee.jpg"
+    },
+    {
+     "nombre": "Helena Bergström",
+     "foto": "https://image.tmdb.org/t/p/w185/pwjVRSw8pn88yDAVktpM1Cbu53S.jpg"
+    },
+    {
+     "nombre": "Pekka Strang",
+     "foto": "https://image.tmdb.org/t/p/w185/24ws8BfBwfc8ggDOjPddJQbpFuQ.jpg"
+    },
+    {
+     "nombre": "Miro Lopperi",
+     "foto": null
+    }
+   ],
+   "trailer": null,
+   "temporadas_det": [
+    {
+     "n": 1,
+     "eps": [
+      {
+       "n": 1,
+       "t": "Procedencia",
+       "f": "2023-09-30"
+      },
+      {
+       "n": 2,
+       "t": "Impasto",
+       "f": "2023-10-07"
+      },
+      {
+       "n": 3,
+       "t": "Pentimento",
+       "f": "2023-10-14"
+      },
+      {
+       "n": 4,
+       "t": "Fauve",
+       "f": "2023-10-21"
+      },
+      {
+       "n": 5,
+       "t": "Trompe L’oeil",
+       "f": "2023-10-28"
+      },
+      {
+       "n": 6,
+       "t": "Chiaroscuro",
+       "f": "2023-11-04"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "199390",
+   "titulo": "A La Calle",
+   "tipo": "p",
+   "plataforma": "hbo",
+   "estado": "expiring",
+   "fecha": "2026-11-11",
+   "genero": "Documental",
+   "generos": [
+    "Documental"
+   ],
+   "imdb": 4.7,
+   "rt": null,
+   "duracion": "1 h 50 min",
+   "sinopsis": "Venezuelans recount the struggle to reclaim their democracy from the brutal dictatorship of Nicolás Maduro, who has plunged the country into ruin.",
+   "poster": "https://image.tmdb.org/t/p/w342/9Yn0iOZCN5FhnLy7DEza9qhEKji.jpg",
+   "reparto": [],
+   "trailer": null,
+   "temporadas_det": []
+  },
+  {
+   "id": "13390705",
+   "titulo": "Adrienne Iapalucci: The Dark Queen",
+   "tipo": "p",
+   "plataforma": "netflix",
+   "estado": "expiring",
+   "fecha": "2026-11-11",
+   "genero": "Comedia",
+   "generos": [
+    "Comedia"
+   ],
+   "imdb": 5.4,
+   "rt": null,
+   "duracion": "53 min",
+   "sinopsis": "Comedian Adrienne Iapalucci takes aim at our public figures, awkward tribute tattoos, virtue signaling and more in this unfiltered stand-up special.",
+   "poster": "https://image.tmdb.org/t/p/w342/qY8Wk6WtftBnFuWEHtGRVXpgQ4r.jpg",
+   "reparto": [
+    {
+     "nombre": "Adrienne Iapalucci",
+     "foto": "https://image.tmdb.org/t/p/w185/asUwZDiJ8FfNEh3KbWNfdUz94a5.jpg"
+    }
+   ],
+   "trailer": null,
    "temporadas_det": []
   },
   {
