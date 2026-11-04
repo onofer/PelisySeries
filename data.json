@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-04T05:40:55+00:00",
+ "generado": "2026-11-04T14:05:20+00:00",
  "pais": "ES",
  "items": [
   {
@@ -2397,189 +2397,6 @@
    ]
   },
   {
-   "id": "26602168",
-   "titulo": "A Dog's Perfect Christmas",
-   "tipo": "p",
-   "plataforma": "netflix",
-   "estado": "upcoming",
-   "fecha": "2026-11-04",
-   "genero": "Familia",
-   "generos": [
-    "Familia",
-    "Comedia",
-    "Drama"
-   ],
-   "imdb": null,
-   "rt": null,
-   "duracion": "1 h 39 min",
-   "sinopsis": "",
-   "poster": "https://image.tmdb.org/t/p/w342/gKKwnZS3BGPSPw59V7VP4cob6uW.jpg",
-   "reparto": [
-    {
-     "nombre": "Dennis Quaid",
-     "foto": "https://image.tmdb.org/t/p/w185/lMaDAJHzsKH7U3dln2B3kY3rOhE.jpg"
-    },
-    {
-     "nombre": "Milo Ventimiglia",
-     "foto": "https://image.tmdb.org/t/p/w185/9yFPsQCYi9sbPQ0xJGtoAF4Ar6v.jpg"
-    },
-    {
-     "nombre": "Brooke Lena Johnson",
-     "foto": "https://image.tmdb.org/t/p/w185/gcidhYtCeH19FdpMjbVgjvBhbtA.jpg"
-    },
-    {
-     "nombre": "Kathleen Rose Perkins",
-     "foto": "https://image.tmdb.org/t/p/w185/A6bG3mffBZ7xsr6aszSF2RJ0zIC.jpg"
-    },
-    {
-     "nombre": "Jennifer Tilly",
-     "foto": "https://image.tmdb.org/t/p/w185/9vYoYF385cVq9oDO3pDpXihP4vz.jpg"
-    },
-    {
-     "nombre": "Mary Steenburgen",
-     "foto": "https://image.tmdb.org/t/p/w185/yJhfuqS3yXW7kLSyvRU6n3b35mq.jpg"
-    }
-   ],
-   "trailer": "https://www.youtube.com/watch?v=L18ih13Bf-U",
-   "temporadas_det": []
-  },
-  {
-   "id": "27301858",
-   "titulo": "Znieczulenie",
-   "tipo": "s",
-   "plataforma": "netflix",
-   "estado": "upcoming",
-   "fecha": "2026-11-04",
-   "genero": "Drama",
-   "generos": [
-    "Drama"
-   ],
-   "imdb": null,
-   "rt": null,
-   "duracion": "1 temporada, 8 episodios",
-   "sinopsis": "",
-   "poster": "https://www.movieofthenight.com/media/image.svg?title=Anaesthesia&width=240&direction=vertical",
-   "reparto": [
-    {
-     "nombre": "Leszek Lichota",
-     "foto": "https://image.tmdb.org/t/p/w185/4jLHDFGiD1hMjLCiSc0pGH5rC6Q.jpg"
-    },
-    {
-     "nombre": "Aleksandra Popławska",
-     "foto": "https://image.tmdb.org/t/p/w185/cOdeuRAkVMCeu5MQ9bjBvUNKCeE.jpg"
-    },
-    {
-     "nombre": "Filip Kowalewicz",
-     "foto": null
-    },
-    {
-     "nombre": "Karolina Gruszka",
-     "foto": "https://image.tmdb.org/t/p/w185/3QFVPgTVGKZ76U8LzdQWIVUBkQe.jpg"
-    },
-    {
-     "nombre": "Dorota Kolak",
-     "foto": "https://image.tmdb.org/t/p/w185/vMu479AwEce9BNuLG0jMBwfbuH1.jpg"
-    },
-    {
-     "nombre": "Masza Wągrocka",
-     "foto": "https://image.tmdb.org/t/p/w185/ofM13hNiPRCsy5ySgWrpvp8FNi.jpg"
-    }
-   ],
-   "trailer": null,
-   "temporadas_det": [
-    {
-     "n": 1,
-     "eps": [
-      {
-       "n": 1,
-       "t": "Episodio 1",
-       "f": "2026-11-04"
-      },
-      {
-       "n": 2,
-       "t": "Episodio 2",
-       "f": "2026-11-04"
-      },
-      {
-       "n": 3,
-       "t": "Episodio 3",
-       "f": "2026-11-04"
-      },
-      {
-       "n": 4,
-       "t": "Episodio 4",
-       "f": "2026-11-04"
-      },
-      {
-       "n": 5,
-       "t": "Episodio 5",
-       "f": "2026-11-04"
-      },
-      {
-       "n": 6,
-       "t": "Episodio 6",
-       "f": "2026-11-04"
-      },
-      {
-       "n": 7,
-       "t": "Episodio 7",
-       "f": "2026-11-04"
-      },
-      {
-       "n": 8,
-       "t": "Episodio 8",
-       "f": "2026-11-04"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "id": "15409211",
-   "titulo": "Sorda",
-   "tipo": "p",
-   "plataforma": "netflix",
-   "estado": "upcoming",
-   "fecha": "2026-11-04",
-   "genero": "Drama",
-   "generos": [
-    "Drama"
-   ],
-   "imdb": 6.3,
-   "rt": null,
-   "duracion": "1 h 40 min",
-   "sinopsis": "Ángela, una mujer sorda, va a tener un bebé con Héctor, su pareja oyente. El embarazo hace aflorar sus miedos frente la maternidad y sobre cómo podrá comunicarse con su hija. La llegada de la niña genera una crisis en la pareja y lleva a Ángela a afrontar la crianza de su hija en un mundo que no está hecho para ella.",
-   "poster": "https://image.tmdb.org/t/p/w342/hfBwdvdp11wiMqdipxIY4dOzBUC.jpg",
-   "reparto": [
-    {
-     "nombre": "Miriam Garlo",
-     "foto": "https://image.tmdb.org/t/p/w185/mlQ32ABIq6kCgWoqInsh30DZk1O.jpg"
-    },
-    {
-     "nombre": "Álvaro Cervantes",
-     "foto": "https://image.tmdb.org/t/p/w185/6RAiI4SXIMxLRM1RejLJzMPK7wa.jpg"
-    },
-    {
-     "nombre": "Elena Irureta",
-     "foto": "https://image.tmdb.org/t/p/w185/gJWLhfOXFoYTTVjh5Q9GlxLSsEE.jpg"
-    },
-    {
-     "nombre": "Joaquín Notario",
-     "foto": "https://image.tmdb.org/t/p/w185/9DMQObL0kvYCxHc2ppd8iUvPyR.jpg"
-    },
-    {
-     "nombre": "Daniela Saura Pérez",
-     "foto": null
-    },
-    {
-     "nombre": "Elaia Sánchez",
-     "foto": null
-    }
-   ],
-   "trailer": "https://www.youtube.com/watch?v=YhYdF1oavYk",
-   "temporadas_det": []
-  },
-  {
    "id": "26635575",
    "titulo": "余命一年、男をかう",
    "tipo": "p",
@@ -4911,6 +4728,55 @@
     }
    ],
    "trailer": "https://www.youtube.com/watch?v=50v6k3LUcxU",
+   "temporadas_det": []
+  },
+  {
+   "id": "25370470",
+   "titulo": "Hermanastras",
+   "tipo": "p",
+   "plataforma": "netflix",
+   "estado": "upcoming",
+   "fecha": "2026-11-20",
+   "genero": "Animación",
+   "generos": [
+    "Animación",
+    "Fantasía",
+    "Comedia",
+    "Familia",
+    "Aventura"
+   ],
+   "imdb": null,
+   "rt": null,
+   "duracion": "1 h 42 min",
+   "sinopsis": "",
+   "poster": "https://image.tmdb.org/t/p/w342/jtfCcWZ3ZyKdgi0u7JVOxEOSSJP.jpg",
+   "reparto": [
+    {
+     "nombre": "Ali Wong",
+     "foto": "https://image.tmdb.org/t/p/w185/vpVDlzPIIzgwdO23MbbwvfmPtXQ.jpg"
+    },
+    {
+     "nombre": "Amanda Seyfried",
+     "foto": "https://image.tmdb.org/t/p/w185/gtBUIpZ3dvLpOMIVORxE6sHSyZj.jpg"
+    },
+    {
+     "nombre": "Stephanie Hsu",
+     "foto": "https://image.tmdb.org/t/p/w185/8gb3lfIHKQAGOQyeC4ynQPsCiHr.jpg"
+    },
+    {
+     "nombre": "Bette Midler",
+     "foto": "https://image.tmdb.org/t/p/w185/ooPKeoLvwacY6BRj99u7uvZCYlF.jpg"
+    },
+    {
+     "nombre": "Nikki Glaser",
+     "foto": "https://image.tmdb.org/t/p/w185/zF2UyqN6000VpUkgXVnM9JHuAhW.jpg"
+    },
+    {
+     "nombre": "Peter Dinklage",
+     "foto": "https://image.tmdb.org/t/p/w185/9CAd7wr8QZyIN0E7nm8v1B6WkGn.jpg"
+    }
+   ],
+   "trailer": "https://www.youtube.com/watch?v=tNV4i3BqUGY",
    "temporadas_det": []
   }
  ]
