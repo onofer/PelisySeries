@@ -50,6 +50,7 @@ main{padding:8px 16px 48px}
 .pl i{width:8px;height:8px;border-radius:50%;background:var(--c)}
 .nt{position:absolute;left:8px;bottom:8px;background:rgba(10,12,28,.74);color:#ffd35c;border-radius:99px;padding:2px 9px;font:700 12px "Plus Jakarta Sans",sans-serif}
 .ck{position:absolute;right:8px;top:8px;width:24px;height:24px;border-radius:50%;background:var(--ok);color:#fff;display:grid;place-items:center;font-size:13px}
+.rm{position:absolute;right:8px;bottom:8px;background:rgba(10,12,28,.74);border-radius:99px;padding:2px 7px;font-size:12px}
 .cn{font-weight:600;font-size:14px;line-height:1.25;margin:9px 2px 0}
 .cm{color:var(--mut);font-size:12px;margin:2px 2px 0}
 .empty{padding:60px 0;text-align:center;color:var(--mut)}
@@ -107,19 +108,19 @@ footer{margin-top:40px;color:var(--mut);font-size:12px;border-top:1px solid var(
 <script>
 var P={netflix:{n:"Netflix",c:"#e50914"},prime:{n:"Prime Video",c:"#1a98ff"},disney:{n:"Disney+",c:"#4d62f0"},hbo:{n:"HBO Max",c:"#9b5cff"}};
 var TABS=[["nuevo","Novedades"],["prox","Próximamente"],["sale","Salen pronto"],["pend","Pendientes"],["vist","Vistos"]];
-var D=[],GEN="",CUR=null,OPEN={},ST={p:{},v:{},e:{}},timer;
+var D=[],GEN="",CUR=null,OPEN={},ST={p:{},v:{},e:{},r:{}},timer;
 var S={tab:"nuevo",on:{netflix:1,prime:1,disney:1,hbo:1},tipo:"",gen:"",nota:0,q:"",oc:1};
 function $(i){return document.getElementById(i)}
 function ls(k,v){try{if(v===undefined)return localStorage.getItem(k)||"";if(v===null)localStorage.removeItem(k);else localStorage.setItem(k,v)}catch(e){}return ""}
 function E(s){return String(s==null?"":s).replace(/[&<>"]/g,function(c){return{"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]})}
-function loadST(k){try{var o=JSON.parse(ls(k)||"null");return o&&o.p?o:null}catch(e){return null}}
+function loadST(k){try{var o=JSON.parse(ls(k)||"null");if(o&&o.p){o.r=o.r||{};return o}return null}catch(e){return null}}
 var ADOPT=false,AVISO="";
 ST=loadST("estado")||ST;
 var USER=null;
 function K(x){return String(x.id||x.titulo)}
 function on(m,k){var a=ST[m][k];return !!(a&&a.v)}
 function put(m,k,v){ST[m][k]={v:v?1:0,t:Date.now()}}
-function save(){var lim=Date.now()-90*864e5;["p","v","e"].forEach(function(m){for(var k in ST[m]){var a=ST[m][k];if(!a.v&&a.t<lim)delete ST[m][k]}});ls(USER?"estado_"+USER.uid:"estado",JSON.stringify(ST))}
+function save(){var lim=Date.now()-90*864e5;["p","v","e","r"].forEach(function(m){for(var k in ST[m]){var a=ST[m][k];if(!a.v&&a.t<lim)delete ST[m][k]}});ls(USER?"estado_"+USER.uid:"estado",JSON.stringify(ST))}
 function off(iso){var a=new Date(iso+"T00:00:00"),b=new Date();b.setHours(0,0,0,0);return Math.round((a-b)/864e5)}
 function rel(n){return n==0?"Hoy":n==1?"Mañana":n==-1?"Ayer":n>0?"En "+n+" días":"Hace "+(-n)+" días"}
 function fdate(n){var d=new Date();d.setDate(d.getDate()+n);return d.toLocaleDateString("es-ES",{weekday:"long",day:"numeric",month:"long"})}
@@ -134,7 +135,7 @@ function poster(x,c){var h=hue(x.titulo);return '<div class="pos '+c+'" style="-
 function pass(x){return S.on[x.plataforma]&&(!S.tipo||x.tipo==S.tipo)&&(!S.gen||(x.generos||[]).indexOf(S.gen)>-1)&&(!S.nota||(x.imdb!=null&&x.imdb>=S.nota))&&x.titulo.toLowerCase().indexOf(S.q)>-1}
 function inTab(x,t){var k=K(x);if(t=="pend")return on("p",k);if(t=="vist")return on("v",k);if(S.oc&&on("v",k))return false;return x.estado=={nuevo:"new",prox:"upcoming",sale:"expiring"}[t]}
 function lista(t){var seen={};return D.filter(function(x){if(!inTab(x,t)||!pass(x))return false;if(t=="pend"||t=="vist"){var k=K(x);if(seen[k])return false;seen[k]=1}return true}).sort(function(a,b){return t=="nuevo"?(a.fecha<b.fecha?1:-1):t=="pend"||t=="vist"?a.titulo.localeCompare(b.titulo):(a.fecha<b.fecha?-1:1)})}
-function card(x){var p=P[x.plataforma];return '<button class="card" data-i="'+D.indexOf(x)+'">'+'<div style="position:relative">'+poster(x,"s")+'<span class="pl" style="--c:'+p.c+'"><i></i>'+p.n+'</span>'+(x.imdb!=null?'<span class="nt">★ '+x.imdb.toFixed(1)+'</span>':'')+(on("v",K(x))?'<span class="ck">✓</span>':'')+'</div><div class="cn">'+E(x.titulo)+'</div><div class="cm">'+(x.tipo=="s"?"Serie":"Película")+(x.genero?", "+E(x.genero):"")+'</div></button>'}
+function card(x){var p=P[x.plataforma];return '<button class="card" data-i="'+D.indexOf(x)+'">'+'<div style="position:relative">'+poster(x,"s")+'<span class="pl" style="--c:'+p.c+'"><i></i>'+p.n+'</span>'+(x.imdb!=null?'<span class="nt">★ '+x.imdb.toFixed(1)+'</span>':'')+(on("v",K(x))?'<span class="ck">✓</span>':'')+(on("r",K(x))?'<span class="rm">🔔</span>':'')+'</div><div class="cn">'+E(x.titulo)+'</div><div class="cm">'+(x.tipo=="s"?"Serie":"Película")+(x.genero?", "+E(x.genero):"")+'</div></button>'}
 function render(){
   $("sub").textContent="Datos actualizados: "+(GEN||"sin datos");
   $("tabs").innerHTML=TABS.map(function(t){return '<button class="tab" role="tab" data-t="'+t[0]+'" aria-selected="'+(S.tab==t[0])+'">'+t[1]+'<b>'+lista(t[0]).length+'</b></button>'}).join("");
@@ -156,25 +157,25 @@ function ficha(x){CUR=x;var d=$("dlg"),p=P[x.plataforma],k=K(x),ep=eps(x),n=off(
   if((x.reparto||[]).length)h+='<h4>Reparto</h4><div class="cast">'+x.reparto.map(function(c){var i=c.nombre.split(" ").map(function(w){return w[0]}).join("").slice(0,2);return '<figure class="ac"><div class="av">'+E(i)+(c.foto?'<img src="'+E(c.foto)+'" alt="" loading="lazy" onerror="this.remove()">':'')+'</div><figcaption>'+E(c.nombre)+'</figcaption></figure>'}).join("")+'</div>';
   if(ep.length){var vs=ep.filter(function(q){return on("e",q)}).length;h+='<h4>Episodios, '+vs+' de '+ep.length+' vistos</h4>'+x.temporadas_det.map(function(t){var ks=t.eps.map(function(e){return k+"|"+t.n+"x"+e.n}),c=ks.filter(function(q){return on("e",q)}).length;
     return '<details class="tp" data-n="'+t.n+'"'+(OPEN[t.n]?' open':'')+'><summary>Temporada '+t.n+'<b>'+c+'/'+ks.length+'</b></summary><button class="btn" data-ts="'+t.n+'">'+(c==ks.length?"Desmarcar temporada":"Marcar temporada")+'</button>'+t.eps.map(function(e,j){return '<label class="ep"><input type="checkbox" data-q="'+E(ks[j])+'"'+(on("e",ks[j])?' checked':'')+'><span>'+e.n+'. '+E(e.t||"Episodio")+'</span><small>'+(e.f?new Date(e.f+"T00:00:00").toLocaleDateString("es-ES",{day:"numeric",month:"short"}):"")+'</small></label>'}).join("")+'</details>'}).join("")}
-  h+='<div class="acts"><button class="btn'+(on("p",k)?' on':'')+'" data-act="p">'+(on("p",k)?'✓ Pendiente':'+ Pendiente de ver')+'</button><button class="btn'+(on("v",k)?' on':'')+'" data-act="v">'+(on("v",k)?'✓ Visto':'Marcar como visto')+'</button><a class="btn" href="'+E(x.trailer||"https://www.youtube.com/results?search_query="+encodeURIComponent(x.titulo+" tráiler"))+'" target="_blank" rel="noopener noreferrer">▶ Tráiler</a><button class="btn" data-x="1">Cerrar</button></div></div>';
+  h+='<div class="acts"><button class="btn'+(on("p",k)?' on':'')+'" data-act="p">'+(on("p",k)?'✓ Pendiente':'+ Pendiente de ver')+'</button><button class="btn'+(on("v",k)?' on':'')+'" data-act="v">'+(on("v",k)?'✓ Visto':'Marcar como visto')+'</button>'+(x.estado=="upcoming"?'<button class="btn'+(on("r",k)?' on':'')+'" data-act="r">'+(on("r",k)?'🔔 Te avisaré':'🔔 Recordarme')+'</button>':'')+'<a class="btn" href="'+E(x.trailer||"https://www.youtube.com/results?search_query="+encodeURIComponent(x.titulo+" tráiler"))+'" target="_blank" rel="noopener noreferrer">▶ Tráiler</a><button class="btn" data-x="1">Cerrar</button></div></div>';
   var sc=d.scrollTop;d.innerHTML=h;if(!d.open)d.showModal();d.scrollTop=sc}
 // Sincronización con Firebase (Firestore, inicio de sesión con Google)
 function setS(t){$("sst").textContent=t}
-function merge(o){["p","v","e"].forEach(function(m){var s=o[m]||{};for(var k in s){var a=ST[m][k];if(!a||s[k].t>a.t)ST[m][k]=s[k]}})}
+function merge(o){["p","v","e","r"].forEach(function(m){var s=o[m]||{};for(var k in s){var a=ST[m][k];if(!a||s[k].t>a.t)ST[m][k]=s[k]}})}
 function sync(){if(!USER||!window.FB)return Promise.resolve();setS("Sincronizando…");
   return FB.load().then(function(o){if(o)merge(o);save();return FB.save(ST)})
   .then(function(){if(ADOPT){ls("estado",null);ADOPT=false}setS("Sesión iniciada como "+USER.email+". Última sincronización: "+new Date().toLocaleTimeString("es-ES",{hour:"2-digit",minute:"2-digit"}));render();if(CUR&&$("dlg").open)ficha(CUR)})
   .catch(function(e){if(e.code=="permission-denied"){AVISO="La cuenta "+(USER?USER.email:"")+" no tiene permiso en esta base de datos. Se ha cerrado su sesión: entra con tu cuenta autorizada.";FB.logout()}else setS("Error al sincronizar ("+(e.code||e.message)+").")})}
 window.onUser=function(u){
-  if(u){var own=loadST("estado_"+u.uid),anon=loadST("estado");USER=u;ST=own||anon||{p:{},v:{},e:{}};ADOPT=!own&&!!anon}
-  else{USER=null;ADOPT=false;ST=loadST("estado")||{p:{},v:{},e:{}}}
+  if(u){var own=loadST("estado_"+u.uid),anon=loadST("estado");USER=u;ST=own||anon||{p:{},v:{},e:{},r:{}};ADOPT=!own&&!!anon}
+  else{USER=null;ADOPT=false;ST=loadST("estado")||{p:{},v:{},e:{},r:{}}}
   render();if(CUR&&$("dlg").open)ficha(CUR);
   if(u)sync();else{setS(AVISO||"Aún no has iniciado sesión.");AVISO=""}};
 document.addEventListener("click",function(e){var t=e.target,c;
   if(c=t.closest("[data-t]")){S.tab=c.dataset.t;render();return}
   if(c=t.closest("[data-p]")){S.on[c.dataset.p]=S.on[c.dataset.p]?0:1;render();return}
   if(c=t.closest("[data-i]")){ficha(D[+c.dataset.i]);return}
-  if(c=t.closest("[data-act]")){if(c.dataset.act=="p"){put("p",K(CUR),!on("p",K(CUR)));cambio()}else togVisto(CUR);return}
+  if(c=t.closest("[data-act]")){if(c.dataset.act=="p"){put("p",K(CUR),!on("p",K(CUR)));cambio()}else if(c.dataset.act=="r"){put("r",K(CUR),!on("r",K(CUR)));cambio()}else togVisto(CUR);return}
   if(c=t.closest("[data-ts]")){togTemp(CUR,c.dataset.ts);return}
   if(t.closest("[data-x]")){t.closest("dialog").close();return}
   if(t.tagName=="DIALOG")t.close();

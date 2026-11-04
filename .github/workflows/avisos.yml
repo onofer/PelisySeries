@@ -1,0 +1,26 @@
+name: Avisos de estrenos
+on:
+  schedule:
+    - cron: "0 7 * * *"   # cada día a las 07:00 UTC (08:00 o 09:00 en Madrid)
+  workflow_dispatch:
+    inputs:
+      prueba:
+        description: "Enviar solo un mensaje de prueba por Telegram"
+        type: boolean
+        default: false
+jobs:
+  avisos:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install firebase-admin
+      - name: Enviar avisos
+        run: python avisos.py ${{ github.event.inputs.prueba == 'true' && '--prueba' || '' }}
+        env:
+          FIREBASE_SERVICE_ACCOUNT: ${{ secrets.FIREBASE_SERVICE_ACCOUNT }}
+          FIREBASE_UID: ${{ secrets.FIREBASE_UID }}
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
