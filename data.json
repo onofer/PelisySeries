@@ -1,324 +1,7 @@
 {
- "generado": "2026-11-04T14:05:20+00:00",
+ "generado": "2026-11-04T23:27:17+00:00",
  "pais": "ES",
  "items": [
-  {
-   "id": "4224",
-   "titulo": "Familia al instante",
-   "tipo": "p",
-   "plataforma": "netflix",
-   "estado": "expiring",
-   "fecha": "2026-11-04",
-   "genero": "Comedia",
-   "generos": [
-    "Comedia",
-    "Drama"
-   ],
-   "imdb": 7.3,
-   "rt": 82,
-   "duracion": "1 h 58 min",
-   "sinopsis": "La emoción y alegría de convertirse en padres llega de pronto para Pete y Ellie, una joven pareja que decide compartir su felicidad y sumar a su familia a Juan, Lita y Lizzy, tres niños que son hermanos entre sí­. Pero con ello también comienzan muchos berrinches, puertas azotadas, cenas accidentadas, responsabilidades triples, pero sobre todo, una gran familia.",
-   "poster": "https://image.tmdb.org/t/p/w342/ndgZRvynFdrYCjrny2vULiaCpI2.jpg",
-   "reparto": [
-    {
-     "nombre": "Mark Wahlberg",
-     "foto": "https://image.tmdb.org/t/p/w185/1Oc3XSLyb8hxmjmlgFENu582Kqw.jpg"
-    },
-    {
-     "nombre": "Rose Byrne",
-     "foto": "https://image.tmdb.org/t/p/w185/wR8YZlrewVW2FixRBrJcxaXU3R1.jpg"
-    },
-    {
-     "nombre": "Allyn Rachel",
-     "foto": "https://image.tmdb.org/t/p/w185/1OndNkWkw1Jefq85isKKBLopWgK.jpg"
-    },
-    {
-     "nombre": "Isabela Merced",
-     "foto": "https://image.tmdb.org/t/p/w185/7O5GWIH8IHwU4kGZIhC3JkGDiZr.jpg"
-    },
-    {
-     "nombre": "Julie Hagerty",
-     "foto": "https://image.tmdb.org/t/p/w185/bQZ0bcFNyE4a3GDNfYMmfO7eWMl.jpg"
-    },
-    {
-     "nombre": "Tig Notaro",
-     "foto": "https://image.tmdb.org/t/p/w185/tdZ6XLzIaK0HWWPSM2B5OrOqUC0.jpg"
-    }
-   ],
-   "trailer": "https://www.youtube.com/watch?v=NpNt91V5Xjg",
-   "temporadas_det": []
-  },
-  {
-   "id": "244",
-   "titulo": "The End of the F***ing World",
-   "tipo": "s",
-   "plataforma": "netflix",
-   "estado": "expiring",
-   "fecha": "2026-11-04",
-   "genero": "Comedia",
-   "generos": [
-    "Comedia",
-    "Drama",
-    "Crimen"
-   ],
-   "imdb": 8.0,
-   "rt": null,
-   "duracion": "2 temporadas, 16 episodios",
-   "sinopsis": "Un psicópata adolescente y una chica rebelde con sed de aventura emprenden un accidentado viaje por carretera en esta serie de humor negro basada en una novela gráfica.",
-   "poster": "https://image.tmdb.org/t/p/w342/f1OV9xEJCZVYcYSDRr5xOD8NJw3.jpg",
-   "reparto": [
-    {
-     "nombre": "Alex Lawther",
-     "foto": "https://image.tmdb.org/t/p/w185/zZZP8VrYIYXBZfoRxSYeAd4phsO.jpg"
-    },
-    {
-     "nombre": "Jessica Barden",
-     "foto": "https://image.tmdb.org/t/p/w185/yff76hxi2Y2yjezWZQ7jAWmbeGk.jpg"
-    },
-    {
-     "nombre": "Naomi Ackie",
-     "foto": "https://image.tmdb.org/t/p/w185/dijwuTAEZUzQtoJfK49S4X80fQw.jpg"
-    },
-    {
-     "nombre": "Josh Dylan",
-     "foto": "https://image.tmdb.org/t/p/w185/3JxYuaQF6RddYo6zcpf1UX9J5Ry.jpg"
-    }
-   ],
-   "trailer": "https://www.youtube.com/watch?v=FruHLslczag",
-   "temporadas_det": [
-    {
-     "n": 1,
-     "eps": [
-      {
-       "n": 1,
-       "t": "Episodio 1",
-       "f": "2017-10-24"
-      },
-      {
-       "n": 2,
-       "t": "Episodio 2",
-       "f": "2017-10-24"
-      },
-      {
-       "n": 3,
-       "t": "Episodio 3",
-       "f": "2017-10-24"
-      },
-      {
-       "n": 4,
-       "t": "Episodio 4",
-       "f": "2017-10-24"
-      },
-      {
-       "n": 5,
-       "t": "Episodio 5",
-       "f": "2017-10-24"
-      },
-      {
-       "n": 6,
-       "t": "Episodio 6",
-       "f": "2017-10-24"
-      },
-      {
-       "n": 7,
-       "t": "Episodio 7",
-       "f": "2017-10-24"
-      },
-      {
-       "n": 8,
-       "t": "Episodio 8",
-       "f": "2017-10-24"
-      }
-     ]
-    },
-    {
-     "n": 2,
-     "eps": [
-      {
-       "n": 1,
-       "t": "Episodio 1",
-       "f": "2019-11-04"
-      },
-      {
-       "n": 2,
-       "t": "Episodio 2",
-       "f": "2019-11-04"
-      },
-      {
-       "n": 3,
-       "t": "Episodio 3",
-       "f": "2019-11-05"
-      },
-      {
-       "n": 4,
-       "t": "Episodio 4",
-       "f": "2019-11-05"
-      },
-      {
-       "n": 5,
-       "t": "Episodio 5",
-       "f": "2019-11-06"
-      },
-      {
-       "n": 6,
-       "t": "Episodio 6",
-       "f": "2019-11-06"
-      },
-      {
-       "n": 7,
-       "t": "Episodio 7",
-       "f": "2019-11-07"
-      },
-      {
-       "n": 8,
-       "t": "Episodio 8",
-       "f": "2019-11-07"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "id": "2814",
-   "titulo": "Tiempo de matar",
-   "tipo": "p",
-   "plataforma": "netflix",
-   "estado": "expiring",
-   "fecha": "2026-11-04",
-   "genero": "Crimen",
-   "generos": [
-    "Crimen",
-    "Drama",
-    "Suspense"
-   ],
-   "imdb": 7.4,
-   "rt": 66,
-   "duracion": "2 h 29 min",
-   "sinopsis": "En una tranquila localidad sureña de Mississippi dos jóvenes borrachos violan salvajemente a una niña negra de diez años. La mayoría blanca de la ciudad se muestra horrorizada ante tan atroz crimen. Carl Lee, el padre de la niña, armado con un rifle de asalto, decide tomarse la justicia por su mano y mata a los violadores de su hija. Mientras la tensión va creciendo y reaparecen en las calles las cruces ardiendo del Ku Klux Klan, Jake Brigance, un joven abogado blanco, hará todo lo posible por salvar la vida de Carl Lee y proteger la suya.",
-   "poster": "https://image.tmdb.org/t/p/w342/xqRsY5i4vAwk0bWOUToJw1pssp6.jpg",
-   "reparto": [
-    {
-     "nombre": "Matthew McConaughey",
-     "foto": "https://image.tmdb.org/t/p/w185/lCySuYjhXix3FzQdS4oceDDrXKI.jpg"
-    },
-    {
-     "nombre": "Sandra Bullock",
-     "foto": "https://image.tmdb.org/t/p/w185/4rfjISL3Flx16jfiusXoHbpt87X.jpg"
-    },
-    {
-     "nombre": "Samuel L. Jackson",
-     "foto": "https://image.tmdb.org/t/p/w185/AiAYAqwpM5xmiFrAIeQvUXDCVvo.jpg"
-    },
-    {
-     "nombre": "Kevin Spacey",
-     "foto": "https://image.tmdb.org/t/p/w185/nPrUZDEbGQe6jwpVbHKJCXsMd7r.jpg"
-    },
-    {
-     "nombre": "Ashley Judd",
-     "foto": "https://image.tmdb.org/t/p/w185/5771ZxVIs5rQbI1SV8TOlAFcF15.jpg"
-    },
-    {
-     "nombre": "Donald Sutherland",
-     "foto": "https://image.tmdb.org/t/p/w185/t9rN5Vni7GYmqqNi9nANCZbmewx.jpg"
-    }
-   ],
-   "trailer": "https://www.youtube.com/watch?v=Zy9VWEZOGKU",
-   "temporadas_det": []
-  },
-  {
-   "id": "8947528",
-   "titulo": "Los condenados",
-   "tipo": "p",
-   "plataforma": "netflix",
-   "estado": "expiring",
-   "fecha": "2026-11-04",
-   "genero": "Terror",
-   "generos": [
-    "Terror",
-    "Drama",
-    "Misterio"
-   ],
-   "imdb": 5.7,
-   "rt": 90,
-   "duracion": "1 h 29 min",
-   "sinopsis": "En el siglo XIX, una viuda tiene la tarea de tomar una decisión imposible cuando, durante un invierno especialmente cruel, un barco se hunde frente a la costa de su empobrecido pueblo pesquero islandés. Cualquier intento de rescatar a los supervivientes del naufragio corre el riesgo de agotar aún más los suministros de los aldeanos hambrientos.",
-   "poster": "https://image.tmdb.org/t/p/w342/23VdXxxHf9bWnmBWVB4rIsqDWuz.jpg",
-   "reparto": [
-    {
-     "nombre": "Odessa Young",
-     "foto": "https://image.tmdb.org/t/p/w185/woaCgEcSzzwayaeVleiac0NCNRK.jpg"
-    },
-    {
-     "nombre": "Joe Cole",
-     "foto": "https://image.tmdb.org/t/p/w185/tJ4g1Zit0IqAhKiImTwAQrHHKuA.jpg"
-    },
-    {
-     "nombre": "Siobhan Finneran",
-     "foto": "https://image.tmdb.org/t/p/w185/gS00sFRgPGGFetlRAVsmc665Cbm.jpg"
-    },
-    {
-     "nombre": "Rory McCann",
-     "foto": "https://image.tmdb.org/t/p/w185/meEHyiCRXTTCiYQMzP4VEdvEuD0.jpg"
-    },
-    {
-     "nombre": "Turlough Convery",
-     "foto": "https://image.tmdb.org/t/p/w185/xDHf65t9vtxmIAmDxp5yMKZUtPt.jpg"
-    },
-    {
-     "nombre": "Lewis Gribben",
-     "foto": "https://image.tmdb.org/t/p/w185/EpYHJL9DlxVpPDMSwi2wFZwaBd.jpg"
-    }
-   ],
-   "trailer": "https://www.youtube.com/watch?v=rogD7BY_rh4",
-   "temporadas_det": []
-  },
-  {
-   "id": "1934",
-   "titulo": "Sleepers",
-   "tipo": "p",
-   "plataforma": "netflix",
-   "estado": "expiring",
-   "fecha": "2026-11-04",
-   "genero": "Crimen",
-   "generos": [
-    "Crimen",
-    "Drama",
-    "Suspense"
-   ],
-   "imdb": 7.5,
-   "rt": 76,
-   "duracion": "2 h 27 min",
-   "sinopsis": "Durante los años 60, la iglesia de los Santos Ángeles y su escuela eran el centro de la \"Cocina del Infierno\", un barrio marginal de Nueva York. Allí podían refugiarse los niños marginados. John, Lorenzo, Michael y Tommy son cuatro amigos que tratan de sobrevivir en un barrio de inmigrantes y cuya única guía moral es el padre Robert Carillo, un tipo criado en las calles que intenta que no se desvíen del buen camino. Sin embargo, tras una fechoria colectiva en la que casi muere un hombre, los cuatro muchachos son enviados al Hogar Wilkinson.",
-   "poster": "https://image.tmdb.org/t/p/w342/e0bzX1pK2STzUAYXnretiU9gkiq.jpg",
-   "reparto": [
-    {
-     "nombre": "Kevin Bacon",
-     "foto": "https://image.tmdb.org/t/p/w185/rjX2Oz3tCZMfSwOoIAyEhdtXnTE.jpg"
-    },
-    {
-     "nombre": "Robert De Niro",
-     "foto": "https://image.tmdb.org/t/p/w185/cT8htcckIuyI1Lqwt1CvD02ynTh.jpg"
-    },
-    {
-     "nombre": "Dustin Hoffman",
-     "foto": "https://image.tmdb.org/t/p/w185/yFjTzJHE6AFbwQifOlnNDzmiwlq.jpg"
-    },
-    {
-     "nombre": "Bruno Kirby",
-     "foto": "https://image.tmdb.org/t/p/w185/rCYOMk34rqf28KusLKi002RNbFg.jpg"
-    },
-    {
-     "nombre": "Jason Patric",
-     "foto": "https://image.tmdb.org/t/p/w185/iv21ZjE90f9QNiNONKF9Lp6ZD68.jpg"
-    },
-    {
-     "nombre": "Brad Pitt",
-     "foto": "https://image.tmdb.org/t/p/w185/ajNaPmXVVMJFg9GWmu6MJzTaXdV.jpg"
-    }
-   ],
-   "trailer": "https://www.youtube.com/watch?v=rNaMAgf4ErE",
-   "temporadas_det": []
-  },
   {
    "id": "2952",
    "titulo": "Perseguido",
@@ -2312,6 +1995,189 @@
     }
    ],
    "trailer": "https://www.youtube.com/watch?v=9uG5hxgSGeQ",
+   "temporadas_det": []
+  },
+  {
+   "id": "1552",
+   "titulo": "Warcraft: El origen",
+   "tipo": "p",
+   "plataforma": "netflix",
+   "estado": "expiring",
+   "fecha": "2026-11-12",
+   "genero": "Acción",
+   "generos": [
+    "Acción",
+    "Aventura",
+    "Fantasía"
+   ],
+   "imdb": 6.6,
+   "rt": 29,
+   "duracion": "2 h 03 min",
+   "sinopsis": "El pacífico reino de Azeroth está a punto de entrar en guerra para enfrentarse a unos terribles invasores: orcos guerreros que han dejado su destruido mundo para colonizar otro. Al abrirse un portal que conecta ambos mundos, un ejército se enfrenta a la destrucción, y el otro, a la extinción. Dos héroes, uno en cada bando, están a punto de chocar en un enfrentamiento que cambiará el destino de su familia, su pueblo y su hogar. Así empieza una espectacular saga de poder y sacrificio donde se descubren las numerosas caras de la guerra y donde cada uno lucha por lo suyo. Adaptación del popular videojuego homónimo.",
+   "poster": "https://image.tmdb.org/t/p/w342/r62koy47q5TpDfCVzH0opsk7ZXv.jpg",
+   "reparto": [
+    {
+     "nombre": "Travis Fimmel",
+     "foto": "https://image.tmdb.org/t/p/w185/kuTSw3I2hqb5N1QqYrXPX8zd8EA.jpg"
+    },
+    {
+     "nombre": "Paula Patton",
+     "foto": "https://image.tmdb.org/t/p/w185/afEkMmwkHkmBsOHeor2vZKWzeGf.jpg"
+    },
+    {
+     "nombre": "Ben Foster",
+     "foto": "https://image.tmdb.org/t/p/w185/p5FlM9OOStD9I0Nm3GGlhaiAC5r.jpg"
+    },
+    {
+     "nombre": "Dominic Cooper",
+     "foto": "https://image.tmdb.org/t/p/w185/wFPdARerxpaAaHucYGTSNqViWpn.jpg"
+    },
+    {
+     "nombre": "Ben Schnetzer",
+     "foto": "https://image.tmdb.org/t/p/w185/drpFFDyWj2jeoX5I1D1WhUfcCCx.jpg"
+    },
+    {
+     "nombre": "Toby Kebbell",
+     "foto": "https://image.tmdb.org/t/p/w185/mlYytYJvoEHmhDH2enLtES1098Q.jpg"
+    }
+   ],
+   "trailer": "https://www.youtube.com/watch?v=65AjY_nRdqE",
+   "temporadas_det": []
+  },
+  {
+   "id": "3325",
+   "titulo": "Ni en sueños",
+   "tipo": "p",
+   "plataforma": "prime",
+   "estado": "expiring",
+   "fecha": "2026-11-13",
+   "genero": "Romance",
+   "generos": [
+    "Romance",
+    "Comedia"
+   ],
+   "imdb": 6.4,
+   "rt": 57,
+   "duracion": "1 h 44 min",
+   "sinopsis": "Kirk (Jay Baruchel, \"Tropic Thunder\") es un tipo normal y corriente, que no suele tener éxito con las chicas, que se queda sorprendido cuando un día una chica despampanante muestra interés en él. Kirk no puede creer en la suerte que está teniendo. A pesar de que está estancado en un trabajo sin futuro como guardia de seguridad del aeropuerto, contra todo pronóstico, Molly (Alice Eve), una chica con éxito y escandalosamente guapa, se enamora de él. Kirk está aturdido. También lo están sus amigos, su familia y hasta su ex-novia. Ahora tiene que encontrar la manera de hacer que la relación funcione, a pesar de que él es el primero en admitir que ella está totalmente \"fuera de su liga\".",
+   "poster": "https://image.tmdb.org/t/p/w342/oFWxPE8mXiOmqLc8bfncOuJqbw5.jpg",
+   "reparto": [
+    {
+     "nombre": "Jay Baruchel",
+     "foto": "https://image.tmdb.org/t/p/w185/1GYJeQzPcY9Pfmc3FFsBwClkCv7.jpg"
+    },
+    {
+     "nombre": "Alice Eve",
+     "foto": "https://image.tmdb.org/t/p/w185/tJUSx0Cw7pCnRsCWbGTX2POiTKM.jpg"
+    },
+    {
+     "nombre": "T.J. Miller",
+     "foto": "https://image.tmdb.org/t/p/w185/rRrVvBxOkyYM5XdLXimShHR1Itn.jpg"
+    },
+    {
+     "nombre": "Nate Torrence",
+     "foto": "https://image.tmdb.org/t/p/w185/yT9o149xPygdY0NsF9sNgiQwuru.jpg"
+    },
+    {
+     "nombre": "Mike Vogel",
+     "foto": "https://image.tmdb.org/t/p/w185/s85Qt8oUJZ3QnUeAmQjh5amq6R6.jpg"
+    },
+    {
+     "nombre": "Lindsay Sloane",
+     "foto": "https://image.tmdb.org/t/p/w185/sbUraumaXThpJ6ewhLuxWNn0dOf.jpg"
+    }
+   ],
+   "trailer": "https://www.youtube.com/watch?v=6apjIe7G7BY",
+   "temporadas_det": []
+  },
+  {
+   "id": "1212",
+   "titulo": "R3sacon",
+   "tipo": "p",
+   "plataforma": "netflix",
+   "estado": "expiring",
+   "fecha": "2026-11-13",
+   "genero": "Comedia",
+   "generos": [
+    "Comedia"
+   ],
+   "imdb": 5.9,
+   "rt": 21,
+   "duracion": "1 h 40 min",
+   "sinopsis": "Tras la inesperada muerte de su padre, Alan (Zach Galifianakas) es llevado por sus amigos Phil (Bradley Cooper), Stu (Ed Helms) y Doug (Justin Bartha) a un centro especializado para que mejore. Esta vez no hay boda ni fiesta de despedida ¿Qué puede ir mal? Pues que cuando estos chicos salen a la carretera, y sobre todo cuando aparece Chow (Ken Jeong)... la suerte está echada. Tercera entrega de la franquicia iniciada en 2009 con 'Resacón en Las Vegas'.",
+   "poster": "https://image.tmdb.org/t/p/w342/jxhkMvcdbk9RhobvURI1HeVrp3E.jpg",
+   "reparto": [
+    {
+     "nombre": "Bradley Cooper",
+     "foto": "https://image.tmdb.org/t/p/w185/5Dhy50qOMOHfR1NZifKIfffjV9X.jpg"
+    },
+    {
+     "nombre": "Ed Helms",
+     "foto": "https://image.tmdb.org/t/p/w185/gPZ8tZaNQGAc3KZRIPp9rgGbEnN.jpg"
+    },
+    {
+     "nombre": "Zach Galifianakis",
+     "foto": "https://image.tmdb.org/t/p/w185/qsDfoUlRnXHUiqZeBPWHzmgmKGX.jpg"
+    },
+    {
+     "nombre": "Justin Bartha",
+     "foto": "https://image.tmdb.org/t/p/w185/AalKjN8nR8RZ8g6ZdWV2smnQq4d.jpg"
+    },
+    {
+     "nombre": "Ken Jeong",
+     "foto": "https://image.tmdb.org/t/p/w185/dfuDZ2m2A8nBb0TdyeqmlPOobJA.jpg"
+    },
+    {
+     "nombre": "John Goodman",
+     "foto": "https://image.tmdb.org/t/p/w185/yyYqoyKHO7hE1zpgEV2XlqYWcNV.jpg"
+    }
+   ],
+   "trailer": "https://www.youtube.com/watch?v=96TelFMZwHc",
+   "temporadas_det": []
+  },
+  {
+   "id": "281",
+   "titulo": "Resacón en Las Vegas",
+   "tipo": "p",
+   "plataforma": "netflix",
+   "estado": "expiring",
+   "fecha": "2026-11-13",
+   "genero": "Comedia",
+   "generos": [
+    "Comedia"
+   ],
+   "imdb": 7.6,
+   "rt": 79,
+   "duracion": "1 h 40 min",
+   "sinopsis": "\"The Hangover\" es la historia de una desmadrada despedida de soltero en la que el futuro novio y sus tres amigos, dos días antes de la boda, se montan la juerga padre en Las Vegas. Doug viaja a la ciudad del juego con sus mejores amigos Phil y Stu, así como su futuro cuñado Alan. La juerga es de campeonato y, como era de esperar, a la mañana siguiente tienen una resaca monumental. El problema es que, siendo incapaces de recordar nada de lo ocurrido durante la noche anterior, se encuentran con que el prometido ha desaparecido, topándose en su lugar con otras dos sorpresas en la suite del hotel: un tigre y un bebé.",
+   "poster": "https://image.tmdb.org/t/p/w342/rqeim09TdaflSvPNVnCTBjUHlKu.jpg",
+   "reparto": [
+    {
+     "nombre": "Bradley Cooper",
+     "foto": "https://image.tmdb.org/t/p/w185/5Dhy50qOMOHfR1NZifKIfffjV9X.jpg"
+    },
+    {
+     "nombre": "Ed Helms",
+     "foto": "https://image.tmdb.org/t/p/w185/gPZ8tZaNQGAc3KZRIPp9rgGbEnN.jpg"
+    },
+    {
+     "nombre": "Zach Galifianakis",
+     "foto": "https://image.tmdb.org/t/p/w185/qsDfoUlRnXHUiqZeBPWHzmgmKGX.jpg"
+    },
+    {
+     "nombre": "Justin Bartha",
+     "foto": "https://image.tmdb.org/t/p/w185/AalKjN8nR8RZ8g6ZdWV2smnQq4d.jpg"
+    },
+    {
+     "nombre": "Heather Graham",
+     "foto": "https://image.tmdb.org/t/p/w185/avYdNkeg1oTvmrNJbFDcTlBCkKs.jpg"
+    },
+    {
+     "nombre": "Sasha Barrese",
+     "foto": "https://image.tmdb.org/t/p/w185/4SGcSiC46h86mdChDj0taF5eHSl.jpg"
+    }
+   ],
+   "trailer": "https://www.youtube.com/watch?v=tlize92ffnY",
    "temporadas_det": []
   },
   {
@@ -4777,6 +4643,282 @@
     }
    ],
    "trailer": "https://www.youtube.com/watch?v=tNV4i3BqUGY",
+   "temporadas_det": []
+  },
+  {
+   "id": "26596910",
+   "titulo": "푸른길",
+   "tipo": "s",
+   "plataforma": "netflix",
+   "estado": "upcoming",
+   "fecha": "2026-11-20",
+   "genero": "Crimen",
+   "generos": [
+    "Crimen",
+    "Misterio"
+   ],
+   "imdb": null,
+   "rt": null,
+   "duracion": "1 temporada, 8 episodios",
+   "sinopsis": "",
+   "poster": "https://image.tmdb.org/t/p/w342/rHgC4wYhpI8Vx7kSwA1OTvwQRh0.jpg",
+   "reparto": [
+    {
+     "nombre": "손석구",
+     "foto": "https://image.tmdb.org/t/p/w185/natZWFVBAWLKWCYebgVGywHtsME.jpg"
+    },
+    {
+     "nombre": "永山瑛太",
+     "foto": "https://image.tmdb.org/t/p/w185/10Q2xdJyMJ4Bngx8NDYtFbBcWLQ.jpg"
+    },
+    {
+     "nombre": "김신록",
+     "foto": "https://image.tmdb.org/t/p/w185/x4zo2mSbehnQY80PbuldAZ7ruGm.jpg"
+    },
+    {
+     "nombre": "최성은",
+     "foto": "https://image.tmdb.org/t/p/w185/sbtcXMrHoFVyX2Mw5s5NDryaUaM.jpg"
+    },
+    {
+     "nombre": "정재영",
+     "foto": "https://image.tmdb.org/t/p/w185/xeiFPl5GOHemLGGMpvzeiK0Nlpm.jpg"
+    },
+    {
+     "nombre": "나호원",
+     "foto": "https://image.tmdb.org/t/p/w185/9lmM8KcpUPDy7NYzyfTIOoVIdkC.jpg"
+    }
+   ],
+   "trailer": null,
+   "temporadas_det": [
+    {
+     "n": 1,
+     "eps": [
+      {
+       "n": 1,
+       "t": "Episodio 1",
+       "f": "2026-11-20"
+      },
+      {
+       "n": 2,
+       "t": "Episodio 2",
+       "f": "2026-11-20"
+      },
+      {
+       "n": 3,
+       "t": "Episodio 3",
+       "f": "2026-11-20"
+      },
+      {
+       "n": 4,
+       "t": "Episodio 4",
+       "f": "2026-11-20"
+      },
+      {
+       "n": 5,
+       "t": "Episodio 5",
+       "f": "2026-11-20"
+      },
+      {
+       "n": 6,
+       "t": "Episodio 6",
+       "f": "2026-11-20"
+      },
+      {
+       "n": 7,
+       "t": "Episodio 7",
+       "f": "2026-11-20"
+      },
+      {
+       "n": 8,
+       "t": "Episodio 8",
+       "f": "2026-11-20"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "26342721",
+   "titulo": "Vicentina pide disculpas",
+   "tipo": "p",
+   "plataforma": "netflix",
+   "estado": "upcoming",
+   "fecha": "2026-11-20",
+   "genero": "Drama",
+   "generos": [
+    "Drama"
+   ],
+   "imdb": null,
+   "rt": null,
+   "duracion": "2 h 28 min",
+   "sinopsis": "Vicentina lucha por sobrellevar la muerte de su hijo Wesley tras un trágico accidente de autobús que él mismo conducía. A medida que avanza la investigación, los indicios sugieren que las acciones de Wesley pudieron haber sido suicidas. Vicentina emprende entonces un viaje para buscar a las familias de las víctimas y pedirles perdón, mientras se enfrenta a su propio duelo y a la incertidumbre.",
+   "poster": "https://image.tmdb.org/t/p/w342/2Lw3ouMPsK8F0asNdXl2xfyV78T.jpg",
+   "reparto": [
+    {
+     "nombre": "Rejane Faria",
+     "foto": "https://image.tmdb.org/t/p/w185/iie8IOxVZF6JXB416EanhE2bqkT.jpg"
+    },
+    {
+     "nombre": "Maíra Azevedo",
+     "foto": "https://image.tmdb.org/t/p/w185/xYQfXAbP55oGag2JYAP0opVtVRX.jpg"
+    },
+    {
+     "nombre": "Thalma de Freitas",
+     "foto": "https://image.tmdb.org/t/p/w185/l5V2w20y5NhvyTOCaEx0dW3CWE.jpg"
+    },
+    {
+     "nombre": "Grace Passô",
+     "foto": "https://image.tmdb.org/t/p/w185/xzomAlvVQor81adGhWjf94F6rP0.jpg"
+    },
+    {
+     "nombre": "Giovanna Heliodoro",
+     "foto": null
+    },
+    {
+     "nombre": "Renato Novaes",
+     "foto": "https://image.tmdb.org/t/p/w185/gXdCJC9QPTC60gRwR2ZRPVCCkqX.jpg"
+    }
+   ],
+   "trailer": null,
+   "temporadas_det": []
+  },
+  {
+   "id": "25861614",
+   "titulo": "Blade Runner 2099",
+   "tipo": "s",
+   "plataforma": "prime",
+   "estado": "upcoming",
+   "fecha": "2026-11-25",
+   "genero": "Ciencia ficción",
+   "generos": [
+    "Ciencia ficción",
+    "Fantasía"
+   ],
+   "imdb": null,
+   "rt": null,
+   "duracion": "1 temporada, 8 episodios",
+   "sinopsis": "Cincuenta años después de los acontecimientos de Blade Runner 2049, Los Ángeles ha renacido, pero no por obra de la humanidad. Cora, una fugitiva que intenta dejar de escapar, asume una última identidad: la de Blade Runner. Obligada a asociarse con Olwen, un replicante al que le faltan días para morir, parte a la caza de un prófugo que oculta una verdad que podría desmoronar su frágil ciudad.",
+   "poster": "https://image.tmdb.org/t/p/w342/gMdQMmqKu5zee7sCGGZvbSHFVb2.jpg",
+   "reparto": [
+    {
+     "nombre": "Hunter Schafer",
+     "foto": "https://image.tmdb.org/t/p/w185/AilBKow2NuvPBQbvGRx69RxKUBi.jpg"
+    },
+    {
+     "nombre": "Michelle Yeoh",
+     "foto": "https://image.tmdb.org/t/p/w185/i6fHvGt7Rb8oVyjjdQVV6vEHB94.jpg"
+    },
+    {
+     "nombre": "Dimitri Abold",
+     "foto": "https://image.tmdb.org/t/p/w185/aMWxgEAyDIvV9GtbKaMxqOsGCxG.jpg"
+    },
+    {
+     "nombre": "Lewis Gribben",
+     "foto": "https://image.tmdb.org/t/p/w185/EpYHJL9DlxVpPDMSwi2wFZwaBd.jpg"
+    },
+    {
+     "nombre": "Tom Burke",
+     "foto": "https://image.tmdb.org/t/p/w185/4IHlAZ9bJ82VAd6HUOWFgo81SDq.jpg"
+    },
+    {
+     "nombre": "Wil Coban",
+     "foto": "https://image.tmdb.org/t/p/w185/73REwJckTBMNJoiGIrrGhcCdTqf.jpg"
+    }
+   ],
+   "trailer": "https://www.youtube.com/watch?v=vfTiEyJTcjU",
+   "temporadas_det": [
+    {
+     "n": 1,
+     "eps": [
+      {
+       "n": 1,
+       "t": "Episodio 1",
+       "f": "2026-11-25"
+      },
+      {
+       "n": 2,
+       "t": "Episodio 2",
+       "f": "2026-11-25"
+      },
+      {
+       "n": 3,
+       "t": "Episodio 3",
+       "f": "2026-11-25"
+      },
+      {
+       "n": 4,
+       "t": "Episodio 4",
+       "f": "2026-11-25"
+      },
+      {
+       "n": 5,
+       "t": "Episodio 5",
+       "f": "2026-11-25"
+      },
+      {
+       "n": 6,
+       "t": "Episodio 6",
+       "f": "2026-11-25"
+      },
+      {
+       "n": 7,
+       "t": "Episodio 7",
+       "f": "2026-11-25"
+      },
+      {
+       "n": 8,
+       "t": "Episodio 8",
+       "f": "2026-11-25"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "26519265",
+   "titulo": "The Mosquito Bowl",
+   "tipo": "p",
+   "plataforma": "netflix",
+   "estado": "upcoming",
+   "fecha": "2026-11-25",
+   "genero": "Historia",
+   "generos": [
+    "Historia",
+    "Drama",
+    "Bélica"
+   ],
+   "imdb": null,
+   "rt": null,
+   "duracion": "2 h 08 min",
+   "sinopsis": "",
+   "poster": "https://image.tmdb.org/t/p/w342/zbT4sxoCEeFWlQG4SC5X9Q8v6PC.jpg",
+   "reparto": [
+    {
+     "nombre": "Nicholas Galitzine",
+     "foto": "https://image.tmdb.org/t/p/w185/hG4rH7eBMs117746bBOd8fUa4PA.jpg"
+    },
+    {
+     "nombre": "Bill Skarsgård",
+     "foto": "https://image.tmdb.org/t/p/w185/xBXLx1m0uzhXIbY3wN8lmPGeUHl.jpg"
+    },
+    {
+     "nombre": "Ray Nicholson",
+     "foto": "https://image.tmdb.org/t/p/w185/f0MRbGIyTEJLJgHedJS8pRFhGn4.jpg"
+    },
+    {
+     "nombre": "Tom Francis",
+     "foto": "https://image.tmdb.org/t/p/w185/u2xOsPIwCUwyxuzeH5UMxLRJb0h.jpg"
+    },
+    {
+     "nombre": "Brent Comer",
+     "foto": "https://image.tmdb.org/t/p/w185/6smfSn7hguUfnoH2iE0tdXT4xNd.jpg"
+    },
+    {
+     "nombre": "Jack Ingram",
+     "foto": null
+    }
+   ],
+   "trailer": "https://www.youtube.com/watch?v=F6YDzPfjH4I",
    "temporadas_det": []
   }
  ]
