@@ -22,6 +22,7 @@ h1{margin:0;font:800 26px/1 "Plus Jakarta Sans",sans-serif;letter-spacing:-.03em
 button,select,input{font:inherit;color:inherit}
 .btn{display:inline-flex;align-items:center;gap:6px;border:1.5px solid var(--line);background:var(--s1);border-radius:99px;padding:7px 14px;font-weight:600;font-size:13px;cursor:pointer;text-decoration:none;color:var(--ink)}
 .btn.on{background:var(--ink);color:var(--bg);border-color:var(--ink)}
+.btn.err{border-color:#e5484d;color:#e5484d}
 .btn.pri{background:var(--grad);color:#fff;border:0}
 .tabs{display:flex;gap:6px;margin:12px 0 10px;overflow-x:auto;padding-bottom:2px}
 .tab{border:0;background:var(--s2);color:var(--mut);border-radius:99px;padding:8px 15px;font-weight:600;cursor:pointer;white-space:nowrap}
@@ -114,7 +115,7 @@ function $(i){return document.getElementById(i)}
 function ls(k,v){try{if(v===undefined)return localStorage.getItem(k)||"";if(v===null)localStorage.removeItem(k);else localStorage.setItem(k,v)}catch(e){}return ""}
 function E(s){return String(s==null?"":s).replace(/[&<>"]/g,function(c){return{"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]})}
 function loadST(k){try{var o=JSON.parse(ls(k)||"null");if(o&&o.p){o.r=o.r||{};return o}return null}catch(e){return null}}
-var ADOPT=false,AVISO="";
+var ADOPT=false,AVISO="",SS="";
 ST=loadST("estado")||ST;
 var USER=null;
 function K(x){return String(x.id||x.titulo)}
@@ -140,7 +141,7 @@ function render(){
   $("sub").textContent="Datos actualizados: "+(GEN||"sin datos");
   $("tabs").innerHTML=TABS.map(function(t){return '<button class="tab" role="tab" data-t="'+t[0]+'" aria-selected="'+(S.tab==t[0])+'">'+t[1]+'<b>'+lista(t[0]).length+'</b></button>'}).join("");
   $("chips").innerHTML=Object.keys(P).map(function(k){return '<button class="chip" data-p="'+k+'" aria-pressed="'+!!S.on[k]+'" style="--c:'+P[k].c+'"><i></i>'+P[k].n+'</button>'}).join("");
-  $("sbtn").textContent=USER?"Sincronizado":"Entrar";
+  btn();
   var r=lista(S.tab);
   if(!r.length){$("list").innerHTML='<div class="empty">'+(S.tab=="pend"||S.tab=="vist"?"Aún no hay nada aquí. Abre un título y márcalo.":"No hay títulos con estos filtros.")+'</div>';return}
   var h="",last=null;
@@ -161,12 +162,14 @@ function ficha(x){CUR=x;var d=$("dlg"),p=P[x.plataforma],k=K(x),ep=eps(x),n=off(
   var sc=d.scrollTop;d.innerHTML=h;if(!d.open)d.showModal();d.scrollTop=sc}
 // Sincronización con Firebase (Firestore, inicio de sesión con Google)
 function setS(t){$("sst").textContent=t}
+function btn(){var b=$("sbtn");b.textContent=!USER?"Entrar":SS=="err"?"Error de sincronización":SS=="ok"?"Sincronizado":"Sincronizando…";b.classList.toggle("err",SS=="err"&&!!USER)}
 function merge(o){["p","v","e","r"].forEach(function(m){var s=o[m]||{};for(var k in s){var a=ST[m][k];if(!a||s[k].t>a.t)ST[m][k]=s[k]}})}
-function sync(){if(!USER||!window.FB)return Promise.resolve();setS("Sincronizando…");
+function sync(){if(!USER||!window.FB)return Promise.resolve();SS="sync";btn();setS("Sincronizando…");
   return FB.load().then(function(o){if(o)merge(o);save();return FB.save(ST)})
-  .then(function(){if(ADOPT){ls("estado",null);ADOPT=false}setS("Sesión iniciada como "+USER.email+". Última sincronización: "+new Date().toLocaleTimeString("es-ES",{hour:"2-digit",minute:"2-digit"}));render();if(CUR&&$("dlg").open)ficha(CUR)})
-  .catch(function(e){if(e.code=="permission-denied"){AVISO="La cuenta "+(USER?USER.email:"")+" no tiene permiso en esta base de datos. Se ha cerrado su sesión: entra con tu cuenta autorizada.";FB.logout()}else setS("Error al sincronizar ("+(e.code||e.message)+").")})}
+  .then(function(){SS="ok";if(ADOPT){ls("estado",null);ADOPT=false}setS("Sesión iniciada como "+USER.email+". Última sincronización: "+new Date().toLocaleTimeString("es-ES",{hour:"2-digit",minute:"2-digit"}));render();if(CUR&&$("dlg").open)ficha(CUR)})
+  .catch(function(e){SS="err";btn();if(e.code=="permission-denied"){AVISO="La cuenta "+(USER?USER.email:"")+" no tiene permiso en esta base de datos. Se ha cerrado su sesión: entra con tu cuenta autorizada.";FB.logout()}else setS("Error al sincronizar ("+(e.code||e.message)+").")})}
 window.onUser=function(u){
+  SS="";
   if(u){var own=loadST("estado_"+u.uid),anon=loadST("estado");USER=u;ST=own||anon||{p:{},v:{},e:{},r:{}};ADOPT=!own&&!!anon}
   else{USER=null;ADOPT=false;ST=loadST("estado")||{p:{},v:{},e:{},r:{}}}
   render();if(CUR&&$("dlg").open)ficha(CUR);
@@ -179,7 +182,7 @@ document.addEventListener("click",function(e){var t=e.target,c;
   if(c=t.closest("[data-ts]")){togTemp(CUR,c.dataset.ts);return}
   if(t.closest("[data-x]")){t.closest("dialog").close();return}
   if(t.tagName=="DIALOG")t.close();
-  if(t.id=="sbtn"){setS(USER?"Sesión iniciada como "+USER.email+".":"Inicia sesión con Google para guardar tus listas en la nube.");$("sdlg").showModal()}
+  if(t.id=="sbtn"){setS(USER?"Sesión iniciada como "+USER.email+".":"Inicia sesión con Google para guardar tus listas en la nube.");$("sdlg").showModal();if(USER&&SS=="err")sync()}
   if(t.id=="login"){if(!window.FB)setS("Firebase aún no ha cargado, inténtalo de nuevo en unos segundos.");else FB.login().catch(function(err){setS("No se pudo iniciar sesión ("+(err.code||err.message)+")")})}
   if(t.id=="logout"&&window.FB){AVISO="Sesión cerrada. Tus listas siguen guardadas en tu cuenta: vuelve a entrar para verlas.";FB.logout()}
 });
