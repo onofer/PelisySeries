@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-05T05:58:10+00:00",
+ "generado": "2026-11-05T14:29:58+00:00",
  "pais": "ES",
  "items": [
   {
@@ -2263,192 +2263,95 @@
    ]
   },
   {
-   "id": "26635575",
-   "titulo": "余命一年、男をかう",
+   "id": "16087",
+   "titulo": "La ballena (The Whale)",
    "tipo": "p",
-   "plataforma": "netflix",
-   "estado": "upcoming",
+   "plataforma": "hbo",
+   "estado": "new",
    "fecha": "2026-11-05",
    "genero": "Drama",
    "generos": [
-    "Drama",
-    "Romance"
+    "Drama"
    ],
-   "imdb": null,
-   "rt": null,
-   "duracion": "",
-   "sinopsis": "",
-   "poster": "https://image.tmdb.org/t/p/w342/rleue0CXFaVemfPnwkjtoe5TK5A.jpg",
+   "imdb": 7.6,
+   "rt": 64,
+   "duracion": "1 h 57 min",
+   "sinopsis": "Un solitario profesor de inglés con obesidad severa intenta reconectar con su hija adolescente en una última oportunidad de redención.",
+   "poster": "https://image.tmdb.org/t/p/w342/5PXybRV6hVkteNZsxLeSC1FV3kx.jpg",
    "reparto": [
     {
-     "nombre": "柴咲コウ",
-     "foto": "https://image.tmdb.org/t/p/w185/eEBNceN1MsDFibWVV3VIcEHygUW.jpg"
+     "nombre": "Brendan Fraser",
+     "foto": "https://image.tmdb.org/t/p/w185/tFj5PaWWQbb8rHBBhu1EHklznph.jpg"
     },
     {
-     "nombre": "赤楚衛二",
-     "foto": "https://image.tmdb.org/t/p/w185/avmVUrCnFPQi8mhfz3LYKGIzaTO.jpg"
+     "nombre": "Sadie Sink",
+     "foto": "https://image.tmdb.org/t/p/w185/92FddzBfK50XOUbtwjqHPraoGHy.jpg"
     },
     {
-     "nombre": "筒井道隆",
-     "foto": "https://image.tmdb.org/t/p/w185/pufgt0lPJBUYr2AiMFXbFRh9nEj.jpg"
+     "nombre": "Ty Simpkins",
+     "foto": "https://image.tmdb.org/t/p/w185/wrcCDIekFJhdWxqMdPFSiO8zjkK.jpg"
     },
     {
-     "nombre": "Naomi Nishida",
-     "foto": "https://image.tmdb.org/t/p/w185/oO9MWTZfBOKpFPuwWMiHFH9ksDJ.jpg"
+     "nombre": "Hong Chau",
+     "foto": "https://image.tmdb.org/t/p/w185/yGEw6uiSUBo838HkiCARs4BR40y.jpg"
     },
     {
-     "nombre": "鳴海唯",
-     "foto": "https://image.tmdb.org/t/p/w185/bj22Nu7mg4AU63IRkeU9d6909q5.jpg"
+     "nombre": "Samantha Morton",
+     "foto": "https://image.tmdb.org/t/p/w185/kHSfnDFbfeKah823y0Gr14lbt31.jpg"
     },
     {
-     "nombre": "宮世琉弥",
-     "foto": "https://image.tmdb.org/t/p/w185/1eEHt14GlxmMgnBpf0ZstRHceOE.jpg"
+     "nombre": "Sathya Sridharan",
+     "foto": "https://image.tmdb.org/t/p/w185/ik7HROIaaifIS6lg1HKosZtkjV2.jpg"
     }
    ],
-   "trailer": "https://www.youtube.com/watch?v=WH-RRKQGdJ8",
+   "trailer": "https://www.youtube.com/watch?v=Rhd5EyZ-rEs",
    "temporadas_det": []
   },
   {
-   "id": "27068994",
-   "titulo": "แก๊งโอเวอร์",
+   "id": "1064",
+   "titulo": "Constantine",
    "tipo": "p",
-   "plataforma": "netflix",
-   "estado": "upcoming",
-   "fecha": "2026-11-05",
-   "genero": "Acción",
-   "generos": [
-    "Acción",
-    "Comedia"
-   ],
-   "imdb": null,
-   "rt": null,
-   "duracion": "1 h 56 min",
-   "sinopsis": "",
-   "poster": "https://image.tmdb.org/t/p/w342/rve2a7JXJbXivl0JakEWgc9Fhwh.jpg",
-   "reparto": [
-    {
-     "nombre": "พงษ์ศักดิ์ พงษ์สุวรรณ",
-     "foto": "https://image.tmdb.org/t/p/w185/7vPnrSW5acxAYbcAkQ1JKP9UGHX.jpg"
-    },
-    {
-     "nombre": "เมลดา สุศรี",
-     "foto": "https://image.tmdb.org/t/p/w185/8yABH08obOp9A2QOKXm1AQEXGcy.jpg"
-    },
-    {
-     "nombre": "อัครเดช ยอดจำปา",
-     "foto": "https://image.tmdb.org/t/p/w185/5SCjK0otPkXnGeSc6qW10LoY5G6.jpg"
-    },
-    {
-     "nombre": "กรภพ จันทร์เจริญ",
-     "foto": "https://image.tmdb.org/t/p/w185/eR2SyVBjZPS9SFmubOynPSXEZlV.jpg"
-    },
-    {
-     "nombre": "แต๋ง กฤษฏิ์กุล ชุมแก้ว",
-     "foto": "https://image.tmdb.org/t/p/w185/mDd3ZyYKhXvVEmdmM8A5YQoiziS.jpg"
-    },
-    {
-     "nombre": "ธีรวิวัฒน์ บุตรตะยา",
-     "foto": "https://image.tmdb.org/t/p/w185/AeE6b42MOmAtyEtOMNqxI1o4IIy.jpg"
-    }
-   ],
-   "trailer": "https://www.youtube.com/watch?v=a28p9c4zTdI",
-   "temporadas_det": []
-  },
-  {
-   "id": "9246",
-   "titulo": "Ant Bully, bienvenido al hormiguero",
-   "tipo": "p",
-   "plataforma": "netflix",
-   "estado": "upcoming",
+   "plataforma": "hbo",
+   "estado": "new",
    "fecha": "2026-11-05",
    "genero": "Fantasía",
    "generos": [
     "Fantasía",
-    "Aventura",
-    "Animación",
-    "Comedia",
-    "Familia"
+    "Acción",
+    "Terror"
    ],
-   "imdb": 5.8,
-   "rt": null,
-   "duracion": "1 h 35 min",
-   "sinopsis": "Al pobre Lucas Nickle, un niño de 10 años, todo le sale mal. Hace poco que se ha mudado a una nueva ciudad con su familia y no se ha hecho ni un amigo. Su hermana Tiffany, una quinceañera, no hace más que darle la tabarra y últimamente sus padres no le hacen ni caso ya que están muy ocupados planeando su gran viaje de aniversario de bodas a Puerto Vallarta. Mientras tanto la abuela, cariñosa pero algo excéntrica, dedica su tiempo a proteger a la familia de unos extraterrestres que conoce a través de la prensa sensacionalista. Por si esto no fuera suficiente, Lucas es el blanco favorito del \"bully\" del lugar, Steve, quién no pierde oportunidad de intimidarle. A su vez, Lucas disfruta destruyendo los pequeños montículos que forman las hormigas en su jardín - descarga su frustración sobre los montículos de tierra y sus minúsculos habitantes pataleándoles, pisoteándoles, y regándoles con la manguera.",
-   "poster": "https://image.tmdb.org/t/p/w342/9OnDzKX1guuePRow1mz1JyWAOwi.jpg",
+   "imdb": 7.0,
+   "rt": 46,
+   "duracion": "2 h 01 min",
+   "sinopsis": "John Constantine ha estado en el infierno y ha vuelto. Nació con un don que no deseaba, la capacidad de reconocer claramente a los ángeles y a los demonios que andan por la tierra bajo un aspecto humano, Constantine se vio empujado al suicido para escapar de la atormentadora claridad de su visión. Pero fracasó. Ahora, marcado por su intento de suicidio, patrulla la frontera terrenal entre el cielo y el infierno, esperando en vano ganarse el camino a la salvación enviando a los esbirros de Luciffer de vuelta al averno. Cuando una desesperada pero escéptica detective de policía consigue su ayuda para resolver la misteriosa muerte de su querida hermana gemela, su investigación les lleva a través del mundo de demonios y ángeles que subyace justo bajo el paisaje de la actual ciudad de Los Angeles. Atrapados en una catastrófica serie de acontecimientos sobrenaturales, los dos se encuentran inextricablemente involucrados y tratan de encontrar su propia paz a cualquier precio.",
+   "poster": "https://image.tmdb.org/t/p/w342/oj0s9jvCyMSCMvw7pNWt7nELykW.jpg",
    "reparto": [
     {
-     "nombre": "Zach Tyler Eisen",
-     "foto": "https://image.tmdb.org/t/p/w185/ifHd2Yoovlvu6FFEIxUsXVyrYUf.jpg"
+     "nombre": "Keanu Reeves",
+     "foto": "https://image.tmdb.org/t/p/w185/8RZLOyYGsoRe9p44q3xin9QkMHv.jpg"
     },
     {
-     "nombre": "Julia Roberts",
-     "foto": "https://image.tmdb.org/t/p/w185/fQacAdIa1WUNChQ6FgEko13eqOA.jpg"
+     "nombre": "Rachel Weisz",
+     "foto": "https://image.tmdb.org/t/p/w185/9tfHL5tholha1YF6bSKt422ETPM.jpg"
     },
     {
-     "nombre": "Meryl Streep",
-     "foto": "https://image.tmdb.org/t/p/w185/g5cVxQBAQ3AXt3LhdBXtbbN47Uc.jpg"
+     "nombre": "Shia LaBeouf",
+     "foto": "https://image.tmdb.org/t/p/w185/egvlIdeizCkSkuHVoDuuduIThFA.jpg"
     },
     {
-     "nombre": "Nicolas Cage",
-     "foto": "https://image.tmdb.org/t/p/w185/y1RtezurZYveYkVNRht7CwEgSYY.jpg"
+     "nombre": "Djimon Hounsou",
+     "foto": "https://image.tmdb.org/t/p/w185/tpvtxxvCx2Mb5DV632hmuYlHoiY.jpg"
     },
     {
-     "nombre": "Paul Giamatti",
-     "foto": "https://image.tmdb.org/t/p/w185/wbrVVJRr5TwhDZuvijBgOorzcAb.jpg"
+     "nombre": "Max Baker",
+     "foto": "https://image.tmdb.org/t/p/w185/z3hNp4zntZJVQPBUd08IXSAiWAL.jpg"
     },
     {
-     "nombre": "Bruce Campbell",
-     "foto": "https://image.tmdb.org/t/p/w185/p9335ljr7luOWsfwZSOlsIzFJKE.jpg"
+     "nombre": "Pruitt Taylor Vince",
+     "foto": "https://image.tmdb.org/t/p/w185/jqC1v8tF92QcmkQycnaLSuJiQfl.jpg"
     }
    ],
-   "trailer": "https://www.youtube.com/watch?v=1UArmfHdeyk",
-   "temporadas_det": []
-  },
-  {
-   "id": "59017",
-   "titulo": "Navidad de Amor",
-   "tipo": "p",
-   "plataforma": "netflix",
-   "estado": "upcoming",
-   "fecha": "2026-11-05",
-   "genero": "Película de TV",
-   "generos": [
-    "Película de TV",
-    "Romance",
-    "Familia",
-    "Comedia"
-   ],
-   "imdb": 6.1,
-   "rt": null,
-   "duracion": "1 h 30 min",
-   "sinopsis": "Ellie Hartman (D’Orsay) es una aspirante a artesana que trabaja en la panadería de su pequeña ciudad haciendo famosas Christmas Kringles. Cuando el nuevo CEO de la gran ciudad, Nick Carlingson (Lissing) visita la panadería, llega lleno de ideas de modernización destinadas a despedir a muchos empleados.",
-   "poster": "https://image.tmdb.org/t/p/w342/iDK96L8yN092QuRbfVqFUmT2FnS.jpg",
-   "reparto": [
-    {
-     "nombre": "Brooke D'Orsay",
-     "foto": "https://image.tmdb.org/t/p/w185/8lBeEbyKz8KWz6XDdbymRpKoM9N.jpg"
-    },
-    {
-     "nombre": "Daniel Lissing",
-     "foto": "https://image.tmdb.org/t/p/w185/8BN5A6PuzkjPdiT9zlDYDuMvlC4.jpg"
-    },
-    {
-     "nombre": "Jamie Spilchuk",
-     "foto": "https://image.tmdb.org/t/p/w185/c0ALI1wlTKPnGJMcnbrGf5XO5Rf.jpg"
-    },
-    {
-     "nombre": "Chris Renaud",
-     "foto": "https://image.tmdb.org/t/p/w185/sumBJgBqRkK4XEJ2JYXpad3MTJs.jpg"
-    },
-    {
-     "nombre": "Mary-Margaret Humes",
-     "foto": "https://image.tmdb.org/t/p/w185/sBmqplwdnfzUhHx7OwlRK12yMFr.jpg"
-    },
-    {
-     "nombre": "Carolina Bartczak",
-     "foto": "https://image.tmdb.org/t/p/w185/tQumydKvy6B2egz70Yd73kgokyP.jpg"
-    }
-   ],
-   "trailer": "https://www.youtube.com/watch?v=7mfuQl0Ov3o",
+   "trailer": "https://www.youtube.com/watch?v=YOQ3TWUAeJY",
    "temporadas_det": []
   },
   {
@@ -4920,6 +4823,117 @@
    ],
    "trailer": "https://www.youtube.com/watch?v=F6YDzPfjH4I",
    "temporadas_det": []
+  },
+  {
+   "id": "26517731",
+   "titulo": "Fool night",
+   "tipo": "s",
+   "plataforma": "netflix",
+   "estado": "upcoming",
+   "fecha": "2026-11-26",
+   "genero": "Animación",
+   "generos": [
+    "Animación",
+    "Drama",
+    "Ciencia ficción",
+    "Fantasía",
+    "Misterio"
+   ],
+   "imdb": null,
+   "rt": null,
+   "duracion": "1 temporada, 12 episodios",
+   "sinopsis": "",
+   "poster": "https://image.tmdb.org/t/p/w342/vTTr4YG3qIUq6E5uahU0fWSWch7.jpg",
+   "reparto": [
+    {
+     "nombre": "Koki Uchiyama",
+     "foto": "https://image.tmdb.org/t/p/w185/sllSm3iZZWVLTBrDZQRtWrZUfEj.jpg"
+    },
+    {
+     "nombre": "Minako Kotobuki",
+     "foto": "https://image.tmdb.org/t/p/w185/puocmMfvql6X1AvhFTolaV6Vh2r.jpg"
+    },
+    {
+     "nombre": "Junya Enoki",
+     "foto": "https://image.tmdb.org/t/p/w185/vBnNL3Jqy0zkS3ZgsXZmvDM9Dfz.jpg"
+    },
+    {
+     "nombre": "Aya Endo",
+     "foto": "https://image.tmdb.org/t/p/w185/s59Lip4dPC7rI3cz1pHs9vSmuvf.jpg"
+    },
+    {
+     "nombre": "Kiyomitsu Mizuuchi",
+     "foto": "https://image.tmdb.org/t/p/w185/f1h0nw9CX7g5gZK42YdEsE12YSq.jpg"
+    }
+   ],
+   "trailer": null,
+   "temporadas_det": [
+    {
+     "n": 1,
+     "eps": [
+      {
+       "n": 1,
+       "t": "Episodio 1",
+       "f": "2026-11-26"
+      },
+      {
+       "n": 2,
+       "t": "Episodio 2",
+       "f": "2026-11-26"
+      },
+      {
+       "n": 3,
+       "t": "Episodio 3",
+       "f": "2026-11-26"
+      },
+      {
+       "n": 4,
+       "t": "Episodio 4",
+       "f": "2026-11-26"
+      },
+      {
+       "n": 5,
+       "t": "Episodio 5",
+       "f": "2026-11-26"
+      },
+      {
+       "n": 6,
+       "t": "Episodio 6",
+       "f": "2026-11-26"
+      },
+      {
+       "n": 7,
+       "t": "Episodio 7",
+       "f": "2026-11-26"
+      },
+      {
+       "n": 8,
+       "t": "Episodio 8",
+       "f": "2026-11-26"
+      },
+      {
+       "n": 9,
+       "t": "Episodio 9",
+       "f": "2026-11-26"
+      },
+      {
+       "n": 10,
+       "t": "Episodio 10",
+       "f": "2026-11-26"
+      },
+      {
+       "n": 11,
+       "t": "Episodio 11",
+       "f": "2026-11-26"
+      },
+      {
+       "n": 12,
+       "t": "Episodio 12",
+       "f": "2026-11-26"
+      }
+     ]
+    }
+   ]
   }
  ]
 }
