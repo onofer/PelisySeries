@@ -1,52 +1,7 @@
 {
- "generado": "2026-11-07T05:26:48+00:00",
+ "generado": "2026-11-07T12:44:21+00:00",
  "pais": "ES",
  "items": [
-  {
-   "id": "7521557",
-   "titulo": "Un movimiento extraño",
-   "tipo": "p",
-   "plataforma": "prime",
-   "estado": "expiring",
-   "fecha": "2026-11-07",
-   "genero": "Comedia",
-   "generos": [
-    "Comedia"
-   ],
-   "imdb": 5.5,
-   "rt": null,
-   "duracion": "22 min",
-   "sinopsis": "Buenos Aires, 2019. Lucrecia, que trabaja como guardia de seguridad en un museo, prevé con su péndulo una fuerte subida del valor del dólar y se enamora de una empleada de una casa de cambio.",
-   "poster": "https://image.tmdb.org/t/p/w342/7SXOhrqOtszamsvM0EvquOA0YKy.jpg",
-   "reparto": [
-    {
-     "nombre": "Laila Maltz",
-     "foto": "https://image.tmdb.org/t/p/w185/nmxx7qarVqfjQQxhocSbdr3GTFv.jpg"
-    },
-    {
-     "nombre": "Paco Gorriz",
-     "foto": "https://image.tmdb.org/t/p/w185/1LQCoc1e5hdyQDZ4VOCKoxY1k55.jpg"
-    },
-    {
-     "nombre": "Sofía Palomino",
-     "foto": "https://image.tmdb.org/t/p/w185/i3YDGg6PSq8u3Vno4Z2JMwClT1R.jpg"
-    },
-    {
-     "nombre": "Jorge Prado",
-     "foto": "https://image.tmdb.org/t/p/w185/ixbqYtlsc7mAAntvgMUo3Jrfc9X.jpg"
-    },
-    {
-     "nombre": "Cecilia Rainero",
-     "foto": "https://image.tmdb.org/t/p/w185/5s1Hwa9Krpcly5KDjcMv3wWCpzj.jpg"
-    },
-    {
-     "nombre": "Marcela Guerty",
-     "foto": null
-    }
-   ],
-   "trailer": "https://www.youtube.com/watch?v=VXAC6UUx5-U",
-   "temporadas_det": []
-  },
   {
    "id": "27050",
    "titulo": "Karakuri Circus",
@@ -282,6 +237,51 @@
      ]
     }
    ]
+  },
+  {
+   "id": "7521557",
+   "titulo": "Un movimiento extraño",
+   "tipo": "p",
+   "plataforma": "prime",
+   "estado": "expiring",
+   "fecha": "2026-11-07",
+   "genero": "Comedia",
+   "generos": [
+    "Comedia"
+   ],
+   "imdb": 5.5,
+   "rt": null,
+   "duracion": "22 min",
+   "sinopsis": "Buenos Aires, 2019. Lucrecia, que trabaja como guardia de seguridad en un museo, prevé con su péndulo una fuerte subida del valor del dólar y se enamora de una empleada de una casa de cambio.",
+   "poster": "https://image.tmdb.org/t/p/w342/7SXOhrqOtszamsvM0EvquOA0YKy.jpg",
+   "reparto": [
+    {
+     "nombre": "Laila Maltz",
+     "foto": "https://image.tmdb.org/t/p/w185/nmxx7qarVqfjQQxhocSbdr3GTFv.jpg"
+    },
+    {
+     "nombre": "Paco Gorriz",
+     "foto": "https://image.tmdb.org/t/p/w185/1LQCoc1e5hdyQDZ4VOCKoxY1k55.jpg"
+    },
+    {
+     "nombre": "Sofía Palomino",
+     "foto": "https://image.tmdb.org/t/p/w185/i3YDGg6PSq8u3Vno4Z2JMwClT1R.jpg"
+    },
+    {
+     "nombre": "Jorge Prado",
+     "foto": "https://image.tmdb.org/t/p/w185/ixbqYtlsc7mAAntvgMUo3Jrfc9X.jpg"
+    },
+    {
+     "nombre": "Cecilia Rainero",
+     "foto": "https://image.tmdb.org/t/p/w185/5s1Hwa9Krpcly5KDjcMv3wWCpzj.jpg"
+    },
+    {
+     "nombre": "Marcela Guerty",
+     "foto": null
+    }
+   ],
+   "trailer": "https://www.youtube.com/watch?v=VXAC6UUx5-U",
+   "temporadas_det": []
   },
   {
    "id": "13678",
@@ -2539,50 +2539,116 @@
   },
   {
    "id": "21020",
-   "titulo": "I'm Quitting Heroing",
+   "titulo": "Yuusha, Yamemasu",
    "tipo": "s",
    "plataforma": "netflix",
    "estado": "expiring",
    "fecha": "2026-11-14",
-   "genero": "Acción",
+   "genero": "Animación",
    "generos": [
-    "Acción",
-    "Aventura",
-    "Animación"
+    "Animación",
+    "Ciencia ficción",
+    "Fantasía"
    ],
    "imdb": 6.0,
    "rt": null,
    "duracion": "1 temporada, 12 episodios",
-   "sinopsis": "After defeating the despicable Demon Queen, Leo Demonhart does not earn a hero’s welcome, and those he fought to protect now regard him with suspicion and hostility. With nowhere else to go, Leo seeks employment with his former nemesis!",
-   "poster": "https://cdn.movieofthenight.com/show/21020/poster/vertical/en/240.jpg?Expires=1824268051&Signature=ET6ECFpYLQvOy3LY9GZTeCyezwPukBIHjvjgR3HZfgaf7Gk1AIb1ahvLyy6NSQzQh6TfjeATNiMMa-yFNHHy3vkXM4-QAU76TjYiIPvt8jazYDSeP15H1kXDV8DCzefh5u7HjydvrzpujGUrsTNCFGsiqfeFZc-flePRPT54azWseNTbXcHmHo9OVTrIPIU6Mc8g5HcfSmd20eyK64aLDT~x055yYZ2aUeyy3FiK~6iey3h8vwIptE~LvCMV7GkUs1TU5P2waU1oYj-zFEjkF~qkvMG3KxN4GyP1VLKd2ZZx7gi-Hl2eMKmk3xv7GJ-tltFlfG6e73cDLAuTy9z3Kg__&Key-Pair-Id=KK4HN3OO4AT5R",
+   "sinopsis": "Después de salvar a la humanidad del despreciable Rey Demonio, Leo Demonhart no gana la posición de héroe. En cambio, aquellos por quienes luchó para protegerlo lo miran con sospecha y hostilidad. ¡Tratado como un paria que no tiene a quién acudir, el exiliado Leo busca un puesto en el ejército de su antiguo némesis! Pero el ejército ya no es lo que era antes de su derrota a manos de Leo, por lo que para mantener su nueva posición, Leo debe volver a poner las fuerzas en forma para el combate.",
+   "poster": "https://image.tmdb.org/t/p/w342/oz5upj4Be6u0WVKFUOObEggNcJ5.jpg",
    "reparto": [
     {
      "nombre": "Kensho Ono",
-     "foto": null
+     "foto": "https://image.tmdb.org/t/p/w185/wUYJ3HIeygHfh4rAqupE4RPoG3W.jpg"
     },
     {
      "nombre": "Kaede Hondo",
-     "foto": null
+     "foto": "https://image.tmdb.org/t/p/w185/11BcHnuJYrOZhIftgUiQqfm7TK6.jpg"
     },
     {
      "nombre": "Shizuka Itoh",
-     "foto": null
+     "foto": "https://image.tmdb.org/t/p/w185/n47YvFPlJzl8HnsoDBtM8SUqG8q.jpg"
     },
     {
-     "nombre": "Hitomi Ohwada",
-     "foto": null
+     "nombre": "大和田仁美",
+     "foto": "https://image.tmdb.org/t/p/w185/bBVFt6E6t026wmaWLfTVPBWPR0m.jpg"
     },
     {
      "nombre": "Yumi Uchiyama",
-     "foto": null
+     "foto": "https://image.tmdb.org/t/p/w185/JvavoF3YOLCf4LHfl4XvYobANE.jpg"
     },
     {
      "nombre": "Tetsu Inada",
-     "foto": null
+     "foto": "https://image.tmdb.org/t/p/w185/hN6WVTxPAd4Jbc9iqWwoWFthT6p.jpg"
     }
    ],
-   "trailer": null,
-   "temporadas_det": []
+   "trailer": "https://www.youtube.com/watch?v=EKbHu7DNmak",
+   "temporadas_det": [
+    {
+     "n": 1,
+     "eps": [
+      {
+       "n": 1,
+       "t": "¡Mi próxima entrevista es en el Palacio de la Reina Demonio!",
+       "f": "2022-04-05"
+      },
+      {
+       "n": 2,
+       "t": "¡Esfuérzate por aliviar la carga de tu yo futuro!",
+       "f": "2022-04-12"
+      },
+      {
+       "n": 3,
+       "t": "¡Un poco de reflexión ayuda mucho a la eficiencia!",
+       "f": "2022-04-19"
+      },
+      {
+       "n": 4,
+       "t": "La fiesta de beber del infierno",
+       "f": "2022-04-26"
+      },
+      {
+       "n": 5,
+       "t": "Si quiere dejar de fumar, háblelo primero",
+       "f": "2022-05-03"
+      },
+      {
+       "n": 6,
+       "t": "El héroe comparte su historia de carga",
+       "f": "2022-05-10"
+      },
+      {
+       "n": 7,
+       "t": "Un buen guerrero no siempre es un buen jefe",
+       "f": "2022-05-17"
+      },
+      {
+       "n": 8,
+       "t": "Tokyo, 2060 A.D.",
+       "f": "2022-05-24"
+      },
+      {
+       "n": 9,
+       "t": "Quiero dejar de ser un héroe",
+       "f": "2022-05-31"
+      },
+      {
+       "n": 10,
+       "t": "Salvaré el mundo aunque signifique destruirlo",
+       "f": "2022-06-07"
+      },
+      {
+       "n": 11,
+       "t": "Lo que hace a un héroe",
+       "f": "2022-06-14"
+      },
+      {
+       "n": 12,
+       "t": "Dejo el heroísmo",
+       "f": "2022-06-21"
+      }
+     ]
+    }
+   ]
   },
   {
    "id": "7081",
@@ -2642,42 +2708,42 @@
     "Terror"
    ],
    "imdb": 5.0,
-   "rt": null,
-   "duracion": "1 h 45 min",
-   "sinopsis": "In a desperate attempt to protect her ten-year-old daughter, a young widow allows a nightmarish monster to slowly eat her alive.",
-   "poster": "https://cdn.movieofthenight.com/show/10246877/poster/vertical/en/240.jpg?Expires=1810964631&Signature=W0QD7mVMiE42sH65Q20pMmkM2o1MctWz7OuuZhUfZAT6nynWpziDQjFRDOeC~JiuKSkhkdA1~DHAvrJGD0s~NQSh1x6a-FcPdCnbnfenbc0JYoTz08bw6HVWroGWIclmg3YhQSiCZK6AeYlKvkmPmVtNVGIqaixaQIJbw1zY~RT7Ca-KY1SPdQHTnOPcosSDZCkzsBfI8twNYFokzC3iiIiGDgwfQKrVSPwAPwvFggKNQ0lviv~-bu5POJNsic4Efu1OTvS-0eN6o6aeaoS-fUpP7V8pU0xhOLgnQOXEsPT6~~s4Ogm2ZgI-xqaxTPSIcIb6MATcFh4GBOSxS1rVeA__&Key-Pair-Id=KK4HN3OO4AT5R",
+   "rt": 80,
+   "duracion": "1 h 46 min",
+   "sinopsis": "En un intento desesperado por proteger a su hija de diez años, una joven viuda permite que un monstruo de pesadilla se la coma viva lentamente.",
+   "poster": "https://image.tmdb.org/t/p/w342/lb8p3sR9A9Y3TTJZm6QgBicD6hJ.jpg",
    "reparto": [
     {
      "nombre": "Krsy Fox",
-     "foto": null
+     "foto": "https://image.tmdb.org/t/p/w185/6bRT5c4MoP7yP3yza5HFdV9ajra.jpg"
     },
     {
      "nombre": "Jon Sklaroff",
-     "foto": null
+     "foto": "https://image.tmdb.org/t/p/w185/f2sObKMPWfp2uA6rWQg0IeA65cl.jpg"
     },
     {
      "nombre": "Elizabeth Phoenix Caro",
-     "foto": null
+     "foto": "https://image.tmdb.org/t/p/w185/kzc3t6eLqlbpwqp3wUfIgcoSiri.jpg"
     },
     {
      "nombre": "Barbara Crampton",
-     "foto": null
+     "foto": "https://image.tmdb.org/t/p/w185/AaLIWSrUgHIESuJEh6w7UD5RzV4.jpg"
     },
     {
      "nombre": "Heather Langenkamp",
-     "foto": null
+     "foto": "https://image.tmdb.org/t/p/w185/1v3qxca6jvgTAo0T1CqC64DDpbK.jpg"
     },
     {
      "nombre": "Bonnie Aarons",
-     "foto": null
+     "foto": "https://image.tmdb.org/t/p/w185/iEtWuoXKx4ZKbIWwJp1V76Heavy.jpg"
     }
    ],
-   "trailer": null,
+   "trailer": "https://www.youtube.com/watch?v=90P66eJRh8s",
    "temporadas_det": []
   },
   {
    "id": "11715492",
-   "titulo": "Phoenixes",
+   "titulo": "Phénix",
    "tipo": "p",
    "plataforma": "prime",
    "estado": "expiring",
@@ -2688,33 +2754,33 @@
    ],
    "imdb": null,
    "rt": null,
-   "duracion": "1 h 35 min",
+   "duracion": "1 h 36 min",
    "sinopsis": "",
-   "poster": "https://cdn.movieofthenight.com/show/11715492/poster/vertical/en/240.jpg?Expires=1821500232&Signature=UBzakX2TZipjT2gtS-3eo9slEpgjqpAUUqqiU7pjDSzMccm2VvFGlHE59mTC8GPjDEyMVnazsGNptkMeWVBNjw45w7e3m5qUCQgycmcxgdgx3-3ur1Vds9kPL5b78DuMKN~h1MYoDiA2D6VmEp-IyuO1iwgWc7GWLtZsMNpG0Nurkc4Lj0wKTDJM769sZlCwKHpEeIxIngaYibwwW59CH9GCToYQuaJnkCrgSvkJEL9kTAb1xD7VDmh01yczQFjGzV~c6ov0RVSax94eWhZyVlGgZpZr3ACqP5~JES~Lx2AuP7xiLocmfmE1p2pP5HqFIgKKwPP9DvHGSi41tUL6Fw__&Key-Pair-Id=KK4HN3OO4AT5R",
+   "poster": "https://image.tmdb.org/t/p/w342/awdLIxsvelpNhqLFE7m7HlQevE9.jpg",
    "reparto": [
     {
      "nombre": "Aksel Leblanc",
-     "foto": null
+     "foto": "https://image.tmdb.org/t/p/w185/cd4L3pRf8224HDJFIDpR9DBIOgI.jpg"
     },
     {
      "nombre": "Maxime Genois",
-     "foto": null
+     "foto": "https://image.tmdb.org/t/p/w185/xHa3vrn99FagTGuhdmdXYfDwvD3.jpg"
     },
     {
      "nombre": "Evelyne Brochu",
-     "foto": null
+     "foto": "https://image.tmdb.org/t/p/w185/11rEHdNfqH6WLJDufd1H0MSIrP6.jpg"
     },
     {
      "nombre": "Alexandre Landry",
-     "foto": null
+     "foto": "https://image.tmdb.org/t/p/w185/OmGOXEqqFspcS3pP3uwSkEefVj.jpg"
     },
     {
      "nombre": "Rosemarie Sabor",
-     "foto": null
+     "foto": "https://image.tmdb.org/t/p/w185/1Mw9NocVQadFQ2cROBRoUI7qsuK.jpg"
     },
     {
      "nombre": "Maxime Desjardins-Tremblay",
-     "foto": null
+     "foto": "https://image.tmdb.org/t/p/w185/ibOMQS8SafBMlcG9kDjqr76n2Vm.jpg"
     }
    ],
    "trailer": null,
