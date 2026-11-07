@@ -1,7 +1,52 @@
 {
- "generado": "2026-11-07T12:44:21+00:00",
+ "generado": "2026-11-07T21:38:42+00:00",
  "pais": "ES",
  "items": [
+  {
+   "id": "7521557",
+   "titulo": "Un movimiento extraño",
+   "tipo": "p",
+   "plataforma": "prime",
+   "estado": "expiring",
+   "fecha": "2026-11-07",
+   "genero": "Comedia",
+   "generos": [
+    "Comedia"
+   ],
+   "imdb": 5.5,
+   "rt": null,
+   "duracion": "22 min",
+   "sinopsis": "Buenos Aires, 2019. Lucrecia, que trabaja como guardia de seguridad en un museo, prevé con su péndulo una fuerte subida del valor del dólar y se enamora de una empleada de una casa de cambio.",
+   "poster": "https://image.tmdb.org/t/p/w342/7SXOhrqOtszamsvM0EvquOA0YKy.jpg",
+   "reparto": [
+    {
+     "nombre": "Laila Maltz",
+     "foto": "https://image.tmdb.org/t/p/w185/nmxx7qarVqfjQQxhocSbdr3GTFv.jpg"
+    },
+    {
+     "nombre": "Paco Gorriz",
+     "foto": "https://image.tmdb.org/t/p/w185/1LQCoc1e5hdyQDZ4VOCKoxY1k55.jpg"
+    },
+    {
+     "nombre": "Sofía Palomino",
+     "foto": "https://image.tmdb.org/t/p/w185/i3YDGg6PSq8u3Vno4Z2JMwClT1R.jpg"
+    },
+    {
+     "nombre": "Jorge Prado",
+     "foto": "https://image.tmdb.org/t/p/w185/ixbqYtlsc7mAAntvgMUo3Jrfc9X.jpg"
+    },
+    {
+     "nombre": "Cecilia Rainero",
+     "foto": "https://image.tmdb.org/t/p/w185/5s1Hwa9Krpcly5KDjcMv3wWCpzj.jpg"
+    },
+    {
+     "nombre": "Marcela Guerty",
+     "foto": null
+    }
+   ],
+   "trailer": "https://www.youtube.com/watch?v=VXAC6UUx5-U",
+   "temporadas_det": []
+  },
   {
    "id": "27050",
    "titulo": "Karakuri Circus",
@@ -239,51 +284,6 @@
    ]
   },
   {
-   "id": "7521557",
-   "titulo": "Un movimiento extraño",
-   "tipo": "p",
-   "plataforma": "prime",
-   "estado": "expiring",
-   "fecha": "2026-11-07",
-   "genero": "Comedia",
-   "generos": [
-    "Comedia"
-   ],
-   "imdb": 5.5,
-   "rt": null,
-   "duracion": "22 min",
-   "sinopsis": "Buenos Aires, 2019. Lucrecia, que trabaja como guardia de seguridad en un museo, prevé con su péndulo una fuerte subida del valor del dólar y se enamora de una empleada de una casa de cambio.",
-   "poster": "https://image.tmdb.org/t/p/w342/7SXOhrqOtszamsvM0EvquOA0YKy.jpg",
-   "reparto": [
-    {
-     "nombre": "Laila Maltz",
-     "foto": "https://image.tmdb.org/t/p/w185/nmxx7qarVqfjQQxhocSbdr3GTFv.jpg"
-    },
-    {
-     "nombre": "Paco Gorriz",
-     "foto": "https://image.tmdb.org/t/p/w185/1LQCoc1e5hdyQDZ4VOCKoxY1k55.jpg"
-    },
-    {
-     "nombre": "Sofía Palomino",
-     "foto": "https://image.tmdb.org/t/p/w185/i3YDGg6PSq8u3Vno4Z2JMwClT1R.jpg"
-    },
-    {
-     "nombre": "Jorge Prado",
-     "foto": "https://image.tmdb.org/t/p/w185/ixbqYtlsc7mAAntvgMUo3Jrfc9X.jpg"
-    },
-    {
-     "nombre": "Cecilia Rainero",
-     "foto": "https://image.tmdb.org/t/p/w185/5s1Hwa9Krpcly5KDjcMv3wWCpzj.jpg"
-    },
-    {
-     "nombre": "Marcela Guerty",
-     "foto": null
-    }
-   ],
-   "trailer": "https://www.youtube.com/watch?v=VXAC6UUx5-U",
-   "temporadas_det": []
-  },
-  {
    "id": "13678",
    "titulo": "Nunca es tarde para enamorarse",
    "tipo": "p",
@@ -423,47 +423,6 @@
    "temporadas_det": []
   },
   {
-   "id": "17584226",
-   "titulo": "The Carters: Hurts to Love You",
-   "tipo": "s",
-   "plataforma": "prime",
-   "estado": "expiring",
-   "fecha": "2026-11-08",
-   "genero": "Documental",
-   "generos": [
-    "Documental"
-   ],
-   "imdb": 5.4,
-   "rt": null,
-   "duracion": "1 temporada, 2 episodios",
-   "sinopsis": "Desentraña un camino profundamente inquietante contado por Angel Conrad, la hermana de Nick y Aaron Carter, junto con entrevistas por primera vez con amigos Melissa Joan Hart y Scout Willis. Las películas caseras nunca antes vistas que detallan el ascenso a la fama de los hermanos y el devastador costo que tuvo para su familia también ayudan a contar la historia de los Carter.",
-   "poster": "https://image.tmdb.org/t/p/w342/t8SizJ3I5ye5Bh1Y6FD5jggXRvF.jpg",
-   "reparto": [
-    {
-     "nombre": "Angel Carter Conrad",
-     "foto": "https://image.tmdb.org/t/p/w185/kB6pJGgRQER3Keg0NgZNpt2J67E.jpg"
-    }
-   ],
-   "trailer": "https://www.youtube.com/watch?v=gQncVA6zZtk",
-   "temporadas_det": [
-    {
-     "n": 1,
-     "eps": [
-      {
-       "n": 1,
-       "t": "Episodio 1",
-       "f": "2025-04-15"
-      },
-      {
-       "n": 2,
-       "t": "Episodio 2",
-       "f": "2025-04-15"
-      }
-     ]
-    }
-   ]
-  },
-  {
    "id": "26071",
    "titulo": "Bienvenidos a Villa Capri",
    "tipo": "p",
@@ -508,6 +467,47 @@
    ],
    "trailer": "https://www.youtube.com/watch?v=VDFuiM2J9kc",
    "temporadas_det": []
+  },
+  {
+   "id": "17584226",
+   "titulo": "The Carters: Hurts to Love You",
+   "tipo": "s",
+   "plataforma": "prime",
+   "estado": "expiring",
+   "fecha": "2026-11-08",
+   "genero": "Documental",
+   "generos": [
+    "Documental"
+   ],
+   "imdb": 5.4,
+   "rt": null,
+   "duracion": "1 temporada, 2 episodios",
+   "sinopsis": "Desentraña un camino profundamente inquietante contado por Angel Conrad, la hermana de Nick y Aaron Carter, junto con entrevistas por primera vez con amigos Melissa Joan Hart y Scout Willis. Las películas caseras nunca antes vistas que detallan el ascenso a la fama de los hermanos y el devastador costo que tuvo para su familia también ayudan a contar la historia de los Carter.",
+   "poster": "https://image.tmdb.org/t/p/w342/t8SizJ3I5ye5Bh1Y6FD5jggXRvF.jpg",
+   "reparto": [
+    {
+     "nombre": "Angel Carter Conrad",
+     "foto": "https://image.tmdb.org/t/p/w185/kB6pJGgRQER3Keg0NgZNpt2J67E.jpg"
+    }
+   ],
+   "trailer": "https://www.youtube.com/watch?v=gQncVA6zZtk",
+   "temporadas_det": [
+    {
+     "n": 1,
+     "eps": [
+      {
+       "n": 1,
+       "t": "Episodio 1",
+       "f": "2025-04-15"
+      },
+      {
+       "n": 2,
+       "t": "Episodio 2",
+       "f": "2025-04-15"
+      }
+     ]
+    }
+   ]
   },
   {
    "id": "2093477",
