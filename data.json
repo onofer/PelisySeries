@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-09T05:37:36+00:00",
+ "generado": "2026-11-09T15:44:52+00:00",
  "pais": "ES",
  "items": [
   {
@@ -8757,839 +8757,6 @@
    ]
   },
   {
-   "id": "1034",
-   "titulo": "Power",
-   "tipo": "s",
-   "plataforma": "netflix",
-   "estado": "upcoming",
-   "fecha": "2026-11-09",
-   "genero": "Crimen",
-   "generos": [
-    "Crimen",
-    "Drama"
-   ],
-   "imdb": 7.4,
-   "rt": null,
-   "duracion": "6 temporadas, 63 episodios",
-   "sinopsis": "El adinerado propietario de un club nocturno de Nueva York frecuentado por la elite lleva una doble vida como narcotraficante.",
-   "poster": "https://image.tmdb.org/t/p/w342/ctftzvyj8b0odco7EoS9VfJhf7K.jpg",
-   "reparto": [
-    {
-     "nombre": "Omari Hardwick",
-     "foto": "https://image.tmdb.org/t/p/w185/acUogRPe6eyhiK33EavBk3SWGlB.jpg"
-    },
-    {
-     "nombre": "Joseph Sikora",
-     "foto": "https://image.tmdb.org/t/p/w185/lCsWDvqKYz1UFGRYN5chg5izZAu.jpg"
-    },
-    {
-     "nombre": "Naturi Naughton",
-     "foto": "https://image.tmdb.org/t/p/w185/7MAE01ucdjtV1lSeHB39BYayl3N.jpg"
-    },
-    {
-     "nombre": "Larenz Tate",
-     "foto": "https://image.tmdb.org/t/p/w185/6BWajF1sbuwsvXHmdQDxP5MfZ5R.jpg"
-    },
-    {
-     "nombre": "Shane Johnson",
-     "foto": "https://image.tmdb.org/t/p/w185/jR35Lz3sciBc40mYVwhepEE8f4S.jpg"
-    },
-    {
-     "nombre": "Rotimi",
-     "foto": "https://image.tmdb.org/t/p/w185/ePmhlQgPcxNeM64w7ql4JVJVBRH.jpg"
-    }
-   ],
-   "trailer": "https://www.youtube.com/watch?v=w7fuOkF74Zw",
-   "temporadas_det": [
-    {
-     "n": 1,
-     "eps": [
-      {
-       "n": 1,
-       "t": "No es exactamente como lo planeamos",
-       "f": "2014-06-07"
-      },
-      {
-       "n": 2,
-       "t": "Quienquiera que sea",
-       "f": "2014-06-14"
-      },
-      {
-       "n": 3,
-       "t": "Esto es real",
-       "f": "2014-06-21"
-      },
-      {
-       "n": 4,
-       "t": "¿Quién eres?",
-       "f": "2014-06-28"
-      },
-      {
-       "n": 5,
-       "t": "Debo irme",
-       "f": "2014-07-12"
-      },
-      {
-       "n": 6,
-       "t": "¿Con quién estas?",
-       "f": "2014-07-19"
-      },
-      {
-       "n": 7,
-       "t": "Lealtad",
-       "f": "2014-07-26"
-      },
-      {
-       "n": 8,
-       "t": "Los mejores planes",
-       "f": "2014-08-02"
-      }
-     ]
-    },
-    {
-     "n": 2,
-     "eps": [
-      {
-       "n": 1,
-       "t": "Consecuencias",
-       "f": "2015-06-06"
-      },
-      {
-       "n": 2,
-       "t": "No hay amigos en las calles",
-       "f": "2015-06-13"
-      },
-      {
-       "n": 3,
-       "t": "Como cualquier otra pareja",
-       "f": "2015-06-20"
-      },
-      {
-       "n": 4,
-       "t": "Eres la única persona en la que puedo confiar",
-       "f": "2015-06-27"
-      },
-      {
-       "n": 5,
-       "t": "Quién eres y quién quieres ser",
-       "f": "2015-07-11"
-      },
-      {
-       "n": 6,
-       "t": "¿Por qué ella?",
-       "f": "2015-07-18"
-      },
-      {
-       "n": 7,
-       "t": "No eres el jefe",
-       "f": "2015-07-25"
-      },
-      {
-       "n": 8,
-       "t": "Tres pasos por delante",
-       "f": "2015-08-01"
-      },
-      {
-       "n": 9,
-       "t": "Se acabó el tiempo",
-       "f": "2015-08-08"
-      },
-      {
-       "n": 10,
-       "t": "Ghost esta muerto",
-       "f": "2015-08-15"
-      }
-     ]
-    },
-    {
-     "n": 3,
-     "eps": [
-      {
-       "n": 1,
-       "t": "Llámame James",
-       "f": "2016-07-17"
-      },
-      {
-       "n": 2,
-       "t": "Jamás termina",
-       "f": "2016-07-24"
-      },
-      {
-       "n": 3,
-       "t": "Lo tengo bajo control",
-       "f": "2016-07-31"
-      },
-      {
-       "n": 4,
-       "t": "No te preocupes, amor",
-       "f": "2016-08-07"
-      },
-      {
-       "n": 5,
-       "t": "Ayúdame",
-       "f": "2016-08-14"
-      },
-      {
-       "n": 6,
-       "t": "La dirección correcta",
-       "f": "2016-08-21"
-      },
-      {
-       "n": 7,
-       "t": "No te vayas",
-       "f": "2016-08-28"
-      },
-      {
-       "n": 8,
-       "t": "Confía en mi",
-       "f": "2016-09-04"
-      },
-      {
-       "n": 9,
-       "t": "Yo estoy a cargo",
-       "f": "2016-09-18"
-      },
-      {
-       "n": 10,
-       "t": "En mi beneficio",
-       "f": "2016-09-25"
-      }
-     ]
-    },
-    {
-     "n": 4,
-     "eps": [
-      {
-       "n": 1,
-       "t": "Apenas salga",
-       "f": "2017-06-25"
-      },
-      {
-       "n": 2,
-       "t": "En proceso de deterioro",
-       "f": "2017-07-02"
-      },
-      {
-       "n": 3,
-       "t": "Los tipos como vos",
-       "f": "2017-07-09"
-      },
-      {
-       "n": 4,
-       "t": "Una situación que concierne a todos",
-       "f": "2017-07-16"
-      },
-      {
-       "n": 5,
-       "t": "Ayuda con condiciones",
-       "f": "2017-07-23"
-      },
-      {
-       "n": 6,
-       "t": "Asesino de mi propio hijo",
-       "f": "2017-07-30"
-      },
-      {
-       "n": 7,
-       "t": "Me mentiste en la cara",
-       "f": "2017-08-06"
-      },
-      {
-       "n": 8,
-       "t": "Está hecho",
-       "f": "2017-08-13"
-      },
-      {
-       "n": 9,
-       "t": "Ese no soy yo",
-       "f": "2017-08-20"
-      },
-      {
-       "n": 10,
-       "t": "Lo atraparemos",
-       "f": "2017-09-03"
-      }
-     ]
-    },
-    {
-     "n": 5,
-     "eps": [
-      {
-       "n": 1,
-       "t": "Todos están implicados",
-       "f": "2018-07-01"
-      },
-      {
-       "n": 2,
-       "t": "Control de daño",
-       "f": "2018-07-08"
-      },
-      {
-       "n": 3,
-       "t": "¿Estamos en el mismo equipo?",
-       "f": "2018-07-15"
-      },
-      {
-       "n": 4,
-       "t": "Segundas oportunidades",
-       "f": "2018-07-22"
-      },
-      {
-       "n": 5,
-       "t": "Feliz cumpleaños",
-       "f": "2018-07-29"
-      },
-      {
-       "n": 6,
-       "t": "¿Un hombre nuevo?",
-       "f": "2018-08-05"
-      },
-      {
-       "n": 7,
-       "t": "El Diablo en el cuerpo",
-       "f": "2018-08-12"
-      },
-      {
-       "n": 8,
-       "t": "Un amigo de la familia",
-       "f": "2018-08-26"
-      },
-      {
-       "n": 9,
-       "t": "Hay un soplón entre nosotros",
-       "f": "2018-09-02"
-      },
-      {
-       "n": 10,
-       "t": "Cuando esto acabe",
-       "f": "2018-09-09"
-      }
-     ]
-    },
-    {
-     "n": 6,
-     "eps": [
-      {
-       "n": 1,
-       "t": "Asesinos",
-       "f": "2019-08-25"
-      },
-      {
-       "n": 2,
-       "t": "¿De qué lado estás?",
-       "f": "2019-09-01"
-      },
-      {
-       "n": 3,
-       "t": "Olvidate de Dre",
-       "f": "2019-09-08"
-      },
-      {
-       "n": 4,
-       "t": "¿Por qué sigue vivo Tommy?",
-       "f": "2019-09-15"
-      },
-      {
-       "n": 5,
-       "t": "Gambito de rey",
-       "f": "2019-09-22"
-      },
-      {
-       "n": 6,
-       "t": "Espía",
-       "f": "2019-09-29"
-      },
-      {
-       "n": 7,
-       "t": "De tal palo, tal astilla",
-       "f": "2019-10-06"
-      },
-      {
-       "n": 8,
-       "t": "Trato con el diablo",
-       "f": "2019-10-13"
-      },
-      {
-       "n": 9,
-       "t": "Tierra quemada",
-       "f": "2019-10-27"
-      },
-      {
-       "n": 10,
-       "t": "Nadie puede detenerme",
-       "f": "2019-11-03"
-      },
-      {
-       "n": 11,
-       "t": "Todavía DRE",
-       "f": "2020-01-05"
-      },
-      {
-       "n": 12,
-       "t": "El siempre gana",
-       "f": "2020-01-12"
-      },
-      {
-       "n": 13,
-       "t": "Todo es culpa tuya",
-       "f": "2020-01-19"
-      },
-      {
-       "n": 14,
-       "t": "Revés de fortuna",
-       "f": "2020-01-26"
-      },
-      {
-       "n": 15,
-       "t": "Exactamente como lo planeamos",
-       "f": "2020-02-09"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "id": "26635759",
-   "titulo": "Un bon avocat",
-   "tipo": "p",
-   "plataforma": "netflix",
-   "estado": "upcoming",
-   "fecha": "2026-11-09",
-   "genero": "Suspense",
-   "generos": [
-    "Suspense"
-   ],
-   "imdb": null,
-   "rt": null,
-   "duracion": "1 h 54 min",
-   "sinopsis": "",
-   "poster": "https://image.tmdb.org/t/p/w342/iy7Ersw8H4I1U5cA9bFyJpMrTTM.jpg",
-   "reparto": [
-    {
-     "nombre": "Laurent Lafitte",
-     "foto": "https://image.tmdb.org/t/p/w185/9mTtfK5F9WMoYqvUvqlugnsX6SS.jpg"
-    },
-    {
-     "nombre": "Anthony Bajon",
-     "foto": "https://image.tmdb.org/t/p/w185/eHpGmQtj4oRHQ3jn9tngWdb6Z9T.jpg"
-    },
-    {
-     "nombre": "Mélanie Laurent",
-     "foto": "https://image.tmdb.org/t/p/w185/i99ogEo4gQyanCmHWYYoS6hsUqL.jpg"
-    },
-    {
-     "nombre": "Carole Bouquet",
-     "foto": "https://image.tmdb.org/t/p/w185/nCyI95wVvhXFH1GiornFHsL9YOx.jpg"
-    },
-    {
-     "nombre": "Gwendal Kerdelhue",
-     "foto": null
-    }
-   ],
-   "trailer": null,
-   "temporadas_det": []
-  },
-  {
-   "id": "6805",
-   "titulo": "Power Book III: Raising Kanan",
-   "tipo": "s",
-   "plataforma": "netflix",
-   "estado": "upcoming",
-   "fecha": "2026-11-09",
-   "genero": "Drama",
-   "generos": [
-    "Drama",
-    "Crimen"
-   ],
-   "imdb": 6.7,
-   "rt": null,
-   "duracion": "5 temporadas, 48 episodios",
-   "sinopsis": "Narra los primeros años de Kanan Stark.",
-   "poster": "https://image.tmdb.org/t/p/w342/7ByyA3tZNe5r5eLg9Oa6Z3n9o5D.jpg",
-   "reparto": [
-    {
-     "nombre": "Mekai Curtis",
-     "foto": "https://image.tmdb.org/t/p/w185/78Rv0AKBhBqo8IJm7E3dU6EDHmk.jpg"
-    },
-    {
-     "nombre": "Patina Miller",
-     "foto": "https://image.tmdb.org/t/p/w185/mNYsr2FsjPiFGhzxAOxXJNoYZG5.jpg"
-    },
-    {
-     "nombre": "Hailey Kilgore",
-     "foto": "https://image.tmdb.org/t/p/w185/o9LVQfzAaFK2FOQ7iPlcFAp5MDn.jpg"
-    },
-    {
-     "nombre": "London Brown",
-     "foto": "https://image.tmdb.org/t/p/w185/r25sTboSqbNGNDoSu2Ecgtb3drD.jpg"
-    },
-    {
-     "nombre": "Malcolm M. Mays",
-     "foto": "https://image.tmdb.org/t/p/w185/oQXq8kql1NxdKB4zrDaQPJ8K3Q4.jpg"
-    }
-   ],
-   "trailer": null,
-   "temporadas_det": [
-    {
-     "n": 1,
-     "eps": [
-      {
-       "n": 1,
-       "t": "En los inicios",
-       "f": "2021-07-18"
-      },
-      {
-       "n": 2,
-       "t": "Cosechas lo que siembras",
-       "f": "2021-07-25"
-      },
-      {
-       "n": 3,
-       "t": "Entrar y salir",
-       "f": "2021-08-01"
-      },
-      {
-       "n": 4,
-       "t": "No duermas",
-       "f": "2021-08-08"
-      },
-      {
-       "n": 5,
-       "t": "Escoge tus batallas",
-       "f": "2021-08-15"
-      },
-      {
-       "n": 6,
-       "t": "Sube de nivel",
-       "f": "2021-08-29"
-      },
-      {
-       "n": 7,
-       "t": "Conoce tu lugar",
-       "f": "2021-09-05"
-      },
-      {
-       "n": 8,
-       "t": "El precio del negocio",
-       "f": "2021-09-12"
-      },
-      {
-       "n": 9,
-       "t": "Leal hasta el final",
-       "f": "2021-09-19"
-      },
-      {
-       "n": 10,
-       "t": "Todo pagado",
-       "f": "2021-09-26"
-      }
-     ]
-    },
-    {
-     "n": 2,
-     "eps": [
-      {
-       "n": 1,
-       "t": "Las cosas están cambiando",
-       "f": "2022-08-14"
-      },
-      {
-       "n": 2,
-       "t": "Episodio 2",
-       "f": "2022-08-21"
-      },
-      {
-       "n": 3,
-       "t": "Episodio 3",
-       "f": "2022-08-28"
-      },
-      {
-       "n": 4,
-       "t": "Episodio 4",
-       "f": "2022-09-04"
-      },
-      {
-       "n": 5,
-       "t": "Episodio 5",
-       "f": "2022-09-11"
-      },
-      {
-       "n": 6,
-       "t": "Episodio 6",
-       "f": "2022-09-18"
-      },
-      {
-       "n": 7,
-       "t": "Episodio 7",
-       "f": "2022-10-02"
-      },
-      {
-       "n": 8,
-       "t": "Episodio 8",
-       "f": "2022-10-09"
-      },
-      {
-       "n": 9,
-       "t": "Episodio 9",
-       "f": "2022-10-16"
-      },
-      {
-       "n": 10,
-       "t": "Episodio 10",
-       "f": "2022-10-23"
-      }
-     ]
-    },
-    {
-     "n": 3,
-     "eps": [
-      {
-       "n": 1,
-       "t": "Hogar, dulce hogar",
-       "f": "2023-12-01"
-      },
-      {
-       "n": 2,
-       "t": "Metamorfosis",
-       "f": "2023-12-08"
-      },
-      {
-       "n": 3,
-       "t": "Creando un negocio",
-       "f": "2023-12-15"
-      },
-      {
-       "n": 4,
-       "t": "Con piel de cordero",
-       "f": "2023-12-22"
-      },
-      {
-       "n": 5,
-       "t": "Hermanos y guardianes",
-       "f": "2023-12-29"
-      },
-      {
-       "n": 6,
-       "t": "En la oscuridad",
-       "f": "2024-01-12"
-      },
-      {
-       "n": 7,
-       "t": "Todos somos culpables",
-       "f": "2024-01-19"
-      },
-      {
-       "n": 8,
-       "t": "Ajustes de cuentas",
-       "f": "2024-01-26"
-      },
-      {
-       "n": 9,
-       "t": "Sentando la cabeza",
-       "f": "2024-02-02"
-      },
-      {
-       "n": 10,
-       "t": "Te he hecho mirar",
-       "f": "2024-02-09"
-      }
-     ]
-    },
-    {
-     "n": 4,
-     "eps": [
-      {
-       "n": 1,
-       "t": "Los gánsteres no mueren",
-       "f": "2025-03-07"
-      },
-      {
-       "n": 2,
-       "t": "Todo es amor",
-       "f": "2025-03-14"
-      },
-      {
-       "n": 3,
-       "t": "Pasado",
-       "f": "2025-03-21"
-      },
-      {
-       "n": 4,
-       "t": "Cómo éramos",
-       "f": "2025-03-28"
-      },
-      {
-       "n": 5,
-       "t": "El clavo que sobresale",
-       "f": "2025-04-04"
-      },
-      {
-       "n": 6,
-       "t": "El precio de la fama",
-       "f": "2025-04-11"
-      },
-      {
-       "n": 7,
-       "t": "Permíteme que vuelva a presentarme",
-       "f": "2025-04-18"
-      },
-      {
-       "n": 8,
-       "t": "Lío en las calles",
-       "f": "2025-05-02"
-      },
-      {
-       "n": 9,
-       "t": "Es el momento",
-       "f": "2025-05-09"
-      },
-      {
-       "n": 10,
-       "t": "Dame el peso",
-       "f": "2025-05-16"
-      }
-     ]
-    },
-    {
-     "n": 5,
-     "eps": [
-      {
-       "n": 1,
-       "t": "Episodio 1",
-       "f": "2026-06-12"
-      },
-      {
-       "n": 2,
-       "t": "Episodio 2",
-       "f": "2026-06-19"
-      },
-      {
-       "n": 3,
-       "t": "Episodio 3",
-       "f": "2026-06-26"
-      },
-      {
-       "n": 4,
-       "t": "Episodio 4",
-       "f": "2026-07-03"
-      },
-      {
-       "n": 5,
-       "t": "Episodio 5",
-       "f": "2026-07-10"
-      },
-      {
-       "n": 6,
-       "t": "Episodio 6",
-       "f": "2026-07-24"
-      },
-      {
-       "n": 7,
-       "t": "Episodio 7",
-       "f": "2026-07-31"
-      },
-      {
-       "n": 8,
-       "t": "Episodio 8",
-       "f": "2026-08-07"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "id": "5045017",
-   "titulo": "El exorcista: Creyente",
-   "tipo": "p",
-   "plataforma": "netflix",
-   "estado": "upcoming",
-   "fecha": "2026-11-09",
-   "genero": "Terror",
-   "generos": [
-    "Terror"
-   ],
-   "imdb": 5.0,
-   "rt": null,
-   "duracion": "2 h 01 min",
-   "sinopsis": "Cuando su hija Angela y su amiga Katherine muestran signos de posesión demoníaca, se desata una cadena de acontecimientos que obligan al padre soltero Victor Fielding a afrontar el punto más bajo del mal. Aterrorizado y desesperado, busca a Chris MacNeil, la única persona viva que ha presenciado algo así antes.",
-   "poster": "https://image.tmdb.org/t/p/w342/f0N4Cx0XMbQIHnyAMByLLC0xovm.jpg",
-   "reparto": [
-    {
-     "nombre": "Leslie Odom Jr.",
-     "foto": "https://image.tmdb.org/t/p/w185/pDA11JMNAGQGJo7nRpZHp7pdp9N.jpg"
-    },
-    {
-     "nombre": "Lidya Jewett",
-     "foto": "https://image.tmdb.org/t/p/w185/6jZdx71jIvAwpMVVHxtGkvEkfv6.jpg"
-    },
-    {
-     "nombre": "Olivia O'Neill",
-     "foto": "https://image.tmdb.org/t/p/w185/2P0zYSgd3vSsYPYD1x47Ftig8Du.jpg"
-    },
-    {
-     "nombre": "Ann Dowd",
-     "foto": "https://image.tmdb.org/t/p/w185/zo44U71uiMNVW1HSiOa5F9MpqIq.jpg"
-    },
-    {
-     "nombre": "Jennifer Nettles",
-     "foto": "https://image.tmdb.org/t/p/w185/s6IDogtE93cMaMe4EYBjUeXVOV4.jpg"
-    },
-    {
-     "nombre": "Norbert Leo Butz",
-     "foto": "https://image.tmdb.org/t/p/w185/2SMyLebGOemP26yL9pp7IFKfqG5.jpg"
-    }
-   ],
-   "trailer": "https://www.youtube.com/watch?v=LDjZWjeY7dM",
-   "temporadas_det": []
-  },
-  {
-   "id": "17017",
-   "titulo": "Todos los caballos bellos",
-   "tipo": "p",
-   "plataforma": "netflix",
-   "estado": "upcoming",
-   "fecha": "2026-11-09",
-   "genero": "Drama",
-   "generos": [
-    "Drama",
-    "Romance",
-    "Western"
-   ],
-   "imdb": 5.7,
-   "rt": null,
-   "duracion": "1 h 56 min",
-   "sinopsis": "John Grady Colle y su mejor amigo Lacey Rawlings abandonan Texas y cruzan la frontera en busca de aventuras. Ambos encuentran trabajo en un rancho, pero cuando Colle comienza un romance apasionado (y prohibido) con la bella hija del propietario del rancho, se desencadenará una serie de acontecimientos que cambiará para siempre la vida de todos.",
-   "poster": "https://image.tmdb.org/t/p/w342/y2fpcQOxtajgLgxVrV1PYOiPQXT.jpg",
-   "reparto": [
-    {
-     "nombre": "Matt Damon",
-     "foto": "https://image.tmdb.org/t/p/w185/aCvBXTAR9B1qRjIRzMBYhhbm1fR.jpg"
-    },
-    {
-     "nombre": "Henry Thomas",
-     "foto": "https://image.tmdb.org/t/p/w185/tyTcpTMIAyIIy30u8N59G0PI06f.jpg"
-    },
-    {
-     "nombre": "Lucas Black",
-     "foto": "https://image.tmdb.org/t/p/w185/w2oImwC4Y0RDtyvaKGTCFCKsvwh.jpg"
-    },
-    {
-     "nombre": "Penélope Cruz",
-     "foto": "https://image.tmdb.org/t/p/w185/n5SFgmvJSENQt8poE4qYacUnKOi.jpg"
-    },
-    {
-     "nombre": "Rubén Blades",
-     "foto": "https://image.tmdb.org/t/p/w185/kOgVo3qDJ9jXgIZJRJI3I1bm6sA.jpg"
-    },
-    {
-     "nombre": "Robert Patrick",
-     "foto": "https://image.tmdb.org/t/p/w185/qRv2Es9rZoloullTbzss3I5j1Mp.jpg"
-    }
-   ],
-   "trailer": "https://www.youtube.com/watch?v=yygkQ8SjjQk",
-   "temporadas_det": []
-  },
-  {
    "id": "27299844",
    "titulo": "La Ley de Alicia",
    "tipo": "s",
@@ -11524,6 +10691,209 @@
      ]
     }
    ]
+  },
+  {
+   "id": "26519265",
+   "titulo": "The Mosquito Bowl",
+   "tipo": "p",
+   "plataforma": "netflix",
+   "estado": "upcoming",
+   "fecha": "2026-11-25",
+   "genero": "Historia",
+   "generos": [
+    "Historia",
+    "Drama",
+    "Bélica"
+   ],
+   "imdb": null,
+   "rt": null,
+   "duracion": "2 h 08 min",
+   "sinopsis": "",
+   "poster": "https://image.tmdb.org/t/p/w342/zbT4sxoCEeFWlQG4SC5X9Q8v6PC.jpg",
+   "reparto": [
+    {
+     "nombre": "Nicholas Galitzine",
+     "foto": "https://image.tmdb.org/t/p/w185/hG4rH7eBMs117746bBOd8fUa4PA.jpg"
+    },
+    {
+     "nombre": "Bill Skarsgård",
+     "foto": "https://image.tmdb.org/t/p/w185/xBXLx1m0uzhXIbY3wN8lmPGeUHl.jpg"
+    },
+    {
+     "nombre": "Ray Nicholson",
+     "foto": "https://image.tmdb.org/t/p/w185/f0MRbGIyTEJLJgHedJS8pRFhGn4.jpg"
+    },
+    {
+     "nombre": "Tom Francis",
+     "foto": "https://image.tmdb.org/t/p/w185/u2xOsPIwCUwyxuzeH5UMxLRJb0h.jpg"
+    },
+    {
+     "nombre": "Brent Comer",
+     "foto": "https://image.tmdb.org/t/p/w185/6smfSn7hguUfnoH2iE0tdXT4xNd.jpg"
+    },
+    {
+     "nombre": "Jack Ingram",
+     "foto": null
+    }
+   ],
+   "trailer": "https://www.youtube.com/watch?v=F6YDzPfjH4I",
+   "temporadas_det": []
+  },
+  {
+   "id": "26517731",
+   "titulo": "Fool night",
+   "tipo": "s",
+   "plataforma": "netflix",
+   "estado": "upcoming",
+   "fecha": "2026-11-26",
+   "genero": "Animación",
+   "generos": [
+    "Animación",
+    "Drama",
+    "Ciencia ficción",
+    "Fantasía",
+    "Misterio"
+   ],
+   "imdb": null,
+   "rt": null,
+   "duracion": "1 temporada, 12 episodios",
+   "sinopsis": "",
+   "poster": "https://image.tmdb.org/t/p/w342/vTTr4YG3qIUq6E5uahU0fWSWch7.jpg",
+   "reparto": [
+    {
+     "nombre": "Koki Uchiyama",
+     "foto": "https://image.tmdb.org/t/p/w185/sllSm3iZZWVLTBrDZQRtWrZUfEj.jpg"
+    },
+    {
+     "nombre": "Minako Kotobuki",
+     "foto": "https://image.tmdb.org/t/p/w185/puocmMfvql6X1AvhFTolaV6Vh2r.jpg"
+    },
+    {
+     "nombre": "Junya Enoki",
+     "foto": "https://image.tmdb.org/t/p/w185/vBnNL3Jqy0zkS3ZgsXZmvDM9Dfz.jpg"
+    },
+    {
+     "nombre": "Aya Endo",
+     "foto": "https://image.tmdb.org/t/p/w185/s59Lip4dPC7rI3cz1pHs9vSmuvf.jpg"
+    },
+    {
+     "nombre": "Kiyomitsu Mizuuchi",
+     "foto": "https://image.tmdb.org/t/p/w185/f1h0nw9CX7g5gZK42YdEsE12YSq.jpg"
+    }
+   ],
+   "trailer": null,
+   "temporadas_det": [
+    {
+     "n": 1,
+     "eps": [
+      {
+       "n": 1,
+       "t": "Episodio 1",
+       "f": "2026-11-26"
+      },
+      {
+       "n": 2,
+       "t": "Episodio 2",
+       "f": "2026-11-26"
+      },
+      {
+       "n": 3,
+       "t": "Episodio 3",
+       "f": "2026-11-26"
+      },
+      {
+       "n": 4,
+       "t": "Episodio 4",
+       "f": "2026-11-26"
+      },
+      {
+       "n": 5,
+       "t": "Episodio 5",
+       "f": "2026-11-26"
+      },
+      {
+       "n": 6,
+       "t": "Episodio 6",
+       "f": "2026-11-26"
+      },
+      {
+       "n": 7,
+       "t": "Episodio 7",
+       "f": "2026-11-26"
+      },
+      {
+       "n": 8,
+       "t": "Episodio 8",
+       "f": "2026-11-26"
+      },
+      {
+       "n": 9,
+       "t": "Episodio 9",
+       "f": "2026-11-26"
+      },
+      {
+       "n": 10,
+       "t": "Episodio 10",
+       "f": "2026-11-26"
+      },
+      {
+       "n": 11,
+       "t": "Episodio 11",
+       "f": "2026-11-26"
+      },
+      {
+       "n": 12,
+       "t": "Episodio 12",
+       "f": "2026-11-26"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "27301334",
+   "titulo": "El niño",
+   "tipo": "p",
+   "plataforma": "netflix",
+   "estado": "upcoming",
+   "fecha": "2026-11-27",
+   "genero": "Drama",
+   "generos": [
+    "Drama"
+   ],
+   "imdb": null,
+   "rt": null,
+   "duracion": "",
+   "sinopsis": "Narra la historia de Mariaje y Nicasio, madre y abuelo de uno de los niños que fallecieron en la explosión de gas.",
+   "poster": "https://image.tmdb.org/t/p/w342/6wLVChqjN2qsZ3uolEmetkCuzeO.jpg",
+   "reparto": [
+    {
+     "nombre": "Belén Cuesta",
+     "foto": "https://image.tmdb.org/t/p/w185/caDd0J8smaQMvVjgJsDYabe4dzk.jpg"
+    },
+    {
+     "nombre": "Karra Elejalde",
+     "foto": "https://image.tmdb.org/t/p/w185/kHODqgc2c7RaZz9Sp7cedgadvzG.jpg"
+    },
+    {
+     "nombre": "Pep Ambròs",
+     "foto": "https://image.tmdb.org/t/p/w185/8UxnLUFclF4wF3B97fZlhqQ5uki.jpg"
+    },
+    {
+     "nombre": "Raquel Ferri",
+     "foto": "https://image.tmdb.org/t/p/w185/3FFSGjynBBtXlgj0tCFSKrNK1ry.jpg"
+    },
+    {
+     "nombre": "Joan Solé Martí",
+     "foto": "https://image.tmdb.org/t/p/w185/vBrjhb8msj8We4Ply1wMY1qbvFz.jpg"
+    },
+    {
+     "nombre": "Álex Infantes",
+     "foto": null
+    }
+   ],
+   "trailer": null,
+   "temporadas_det": []
   }
  ]
 }
