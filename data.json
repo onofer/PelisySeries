@@ -1,147 +1,7 @@
 {
- "generado": "2026-11-09T15:44:52+00:00",
+ "generado": "2026-11-10T01:22:08+00:00",
  "pais": "ES",
  "items": [
-  {
-   "id": "2093477",
-   "titulo": "Oregon",
-   "tipo": "p",
-   "plataforma": "netflix",
-   "estado": "expiring",
-   "fecha": "2026-11-09",
-   "genero": "Drama",
-   "generos": [
-    "Drama",
-    "Comedia",
-    "Romance"
-   ],
-   "imdb": 4.5,
-   "rt": null,
-   "duracion": "1 h 34 min",
-   "sinopsis": "On vacation in Istanbul in the '80s, an offbeat couple lands in a sticky situation while trying to return a friend's cassette tape.",
-   "poster": "https://image.tmdb.org/t/p/w342/h5ZysOOHYsQFGzYBpEKgGmiLde0.jpg",
-   "reparto": [
-    {
-     "nombre": "Aslı İnandık",
-     "foto": "https://image.tmdb.org/t/p/w185/dzYpsJucu3qaQ2SlaajKQeukInu.jpg"
-    },
-    {
-     "nombre": "Serkan Çayoğlu",
-     "foto": "https://image.tmdb.org/t/p/w185/ryi7hQzOvxEzuy2Vr7DC378LlhR.jpg"
-    },
-    {
-     "nombre": "Ferit Aktuğ",
-     "foto": "https://image.tmdb.org/t/p/w185/txZkWJki9quXGGrCEOiorfk9xPO.jpg"
-    },
-    {
-     "nombre": "Selen Uçer",
-     "foto": "https://image.tmdb.org/t/p/w185/mMLJD36aFnYNGQ2Ln5LCoT1ALIe.jpg"
-    },
-    {
-     "nombre": "Nevra Serezli",
-     "foto": "https://image.tmdb.org/t/p/w185/5DArwRh28vTJmk7qG5oCQl4RjRZ.jpg"
-    },
-    {
-     "nombre": "Zihni Göktay",
-     "foto": "https://image.tmdb.org/t/p/w185/puBsKSghbhfr5b8HitcTbHYfCwG.jpg"
-    }
-   ],
-   "trailer": null,
-   "temporadas_det": []
-  },
-  {
-   "id": "52750",
-   "titulo": "Corten!",
-   "tipo": "p",
-   "plataforma": "prime",
-   "estado": "expiring",
-   "fecha": "2026-11-10",
-   "genero": "Terror",
-   "generos": [
-    "Terror",
-    "Comedia"
-   ],
-   "imdb": 6.4,
-   "rt": 71,
-   "duracion": "1 h 50 min",
-   "sinopsis": "Un grupo de amigos se dispone a realizar una película de zombis en un edificio abandonado. Entre técnicos y actores desganados, parece que sólo el director está dispuesto a invertir la energía necesaria para terminar su película de terror de bajo presupuesto. Pero la inesperada irrupción de auténticos muertos vivientes perturbará el rodaje original.",
-   "poster": "https://image.tmdb.org/t/p/w342/ozZ5J72Cj547V6Sonb8whTSIye7.jpg",
-   "reparto": [
-    {
-     "nombre": "Romain Duris",
-     "foto": "https://image.tmdb.org/t/p/w185/70KN228eNpvouPTCxDSurnCzx9G.jpg"
-    },
-    {
-     "nombre": "Bérénice Bejo",
-     "foto": "https://image.tmdb.org/t/p/w185/geRiss2B8CWgmY0VZW0dHsWiAOt.jpg"
-    },
-    {
-     "nombre": "Grégory Gadebois",
-     "foto": "https://image.tmdb.org/t/p/w185/AvF337m0eGL9JLPEgG6Dy1T2Zu4.jpg"
-    },
-    {
-     "nombre": "Finnegan Oldfield",
-     "foto": "https://image.tmdb.org/t/p/w185/mvc8BnamGxAyU4gfe5K7TvgB9OZ.jpg"
-    },
-    {
-     "nombre": "Matilda Lutz",
-     "foto": "https://image.tmdb.org/t/p/w185/yqeYvGgDvrhvn5lP6fuRE1ImQXv.jpg"
-    },
-    {
-     "nombre": "Raphaël Quenard",
-     "foto": "https://image.tmdb.org/t/p/w185/lMLzNtZKalKX1tO0QHKlfZphg7m.jpg"
-    }
-   ],
-   "trailer": "https://www.youtube.com/watch?v=ImPJItdaiDM",
-   "temporadas_det": []
-  },
-  {
-   "id": "802618",
-   "titulo": "Sí, quiero... o no",
-   "tipo": "p",
-   "plataforma": "prime",
-   "estado": "expiring",
-   "fecha": "2026-11-10",
-   "genero": "Comedia",
-   "generos": [
-    "Comedia",
-    "Romance",
-    "Drama"
-   ],
-   "imdb": 5.1,
-   "rt": 30,
-   "duracion": "1 h 35 min",
-   "sinopsis": "Michelle y Allen han llegado a un punto en su relación en el que están considerando los próximos pasos. Deciden invitar a sus padres para que finalmente se conozcan y ofrezcan su \"sabiduría\" de cómo funciona el matrimonio. Lo que no saben es que los padres ya se conocen bastante bien, lo que lleva a algunas opiniones muy distintas sobre el valor del amor.",
-   "poster": "https://image.tmdb.org/t/p/w342/2vu2kXcmGOtZou1CnZafcepCpp4.jpg",
-   "reparto": [
-    {
-     "nombre": "Diane Keaton",
-     "foto": "https://image.tmdb.org/t/p/w185/A8B3BsFgbmw2WEmJuQX38qeU9eR.jpg"
-    },
-    {
-     "nombre": "Richard Gere",
-     "foto": "https://image.tmdb.org/t/p/w185/i7wcBNmFldh2E4QInCvmv7CPSIR.jpg"
-    },
-    {
-     "nombre": "Susan Sarandon",
-     "foto": "https://image.tmdb.org/t/p/w185/jR6l2EfvvGA8qCzZ7MB5FT9ZLkq.jpg"
-    },
-    {
-     "nombre": "Emma Roberts",
-     "foto": "https://image.tmdb.org/t/p/w185/utggW2yIufP3A5CGdT8H5mXyGLs.jpg"
-    },
-    {
-     "nombre": "Luke Bracey",
-     "foto": "https://image.tmdb.org/t/p/w185/ot2h7IrXpC8XSnIZDSVsj2FQ5cx.jpg"
-    },
-    {
-     "nombre": "William H. Macy",
-     "foto": "https://image.tmdb.org/t/p/w185/hdVEGSrP8qWlJnt0v5vSVcGOjy7.jpg"
-    }
-   ],
-   "trailer": "https://www.youtube.com/watch?v=cggAjaFSDic",
-   "temporadas_det": []
-  },
   {
    "id": "86",
    "titulo": "Interstellar",
@@ -4932,6 +4792,310 @@
        "n": 10,
        "t": "Episodio 10",
        "f": "2023-03-06"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "27823",
+   "titulo": "Conjuring Kesha",
+   "tipo": "s",
+   "plataforma": "hbo",
+   "estado": "expiring",
+   "fecha": "2026-11-16",
+   "genero": "Reality",
+   "generos": [
+    "Reality",
+    "Documental"
+   ],
+   "imdb": 4.5,
+   "rt": null,
+   "duracion": "1 temporada, 6 episodios",
+   "sinopsis": "Kesha explores her cosmic connection with the supernatural at notoriously haunted locations. The pop icon brings the world's top paranormal experts and her celebrity friends along for a terrifying ride as she journeys deep into the heart of darkness.",
+   "poster": "https://image.tmdb.org/t/p/w342/rdOhwGutz97NBfyG02o3tDQ7vIw.jpg",
+   "reparto": [
+    {
+     "nombre": "Kesha",
+     "foto": "https://image.tmdb.org/t/p/w185/fWV7GU00kDv1C8XjTWJv0zyj5YP.jpg"
+    }
+   ],
+   "trailer": "https://www.youtube.com/watch?v=OVXcV7NCIgs",
+   "temporadas_det": [
+    {
+     "n": 1,
+     "eps": [
+      {
+       "n": 1,
+       "t": "Episodio 1",
+       "f": "2022-07-08"
+      },
+      {
+       "n": 2,
+       "t": "Episodio 2",
+       "f": "2022-07-08"
+      },
+      {
+       "n": 3,
+       "t": "Episodio 3",
+       "f": "2022-07-15"
+      },
+      {
+       "n": 4,
+       "t": "Episodio 4",
+       "f": "2022-07-22"
+      },
+      {
+       "n": 5,
+       "t": "Episodio 5",
+       "f": "2022-07-29"
+      },
+      {
+       "n": 6,
+       "t": "Episodio 6",
+       "f": "2022-08-05"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "40981",
+   "titulo": "Rob Riggle Global Investigator",
+   "tipo": "s",
+   "plataforma": "hbo",
+   "estado": "expiring",
+   "fecha": "2026-11-16",
+   "genero": "Documental",
+   "generos": [
+    "Documental",
+    "Comedia"
+   ],
+   "imdb": 4.9,
+   "rt": null,
+   "duracion": "1 temporada, 6 episodios",
+   "sinopsis": "Actor Rob Riggle takes his passion for adventure across the globe in hopes of solving some of the world's greatest mysteries.",
+   "poster": "https://image.tmdb.org/t/p/w342/x6BaIDDwwRmBgWQNeMNzGognRj.jpg",
+   "reparto": [
+    {
+     "nombre": "Rob Riggle",
+     "foto": "https://image.tmdb.org/t/p/w185/hQgOp8vWxl6KPZbqzKSSL4k6G1j.jpg"
+    }
+   ],
+   "trailer": "https://www.youtube.com/watch?v=SQUb3BSa9iQ",
+   "temporadas_det": [
+    {
+     "n": 1,
+     "eps": [
+      {
+       "n": 1,
+       "t": "Episodio 1",
+       "f": "2020-03-10"
+      },
+      {
+       "n": 2,
+       "t": "Episodio 2",
+       "f": "2020-03-17"
+      },
+      {
+       "n": 3,
+       "t": "Episodio 3",
+       "f": "2020-03-24"
+      },
+      {
+       "n": 4,
+       "t": "Episodio 4",
+       "f": "2020-03-31"
+      },
+      {
+       "n": 5,
+       "t": "Episodio 5",
+       "f": "2020-04-07"
+      },
+      {
+       "n": 6,
+       "t": "Episodio 6",
+       "f": "2020-04-14"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "40459",
+   "titulo": "Flip or Flop Atlanta",
+   "tipo": "s",
+   "plataforma": "hbo",
+   "estado": "expiring",
+   "fecha": "2026-11-16",
+   "genero": "Reality",
+   "generos": [
+    "Reality"
+   ],
+   "imdb": 4.9,
+   "rt": null,
+   "duracion": "2 temporadas, 28 episodios",
+   "sinopsis": "Husband-and-wife team Ken and Anita Corsini are on a mission to rehab homes in Atlanta. They race against the clock to renovate dilapidated houses and make them habitable once again.",
+   "poster": "https://image.tmdb.org/t/p/w342/rrDK3OtoUMML32kqjW5H5Vol8sc.jpg",
+   "reparto": [
+    {
+     "nombre": "Ken Corsini",
+     "foto": "https://image.tmdb.org/t/p/w185/quUMIcgBCm1MWtnLHPiQ4riPmvl.jpg"
+    },
+    {
+     "nombre": "Anita Corsini",
+     "foto": "https://image.tmdb.org/t/p/w185/33rGS0QgfcBjd4DKax5hpquD6Uz.jpg"
+    }
+   ],
+   "trailer": null,
+   "temporadas_det": [
+    {
+     "n": 1,
+     "eps": [
+      {
+       "n": 1,
+       "t": "Episodio 1",
+       "f": "2017-07-20"
+      },
+      {
+       "n": 2,
+       "t": "Episodio 2",
+       "f": "2017-07-27"
+      },
+      {
+       "n": 3,
+       "t": "Episodio 3",
+       "f": "2017-08-03"
+      },
+      {
+       "n": 4,
+       "t": "Episodio 4",
+       "f": "2017-08-10"
+      },
+      {
+       "n": 5,
+       "t": "Episodio 5",
+       "f": "2017-08-17"
+      },
+      {
+       "n": 6,
+       "t": "Episodio 6",
+       "f": "2017-08-24"
+      },
+      {
+       "n": 7,
+       "t": "Episodio 7",
+       "f": "2017-08-31"
+      },
+      {
+       "n": 8,
+       "t": "Episodio 8",
+       "f": "2017-09-07"
+      },
+      {
+       "n": 9,
+       "t": "Episodio 9",
+       "f": "2017-09-14"
+      },
+      {
+       "n": 10,
+       "t": "Episodio 10",
+       "f": "2017-09-21"
+      },
+      {
+       "n": 11,
+       "t": "Episodio 11",
+       "f": "2017-09-28"
+      },
+      {
+       "n": 12,
+       "t": "Episodio 12",
+       "f": "2017-10-05"
+      },
+      {
+       "n": 13,
+       "t": "Episodio 13",
+       "f": "2017-10-12"
+      },
+      {
+       "n": 14,
+       "t": "Episodio 14",
+       "f": "2017-10-19"
+      }
+     ]
+    },
+    {
+     "n": 2,
+     "eps": [
+      {
+       "n": 1,
+       "t": "Episodio 1",
+       "f": "2018-10-11"
+      },
+      {
+       "n": 2,
+       "t": "Episodio 2",
+       "f": "2018-10-11"
+      },
+      {
+       "n": 3,
+       "t": "Episodio 3",
+       "f": "2018-10-18"
+      },
+      {
+       "n": 4,
+       "t": "Episodio 4",
+       "f": "2018-10-18"
+      },
+      {
+       "n": 5,
+       "t": "Episodio 5",
+       "f": "2018-10-25"
+      },
+      {
+       "n": 6,
+       "t": "Episodio 6",
+       "f": "2018-10-25"
+      },
+      {
+       "n": 7,
+       "t": "Episodio 7",
+       "f": "2018-11-01"
+      },
+      {
+       "n": 8,
+       "t": "Episodio 8",
+       "f": "2018-11-01"
+      },
+      {
+       "n": 9,
+       "t": "Episodio 9",
+       "f": "2018-11-08"
+      },
+      {
+       "n": 10,
+       "t": "Episodio 10",
+       "f": "2018-11-15"
+      },
+      {
+       "n": 11,
+       "t": "Episodio 11",
+       "f": "2018-11-29"
+      },
+      {
+       "n": 12,
+       "t": "Episodio 12",
+       "f": "2018-11-29"
+      },
+      {
+       "n": 13,
+       "t": "Episodio 13",
+       "f": "2018-12-06"
+      },
+      {
+       "n": 14,
+       "t": "Episodio 14",
+       "f": "2018-12-06"
       }
      ]
     }
