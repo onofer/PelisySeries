@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-11T05:34:25+00:00",
+ "generado": "2026-11-11T13:53:50+00:00",
  "pais": "ES",
  "items": [
   {
@@ -8920,7 +8920,7 @@
    "titulo": "The Body",
    "tipo": "s",
    "plataforma": "netflix",
-   "estado": "upcoming",
+   "estado": "new",
    "fecha": "2026-11-11",
    "genero": "Drama",
    "generos": [
@@ -9013,7 +9013,7 @@
    "titulo": "La Ley de Alicia",
    "tipo": "s",
    "plataforma": "netflix",
-   "estado": "upcoming",
+   "estado": "new",
    "fecha": "2026-11-11",
    "genero": "Drama",
    "generos": [
@@ -9065,98 +9065,11 @@
    ]
   },
   {
-   "id": "27300873",
-   "titulo": "Tyler Perry's The Gospel of Christmas",
-   "tipo": "p",
-   "plataforma": "netflix",
-   "estado": "upcoming",
-   "fecha": "2026-11-11",
-   "genero": "Drama",
-   "generos": [
-    "Drama"
-   ],
-   "imdb": null,
-   "rt": null,
-   "duracion": "1 h 43 min",
-   "sinopsis": "Un joven pastor, que intenta estar a la altura del legado de su padre, traslada a su esposa e hijos de Georgia a Nueva York para salvar una iglesia moribunda con un poco de ayuda de sus ángeles guardianes.",
-   "poster": "https://cdn.movieofthenight.com/show/27300873/poster/vertical/en/240.jpg?Expires=1824246452&Signature=Vuvkv4lY5PnYEiJqtIDHvpeVT-TTDIjN4DkSoqrU2agmizMYV~KjTzylc~OcySPr0TFRPQQWX5hrva9aPDLh2jMzC4G453FKYHfF3tcEVc2bMPUvJq7xgWPRnpHkpTgC3534x-UNzGkgNy-w0Ff7IzaoZBC3q0ieF3iAf8ddem94yK9Tp~q14VqIVniRtQ7tPIRNo~8IgCqEPVHibRuQ2oWoqN47NB7VEKAqL3snvD1~DPydZ6ab2r5niH5x9VgqOZlBpJLeEEXKxvA-LA7DYWKp6ABcR7H-WLCYhCcoKihNOD~RbCU0pI0oHF7GsCLEiDPchzpcz461to4NCGYZoQ__&Key-Pair-Id=KK4HN3OO4AT5R",
-   "reparto": [],
-   "trailer": "https://www.youtube.com/watch?v=lXh2rNl2wdQ",
-   "temporadas_det": []
-  },
-  {
-   "id": "27301081",
-   "titulo": "El claroscuro",
-   "tipo": "s",
-   "plataforma": "netflix",
-   "estado": "upcoming",
-   "fecha": "2026-11-11",
-   "genero": "Comedia",
-   "generos": [
-    "Comedia",
-    "Crimen"
-   ],
-   "imdb": null,
-   "rt": null,
-   "duracion": "1 temporada, 8 episodios",
-   "sinopsis": "Tras hallarse un cadáver en un museo romano, un experto en arte recurre a su instinto y su talento para ayudar a la policía a resolver un misterio relacionado con su pasado.",
-   "poster": "https://image.tmdb.org/t/p/w342/m9eZy0jzWCHSUUzbzIpysOrLgFb.jpg",
-   "reparto": [],
-   "trailer": "https://www.youtube.com/watch?v=DKjB0JPhmYc",
-   "temporadas_det": [
-    {
-     "n": 1,
-     "eps": [
-      {
-       "n": 1,
-       "t": "Episodio 1",
-       "f": "2026-11-11"
-      },
-      {
-       "n": 2,
-       "t": "Episodio 2",
-       "f": "2026-11-11"
-      },
-      {
-       "n": 3,
-       "t": "Episodio 3",
-       "f": "2026-11-11"
-      },
-      {
-       "n": 4,
-       "t": "Episodio 4",
-       "f": "2026-11-11"
-      },
-      {
-       "n": 5,
-       "t": "Episodio 5",
-       "f": "2026-11-11"
-      },
-      {
-       "n": 6,
-       "t": "Episodio 6",
-       "f": "2026-11-11"
-      },
-      {
-       "n": 7,
-       "t": "Episodio 7",
-       "f": "2026-11-11"
-      },
-      {
-       "n": 8,
-       "t": "Episodio 8",
-       "f": "2026-11-11"
-      }
-     ]
-    }
-   ]
-  },
-  {
    "id": "24976114",
    "titulo": "Avedon",
    "tipo": "p",
    "plataforma": "netflix",
-   "estado": "upcoming",
+   "estado": "new",
    "fecha": "2026-11-11",
    "genero": "Documental",
    "generos": [
@@ -11032,6 +10945,178 @@
        "n": 12,
        "t": "Episodio 12",
        "f": "2026-11-26"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "27301334",
+   "titulo": "El niño",
+   "tipo": "p",
+   "plataforma": "netflix",
+   "estado": "upcoming",
+   "fecha": "2026-11-27",
+   "genero": "Drama",
+   "generos": [
+    "Drama"
+   ],
+   "imdb": null,
+   "rt": null,
+   "duracion": "",
+   "sinopsis": "Narra la historia de Mariaje y Nicasio, madre y abuelo de uno de los niños que fallecieron en la explosión de gas.",
+   "poster": "https://image.tmdb.org/t/p/w342/6wLVChqjN2qsZ3uolEmetkCuzeO.jpg",
+   "reparto": [
+    {
+     "nombre": "Belén Cuesta",
+     "foto": "https://image.tmdb.org/t/p/w185/caDd0J8smaQMvVjgJsDYabe4dzk.jpg"
+    },
+    {
+     "nombre": "Karra Elejalde",
+     "foto": "https://image.tmdb.org/t/p/w185/kHODqgc2c7RaZz9Sp7cedgadvzG.jpg"
+    },
+    {
+     "nombre": "Pep Ambròs",
+     "foto": "https://image.tmdb.org/t/p/w185/8UxnLUFclF4wF3B97fZlhqQ5uki.jpg"
+    },
+    {
+     "nombre": "Raquel Ferri",
+     "foto": "https://image.tmdb.org/t/p/w185/3FFSGjynBBtXlgj0tCFSKrNK1ry.jpg"
+    },
+    {
+     "nombre": "Joan Solé Martí",
+     "foto": "https://image.tmdb.org/t/p/w185/vBrjhb8msj8We4Ply1wMY1qbvFz.jpg"
+    },
+    {
+     "nombre": "Álex Infantes",
+     "foto": null
+    }
+   ],
+   "trailer": null,
+   "temporadas_det": []
+  },
+  {
+   "id": "26897550",
+   "titulo": "Quasimodo, el alma de París",
+   "tipo": "p",
+   "plataforma": "netflix",
+   "estado": "upcoming",
+   "fecha": "2026-11-27",
+   "genero": "Drama",
+   "generos": [
+    "Drama",
+    "Romance"
+   ],
+   "imdb": null,
+   "rt": null,
+   "duracion": "",
+   "sinopsis": "París, 1830. Mientras el cólera se extiende, un jorobado al que persiguen para hacer experimentos médicos con él se ve atrapado entre la inestabilidad política y un amor imposible.",
+   "poster": "https://image.tmdb.org/t/p/w342/necpLRF5VF381uNR5PWkz7klQlG.jpg",
+   "reparto": [
+    {
+     "nombre": "Vincent Cassel",
+     "foto": "https://image.tmdb.org/t/p/w185/ivUQfhn5olOmR5hthN8C8GThBV4.jpg"
+    },
+    {
+     "nombre": "Karim Leklou",
+     "foto": "https://image.tmdb.org/t/p/w185/bgOpQ2WAwvxLFoRYFsPRAT0esAh.jpg"
+    },
+    {
+     "nombre": "Daphné Patakia",
+     "foto": "https://image.tmdb.org/t/p/w185/vpk284xJs2TfPvA1BLrfOpiZ3oX.jpg"
+    },
+    {
+     "nombre": "Benjamin Voisin",
+     "foto": "https://image.tmdb.org/t/p/w185/oe37Uv6isNH7p9uwGunQj11Iy4R.jpg"
+    },
+    {
+     "nombre": "Noémie Lvovsky",
+     "foto": "https://image.tmdb.org/t/p/w185/rCAE48eQMBRxLGksTdbjTjeiPbP.jpg"
+    },
+    {
+     "nombre": "Sébastien Pouderoux",
+     "foto": "https://image.tmdb.org/t/p/w185/3TOhTuoDJMQJQ8GYL0Y9dVvqSAW.jpg"
+    }
+   ],
+   "trailer": "https://www.youtube.com/watch?v=fd8SnbJtgUE",
+   "temporadas_det": []
+  },
+  {
+   "id": "27066585",
+   "titulo": "Campus Drivers",
+   "tipo": "s",
+   "plataforma": "prime",
+   "estado": "upcoming",
+   "fecha": "2026-11-30",
+   "genero": "Drama",
+   "generos": [
+    "Drama"
+   ],
+   "imdb": null,
+   "rt": null,
+   "duracion": "1 temporada, 6 episodios",
+   "sinopsis": "",
+   "poster": "https://image.tmdb.org/t/p/w342/oPltcyfWWfVmxB6lV8JZZJV3m7Q.jpg",
+   "reparto": [
+    {
+     "nombre": "Carmen Kassovitz",
+     "foto": "https://image.tmdb.org/t/p/w185/iNLGKtgKWrnHjfZtUbLEwTjJPlf.jpg"
+    },
+    {
+     "nombre": "Baptiste Masseline",
+     "foto": "https://image.tmdb.org/t/p/w185/yfTgeK8drcv5uEKi0ZS1a3tDy0s.jpg"
+    },
+    {
+     "nombre": "Prune Pauchet",
+     "foto": "https://image.tmdb.org/t/p/w185/vBUANoC8vmMRBe7CGeMFV8juWst.jpg"
+    },
+    {
+     "nombre": "Esteban Vial",
+     "foto": "https://image.tmdb.org/t/p/w185/bS61EfCCt77ZpG2fRYZm8cOdVTY.jpg"
+    },
+    {
+     "nombre": "Madior Fall",
+     "foto": "https://image.tmdb.org/t/p/w185/aHEr670j2N4VZuai0mF6XhkR9mY.jpg"
+    },
+    {
+     "nombre": "Félix Nebel",
+     "foto": "https://image.tmdb.org/t/p/w185/4hRE5xTDVrn7VlXL9hb3YBTSQW3.jpg"
+    }
+   ],
+   "trailer": "https://www.youtube.com/watch?v=xybsbjGt1KA",
+   "temporadas_det": [
+    {
+     "n": 1,
+     "eps": [
+      {
+       "n": 1,
+       "t": "Corazón roto",
+       "f": "2026-11-06"
+      },
+      {
+       "n": 2,
+       "t": "Recién llegada",
+       "f": "2026-11-06"
+      },
+      {
+       "n": 3,
+       "t": "Chica zombi",
+       "f": "2026-11-06"
+      },
+      {
+       "n": 4,
+       "t": "Vacaciones de invierno",
+       "f": "2026-11-06"
+      },
+      {
+       "n": 5,
+       "t": "Se acabó el juego",
+       "f": "2026-11-06"
+      },
+      {
+       "n": 6,
+       "t": "Sin freno",
+       "f": "2026-11-06"
       }
      ]
     }
