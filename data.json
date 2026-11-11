@@ -1,89 +1,7 @@
 {
- "generado": "2026-11-10T23:02:25+00:00",
+ "generado": "2026-11-11T05:34:25+00:00",
  "pais": "ES",
  "items": [
-  {
-   "id": "5055764",
-   "titulo": "Codename: Annika",
-   "tipo": "s",
-   "plataforma": "prime",
-   "estado": "expiring",
-   "fecha": "2026-11-11",
-   "genero": "Drama",
-   "generos": [
-    "Drama",
-    "Crimen"
-   ],
-   "imdb": 5.8,
-   "rt": null,
-   "duracion": "1 temporada, 6 episodios",
-   "sinopsis": "La detective Emma Haka todavía no ha completado su formación cuando le encargan una misión que la llevará a infiltrarse en el corrupto mundo del comercio de obras de arte de Estocolmo, para la cual adopta la personalidad de la salvaje y pasional Annika Stormare. A medida que la investigación sumerge a Emma cada vez más en el inframundo, las líneas comienzan a desdibujarse entre ella y Annika, una persona que realmente existió y dejó una compleja trama de misterios tras su muerte.",
-   "poster": "https://image.tmdb.org/t/p/w342/r5xPGmMh6JVOh5RzoB46CoC005S.jpg",
-   "reparto": [
-    {
-     "nombre": "Sannah Nedergård",
-     "foto": "https://image.tmdb.org/t/p/w185/t1OuJjsrys0VvNgioY90rd6kvv4.jpg"
-    },
-    {
-     "nombre": "اردلان اسماعیلی",
-     "foto": "https://image.tmdb.org/t/p/w185/tLJjHlTwwR7QGD4UfTkj3i90opU.jpg"
-    },
-    {
-     "nombre": "Eva Melander",
-     "foto": "https://image.tmdb.org/t/p/w185/rhRJbKhetk4M9KpswhBuWcvZ7Ee.jpg"
-    },
-    {
-     "nombre": "Helena Bergström",
-     "foto": "https://image.tmdb.org/t/p/w185/pwjVRSw8pn88yDAVktpM1Cbu53S.jpg"
-    },
-    {
-     "nombre": "Pekka Strang",
-     "foto": "https://image.tmdb.org/t/p/w185/24ws8BfBwfc8ggDOjPddJQbpFuQ.jpg"
-    },
-    {
-     "nombre": "Miro Lopperi",
-     "foto": null
-    }
-   ],
-   "trailer": null,
-   "temporadas_det": [
-    {
-     "n": 1,
-     "eps": [
-      {
-       "n": 1,
-       "t": "Procedencia",
-       "f": "2023-09-30"
-      },
-      {
-       "n": 2,
-       "t": "Impasto",
-       "f": "2023-10-07"
-      },
-      {
-       "n": 3,
-       "t": "Pentimento",
-       "f": "2023-10-14"
-      },
-      {
-       "n": 4,
-       "t": "Fauve",
-       "f": "2023-10-21"
-      },
-      {
-       "n": 5,
-       "t": "Trompe L’oeil",
-       "f": "2023-10-28"
-      },
-      {
-       "n": 6,
-       "t": "Chiaroscuro",
-       "f": "2023-11-04"
-      }
-     ]
-    }
-   ]
-  },
   {
    "id": "217462",
    "titulo": "Detetive Madeinusa",
@@ -5406,6 +5324,68 @@
        "n": 6,
        "t": "Episodio 6",
        "f": "2022-08-05"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "40981",
+   "titulo": "Rob Riggle Global Investigator",
+   "tipo": "s",
+   "plataforma": "hbo",
+   "estado": "expiring",
+   "fecha": "2026-11-16",
+   "genero": "Documental",
+   "generos": [
+    "Documental",
+    "Comedia"
+   ],
+   "imdb": 4.9,
+   "rt": null,
+   "duracion": "1 temporada, 6 episodios",
+   "sinopsis": "Actor Rob Riggle takes his passion for adventure across the globe in hopes of solving some of the world's greatest mysteries.",
+   "poster": "https://image.tmdb.org/t/p/w342/x6BaIDDwwRmBgWQNeMNzGognRj.jpg",
+   "reparto": [
+    {
+     "nombre": "Rob Riggle",
+     "foto": "https://image.tmdb.org/t/p/w185/hQgOp8vWxl6KPZbqzKSSL4k6G1j.jpg"
+    }
+   ],
+   "trailer": "https://www.youtube.com/watch?v=SQUb3BSa9iQ",
+   "temporadas_det": [
+    {
+     "n": 1,
+     "eps": [
+      {
+       "n": 1,
+       "t": "Episodio 1",
+       "f": "2020-03-10"
+      },
+      {
+       "n": 2,
+       "t": "Episodio 2",
+       "f": "2020-03-17"
+      },
+      {
+       "n": 3,
+       "t": "Episodio 3",
+       "f": "2020-03-24"
+      },
+      {
+       "n": 4,
+       "t": "Episodio 4",
+       "f": "2020-03-31"
+      },
+      {
+       "n": 5,
+       "t": "Episodio 5",
+       "f": "2020-04-07"
+      },
+      {
+       "n": 6,
+       "t": "Episodio 6",
+       "f": "2020-04-14"
       }
      ]
     }
