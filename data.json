@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-12T00:20:06+00:00",
+ "generado": "2026-11-12T14:54:38+00:00",
  "pais": "ES",
  "items": [
   {
@@ -9587,11 +9587,78 @@
    "temporadas_det": []
   },
   {
+   "id": "27301081",
+   "titulo": "El claroscuro",
+   "tipo": "s",
+   "plataforma": "netflix",
+   "estado": "new",
+   "fecha": "2026-11-12",
+   "genero": "Comedia",
+   "generos": [
+    "Comedia",
+    "Crimen"
+   ],
+   "imdb": null,
+   "rt": null,
+   "duracion": "1 temporada, 8 episodios",
+   "sinopsis": "Tras hallarse un cadáver en un museo romano, un experto en arte recurre a su instinto y su talento para ayudar a la policía a resolver un misterio relacionado con su pasado.",
+   "poster": "https://image.tmdb.org/t/p/w342/m9eZy0jzWCHSUUzbzIpysOrLgFb.jpg",
+   "reparto": [],
+   "trailer": "https://www.youtube.com/watch?v=DKjB0JPhmYc",
+   "temporadas_det": [
+    {
+     "n": 1,
+     "eps": [
+      {
+       "n": 1,
+       "t": "Episodio 1",
+       "f": "2026-11-11"
+      },
+      {
+       "n": 2,
+       "t": "Episodio 2",
+       "f": "2026-11-11"
+      },
+      {
+       "n": 3,
+       "t": "Episodio 3",
+       "f": "2026-11-11"
+      },
+      {
+       "n": 4,
+       "t": "Episodio 4",
+       "f": "2026-11-11"
+      },
+      {
+       "n": 5,
+       "t": "Episodio 5",
+       "f": "2026-11-11"
+      },
+      {
+       "n": 6,
+       "t": "Episodio 6",
+       "f": "2026-11-11"
+      },
+      {
+       "n": 7,
+       "t": "Episodio 7",
+       "f": "2026-11-11"
+      },
+      {
+       "n": 8,
+       "t": "Episodio 8",
+       "f": "2026-11-11"
+      }
+     ]
+    }
+   ]
+  },
+  {
    "id": "27069548",
    "titulo": "Serangan Balik",
    "tipo": "p",
    "plataforma": "netflix",
-   "estado": "upcoming",
+   "estado": "new",
    "fecha": "2026-11-12",
    "genero": "Acción",
    "generos": [
@@ -9635,11 +9702,49 @@
    "temporadas_det": []
   },
   {
+   "id": "27308494",
+   "titulo": "Bara till jul",
+   "tipo": "p",
+   "plataforma": "netflix",
+   "estado": "new",
+   "fecha": "2026-11-12",
+   "genero": "Romance",
+   "generos": [
+    "Romance",
+    "Comedia"
+   ],
+   "imdb": null,
+   "rt": null,
+   "duracion": "",
+   "sinopsis": "",
+   "poster": "https://image.tmdb.org/t/p/w342/9kHrUoPF2rl5Hj0QMquAy3xznXT.jpg",
+   "reparto": [
+    {
+     "nombre": "Felice Jankell",
+     "foto": "https://image.tmdb.org/t/p/w185/7DbXVbGlWcYESPBtAHwwRvMLwzf.jpg"
+    },
+    {
+     "nombre": "Happy Jankell",
+     "foto": "https://image.tmdb.org/t/p/w185/1HxWCM4tKvr3BE7LbWNi7iSjSCo.jpg"
+    },
+    {
+     "nombre": "Christian Fandango Sundgren",
+     "foto": "https://image.tmdb.org/t/p/w185/yFzKniD7f5eZWR5cbheKLsoPM9R.jpg"
+    },
+    {
+     "nombre": "Celie Sparre",
+     "foto": "https://image.tmdb.org/t/p/w185/hWlwSfIKMEg7MStKtxW7DPlOidM.jpg"
+    }
+   ],
+   "trailer": null,
+   "temporadas_det": []
+  },
+  {
    "id": "27303388",
    "titulo": "Allen",
    "tipo": "p",
    "plataforma": "netflix",
-   "estado": "upcoming",
+   "estado": "new",
    "fecha": "2026-11-12",
    "genero": "Ciencia ficción",
    "generos": [
@@ -9674,172 +9779,6 @@
    ],
    "trailer": "https://www.youtube.com/watch?v=P8G5Y25W3eA",
    "temporadas_det": []
-  },
-  {
-   "id": "27308494",
-   "titulo": "Bara till jul",
-   "tipo": "p",
-   "plataforma": "netflix",
-   "estado": "upcoming",
-   "fecha": "2026-11-12",
-   "genero": "Romance",
-   "generos": [
-    "Romance",
-    "Comedia"
-   ],
-   "imdb": null,
-   "rt": null,
-   "duracion": "",
-   "sinopsis": "",
-   "poster": "https://image.tmdb.org/t/p/w342/9kHrUoPF2rl5Hj0QMquAy3xznXT.jpg",
-   "reparto": [
-    {
-     "nombre": "Felice Jankell",
-     "foto": "https://image.tmdb.org/t/p/w185/7DbXVbGlWcYESPBtAHwwRvMLwzf.jpg"
-    },
-    {
-     "nombre": "Happy Jankell",
-     "foto": "https://image.tmdb.org/t/p/w185/1HxWCM4tKvr3BE7LbWNi7iSjSCo.jpg"
-    },
-    {
-     "nombre": "Christian Fandango Sundgren",
-     "foto": "https://image.tmdb.org/t/p/w185/yFzKniD7f5eZWR5cbheKLsoPM9R.jpg"
-    },
-    {
-     "nombre": "Celie Sparre",
-     "foto": "https://image.tmdb.org/t/p/w185/hWlwSfIKMEg7MStKtxW7DPlOidM.jpg"
-    }
-   ],
-   "trailer": null,
-   "temporadas_det": []
-  },
-  {
-   "id": "2105",
-   "titulo": "Lara Croft. Tomb Raider",
-   "tipo": "p",
-   "plataforma": "netflix",
-   "estado": "upcoming",
-   "fecha": "2026-11-12",
-   "genero": "Aventura",
-   "generos": [
-    "Aventura",
-    "Acción"
-   ],
-   "imdb": 5.8,
-   "rt": null,
-   "duracion": "1 h 45 min",
-   "sinopsis": "Explorar imperios perdidos, descubrir tesoros de incalculable valor, castigar a los malvados en combates a vida o muerte… todo forma parte de un día de trabajo para la aventurera Lara Croft. Pero un secreto del pasado de su padre va a llevar a Lara a su desafío más grande: el Triángulo de la Luz, un legendario artefacto con el poder de alterar el espacio y el tiempo. Lara ha de encontrar el Triángulo antes de que caiga en poder de los Illuminati, una sociedad secreta dispuesta a dominar el mundo. Para detener a los Illumitati, Lara ha de sobrevivir a una auténtica cacería a través del planeta, repleta de inimaginables peligros.",
-   "poster": "https://image.tmdb.org/t/p/w342/gIv9ur6A76vOcAmC6fZ3MsoLji4.jpg",
-   "reparto": [
-    {
-     "nombre": "Angelina Jolie",
-     "foto": "https://image.tmdb.org/t/p/w185/bXNxIKcJ5cNNW8QFrBPWcfTSu9x.jpg"
-    },
-    {
-     "nombre": "Iain Glen",
-     "foto": "https://image.tmdb.org/t/p/w185/d9CKAAiV1HvSnzzmpDzD0mC0HlX.jpg"
-    },
-    {
-     "nombre": "Daniel Craig",
-     "foto": "https://image.tmdb.org/t/p/w185/iFerDZUmC5Fu26i4qI8xnUVEHc7.jpg"
-    },
-    {
-     "nombre": "Noah Taylor",
-     "foto": "https://image.tmdb.org/t/p/w185/a9VuohmpqbvcYflOpi0F3ck8L2j.jpg"
-    },
-    {
-     "nombre": "Chris Barrie",
-     "foto": "https://image.tmdb.org/t/p/w185/210iRxlqUWjCulX9HhkywDuG1dR.jpg"
-    },
-    {
-     "nombre": "Jon Voight",
-     "foto": "https://image.tmdb.org/t/p/w185/oxLsItDwLddXu8YYJCfkddYNejL.jpg"
-    }
-   ],
-   "trailer": "https://www.youtube.com/watch?v=XiC4PDCGigE",
-   "temporadas_det": []
-  },
-  {
-   "id": "25030545",
-   "titulo": "The Good Daughter",
-   "tipo": "s",
-   "plataforma": "hbo",
-   "estado": "upcoming",
-   "fecha": "2026-11-12",
-   "genero": "Drama",
-   "generos": [
-    "Drama",
-    "Misterio"
-   ],
-   "imdb": null,
-   "rt": null,
-   "duracion": "1 temporada, 6 episodios",
-   "sinopsis": "",
-   "poster": "https://image.tmdb.org/t/p/w342/1LMcI1OV9GtWpszBkj4uFZQcSZ6.jpg",
-   "reparto": [
-    {
-     "nombre": "Rose Byrne",
-     "foto": "https://image.tmdb.org/t/p/w185/wR8YZlrewVW2FixRBrJcxaXU3R1.jpg"
-    },
-    {
-     "nombre": "Meghann Fahy",
-     "foto": "https://image.tmdb.org/t/p/w185/vn1JwgdLoFerqqgzcg61tgCJ0ZE.jpg"
-    },
-    {
-     "nombre": "Brendan Gleeson",
-     "foto": "https://image.tmdb.org/t/p/w185/ctPPJu5ZYDZr1IPmzoNpezczrm0.jpg"
-    },
-    {
-     "nombre": "Harper Steele",
-     "foto": "https://image.tmdb.org/t/p/w185/jWo1tHt9UDUBaf8m5YgNyH7kOUV.jpg"
-    },
-    {
-     "nombre": "Michael Dorman",
-     "foto": "https://image.tmdb.org/t/p/w185/7Ut9ofZ7fJAvLZ95LVLO1Lepbuc.jpg"
-    },
-    {
-     "nombre": "Audrey Grace Marshall",
-     "foto": "https://image.tmdb.org/t/p/w185/u9j51KnphsW0zg05nCOXxXKlWex.jpg"
-    }
-   ],
-   "trailer": "https://www.youtube.com/watch?v=Kjwbn5AF_3E",
-   "temporadas_det": [
-    {
-     "n": 1,
-     "eps": [
-      {
-       "n": 1,
-       "t": "Episodio 1",
-       "f": "2026-11-12"
-      },
-      {
-       "n": 2,
-       "t": "Episodio 2",
-       "f": "2026-11-12"
-      },
-      {
-       "n": 3,
-       "t": "Episodio 3",
-       "f": "2026-11-12"
-      },
-      {
-       "n": 4,
-       "t": "Episodio 4",
-       "f": "2026-11-12"
-      },
-      {
-       "n": 5,
-       "t": "Episodio 5",
-       "f": "2026-11-12"
-      },
-      {
-       "n": 6,
-       "t": "Episodio 6",
-       "f": "2026-11-12"
-      }
-     ]
-    }
-   ]
   },
   {
    "id": "4821179",
@@ -11517,6 +11456,101 @@
      ]
     }
    ]
+  },
+  {
+   "id": "25030318",
+   "titulo": "En busca del saco mágico",
+   "tipo": "p",
+   "plataforma": "prime",
+   "estado": "upcoming",
+   "fecha": "2026-12-02",
+   "genero": "Fantasía",
+   "generos": [
+    "Fantasía",
+    "Comedia",
+    "Familia",
+    "Acción"
+   ],
+   "imdb": null,
+   "rt": null,
+   "duracion": "",
+   "sinopsis": "Cuando una elfa rebelde y con sed de venganza roba el icónico saco rojo de Papá Noel, la Navidad se ve amenazada. Con la noche más importante del año a la vuelta de la esquina, Papá Noel recluta a un ladrón de su \"lista de los malos\", quien rápidamente reúne a un equipo de inadaptados con habilidades delictivas que, con un poco de ayuda de elfos y renos, darán el golpe más insólito de sus vidas.",
+   "poster": "https://image.tmdb.org/t/p/w342/1mgZyHcwrUwS8MjhL4YllbAysTe.jpg",
+   "reparto": [
+    {
+     "nombre": "Arnold Schwarzenegger",
+     "foto": "https://image.tmdb.org/t/p/w185/4jM3vsHIEQVeNFifiTAUDVAmiUo.jpg"
+    },
+    {
+     "nombre": "Alan Ritchson",
+     "foto": "https://image.tmdb.org/t/p/w185/92YNEEpCyugkTzPprJwZpvVtvuK.jpg"
+    },
+    {
+     "nombre": "Awkwafina",
+     "foto": "https://image.tmdb.org/t/p/w185/l5AKkg3H1QhMuXmTTmq1EyjyiRb.jpg"
+    },
+    {
+     "nombre": "Michael Cyril Creighton",
+     "foto": "https://image.tmdb.org/t/p/w185/nQ5CDkwEpLoscUNKq2xbu0u1UvD.jpg"
+    },
+    {
+     "nombre": "Liza Koshy",
+     "foto": "https://image.tmdb.org/t/p/w185/1Xs1DqpZTUCPyhHdjFhyFQaajg1.jpg"
+    },
+    {
+     "nombre": "Kyle Mooney",
+     "foto": "https://image.tmdb.org/t/p/w185/xywmFOt1OkUGa2Ex2YnmjI6gyd7.jpg"
+    }
+   ],
+   "trailer": "https://www.youtube.com/watch?v=PEVkJHLq4rQ",
+   "temporadas_det": []
+  },
+  {
+   "id": "26603188",
+   "titulo": "In a Holidaze",
+   "tipo": "p",
+   "plataforma": "netflix",
+   "estado": "upcoming",
+   "fecha": "2026-12-02",
+   "genero": "Ciencia ficción",
+   "generos": [
+    "Ciencia ficción",
+    "Romance",
+    "Comedia"
+   ],
+   "imdb": null,
+   "rt": null,
+   "duracion": "1 h 47 min",
+   "sinopsis": "En la historia que se presenta como una fusión entre Love Actually y el Día de la Marmota , es la época más maravillosa del año... pero no para Maelyn Jones. Vive con sus padres, odia su trabajo sin salida y acaba de cometer un error romántico de proporciones épicas. Durante un viaje navideño a la cabaña nevada favorita de su familia en Utah, le ruega al universo que la ayude a encontrar la felicidad, lo que resulta en un bucle temporal navideño del que no puede escapar.",
+   "poster": "https://image.tmdb.org/t/p/w342/fLgaNOlDG4pduslaeXJcaokanQ8.jpg",
+   "reparto": [
+    {
+     "nombre": "Maddie Ziegler",
+     "foto": "https://image.tmdb.org/t/p/w185/uYMtRyQS78el5XRLLnGBfMhVhif.jpg"
+    },
+    {
+     "nombre": "Rob Lowe",
+     "foto": "https://image.tmdb.org/t/p/w185/uY0u865QqHqT0YBtwdBXFfVI6Hr.jpg"
+    },
+    {
+     "nombre": "Graham Phillips",
+     "foto": "https://image.tmdb.org/t/p/w185/tDQQamh95HT4XcYJXyHzvT7QFE7.jpg"
+    },
+    {
+     "nombre": "Elias Kacavas",
+     "foto": "https://image.tmdb.org/t/p/w185/4KzuVpFgp1MOzRBdOAfyIYS4blE.jpg"
+    },
+    {
+     "nombre": "Patton Oswalt",
+     "foto": "https://image.tmdb.org/t/p/w185/ljQvjbPmcIAl205Lb2Mu4CW8WO7.jpg"
+    },
+    {
+     "nombre": "Jackie Sandler",
+     "foto": "https://image.tmdb.org/t/p/w185/7oLSJ2Ewlzg75m9dm2N9GqDQXvk.jpg"
+    }
+   ],
+   "trailer": "https://www.youtube.com/watch?v=5f1H5Rk9l4o",
+   "temporadas_det": []
   }
  ]
 }
