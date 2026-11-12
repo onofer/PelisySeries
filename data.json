@@ -1,164 +1,7 @@
 {
- "generado": "2026-11-11T13:53:50+00:00",
+ "generado": "2026-11-12T00:20:06+00:00",
  "pais": "ES",
  "items": [
-  {
-   "id": "217462",
-   "titulo": "Detetive Madeinusa",
-   "tipo": "p",
-   "plataforma": "prime",
-   "estado": "expiring",
-   "fecha": "2026-11-11",
-   "genero": "Comedia",
-   "generos": [
-    "Comedia"
-   ],
-   "imdb": 3.8,
-   "rt": null,
-   "duracion": "1 h 41 min",
-   "sinopsis": "Madeinusa es un ex político convertido en detective torpe. Es contratado por Neldson, un cabildero millonario, para desentrañar el robo de un buey preciado y contará con la ayuda de un equipo aún más confuso.",
-   "poster": "https://image.tmdb.org/t/p/w342/kBDp6c8YlrH1Cq13JwnSShnKgBc.jpg",
-   "reparto": [
-    {
-     "nombre": "Tirullipa",
-     "foto": "https://image.tmdb.org/t/p/w185/zT168h81BdQ1Zjm3al0JT3ki4y4.jpg"
-    },
-    {
-     "nombre": "Whindersson Nunes",
-     "foto": "https://image.tmdb.org/t/p/w185/avHMFCG8hB04O9EgqRpH7IjcX48.jpg"
-    },
-    {
-     "nombre": "Bruno Montaleone",
-     "foto": "https://image.tmdb.org/t/p/w185/eXkQ1K9JMaZsZ3WYv8MVwPX9HRD.jpg"
-    },
-    {
-     "nombre": "Gessica Kayane",
-     "foto": "https://image.tmdb.org/t/p/w185/6juTVrLeeHWsJEMeumUzjrs6mhG.jpg"
-    },
-    {
-     "nombre": "Aisha Jambo",
-     "foto": "https://image.tmdb.org/t/p/w185/gXKT4cBmlq9YEUZ408jcav74ZQa.jpg"
-    },
-    {
-     "nombre": "Luana Tanaka",
-     "foto": "https://image.tmdb.org/t/p/w185/t9wj5axKlgB4IHi4p4xHpwxJ5Hi.jpg"
-    }
-   ],
-   "trailer": null,
-   "temporadas_det": []
-  },
-  {
-   "id": "199390",
-   "titulo": "A La Calle",
-   "tipo": "p",
-   "plataforma": "hbo",
-   "estado": "expiring",
-   "fecha": "2026-11-11",
-   "genero": "Documental",
-   "generos": [
-    "Documental"
-   ],
-   "imdb": 4.7,
-   "rt": null,
-   "duracion": "1 h 50 min",
-   "sinopsis": "Venezuelans recount the struggle to reclaim their democracy from the brutal dictatorship of Nicolás Maduro, who has plunged the country into ruin.",
-   "poster": "https://image.tmdb.org/t/p/w342/9Yn0iOZCN5FhnLy7DEza9qhEKji.jpg",
-   "reparto": [],
-   "trailer": null,
-   "temporadas_det": []
-  },
-  {
-   "id": "13390705",
-   "titulo": "Adrienne Iapalucci: The Dark Queen",
-   "tipo": "p",
-   "plataforma": "netflix",
-   "estado": "expiring",
-   "fecha": "2026-11-11",
-   "genero": "Comedia",
-   "generos": [
-    "Comedia"
-   ],
-   "imdb": 5.4,
-   "rt": null,
-   "duracion": "53 min",
-   "sinopsis": "Comedian Adrienne Iapalucci takes aim at our public figures, awkward tribute tattoos, virtue signaling and more in this unfiltered stand-up special.",
-   "poster": "https://image.tmdb.org/t/p/w342/qY8Wk6WtftBnFuWEHtGRVXpgQ4r.jpg",
-   "reparto": [
-    {
-     "nombre": "Adrienne Iapalucci",
-     "foto": "https://image.tmdb.org/t/p/w185/asUwZDiJ8FfNEh3KbWNfdUz94a5.jpg"
-    }
-   ],
-   "trailer": null,
-   "temporadas_det": []
-  },
-  {
-   "id": "19870817",
-   "titulo": "Pau Gasol - Lo importante es el Viaje",
-   "tipo": "s",
-   "plataforma": "prime",
-   "estado": "expiring",
-   "fecha": "2026-11-12",
-   "genero": "Documental",
-   "generos": [
-    "Documental"
-   ],
-   "imdb": 4.8,
-   "rt": null,
-   "duracion": "1 temporada, 4 episodios",
-   "sinopsis": "Lo más difícil de dedicarte al deporte que amas es despedirte de él. Este documental muestra el final de la carrera de leyenda de uno de los mejores deportistas españoles de todos los tiempos. Podremos ver la lucha y el esfuerzo para volver a las pistas y poder poner fin a su carrera jugando a baloncesto. Además, también veremos la manera de afrontar el futuro y los nuevos retos que le deparan a Pau una vez colgadas las zapatillas.",
-   "poster": "https://image.tmdb.org/t/p/w342/gptizswdiBvQsLPc7Soye94VHvs.jpg",
-   "reparto": [
-    {
-     "nombre": "Pau Gasol",
-     "foto": "https://image.tmdb.org/t/p/w185/rfOHs1GKwerPaCWoWkWGfiui0i9.jpg"
-    },
-    {
-     "nombre": "Catherine McDonnell",
-     "foto": null
-    },
-    {
-     "nombre": "Marc Gasol",
-     "foto": "https://image.tmdb.org/t/p/w185/eSvEFUGmqtxo6sqv5gjHPFbU7T6.jpg"
-    },
-    {
-     "nombre": "Marisa Sáez",
-     "foto": "https://image.tmdb.org/t/p/w185/bEv2fA6ixLRMBf48f4a6xa7Gbhu.jpg"
-    },
-    {
-     "nombre": "Agustí Gasol",
-     "foto": null
-    }
-   ],
-   "trailer": "https://www.youtube.com/watch?v=ptYlCczm7Kk",
-   "temporadas_det": [
-    {
-     "n": 1,
-     "eps": [
-      {
-       "n": 1,
-       "t": "Episodio 1",
-       "f": "2021-11-12"
-      },
-      {
-       "n": 2,
-       "t": "Episodio 2",
-       "f": "2021-11-12"
-      },
-      {
-       "n": 3,
-       "t": "Episodio 3",
-       "f": "2021-11-12"
-      },
-      {
-       "n": 4,
-       "t": "Episodio 4",
-       "f": "2021-11-12"
-      }
-     ]
-    }
-   ]
-  },
   {
    "id": "3325",
    "titulo": "Ni en sueños",
@@ -5392,6 +5235,660 @@
    ]
   },
   {
+   "id": "40459",
+   "titulo": "Flip or Flop Atlanta",
+   "tipo": "s",
+   "plataforma": "hbo",
+   "estado": "expiring",
+   "fecha": "2026-11-16",
+   "genero": "Reality",
+   "generos": [
+    "Reality"
+   ],
+   "imdb": 4.9,
+   "rt": null,
+   "duracion": "2 temporadas, 28 episodios",
+   "sinopsis": "Husband-and-wife team Ken and Anita Corsini are on a mission to rehab homes in Atlanta. They race against the clock to renovate dilapidated houses and make them habitable once again.",
+   "poster": "https://image.tmdb.org/t/p/w342/rrDK3OtoUMML32kqjW5H5Vol8sc.jpg",
+   "reparto": [
+    {
+     "nombre": "Ken Corsini",
+     "foto": "https://image.tmdb.org/t/p/w185/quUMIcgBCm1MWtnLHPiQ4riPmvl.jpg"
+    },
+    {
+     "nombre": "Anita Corsini",
+     "foto": "https://image.tmdb.org/t/p/w185/33rGS0QgfcBjd4DKax5hpquD6Uz.jpg"
+    }
+   ],
+   "trailer": null,
+   "temporadas_det": [
+    {
+     "n": 1,
+     "eps": [
+      {
+       "n": 1,
+       "t": "Episodio 1",
+       "f": "2017-07-20"
+      },
+      {
+       "n": 2,
+       "t": "Episodio 2",
+       "f": "2017-07-27"
+      },
+      {
+       "n": 3,
+       "t": "Episodio 3",
+       "f": "2017-08-03"
+      },
+      {
+       "n": 4,
+       "t": "Episodio 4",
+       "f": "2017-08-10"
+      },
+      {
+       "n": 5,
+       "t": "Episodio 5",
+       "f": "2017-08-17"
+      },
+      {
+       "n": 6,
+       "t": "Episodio 6",
+       "f": "2017-08-24"
+      },
+      {
+       "n": 7,
+       "t": "Episodio 7",
+       "f": "2017-08-31"
+      },
+      {
+       "n": 8,
+       "t": "Episodio 8",
+       "f": "2017-09-07"
+      },
+      {
+       "n": 9,
+       "t": "Episodio 9",
+       "f": "2017-09-14"
+      },
+      {
+       "n": 10,
+       "t": "Episodio 10",
+       "f": "2017-09-21"
+      },
+      {
+       "n": 11,
+       "t": "Episodio 11",
+       "f": "2017-09-28"
+      },
+      {
+       "n": 12,
+       "t": "Episodio 12",
+       "f": "2017-10-05"
+      },
+      {
+       "n": 13,
+       "t": "Episodio 13",
+       "f": "2017-10-12"
+      },
+      {
+       "n": 14,
+       "t": "Episodio 14",
+       "f": "2017-10-19"
+      }
+     ]
+    },
+    {
+     "n": 2,
+     "eps": [
+      {
+       "n": 1,
+       "t": "Episodio 1",
+       "f": "2018-10-11"
+      },
+      {
+       "n": 2,
+       "t": "Episodio 2",
+       "f": "2018-10-11"
+      },
+      {
+       "n": 3,
+       "t": "Episodio 3",
+       "f": "2018-10-18"
+      },
+      {
+       "n": 4,
+       "t": "Episodio 4",
+       "f": "2018-10-18"
+      },
+      {
+       "n": 5,
+       "t": "Episodio 5",
+       "f": "2018-10-25"
+      },
+      {
+       "n": 6,
+       "t": "Episodio 6",
+       "f": "2018-10-25"
+      },
+      {
+       "n": 7,
+       "t": "Episodio 7",
+       "f": "2018-11-01"
+      },
+      {
+       "n": 8,
+       "t": "Episodio 8",
+       "f": "2018-11-01"
+      },
+      {
+       "n": 9,
+       "t": "Episodio 9",
+       "f": "2018-11-08"
+      },
+      {
+       "n": 10,
+       "t": "Episodio 10",
+       "f": "2018-11-15"
+      },
+      {
+       "n": 11,
+       "t": "Episodio 11",
+       "f": "2018-11-29"
+      },
+      {
+       "n": 12,
+       "t": "Episodio 12",
+       "f": "2018-11-29"
+      },
+      {
+       "n": 13,
+       "t": "Episodio 13",
+       "f": "2018-12-06"
+      },
+      {
+       "n": 14,
+       "t": "Episodio 14",
+       "f": "2018-12-06"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "56099",
+   "titulo": "The Real Story with Maria Elena Salinas",
+   "tipo": "s",
+   "plataforma": "hbo",
+   "estado": "expiring",
+   "fecha": "2026-11-16",
+   "genero": "Documental",
+   "generos": [
+    "Documental",
+    "Crimen"
+   ],
+   "imdb": 4.6,
+   "rt": null,
+   "duracion": "2 temporadas, 14 episodios",
+   "sinopsis": "Maria Elena Salinas digs into the new evidence, perspectives and updates on national headline-making crimes.",
+   "poster": "https://image.tmdb.org/t/p/w342/hXfGqpty8pwiKziLzS95eG8tPu1.jpg",
+   "reparto": [
+    {
+     "nombre": "María Elena Salinas",
+     "foto": null
+    }
+   ],
+   "trailer": null,
+   "temporadas_det": [
+    {
+     "n": 1,
+     "eps": [
+      {
+       "n": 1,
+       "t": "Episodio 1",
+       "f": "2017-04-24"
+      },
+      {
+       "n": 2,
+       "t": "Episodio 2",
+       "f": "2017-05-01"
+      },
+      {
+       "n": 3,
+       "t": "Episodio 3",
+       "f": "2017-05-08"
+      },
+      {
+       "n": 4,
+       "t": "Episodio 4",
+       "f": "2017-05-15"
+      },
+      {
+       "n": 5,
+       "t": "Episodio 5",
+       "f": "2017-05-22"
+      },
+      {
+       "n": 10,
+       "t": "Episodio 10",
+       "f": "2017-06-27"
+      }
+     ]
+    },
+    {
+     "n": 2,
+     "eps": [
+      {
+       "n": 1,
+       "t": "Episodio 1",
+       "f": "2018-06-04"
+      },
+      {
+       "n": 2,
+       "t": "Episodio 2",
+       "f": "2018-06-11"
+      },
+      {
+       "n": 3,
+       "t": "Episodio 3",
+       "f": "2018-06-18"
+      },
+      {
+       "n": 4,
+       "t": "Episodio 4",
+       "f": "2018-06-25"
+      },
+      {
+       "n": 5,
+       "t": "Episodio 5",
+       "f": "2018-07-02"
+      },
+      {
+       "n": 6,
+       "t": "Episodio 6",
+       "f": "2018-07-16"
+      },
+      {
+       "n": 7,
+       "t": "Episodio 7",
+       "f": "2018-07-23"
+      },
+      {
+       "n": 8,
+       "t": "Episodio 8",
+       "f": "2018-07-30"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "49745",
+   "titulo": "6 por sorpresa",
+   "tipo": "s",
+   "plataforma": "hbo",
+   "estado": "expiring",
+   "fecha": "2026-11-16",
+   "genero": "Reality",
+   "generos": [
+    "Reality"
+   ],
+   "imdb": 4.7,
+   "rt": null,
+   "duracion": "3 temporadas, 24 episodios",
+   "sinopsis": "The Waldrops have their hands full with three older sons and sextuplets.",
+   "poster": "https://image.tmdb.org/t/p/w342/mPduiblaqgl16AAqcT9F6V418Kn.jpg",
+   "reparto": [
+    {
+     "nombre": "Eric Waldrop",
+     "foto": null
+    },
+    {
+     "nombre": "Courtney Waldrop",
+     "foto": null
+    }
+   ],
+   "trailer": null,
+   "temporadas_det": [
+    {
+     "n": 1,
+     "eps": [
+      {
+       "n": 1,
+       "t": "Episodio 1",
+       "f": "2018-09-18"
+      },
+      {
+       "n": 2,
+       "t": "Episodio 2",
+       "f": "2018-09-25"
+      },
+      {
+       "n": 3,
+       "t": "Episodio 3",
+       "f": "2018-10-02"
+      },
+      {
+       "n": 4,
+       "t": "Episodio 4",
+       "f": "2018-10-09"
+      },
+      {
+       "n": 5,
+       "t": "Episodio 5",
+       "f": "2018-10-16"
+      },
+      {
+       "n": 6,
+       "t": "Episodio 6",
+       "f": "2018-10-23"
+      }
+     ]
+    },
+    {
+     "n": 2,
+     "eps": [
+      {
+       "n": 1,
+       "t": "Episodio 1",
+       "f": "2019-05-28"
+      },
+      {
+       "n": 2,
+       "t": "Episodio 2",
+       "f": "2019-06-04"
+      },
+      {
+       "n": 3,
+       "t": "Episodio 3",
+       "f": "2019-06-11"
+      },
+      {
+       "n": 4,
+       "t": "Episodio 4",
+       "f": "2019-06-18"
+      },
+      {
+       "n": 5,
+       "t": "Episodio 5",
+       "f": "2019-06-25"
+      },
+      {
+       "n": 6,
+       "t": "Episodio 6",
+       "f": "2019-07-02"
+      },
+      {
+       "n": 7,
+       "t": "Episodio 7",
+       "f": "2019-07-09"
+      },
+      {
+       "n": 8,
+       "t": "Episodio 8",
+       "f": "2019-07-16"
+      }
+     ]
+    },
+    {
+     "n": 3,
+     "eps": [
+      {
+       "n": 1,
+       "t": "Episodio 1",
+       "f": "2020-06-16"
+      },
+      {
+       "n": 2,
+       "t": "Episodio 2",
+       "f": "2020-06-23"
+      },
+      {
+       "n": 3,
+       "t": "Episodio 3",
+       "f": "2020-06-30"
+      },
+      {
+       "n": 4,
+       "t": "Episodio 4",
+       "f": "2020-07-07"
+      },
+      {
+       "n": 5,
+       "t": "Episodio 5",
+       "f": "2020-07-14"
+      },
+      {
+       "n": 6,
+       "t": "Episodio 6",
+       "f": "2020-09-29"
+      },
+      {
+       "n": 7,
+       "t": "Episodio 7",
+       "f": "2020-10-06"
+      },
+      {
+       "n": 8,
+       "t": "Episodio 8",
+       "f": "2020-10-13"
+      },
+      {
+       "n": 9,
+       "t": "Episodio 9",
+       "f": "2020-10-20"
+      },
+      {
+       "n": 10,
+       "t": "Episodio 10",
+       "f": "2020-10-27"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "50530",
+   "titulo": "Flip or Flop Nashville",
+   "tipo": "s",
+   "plataforma": "hbo",
+   "estado": "expiring",
+   "fecha": "2026-11-16",
+   "genero": "Reality",
+   "generos": [
+    "Reality"
+   ],
+   "imdb": 4.7,
+   "rt": null,
+   "duracion": "2 temporadas, 21 episodios",
+   "sinopsis": "Page Turner and DeRon Jenkins aren't just house flippers in Nashville, they're also exes. With a decade of partnership, this driven team takes on big, small and dirty jobs to get top dollar on their investments.",
+   "poster": "https://image.tmdb.org/t/p/w342/9cQrSXAO5traleqCkDXdCiFVPeO.jpg",
+   "reparto": [],
+   "trailer": null,
+   "temporadas_det": [
+    {
+     "n": 1,
+     "eps": [
+      {
+       "n": 1,
+       "t": "Episodio 1",
+       "f": "2018-01-18"
+      },
+      {
+       "n": 2,
+       "t": "Episodio 2",
+       "f": "2018-01-25"
+      },
+      {
+       "n": 3,
+       "t": "Episodio 3",
+       "f": "2018-02-01"
+      },
+      {
+       "n": 4,
+       "t": "Episodio 4",
+       "f": "2018-02-08"
+      },
+      {
+       "n": 5,
+       "t": "Episodio 5",
+       "f": "2018-02-15"
+      },
+      {
+       "n": 6,
+       "t": "Episodio 6",
+       "f": "2018-02-22"
+      },
+      {
+       "n": 7,
+       "t": "Episodio 7",
+       "f": "2018-03-01"
+      },
+      {
+       "n": 8,
+       "t": "Episodio 8",
+       "f": "2018-03-08"
+      },
+      {
+       "n": 9,
+       "t": "Episodio 9",
+       "f": "2018-03-08"
+      }
+     ]
+    },
+    {
+     "n": 2,
+     "eps": [
+      {
+       "n": 1,
+       "t": "Episodio 1",
+       "f": "2019-01-03"
+      },
+      {
+       "n": 2,
+       "t": "Episodio 2",
+       "f": "2019-01-10"
+      },
+      {
+       "n": 3,
+       "t": "Episodio 3",
+       "f": "2019-01-17"
+      },
+      {
+       "n": 4,
+       "t": "Episodio 4",
+       "f": "2019-01-24"
+      },
+      {
+       "n": 5,
+       "t": "Episodio 5",
+       "f": "2019-02-07"
+      },
+      {
+       "n": 6,
+       "t": "Episodio 6",
+       "f": "2019-02-06"
+      },
+      {
+       "n": 7,
+       "t": "Episodio 7",
+       "f": "2019-02-07"
+      },
+      {
+       "n": 8,
+       "t": "Episodio 8",
+       "f": "2019-02-14"
+      },
+      {
+       "n": 9,
+       "t": "Episodio 9",
+       "f": "2019-02-21"
+      },
+      {
+       "n": 10,
+       "t": "Episodio 10",
+       "f": "2019-03-07"
+      },
+      {
+       "n": 11,
+       "t": "Episodio 11",
+       "f": "2019-03-14"
+      },
+      {
+       "n": 12,
+       "t": "Episodio 12",
+       "f": "2019-03-21"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "50014",
+   "titulo": "Man vs. Bear",
+   "tipo": "s",
+   "plataforma": "hbo",
+   "estado": "expiring",
+   "fecha": "2026-11-16",
+   "genero": "Reality",
+   "generos": [
+    "Reality"
+   ],
+   "imdb": 4.7,
+   "rt": null,
+   "duracion": "1 temporada, 8 episodios",
+   "sinopsis": "For thousands of years, grizzly bears have stood at the top of the evolutionary food chain with unchallenged dominance. Now for the first time ever, humans will be entering the bears’ territory and take them on in a competition like never attempted.",
+   "poster": "https://image.tmdb.org/t/p/w342/uaBlpHmKKc2zDAvwDq1iCHzwZbJ.jpg",
+   "reparto": [],
+   "trailer": null,
+   "temporadas_det": [
+    {
+     "n": 1,
+     "eps": [
+      {
+       "n": 1,
+       "t": "Episodio 1",
+       "f": "2019-12-04"
+      },
+      {
+       "n": 2,
+       "t": "Episodio 2",
+       "f": "2019-12-11"
+      },
+      {
+       "n": 3,
+       "t": "Episodio 3",
+       "f": "2019-12-18"
+      },
+      {
+       "n": 4,
+       "t": "Episodio 4",
+       "f": "2019-12-25"
+      },
+      {
+       "n": 5,
+       "t": "Episodio 5",
+       "f": "2020-01-01"
+      },
+      {
+       "n": 6,
+       "t": "Episodio 6",
+       "f": "2020-01-08"
+      },
+      {
+       "n": 7,
+       "t": "Episodio 7",
+       "f": "2020-01-15"
+      },
+      {
+       "n": 8,
+       "t": "Episodio 8",
+       "f": "2020-01-22"
+      }
+     ]
+    }
+   ]
+  },
+  {
    "id": "27303056",
    "titulo": "Michael Che: Shot in Minnesota",
    "tipo": "p",
@@ -9088,107 +9585,6 @@
    ],
    "trailer": null,
    "temporadas_det": []
-  },
-  {
-   "id": "27068123",
-   "titulo": "La vida secreta de las esposas mormonas: Orange County",
-   "tipo": "s",
-   "plataforma": "disney",
-   "estado": "upcoming",
-   "fecha": "2026-11-12",
-   "genero": "Reality",
-   "generos": [
-    "Reality"
-   ],
-   "imdb": null,
-   "rt": null,
-   "duracion": "1 temporada, 10 episodios",
-   "sinopsis": "En el condado de Orange, un grupo de jóvenes y dinámicas madres choca en una comunidad donde sus creencias no son solo su religión, sino su identidad. Mientras unas defienden su estilo de vida y luchan contra la modernidad, otras abrazan el cambio y se convierten en una plataforma para romper con el statu quo. Saldrán a la luz escándalos y secretos, las apariencias se derrumbarán y las familias y amistades cambiarán para siempre en ambos bandos, mientras este grupo de influencers fuertes y rompedoras se une para crear su propia respuesta a #MomTok. Esto es \"Vidas secretas de esposas mormonas: Condado de Orange\".",
-   "poster": "https://image.tmdb.org/t/p/w342/rEcJkRhfs663zsjWCJhtsbRWv7g.jpg",
-   "reparto": [
-    {
-     "nombre": "Ashleigh Pease",
-     "foto": null
-    },
-    {
-     "nombre": "Aspyn Ovard",
-     "foto": null
-    },
-    {
-     "nombre": "Avery Woods",
-     "foto": null
-    },
-    {
-     "nombre": "Bobbi Althoff",
-     "foto": "https://image.tmdb.org/t/p/w185/3paiMEXfQXBsEWLbo44K3GKeoP4.jpg"
-    },
-    {
-     "nombre": "Jen Affleck",
-     "foto": "https://image.tmdb.org/t/p/w185/eSfIQ7Bhne9wyPb0lL2Y85Lz6nY.jpg"
-    },
-    {
-     "nombre": "Jordan McClanahan",
-     "foto": null
-    }
-   ],
-   "trailer": "https://www.youtube.com/watch?v=0JLdH0cPdnc",
-   "temporadas_det": [
-    {
-     "n": 1,
-     "eps": [
-      {
-       "n": 1,
-       "t": "Episodio 1",
-       "f": "2026-11-12"
-      },
-      {
-       "n": 2,
-       "t": "Episodio 2",
-       "f": "2026-11-12"
-      },
-      {
-       "n": 3,
-       "t": "Episodio 3",
-       "f": "2026-11-12"
-      },
-      {
-       "n": 4,
-       "t": "Episodio 4",
-       "f": "2026-11-12"
-      },
-      {
-       "n": 5,
-       "t": "Episodio 5",
-       "f": "2026-11-12"
-      },
-      {
-       "n": 6,
-       "t": "Episodio 6",
-       "f": "2026-11-12"
-      },
-      {
-       "n": 7,
-       "t": "Episodio 7",
-       "f": "2026-11-12"
-      },
-      {
-       "n": 8,
-       "t": "Episodio 8",
-       "f": "2026-11-12"
-      },
-      {
-       "n": 9,
-       "t": "Episodio 9",
-       "f": "2026-11-12"
-      },
-      {
-       "n": 10,
-       "t": "Episodio 10",
-       "f": "2026-11-12"
-      }
-     ]
-    }
-   ]
   },
   {
    "id": "27069548",
