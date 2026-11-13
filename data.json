@@ -1,1104 +1,7 @@
 {
- "generado": "2026-11-13T14:26:54+00:00",
+ "generado": "2026-11-13T23:25:24+00:00",
  "pais": "ES",
  "items": [
-  {
-   "id": "14625950",
-   "titulo": "El asesino con ojos de corazón",
-   "tipo": "p",
-   "plataforma": "prime",
-   "estado": "expiring",
-   "fecha": "2026-11-13",
-   "genero": "Terror",
-   "generos": [
-    "Terror",
-    "Romance",
-    "Comedia"
-   ],
-   "imdb": 6.0,
-   "rt": 78,
-   "duracion": "1 h 37 min",
-   "sinopsis": "Dos compañeros de trabajo son confundidos con una pareja por un asesino en San Francisco el día de San Valentín. Obligados a eludir al asesino, navegan por el paisaje romántico de la ciudad mientras trabajan juntos para sobrevivir.",
-   "poster": "https://image.tmdb.org/t/p/w342/6v0LlIAW903yLbsoTw6DMUAaQeq.jpg",
-   "reparto": [
-    {
-     "nombre": "Olivia Holt",
-     "foto": "https://image.tmdb.org/t/p/w185/gOYenPpic8MJnfzszGyUWgsYHSC.jpg"
-    },
-    {
-     "nombre": "Mason Gooding",
-     "foto": "https://image.tmdb.org/t/p/w185/bmlry1xqBzNgv8Chm783ss93Cvg.jpg"
-    },
-    {
-     "nombre": "Michaela Watkins",
-     "foto": "https://image.tmdb.org/t/p/w185/qw8RqZ2fehR0ZlHWwyH9WFjc3Qh.jpg"
-    },
-    {
-     "nombre": "Devon Sawa",
-     "foto": "https://image.tmdb.org/t/p/w185/yvMbpZ0UFQ1IBwlWm8quCA6fNc5.jpg"
-    },
-    {
-     "nombre": "Jordana Brewster",
-     "foto": "https://image.tmdb.org/t/p/w185/ceL0zxeVbWfCfhoIDZIE1NYqBWb.jpg"
-    },
-    {
-     "nombre": "Gigi Zumbado",
-     "foto": "https://image.tmdb.org/t/p/w185/ytuLWDoI558qsKNiA54qt0aACvh.jpg"
-    }
-   ],
-   "trailer": "https://www.youtube.com/watch?v=2unpOrLjZE4",
-   "temporadas_det": []
-  },
-  {
-   "id": "23191523",
-   "titulo": "Fragments for Venus",
-   "tipo": "p",
-   "plataforma": "prime",
-   "estado": "expiring",
-   "fecha": "2026-11-13",
-   "genero": "Drama",
-   "generos": [
-    "Drama"
-   ],
-   "imdb": 5.3,
-   "rt": null,
-   "duracion": "21 min",
-   "sinopsis": "Alice Diop colors in the blind spots of art history with this thoughtful short starring Kayije Kagame (Saint Omer). Countering clichés and absences in Black portraiture with the joys of real life, Fragments for Venus leaves behind Old Masters to widen the frame on where we find aesthetic pleasure.",
-   "poster": "https://image.tmdb.org/t/p/w342/rVeF3CV9qzDo35FQpi1llFjzLFf.jpg",
-   "reparto": [
-    {
-     "nombre": "Sephora Pondi",
-     "foto": "https://image.tmdb.org/t/p/w185/p7KmPpKMtB6XbO97ArMPrBaxsgG.jpg"
-    },
-    {
-     "nombre": "Kayije Kagame",
-     "foto": "https://image.tmdb.org/t/p/w185/8ZoX4wJfyON4XzpoFYNBMaHt4kp.jpg"
-    },
-    {
-     "nombre": "Alice Diop",
-     "foto": "https://image.tmdb.org/t/p/w185/j7jVv6IpOalPm64TXrATaMW0jrv.jpg"
-    }
-   ],
-   "trailer": null,
-   "temporadas_det": []
-  },
-  {
-   "id": "17166",
-   "titulo": "El Refugio",
-   "tipo": "p",
-   "plataforma": "prime",
-   "estado": "expiring",
-   "fecha": "2026-11-13",
-   "genero": "Drama",
-   "generos": [
-    "Drama"
-   ],
-   "imdb": 6.1,
-   "rt": 90,
-   "duracion": "1 h 47 min",
-   "sinopsis": "Rory es un emprendedor ambicioso que trae a su esposa e hijos estadounidenses a su país natal, Inglaterra, para explorar nuevas oportunidades comerciales. Después de abandonar el santuario de su entorno suburbano estadounidense seguro, la familia se sumerge en la desesperación de una Gran Bretaña arcaica de los 80 y su nueva vida inasequible en una casa solariega inglesa amenaza con destruir a la familia.",
-   "poster": "https://image.tmdb.org/t/p/w342/ypBnPJF7OQySTx71O5OihNmWGKH.jpg",
-   "reparto": [
-    {
-     "nombre": "Jude Law",
-     "foto": "https://image.tmdb.org/t/p/w185/6UadpSbfC39WMChAcdnNunzwDxv.jpg"
-    },
-    {
-     "nombre": "Carrie Coon",
-     "foto": "https://image.tmdb.org/t/p/w185/vWChiHhXFjZVKC6HbACyyRFmdW4.jpg"
-    },
-    {
-     "nombre": "Charlie Shotwell",
-     "foto": "https://image.tmdb.org/t/p/w185/wNA0VZueKeNhTjkNhuX0Fnz0cVz.jpg"
-    },
-    {
-     "nombre": "Oona Roche",
-     "foto": "https://image.tmdb.org/t/p/w185/qxYwNTSfyz6ZJHw4t7dmyfAcQoT.jpg"
-    },
-    {
-     "nombre": "Adeel Akhtar",
-     "foto": "https://image.tmdb.org/t/p/w185/z1FSCVRLYP5FmHloQ2V9RGC3YYY.jpg"
-    },
-    {
-     "nombre": "Wendy Crewson",
-     "foto": "https://image.tmdb.org/t/p/w185/6hplkzK8KV5Cw8Z8SVKwlt3nU5I.jpg"
-    }
-   ],
-   "trailer": "https://www.youtube.com/watch?v=Fid1pAs3Miw",
-   "temporadas_det": []
-  },
-  {
-   "id": "1212",
-   "titulo": "R3sacon",
-   "tipo": "p",
-   "plataforma": "netflix",
-   "estado": "expiring",
-   "fecha": "2026-11-13",
-   "genero": "Comedia",
-   "generos": [
-    "Comedia"
-   ],
-   "imdb": 5.9,
-   "rt": 21,
-   "duracion": "1 h 40 min",
-   "sinopsis": "Tras la inesperada muerte de su padre, Alan (Zach Galifianakas) es llevado por sus amigos Phil (Bradley Cooper), Stu (Ed Helms) y Doug (Justin Bartha) a un centro especializado para que mejore. Esta vez no hay boda ni fiesta de despedida ¿Qué puede ir mal? Pues que cuando estos chicos salen a la carretera, y sobre todo cuando aparece Chow (Ken Jeong)... la suerte está echada. Tercera entrega de la franquicia iniciada en 2009 con 'Resacón en Las Vegas'.",
-   "poster": "https://image.tmdb.org/t/p/w342/jxhkMvcdbk9RhobvURI1HeVrp3E.jpg",
-   "reparto": [
-    {
-     "nombre": "Bradley Cooper",
-     "foto": "https://image.tmdb.org/t/p/w185/5Dhy50qOMOHfR1NZifKIfffjV9X.jpg"
-    },
-    {
-     "nombre": "Ed Helms",
-     "foto": "https://image.tmdb.org/t/p/w185/gPZ8tZaNQGAc3KZRIPp9rgGbEnN.jpg"
-    },
-    {
-     "nombre": "Zach Galifianakis",
-     "foto": "https://image.tmdb.org/t/p/w185/qsDfoUlRnXHUiqZeBPWHzmgmKGX.jpg"
-    },
-    {
-     "nombre": "Justin Bartha",
-     "foto": "https://image.tmdb.org/t/p/w185/AalKjN8nR8RZ8g6ZdWV2smnQq4d.jpg"
-    },
-    {
-     "nombre": "Ken Jeong",
-     "foto": "https://image.tmdb.org/t/p/w185/dfuDZ2m2A8nBb0TdyeqmlPOobJA.jpg"
-    },
-    {
-     "nombre": "John Goodman",
-     "foto": "https://image.tmdb.org/t/p/w185/yyYqoyKHO7hE1zpgEV2XlqYWcNV.jpg"
-    }
-   ],
-   "trailer": "https://www.youtube.com/watch?v=96TelFMZwHc",
-   "temporadas_det": []
-  },
-  {
-   "id": "281",
-   "titulo": "Resacón en Las Vegas",
-   "tipo": "p",
-   "plataforma": "netflix",
-   "estado": "expiring",
-   "fecha": "2026-11-13",
-   "genero": "Comedia",
-   "generos": [
-    "Comedia"
-   ],
-   "imdb": 7.6,
-   "rt": 79,
-   "duracion": "1 h 40 min",
-   "sinopsis": "\"The Hangover\" es la historia de una desmadrada despedida de soltero en la que el futuro novio y sus tres amigos, dos días antes de la boda, se montan la juerga padre en Las Vegas. Doug viaja a la ciudad del juego con sus mejores amigos Phil y Stu, así como su futuro cuñado Alan. La juerga es de campeonato y, como era de esperar, a la mañana siguiente tienen una resaca monumental. El problema es que, siendo incapaces de recordar nada de lo ocurrido durante la noche anterior, se encuentran con que el prometido ha desaparecido, topándose en su lugar con otras dos sorpresas en la suite del hotel: un tigre y un bebé.",
-   "poster": "https://image.tmdb.org/t/p/w342/rqeim09TdaflSvPNVnCTBjUHlKu.jpg",
-   "reparto": [
-    {
-     "nombre": "Bradley Cooper",
-     "foto": "https://image.tmdb.org/t/p/w185/5Dhy50qOMOHfR1NZifKIfffjV9X.jpg"
-    },
-    {
-     "nombre": "Ed Helms",
-     "foto": "https://image.tmdb.org/t/p/w185/gPZ8tZaNQGAc3KZRIPp9rgGbEnN.jpg"
-    },
-    {
-     "nombre": "Zach Galifianakis",
-     "foto": "https://image.tmdb.org/t/p/w185/qsDfoUlRnXHUiqZeBPWHzmgmKGX.jpg"
-    },
-    {
-     "nombre": "Justin Bartha",
-     "foto": "https://image.tmdb.org/t/p/w185/AalKjN8nR8RZ8g6ZdWV2smnQq4d.jpg"
-    },
-    {
-     "nombre": "Heather Graham",
-     "foto": "https://image.tmdb.org/t/p/w185/avYdNkeg1oTvmrNJbFDcTlBCkKs.jpg"
-    },
-    {
-     "nombre": "Sasha Barrese",
-     "foto": "https://image.tmdb.org/t/p/w185/4SGcSiC46h86mdChDj0taF5eHSl.jpg"
-    }
-   ],
-   "trailer": "https://www.youtube.com/watch?v=tlize92ffnY",
-   "temporadas_det": []
-  },
-  {
-   "id": "621",
-   "titulo": "Resacón 2: ¡Ahora en Tailandia!",
-   "tipo": "p",
-   "plataforma": "netflix",
-   "estado": "expiring",
-   "fecha": "2026-11-13",
-   "genero": "Comedia",
-   "generos": [
-    "Comedia"
-   ],
-   "imdb": 6.5,
-   "rt": 35,
-   "duracion": "1 h 42 min",
-   "sinopsis": "Phil, Stu, Alan y Doug viajan a la exótica Tailandia para la boda de Stu. Con el recuerdo de la desastrosa despedida de soltero en Las Vegas aún vivo en su memoria - o al menos bien documentado -, Stu no deja nada al azar. Ha optado por un brunch preboda seguro y tranquilo con tortitas, café, y sin alcohol... Sin embargo, las cosas no siempre salen como se piensa. Dos noches antes del gran día, en un fabuloso resort de Tailandia, Stu cede. Una cerveza para cada uno. En botellas cerradas, ¿qué podría pasar?Lo que ocurre en Las Vegas se queda en Las Vegas, pero lo que ocurre en Bangkok resulta difícil de imaginar.",
-   "poster": "https://image.tmdb.org/t/p/w342/u8B1a1AEhZ0k2mvPvzOYSJDnlge.jpg",
-   "reparto": [
-    {
-     "nombre": "Bradley Cooper",
-     "foto": "https://image.tmdb.org/t/p/w185/5Dhy50qOMOHfR1NZifKIfffjV9X.jpg"
-    },
-    {
-     "nombre": "Ed Helms",
-     "foto": "https://image.tmdb.org/t/p/w185/gPZ8tZaNQGAc3KZRIPp9rgGbEnN.jpg"
-    },
-    {
-     "nombre": "Zach Galifianakis",
-     "foto": "https://image.tmdb.org/t/p/w185/qsDfoUlRnXHUiqZeBPWHzmgmKGX.jpg"
-    },
-    {
-     "nombre": "Justin Bartha",
-     "foto": "https://image.tmdb.org/t/p/w185/AalKjN8nR8RZ8g6ZdWV2smnQq4d.jpg"
-    },
-    {
-     "nombre": "Mason Lee",
-     "foto": "https://image.tmdb.org/t/p/w185/zVJfscd1rBPCXOMnsqTmlohCo8i.jpg"
-    },
-    {
-     "nombre": "Ken Jeong",
-     "foto": "https://image.tmdb.org/t/p/w185/dfuDZ2m2A8nBb0TdyeqmlPOobJA.jpg"
-    }
-   ],
-   "trailer": "https://www.youtube.com/watch?v=3DxQXtVmWG0",
-   "temporadas_det": []
-  },
-  {
-   "id": "2836",
-   "titulo": "Con C mayúscula",
-   "tipo": "s",
-   "plataforma": "netflix",
-   "estado": "expiring",
-   "fecha": "2026-11-13",
-   "genero": "Comedia",
-   "generos": [
-    "Comedia",
-    "Drama"
-   ],
-   "imdb": 6.9,
-   "rt": null,
-   "duracion": "4 temporadas, 40 episodios",
-   "sinopsis": "Cuando a Cathy Jamison (Laura Linney), una madre de familia, le diagnostican un cáncer, se verá obligada a modificar algunos de sus hábitos, lo cual, paradójicamente, contribuirá hasta cierto punto a mejorar su vida. Oliver Platt interpreta a Paul, el inmaduro marido de Cathy.",
-   "poster": "https://image.tmdb.org/t/p/w342/npcvTW0bcq96NZ9DuO96i3uJ3MF.jpg",
-   "reparto": [
-    {
-     "nombre": "Laura Linney",
-     "foto": "https://image.tmdb.org/t/p/w185/6I31xZxo9Hq6T0OhSwCUjHd8jkB.jpg"
-    },
-    {
-     "nombre": "John Benjamin Hickey",
-     "foto": "https://image.tmdb.org/t/p/w185/4sUI0QhpeATA3Ah1R5FQzPLrndC.jpg"
-    },
-    {
-     "nombre": "Oliver Platt",
-     "foto": "https://image.tmdb.org/t/p/w185/ipBzOzgWRdxxYoM5xNN1cfenFaC.jpg"
-    },
-    {
-     "nombre": "Gabourey Sidibe",
-     "foto": "https://image.tmdb.org/t/p/w185/d0p0MGqM1GrrnBw4b3V9uM6HCl2.jpg"
-    },
-    {
-     "nombre": "Gabriel Basso",
-     "foto": "https://image.tmdb.org/t/p/w185/6jHYQf6Y37BEouavp03WWpWpFyR.jpg"
-    }
-   ],
-   "trailer": "https://www.youtube.com/watch?v=nfcceO-U2wk",
-   "temporadas_det": [
-    {
-     "n": 1,
-     "eps": [
-      {
-       "n": 1,
-       "t": "Episodio 1",
-       "f": "2010-08-16"
-      },
-      {
-       "n": 2,
-       "t": "Episodio 2",
-       "f": "2010-08-23"
-      },
-      {
-       "n": 3,
-       "t": "Episodio 3",
-       "f": "2010-08-30"
-      },
-      {
-       "n": 4,
-       "t": "Episodio 4",
-       "f": "2010-09-13"
-      },
-      {
-       "n": 5,
-       "t": "Episodio 5",
-       "f": "2010-09-20"
-      },
-      {
-       "n": 6,
-       "t": "Episodio 6",
-       "f": "2010-09-27"
-      },
-      {
-       "n": 7,
-       "t": "Episodio 7",
-       "f": "2010-10-04"
-      },
-      {
-       "n": 8,
-       "t": "Episodio 8",
-       "f": "2010-10-11"
-      },
-      {
-       "n": 9,
-       "t": "Episodio 9",
-       "f": "2010-10-18"
-      },
-      {
-       "n": 10,
-       "t": "Episodio 10",
-       "f": "2010-10-25"
-      },
-      {
-       "n": 11,
-       "t": "Episodio 11",
-       "f": "2010-11-01"
-      },
-      {
-       "n": 12,
-       "t": "Episodio 12",
-       "f": "2010-11-08"
-      },
-      {
-       "n": 13,
-       "t": "Episodio 13",
-       "f": "2010-11-15"
-      }
-     ]
-    },
-    {
-     "n": 2,
-     "eps": [
-      {
-       "n": 1,
-       "t": "Episodio 1",
-       "f": "2011-06-27"
-      },
-      {
-       "n": 2,
-       "t": "Episodio 2",
-       "f": "2011-07-04"
-      },
-      {
-       "n": 3,
-       "t": "Episodio 3",
-       "f": "2011-07-11"
-      },
-      {
-       "n": 4,
-       "t": "Episodio 4",
-       "f": "2011-07-18"
-      },
-      {
-       "n": 5,
-       "t": "Episodio 5",
-       "f": "2011-07-25"
-      },
-      {
-       "n": 6,
-       "t": "Episodio 6",
-       "f": "2011-08-01"
-      },
-      {
-       "n": 7,
-       "t": "Episodio 7",
-       "f": "2011-08-08"
-      },
-      {
-       "n": 8,
-       "t": "Episodio 8",
-       "f": "2011-08-15"
-      },
-      {
-       "n": 9,
-       "t": "Episodio 9",
-       "f": "2011-08-22"
-      },
-      {
-       "n": 10,
-       "t": "Episodio 10",
-       "f": "2011-08-29"
-      },
-      {
-       "n": 11,
-       "t": "Episodio 11",
-       "f": "2011-09-12"
-      },
-      {
-       "n": 12,
-       "t": "Episodio 12",
-       "f": "2011-09-19"
-      },
-      {
-       "n": 13,
-       "t": "Episodio 13",
-       "f": "2011-09-26"
-      }
-     ]
-    },
-    {
-     "n": 3,
-     "eps": [
-      {
-       "n": 1,
-       "t": "Episodio 1",
-       "f": "2012-04-08"
-      },
-      {
-       "n": 2,
-       "t": "Episodio 2",
-       "f": "2012-04-15"
-      },
-      {
-       "n": 3,
-       "t": "Episodio 3",
-       "f": "2012-04-22"
-      },
-      {
-       "n": 4,
-       "t": "Episodio 4",
-       "f": "2012-04-29"
-      },
-      {
-       "n": 5,
-       "t": "Episodio 5",
-       "f": "2012-05-06"
-      },
-      {
-       "n": 6,
-       "t": "Episodio 6",
-       "f": "2012-05-13"
-      },
-      {
-       "n": 7,
-       "t": "Episodio 7",
-       "f": "2012-05-20"
-      },
-      {
-       "n": 8,
-       "t": "Episodio 8",
-       "f": "2012-06-03"
-      },
-      {
-       "n": 9,
-       "t": "Episodio 9",
-       "f": "2012-06-10"
-      },
-      {
-       "n": 10,
-       "t": "Episodio 10",
-       "f": "2012-06-17"
-      }
-     ]
-    },
-    {
-     "n": 4,
-     "eps": [
-      {
-       "n": 1,
-       "t": "Episodio 1",
-       "f": "2013-04-29"
-      },
-      {
-       "n": 2,
-       "t": "Episodio 2",
-       "f": "2013-05-06"
-      },
-      {
-       "n": 3,
-       "t": "Episodio 3",
-       "f": "2013-05-13"
-      },
-      {
-       "n": 4,
-       "t": "Episodio 4",
-       "f": "2013-05-20"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "id": "1763",
-   "titulo": "Future Man",
-   "tipo": "s",
-   "plataforma": "netflix",
-   "estado": "expiring",
-   "fecha": "2026-11-13",
-   "genero": "Comedia",
-   "generos": [
-    "Comedia",
-    "Ciencia ficción",
-    "Fantasía"
-   ],
-   "imdb": 7.2,
-   "rt": null,
-   "duracion": "3 temporadas, 34 episodios",
-   "sinopsis": "Josh Futterman trabaja como limpiador en Devlin, un centro de investigación de enfermedades sexuales. Aún vive en casa de sus padres y es socialmente muy torpe ya que tiene problemas personales de autoestima y no se puede acercar a una mujer. En su vida, Josh destaca únicamente en una cosa: Cybergeddon, un videojuego que transcurre en un futuro distópico donde su personaje, 'Future Man', tiene la mejor puntuación del mundo. Cuando acaba el último nivel, recibe la visita de personaje del juego que aparecen para explicarle que Cybergeddon era un entrenamiento y que ha sido escogido para viajar en el tiempo y salvar al mundo.",
-   "poster": "https://image.tmdb.org/t/p/w342/49mOgAEa4eKpPsoBH8UvvXwEMDT.jpg",
-   "reparto": [
-    {
-     "nombre": "Josh Hutcherson",
-     "foto": "https://image.tmdb.org/t/p/w185/f0eosZ1Fx0VBUyspq8K2f8sUSBn.jpg"
-    },
-    {
-     "nombre": "Eliza Coupe",
-     "foto": "https://image.tmdb.org/t/p/w185/uscVJ5XW8pA74wPaT29OlIx1Fy5.jpg"
-    },
-    {
-     "nombre": "Derek Wilson",
-     "foto": "https://image.tmdb.org/t/p/w185/m0IuJRaOeSwC5Tbnu0PhGYp53zO.jpg"
-    }
-   ],
-   "trailer": "https://www.youtube.com/watch?v=7wgNIKrlYh0",
-   "temporadas_det": [
-    {
-     "n": 1,
-     "eps": [
-      {
-       "n": 1,
-       "t": "Piloto",
-       "f": "2017-11-14"
-      },
-      {
-       "n": 2,
-       "t": "Hermano infiltrado",
-       "f": "2017-11-14"
-      },
-      {
-       "n": 3,
-       "t": "Penetración temporal",
-       "f": "2017-11-14"
-      },
-      {
-       "n": 4,
-       "t": "Un recado combustible",
-       "f": "2017-11-14"
-      },
-      {
-       "n": 5,
-       "t": "Los postres de la justicia",
-       "f": "2017-11-14"
-      },
-      {
-       "n": 6,
-       "t": "Una mamada antes de morir",
-       "f": "2017-11-14"
-      },
-      {
-       "n": 7,
-       "t": "El buzón de voz de Pandora",
-       "f": "2017-11-14"
-      },
-      {
-       "n": 8,
-       "t": "Grosor, viento y fuego",
-       "f": "2017-11-14"
-      },
-      {
-       "n": 9,
-       "t": "Operación: Atracción fatal",
-       "f": "2017-11-14"
-      },
-      {
-       "n": 10,
-       "t": "Operación: Atracción natal",
-       "f": "2017-11-14"
-      },
-      {
-       "n": 11,
-       "t": "Más allá de la cúpula de trufa",
-       "f": "2017-11-14"
-      },
-      {
-       "n": 12,
-       "t": "El preludio de un apocalipsis",
-       "f": "2017-11-14"
-      },
-      {
-       "n": 13,
-       "t": "Una cita con el destino",
-       "f": "2017-11-14"
-      }
-     ]
-    },
-    {
-     "n": 2,
-     "eps": [
-      {
-       "n": 1,
-       "t": "Prólogo a la cuenta atrás",
-       "f": "2019-01-11"
-      },
-      {
-       "n": 2,
-       "t": "La 'i' de Tiger",
-       "f": "2019-01-11"
-      },
-      {
-       "n": 3,
-       "t": "Wolf en la casa de Torque",
-       "f": "2019-01-11"
-      },
-      {
-       "n": 4,
-       "t": "Adivina quién viene a almorzar",
-       "f": "2019-01-11"
-      },
-      {
-       "n": 5,
-       "t": "J1: El día del juicio",
-       "f": "2019-01-11"
-      },
-      {
-       "n": 6,
-       "t": "El ultimátum de Binx",
-       "f": "2019-01-11"
-      },
-      {
-       "n": 7,
-       "t": "Homicidio: La vida en los Mons",
-       "f": "2019-01-11"
-      },
-      {
-       "n": 8,
-       "t": "La última horchata",
-       "f": "2019-01-11"
-      },
-      {
-       "n": 9,
-       "t": "La balada de Pup-E Q. Barkington",
-       "f": "2019-01-11"
-      },
-      {
-       "n": 10,
-       "t": "Exes y Os",
-       "f": "2019-01-11"
-      },
-      {
-       "n": 11,
-       "t": "Día de Los Robots",
-       "f": "2019-01-11"
-      },
-      {
-       "n": 12,
-       "t": "Un trabajo al cerebro",
-       "f": "2019-01-11"
-      },
-      {
-       "n": 13,
-       "t": "Ultra-Max",
-       "f": "2019-01-11"
-      }
-     ]
-    },
-    {
-     "n": 3,
-     "eps": [
-      {
-       "n": 1,
-       "t": "El precipicio de ayer",
-       "f": "2020-04-03"
-      },
-      {
-       "n": 2,
-       "t": "Habrá Borscht",
-       "f": "2020-04-03"
-      },
-      {
-       "n": 3,
-       "t": "Delicia del trampero",
-       "f": "2020-04-03"
-      },
-      {
-       "n": 4,
-       "t": "El salvaje proscrito Sam Bladden",
-       "f": "2020-04-03"
-      },
-      {
-       "n": 5,
-       "t": "Haven es de verdad",
-       "f": "2020-04-03"
-      },
-      {
-       "n": 6,
-       "t": "La Tierra después del tiempo",
-       "f": "2020-04-03"
-      },
-      {
-       "n": 7,
-       "t": "Granujas del tiempo III: Escapar del para siempre",
-       "f": "2020-04-03"
-      },
-      {
-       "n": 8,
-       "t": "Regreso del presente",
-       "f": "2020-04-03"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "id": "1581",
-   "titulo": "StartUp",
-   "tipo": "s",
-   "plataforma": "netflix",
-   "estado": "expiring",
-   "fecha": "2026-11-13",
-   "genero": "Crimen",
-   "generos": [
-    "Crimen",
-    "Drama"
-   ],
-   "imdb": 7.1,
-   "rt": null,
-   "duracion": "3 temporadas, 30 episodios",
-   "sinopsis": "La serie explora lo que sucede cuando una brillante idea tecnológica cae en las manos del emprendedor equivocado. Ambientada en las calles de Miami, la serie cuenta cómo una compañía financiada con dinero sucio proveniente de grupos criminales, tales como una banda de delincuentes haitianos, para construir un negocio estable, debe mantener sus actividades bajo secreto ante la atenta mirada del agente del FBI que tiene el poder de deshacerlo todo.",
-   "poster": "https://image.tmdb.org/t/p/w342/mXiB1e0x3iaRaaPPVhC1c7rgwPr.jpg",
-   "reparto": [
-    {
-     "nombre": "Adam Brody",
-     "foto": "https://image.tmdb.org/t/p/w185/qKBWrohBYegm6AAaLrtxEqqouIK.jpg"
-    },
-    {
-     "nombre": "Edi Gathegi",
-     "foto": "https://image.tmdb.org/t/p/w185/dt8yMyycDlzxkjhmuuJJ4tXDbp4.jpg"
-    },
-    {
-     "nombre": "Otmara Marrero",
-     "foto": "https://image.tmdb.org/t/p/w185/n9x3D82mzFopkiVJpOPNrgF0B1H.jpg"
-    },
-    {
-     "nombre": "Addison Timlin",
-     "foto": "https://image.tmdb.org/t/p/w185/ropQg0oZZP0R3xkWxYNdMx8glHi.jpg"
-    },
-    {
-     "nombre": "Ron Perlman",
-     "foto": "https://image.tmdb.org/t/p/w185/nfky6J9ueey1gMdWMNU9k9YdfGP.jpg"
-    },
-    {
-     "nombre": "Mira Sorvino",
-     "foto": "https://image.tmdb.org/t/p/w185/3CPM8yvppihiKsA1pf4x8PJe4x6.jpg"
-    }
-   ],
-   "trailer": null,
-   "temporadas_det": [
-    {
-     "n": 1,
-     "eps": [
-      {
-       "n": 1,
-       "t": "Capital inicial",
-       "f": "2016-09-06"
-      },
-      {
-       "n": 2,
-       "t": "Planta baja",
-       "f": "2016-09-06"
-      },
-      {
-       "n": 3,
-       "t": "Prueba de concepto",
-       "f": "2016-09-06"
-      },
-      {
-       "n": 4,
-       "t": "El inversor",
-       "f": "2016-09-06"
-      },
-      {
-       "n": 5,
-       "t": "Compra",
-       "f": "2016-09-06"
-      },
-      {
-       "n": 6,
-       "t": "Atado",
-       "f": "2016-09-06"
-      },
-      {
-       "n": 7,
-       "t": "Evaluación",
-       "f": "2016-09-06"
-      },
-      {
-       "n": 8,
-       "t": "A prorrata",
-       "f": "2016-09-06"
-      },
-      {
-       "n": 9,
-       "t": "Adquisición hostil",
-       "f": "2016-09-06"
-      },
-      {
-       "n": 10,
-       "t": "Recapitalización",
-       "f": "2016-09-06"
-      }
-     ]
-    },
-    {
-     "n": 2,
-     "eps": [
-      {
-       "n": 1,
-       "t": "Interrupción",
-       "f": "2017-09-28"
-      },
-      {
-       "n": 2,
-       "t": "Vanguardia",
-       "f": "2017-09-28"
-      },
-      {
-       "n": 3,
-       "t": "Pioneros",
-       "f": "2017-09-28"
-      },
-      {
-       "n": 4,
-       "t": "Pérdida",
-       "f": "2017-09-28"
-      },
-      {
-       "n": 5,
-       "t": "Pívot",
-       "f": "2017-09-28"
-      },
-      {
-       "n": 6,
-       "t": "Obligaciones",
-       "f": "2017-09-28"
-      },
-      {
-       "n": 7,
-       "t": "Frenando el Crecimiento",
-       "f": "2017-09-28"
-      },
-      {
-       "n": 8,
-       "t": "Coste de Oportunidad",
-       "f": "2017-09-28"
-      },
-      {
-       "n": 9,
-       "t": "Ventaja",
-       "f": "2017-09-28"
-      },
-      {
-       "n": 10,
-       "t": "Único Propietario",
-       "f": "2017-09-28"
-      }
-     ]
-    },
-    {
-     "n": 3,
-     "eps": [
-      {
-       "n": 1,
-       "t": "Lavado de cara",
-       "f": "2018-11-01"
-      },
-      {
-       "n": 2,
-       "t": "Capital de esfuerzo",
-       "f": "2018-11-01"
-      },
-      {
-       "n": 3,
-       "t": "Guerrilla",
-       "f": "2018-11-01"
-      },
-      {
-       "n": 4,
-       "t": "Devaluación",
-       "f": "2018-11-01"
-      },
-      {
-       "n": 5,
-       "t": "Diversificación",
-       "f": "2018-11-01"
-      },
-      {
-       "n": 6,
-       "t": "Autentificación",
-       "f": "2018-11-01"
-      },
-      {
-       "n": 7,
-       "t": "Responsabilidad limitada",
-       "f": "2018-11-01"
-      },
-      {
-       "n": 8,
-       "t": "Pérdida y ganancia",
-       "f": "2018-11-01"
-      },
-      {
-       "n": 9,
-       "t": "Gastos discutibles",
-       "f": "2018-11-01"
-      },
-      {
-       "n": 10,
-       "t": "Intercambio positivo",
-       "f": "2018-11-01"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "id": "14375416",
-   "titulo": "Pídeme lo que quieras",
-   "tipo": "p",
-   "plataforma": "netflix",
-   "estado": "expiring",
-   "fecha": "2026-11-13",
-   "genero": "Romance",
-   "generos": [
-    "Romance",
-    "Drama"
-   ],
-   "imdb": 4.5,
-   "rt": null,
-   "duracion": "1 h 54 min",
-   "sinopsis": "Judith Flores es una chica normal. Tiene un trabajo que le apasiona, muy buenos amigos y un padre encantador. Pero su vida cambia radicalmente cuando conoce a Eric Zimmerman, dueño de la empresa donde ella trabaja. Su relación con Eric está a punto de dinamitar su vida por completo.",
-   "poster": "https://image.tmdb.org/t/p/w342/5rtaLwyKAjbceww4J1ro8aA8BNB.jpg",
-   "reparto": [
-    {
-     "nombre": "Gabriela Andrada",
-     "foto": "https://image.tmdb.org/t/p/w185/h8cAdDqbDK2ayGIuxQQdNCzyCsb.jpg"
-    },
-    {
-     "nombre": "Mario Ermito",
-     "foto": "https://image.tmdb.org/t/p/w185/xP8w9NAtYJaXlBBhZCTDXJAqlkL.jpg"
-    },
-    {
-     "nombre": "Celia Freijeiro",
-     "foto": "https://image.tmdb.org/t/p/w185/l32Ys5nQptZLJFRtlVJXKbK704U.jpg"
-    },
-    {
-     "nombre": "David Solans",
-     "foto": "https://image.tmdb.org/t/p/w185/j0aKkDMqevgdXGZB8ciu9KMqE0K.jpg"
-    },
-    {
-     "nombre": "Alba Ribas",
-     "foto": "https://image.tmdb.org/t/p/w185/zfASs4kqXPL7CmRWmqjJovwjfsu.jpg"
-    },
-    {
-     "nombre": "Joel Bosqued",
-     "foto": "https://image.tmdb.org/t/p/w185/pTCPqrbf9dtHUf4be3TANv6hRSL.jpg"
-    }
-   ],
-   "trailer": "https://www.youtube.com/watch?v=MzNbhA4WFqg",
-   "temporadas_det": []
-  },
-  {
-   "id": "37373",
-   "titulo": "Iron Man: La rebelión del technivoro",
-   "tipo": "p",
-   "plataforma": "netflix",
-   "estado": "expiring",
-   "fecha": "2026-11-13",
-   "genero": "Ciencia ficción",
-   "generos": [
-    "Ciencia ficción",
-    "Animación",
-    "Acción"
-   ],
-   "imdb": 5.4,
-   "rt": null,
-   "duracion": "1 h 28 min",
-   "sinopsis": "Dirigido por Hiroshi Hamasaki y con una historia de Brandon Auman, esta película explora la confrontación entre Iron Man y el villano Ezekiel Stane, quien desarrolla nueva biotecnología que, al parecer, sobrepasa la de la armadura de Iron Man. Así, Stane lanzará un ataque terrorista y hará parecer culpable a Iron Man, tras lo cual, el propio Stark tendrá que evadir a los cazadores de S.H.I.E.L.D. y encontrar la manera de limpiar su nombre.",
-   "poster": "https://image.tmdb.org/t/p/w342/4CLH3eYDCIEQlTaOinRSVO6RQFM.jpg",
-   "reparto": [
-    {
-     "nombre": "Tessyo Genda",
-     "foto": "https://image.tmdb.org/t/p/w185/7eJeYv2OCHKAadeFVdabVkpWldo.jpg"
-    },
-    {
-     "nombre": "Keiji Fujiwara",
-     "foto": "https://image.tmdb.org/t/p/w185/hbfBiFiEvD8u3vikl6hUNLKF7Lv.jpg"
-    },
-    {
-     "nombre": "Miyu Irino",
-     "foto": "https://image.tmdb.org/t/p/w185/8qEEhHUObNvGQr4e6eqLu5z4qTz.jpg"
-    },
-    {
-     "nombre": "岡寛恵",
-     "foto": "https://image.tmdb.org/t/p/w185/uaYG3IGiIpDpz9P7C9fkL2Z7kAr.jpg"
-    },
-    {
-     "nombre": "Hiroki Yasumoto",
-     "foto": "https://image.tmdb.org/t/p/w185/vNIGLl0wFmdhdnulMssQ1qyNeBs.jpg"
-    },
-    {
-     "nombre": "皆川純子",
-     "foto": "https://image.tmdb.org/t/p/w185/vylNOlXVmYFW8TJgq3Dvgoq1dy5.jpg"
-    }
-   ],
-   "trailer": "https://www.youtube.com/watch?v=qFzrTBCzsFY",
-   "temporadas_det": []
-  },
-  {
-   "id": "8865554",
-   "titulo": "El señor de los anillos: La guerra de los Rohirrim",
-   "tipo": "p",
-   "plataforma": "netflix",
-   "estado": "expiring",
-   "fecha": "2026-11-13",
-   "genero": "Animación",
-   "generos": [
-    "Animación",
-    "Fantasía",
-    "Aventura",
-    "Acción"
-   ],
-   "imdb": 6.3,
-   "rt": 49,
-   "duracion": "2 h 14 min",
-   "sinopsis": "Explora la \"historia no contada\" del Abismo de Helm, cientos de años antes de la mítica batalla, y de su fundador, Helm Hammerhand, Rey de Rohan.",
-   "poster": "https://image.tmdb.org/t/p/w342/gg4QxJhVeuLmu7WCpUjq2bfbted.jpg",
-   "reparto": [
-    {
-     "nombre": "Brian Cox",
-     "foto": "https://image.tmdb.org/t/p/w185/scSjbFCTRngXlkJRoKptM5kQGw7.jpg"
-    },
-    {
-     "nombre": "Gaia Wise",
-     "foto": "https://image.tmdb.org/t/p/w185/vyjUZOrhto3PKq4PuHG7270cum5.jpg"
-    },
-    {
-     "nombre": "Luke Pasqualino",
-     "foto": "https://image.tmdb.org/t/p/w185/egwyqohJ3KLag4GUyTzXGngwTc1.jpg"
-    },
-    {
-     "nombre": "Laurence Ubong Williams",
-     "foto": "https://image.tmdb.org/t/p/w185/wKc9PHuuqrFRIAepLm87AUDdvgt.jpg"
-    },
-    {
-     "nombre": "Lorraine Ashbourne",
-     "foto": "https://image.tmdb.org/t/p/w185/4cOOwDYkKcCf9G6fdGGDyAR4jru.jpg"
-    },
-    {
-     "nombre": "Miranda Otto",
-     "foto": "https://image.tmdb.org/t/p/w185/szME1IBVTLgiKrO5D5wvOGnvUDW.jpg"
-    }
-   ],
-   "trailer": "https://www.youtube.com/watch?v=9FlsJqDox5M",
-   "temporadas_det": []
-  },
   {
    "id": "27050",
    "titulo": "Karakuri Circus",
@@ -1427,51 +330,6 @@
    "temporadas_det": []
   },
   {
-   "id": "14377016",
-   "titulo": "The Deal",
-   "tipo": "p",
-   "plataforma": "prime",
-   "estado": "expiring",
-   "fecha": "2026-11-14",
-   "genero": "Drama",
-   "generos": [
-    "Drama"
-   ],
-   "imdb": 4.0,
-   "rt": null,
-   "duracion": "",
-   "sinopsis": "",
-   "poster": "https://cdn.movieofthenight.com/show/14377016/poster/vertical/fr/240.jpg?Expires=1824273665&Signature=YExho9YihFL4crgGBu6CnoB53s0y~n3Y1CIsyhgqdqXJZ485OWUc1BnHgzwYhcPJahdHaL6lC-~LaCn79IoviGoB49xIRb~VIHvUN3F3FF3eF3szAhiFdtLSOYdrNRYmYxifY2uSVsg-ibcfKkeJfhuvCYbUNFq5yu1jtoF863sdbBl7B2uOsc07OJ6gigdbB7Fr8mC2ipcYpkVdYaoUIfuDaMuVGmBotWV2lckoFwQK6KX0OpfKNYYQlhzGzXpRY2-lKxWbsU2fBQ~FEfz0UYndSmmaG9HdJwh3yqktI1gpaZxmD1H685uW~Mhxqbjvmf9EmFaKZkfdMX7FlFZ1nA__&Key-Pair-Id=KK4HN3OO4AT5R",
-   "reparto": [
-    {
-     "nombre": "Emma Kotos",
-     "foto": "https://image.tmdb.org/t/p/w185/jNs6n8HsxCNWIwQSFj0yffUChK6.jpg"
-    },
-    {
-     "nombre": "Brett Robert Culbert",
-     "foto": "https://image.tmdb.org/t/p/w185/mZRvBAs1pm13G4nMGcsZTHBuhqx.jpg"
-    },
-    {
-     "nombre": "Grace Bozza",
-     "foto": null
-    },
-    {
-     "nombre": "Jisaura Cardinale",
-     "foto": null
-    },
-    {
-     "nombre": "Tash Jordan",
-     "foto": "https://image.tmdb.org/t/p/w185/vpstXYWDJAHcuT74uJFlLsZuySZ.jpg"
-    },
-    {
-     "nombre": "Zion Pham",
-     "foto": null
-    }
-   ],
-   "trailer": null,
-   "temporadas_det": []
-  },
-  {
    "id": "621",
    "titulo": "Resacón 2: ¡Ahora en Tailandia!",
    "tipo": "p",
@@ -1608,34 +466,34 @@
   },
   {
    "id": "13793609",
-   "titulo": "Christmas Cowboy",
+   "titulo": "Un cowboy por Navidad",
    "tipo": "p",
    "plataforma": "prime",
    "estado": "expiring",
    "fecha": "2026-11-14",
-   "genero": "Comedia",
+   "genero": "Drama",
    "generos": [
-    "Comedia",
     "Drama",
-    "Romance"
+    "Romance",
+    "Comedia"
    ],
    "imdb": 5.2,
    "rt": null,
-   "duracion": "1 h 53 min",
-   "sinopsis": "A savvy but overlooked real estate developer in New York is tasked with closing the deal of a lifetime with an eccentric billionaire in her small Vermont hometown.  Once there, she competes with a ruthless rival, reconnects with her estranged family and childhood sweetheart, and finds true love.  Along the way, she learns that true Christmas magic is love, forgiveness, family, and horses.",
-   "poster": "https://cdn.movieofthenight.com/show/13793609/poster/vertical/en/240.jpg?Expires=1821543349&Signature=GhkMZxxX-~MjLiCzrPuQ5NPJO1Ei-lhShBLnlySnUkMOhyDBdhm7a7UyGj~rjJ8RcWbOtADL~HRVxxfWgF9-QzORr7XZLq81uZxd3aIT7C50nHDbOm10eNqaal5Pxex0fFof8K1ykMJ2jmHkCjkv5lRLUdlHqc-fJoyvKuFlEGJapTiAkEcyj69T4X9Ek4DXO-Apfi1MR1bUIdPKvZ93GcCZ6s1kNFwSOTHMfWoxQ0RrQMK9K6d3~vMCHMu~zFbn~NRRHo-Tgfkksuq6k-Sf1Ye~P0tvMriwP73HZ-Vhkpur6lSv2BJsY~LFlq76yifyrhY3H4K3c4HpyAvFVvL51w__&Key-Pair-Id=KK4HN3OO4AT5R",
+   "duracion": "1 h 58 min",
+   "sinopsis": "Una desarrolladora inmobiliaria en Nueva York debe cerrar el trato de su vida con un excéntrico multimillonario en su pequeño pueblo natal de Vermont. Una vez allí, debe competir con un rival despiadado, reconectarse con su familia distanciada y aprender a superar los miedos de su infancia. En el camino, descubre que la verdadera magia de la Navidad está en el amor, la familia y los caballos.",
+   "poster": "https://image.tmdb.org/t/p/w342/jLsbRUnmX9IdKVNc33LINJ3vy6H.jpg",
    "reparto": [
     {
      "nombre": "Eliana Ghen",
-     "foto": null
+     "foto": "https://image.tmdb.org/t/p/w185/xK4TJyBRiB3dAIZU5w0EIsOlCBS.jpg"
     },
     {
      "nombre": "Armando Gutierrez",
-     "foto": null
+     "foto": "https://image.tmdb.org/t/p/w185/sJvsoQuqZcApIzPbGoljUEjBehu.jpg"
     },
     {
      "nombre": "Courtney Gains",
-     "foto": null
+     "foto": "https://image.tmdb.org/t/p/w185/oltwheJHYYfjrWfXNA4LmjPU5kG.jpg"
     },
     {
      "nombre": "Gracie Cashman",
@@ -1643,14 +501,14 @@
     },
     {
      "nombre": "Carlos Guerrero",
-     "foto": null
+     "foto": "https://image.tmdb.org/t/p/w185/jnoivE0GOWq1j67xO0qTri8SPFe.jpg"
     },
     {
      "nombre": "Lilia Karst",
      "foto": null
     }
    ],
-   "trailer": null,
+   "trailer": "https://www.youtube.com/watch?v=KS9g4vFqFo0",
    "temporadas_det": []
   },
   {
@@ -1832,6 +690,51 @@
     }
    ],
    "trailer": "https://www.youtube.com/watch?v=96TelFMZwHc",
+   "temporadas_det": []
+  },
+  {
+   "id": "14377016",
+   "titulo": "The Deal",
+   "tipo": "p",
+   "plataforma": "prime",
+   "estado": "expiring",
+   "fecha": "2026-11-14",
+   "genero": "Drama",
+   "generos": [
+    "Drama"
+   ],
+   "imdb": 4.0,
+   "rt": null,
+   "duracion": "",
+   "sinopsis": "",
+   "poster": "https://cdn.movieofthenight.com/show/14377016/poster/vertical/fr/240.jpg?Expires=1824273665&Signature=YExho9YihFL4crgGBu6CnoB53s0y~n3Y1CIsyhgqdqXJZ485OWUc1BnHgzwYhcPJahdHaL6lC-~LaCn79IoviGoB49xIRb~VIHvUN3F3FF3eF3szAhiFdtLSOYdrNRYmYxifY2uSVsg-ibcfKkeJfhuvCYbUNFq5yu1jtoF863sdbBl7B2uOsc07OJ6gigdbB7Fr8mC2ipcYpkVdYaoUIfuDaMuVGmBotWV2lckoFwQK6KX0OpfKNYYQlhzGzXpRY2-lKxWbsU2fBQ~FEfz0UYndSmmaG9HdJwh3yqktI1gpaZxmD1H685uW~Mhxqbjvmf9EmFaKZkfdMX7FlFZ1nA__&Key-Pair-Id=KK4HN3OO4AT5R",
+   "reparto": [
+    {
+     "nombre": "Emma Kotos",
+     "foto": "https://image.tmdb.org/t/p/w185/jNs6n8HsxCNWIwQSFj0yffUChK6.jpg"
+    },
+    {
+     "nombre": "Brett Robert Culbert",
+     "foto": "https://image.tmdb.org/t/p/w185/mZRvBAs1pm13G4nMGcsZTHBuhqx.jpg"
+    },
+    {
+     "nombre": "Grace Bozza",
+     "foto": null
+    },
+    {
+     "nombre": "Jisaura Cardinale",
+     "foto": null
+    },
+    {
+     "nombre": "Tash Jordan",
+     "foto": "https://image.tmdb.org/t/p/w185/vpstXYWDJAHcuT74uJFlLsZuySZ.jpg"
+    },
+    {
+     "nombre": "Zion Pham",
+     "foto": null
+    }
+   ],
+   "trailer": null,
    "temporadas_det": []
   },
   {
@@ -2375,6 +1278,52 @@
     }
    ],
    "trailer": "https://www.youtube.com/watch?v=90P66eJRh8s",
+   "temporadas_det": []
+  },
+  {
+   "id": "55164",
+   "titulo": "Leonard Cohen: Yo soy tu hombre",
+   "tipo": "p",
+   "plataforma": "prime",
+   "estado": "expiring",
+   "fecha": "2026-11-15",
+   "genero": "Documental",
+   "generos": [
+    "Documental",
+    "Música"
+   ],
+   "imdb": 6.7,
+   "rt": 71,
+   "duracion": "1 h 45 min",
+   "sinopsis": "Compositor de canciones; poeta; ícono de la contracultura; y consumado seductor. Todo eso es el canadiense Leonard Cohen, un grande de la música desde que apareció en escena en 1967. Este documental le rinde homenaje.",
+   "poster": "https://image.tmdb.org/t/p/w342/5b2G1junuUkQn5MtMDXobzHUbDZ.jpg",
+   "reparto": [
+    {
+     "nombre": "Leonard Cohen",
+     "foto": "https://image.tmdb.org/t/p/w185/cRHWtGOa7IOJWayAQM3FBLCM82x.jpg"
+    },
+    {
+     "nombre": "Martha Wainwright",
+     "foto": null
+    },
+    {
+     "nombre": "Rufus Wainwright",
+     "foto": "https://image.tmdb.org/t/p/w185/6JKOGgb0UowE0Ad81Urjpn5BPRT.jpg"
+    },
+    {
+     "nombre": "Beth Orton",
+     "foto": "https://image.tmdb.org/t/p/w185/nSoGA6PfMPgUpOr0s6fZdLkBSKX.jpg"
+    },
+    {
+     "nombre": "Jarvis Cocker",
+     "foto": "https://image.tmdb.org/t/p/w185/i4EzLcmH0OPoEicgE4hasgFdkIl.jpg"
+    },
+    {
+     "nombre": "Bono",
+     "foto": "https://image.tmdb.org/t/p/w185/p0TED4bMzyw00fxjiMnOARQOKvp.jpg"
+    }
+   ],
+   "trailer": "https://www.youtube.com/watch?v=odzdOYVhELI",
    "temporadas_det": []
   },
   {
@@ -5945,6 +4894,1026 @@
        "n": 4,
        "t": "Episodio 4",
        "f": "2015-10-06"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "62180",
+   "titulo": "The Fable: El asesino que no mata",
+   "tipo": "p",
+   "plataforma": "netflix",
+   "estado": "expiring",
+   "fecha": "2026-11-16",
+   "genero": "Acción",
+   "generos": [
+    "Acción",
+    "Comedia",
+    "Crimen"
+   ],
+   "imdb": 6.2,
+   "rt": null,
+   "duracion": "2 h 12 min",
+   "sinopsis": "Akira es el asesino legendario conocido como The Fable. Siguiendo la orden de su jefe y debido al exceso de trabajo, vive en paz con su pareja Yoko como hermanos comunes. Akira todavía trabaja a tiempo parcial en la empresa de diseño Octopus con el director ejecutivo Takoda y la empleada Misaki. El CEO Takoda y Misaki desconocen los antecedentes de Akira como asesino. Mientras tanto, Utsubo es representante de una NPO. Pero, Utsubo trabaja con el asesino a sueldo Suzuki para engañar a las personas con fines de extorsión. Apuntan a alguien de la empresa de diseño Octopus.",
+   "poster": "https://image.tmdb.org/t/p/w342/ezErMQQo614H3OUdiS5vDw5YiVS.jpg",
+   "reparto": [
+    {
+     "nombre": "岡田准一",
+     "foto": "https://image.tmdb.org/t/p/w185/pk5rltXChl9A3HjS6iQLGt1DWJY.jpg"
+    },
+    {
+     "nombre": "木村文乃",
+     "foto": "https://image.tmdb.org/t/p/w185/u9LWuxLvwl8cO7C7RtjxXHIGI5J.jpg"
+    },
+    {
+     "nombre": "堤真一",
+     "foto": "https://image.tmdb.org/t/p/w185/t3E5FKE7UGbdlnA8gy9lx03otIk.jpg"
+    },
+    {
+     "nombre": "平手友梨奈",
+     "foto": "https://image.tmdb.org/t/p/w185/wR3iI8ocqPWEZGY3Cea5E7m57KK.jpg"
+    },
+    {
+     "nombre": "安藤政信",
+     "foto": "https://image.tmdb.org/t/p/w185/8OkTaR4OkC3xmhhNcLSaE84aFFC.jpg"
+    },
+    {
+     "nombre": "山本美月",
+     "foto": "https://image.tmdb.org/t/p/w185/bDothbWptJS6RN8eLOzdKCZZgFa.jpg"
+    }
+   ],
+   "trailer": "https://www.youtube.com/watch?v=Y24pIsqROzA",
+   "temporadas_det": []
+  },
+  {
+   "id": "56386",
+   "titulo": "ザ・ファブル",
+   "tipo": "p",
+   "plataforma": "netflix",
+   "estado": "expiring",
+   "fecha": "2026-11-16",
+   "genero": "Acción",
+   "generos": [
+    "Acción",
+    "Comedia",
+    "Crimen"
+   ],
+   "imdb": 6.2,
+   "rt": null,
+   "duracion": "2 h 03 min",
+   "sinopsis": "An elite gun-for-hire is forced to lay low and not kill anyone for a year, but underworld figures start to threaten his newly calm and quiet life.",
+   "poster": "https://image.tmdb.org/t/p/w342/zILJ5Dzx1NTu2ATalKQrZgTi2mS.jpg",
+   "reparto": [
+    {
+     "nombre": "岡田准一",
+     "foto": "https://image.tmdb.org/t/p/w185/pk5rltXChl9A3HjS6iQLGt1DWJY.jpg"
+    },
+    {
+     "nombre": "木村文乃",
+     "foto": "https://image.tmdb.org/t/p/w185/u9LWuxLvwl8cO7C7RtjxXHIGI5J.jpg"
+    },
+    {
+     "nombre": "佐藤浩市",
+     "foto": "https://image.tmdb.org/t/p/w185/9HdEboDbi3hLVGwkgljQDznMZnb.jpg"
+    },
+    {
+     "nombre": "山本美月",
+     "foto": "https://image.tmdb.org/t/p/w185/bDothbWptJS6RN8eLOzdKCZZgFa.jpg"
+    },
+    {
+     "nombre": "Ken Yasuda",
+     "foto": "https://image.tmdb.org/t/p/w185/mSEnXFHj8MnighBVG0yZdKOVyxI.jpg"
+    },
+    {
+     "nombre": "柳楽優弥",
+     "foto": "https://image.tmdb.org/t/p/w185/7gk7OBP0r51M897sRZseU7n3OMm.jpg"
+    }
+   ],
+   "trailer": "https://www.youtube.com/watch?v=mmio9qs8NG8",
+   "temporadas_det": []
+  },
+  {
+   "id": "4174",
+   "titulo": "Paranoid",
+   "tipo": "s",
+   "plataforma": "netflix",
+   "estado": "expiring",
+   "fecha": "2026-11-16",
+   "genero": "Misterio",
+   "generos": [
+    "Misterio",
+    "Crimen"
+   ],
+   "imdb": 6.5,
+   "rt": null,
+   "duracion": "1 temporada, 8 episodios",
+   "sinopsis": "El asesinato de un médico sexo femenino en un parque infantil, delante de numerosos testigos, crea en un grupo de detectives un misterio cada vez más oscuro que los lleva a investigar a través de Europa.",
+   "poster": "https://image.tmdb.org/t/p/w342/6Z9oxugoepHqkXYVvElvb3VYcnm.jpg",
+   "reparto": [
+    {
+     "nombre": "Indira Varma",
+     "foto": "https://image.tmdb.org/t/p/w185/yaFCI907dcK2XkzO0HQgtK25kp2.jpg"
+    },
+    {
+     "nombre": "Robert Glenister",
+     "foto": "https://image.tmdb.org/t/p/w185/18oHwzcExUfXnDLyDWQEtmjPo1V.jpg"
+    },
+    {
+     "nombre": "Neil Stuke",
+     "foto": "https://image.tmdb.org/t/p/w185/k2WtfemrrSTvYtU3KQn9vwZ6HIm.jpg"
+    },
+    {
+     "nombre": "Christiane Paul",
+     "foto": "https://image.tmdb.org/t/p/w185/h1Cr9GA5C29FhDzbRZ6qrLTydjB.jpg"
+    },
+    {
+     "nombre": "Lesley Sharp",
+     "foto": "https://image.tmdb.org/t/p/w185/uqYQG4HSRLrOSSQdNH7mFmS4Xjo.jpg"
+    },
+    {
+     "nombre": "Anjli Mohindra",
+     "foto": "https://image.tmdb.org/t/p/w185/bUmLmifwwItfVP5bS6JbxISkwWR.jpg"
+    }
+   ],
+   "trailer": "https://www.youtube.com/watch?v=VlbpSReb1ek",
+   "temporadas_det": [
+    {
+     "n": 1,
+     "eps": [
+      {
+       "n": 1,
+       "t": "Episodio 1",
+       "f": "2016-09-22"
+      },
+      {
+       "n": 2,
+       "t": "Episodio 2",
+       "f": "2016-09-29"
+      },
+      {
+       "n": 3,
+       "t": "Episodio 3",
+       "f": "2016-10-06"
+      },
+      {
+       "n": 4,
+       "t": "Episodio 4",
+       "f": "2016-10-13"
+      },
+      {
+       "n": 5,
+       "t": "Episodio 5",
+       "f": "2016-10-20"
+      },
+      {
+       "n": 6,
+       "t": "Episodio 6",
+       "f": "2016-10-27"
+      },
+      {
+       "n": 7,
+       "t": "Episodio 7",
+       "f": "2016-11-03"
+      },
+      {
+       "n": 8,
+       "t": "Episodio 8",
+       "f": "2016-11-10"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "4425",
+   "titulo": "Historias de Chesapeake",
+   "tipo": "s",
+   "plataforma": "netflix",
+   "estado": "expiring",
+   "fecha": "2026-11-16",
+   "genero": "Drama",
+   "generos": [
+    "Drama"
+   ],
+   "imdb": 6.6,
+   "rt": null,
+   "duracion": "6 temporadas, 55 episodios",
+   "sinopsis": "Abby O'Brien Winters es una joven que vive en Nueva York. Un día, recibe la llamada de su hermana pequeña Jess para decirle que está renovando una posada en su ciudad natal. Abby no duda en escapar de la gran ciudad para volver al lugar donde se crió, un tranquilo pueblo llamado Chesapeake Shores que está en Maryland. Todos los recuerdos vuelven de repente cuando ve de nuevo el pueblo que construyó su padre años atrás.  La estresante vida de Abby en Nueva York la había hecho olvidar a su propia familia, y está dispuesta a recuperarla. Primero, ayudará a su hermana para que no pierda la casa. Después, intentará estrechar lazos con sus padres y, por último, deberá enfrentarse a Trace Riley, su primer amor que abandonó hace ya dieciséis años.",
+   "poster": "https://image.tmdb.org/t/p/w342/wAWnKnDwrhfUZZ3hKlwr23yBOwM.jpg",
+   "reparto": [
+    {
+     "nombre": "Meghan Ory",
+     "foto": "https://image.tmdb.org/t/p/w185/tO94Q2cAwcNCKhV7POeR0nqtE4r.jpg"
+    },
+    {
+     "nombre": "Laci J. Mailey",
+     "foto": "https://image.tmdb.org/t/p/w185/rJdLd3U15ywK6K42gVvUh1U1ouA.jpg"
+    },
+    {
+     "nombre": "Emilie Ullerup",
+     "foto": "https://image.tmdb.org/t/p/w185/kdeA6wtFjjleggt0Bklc9mEBQKy.jpg"
+    },
+    {
+     "nombre": "Barbara Niven",
+     "foto": "https://image.tmdb.org/t/p/w185/qRwCFXzAzna7viOOC4xjOCSu2Hy.jpg"
+    },
+    {
+     "nombre": "Robert Buckley",
+     "foto": "https://image.tmdb.org/t/p/w185/o4ju4sTWoEMK6QvDjQrqHYRBCrz.jpg"
+    },
+    {
+     "nombre": "Brendan Penny",
+     "foto": "https://image.tmdb.org/t/p/w185/cgjw8TR9J9zicgGWuzdXdcE9aQK.jpg"
+    }
+   ],
+   "trailer": "https://www.youtube.com/watch?v=Nx-0M57diNA",
+   "temporadas_det": [
+    {
+     "n": 1,
+     "eps": [
+      {
+       "n": 1,
+       "t": "Piloto",
+       "f": "2016-08-14"
+      },
+      {
+       "n": 2,
+       "t": "De vuelta al hogar (Parte 1)",
+       "f": "2016-08-21"
+      },
+      {
+       "n": 3,
+       "t": "De vuelta al hogar (Parte 2)",
+       "f": "2016-08-28"
+      },
+      {
+       "n": 4,
+       "t": "No perdemos un hijo...",
+       "f": "2016-09-04"
+      },
+      {
+       "n": 5,
+       "t": "Ganamos una hija",
+       "f": "2016-09-11"
+      },
+      {
+       "n": 6,
+       "t": "Georgia en mi pensamiento",
+       "f": "2016-09-18"
+      },
+      {
+       "n": 7,
+       "t": "Segunda oportunidad",
+       "f": "2016-09-25"
+      },
+      {
+       "n": 8,
+       "t": "Negocios pendientes",
+       "f": "2016-10-02"
+      },
+      {
+       "n": 9,
+       "t": "Los ex marcan lugar",
+       "f": "2016-10-09"
+      }
+     ]
+    },
+    {
+     "n": 2,
+     "eps": [
+      {
+       "n": 1,
+       "t": "Secretos, mentiras y material escolar",
+       "f": "2017-08-06"
+      },
+      {
+       "n": 2,
+       "t": "Pasados y presentes",
+       "f": "2017-08-13"
+      },
+      {
+       "n": 3,
+       "t": "Fotografias y recuerdos",
+       "f": "2017-08-20"
+      },
+      {
+       "n": 4,
+       "t": "Siempre Nashville",
+       "f": "2017-08-27"
+      },
+      {
+       "n": 5,
+       "t": "Tesoros enterrados",
+       "f": "2017-09-03"
+      },
+      {
+       "n": 6,
+       "t": "Grandes oportunidades",
+       "f": "2017-09-10"
+      },
+      {
+       "n": 7,
+       "t": "Todos nuestros momentos del pasado",
+       "f": "2017-09-17"
+      },
+      {
+       "n": 8,
+       "t": "Los árboles no dejan ver el bosque",
+       "f": "2017-09-24"
+      },
+      {
+       "n": 9,
+       "t": "Corte real",
+       "f": "2017-10-01"
+      },
+      {
+       "n": 10,
+       "t": "Caída libre",
+       "f": "2017-10-08"
+      }
+     ]
+    },
+    {
+     "n": 3,
+     "eps": [
+      {
+       "n": 1,
+       "t": "Un libro abierto",
+       "f": "2018-08-05"
+      },
+      {
+       "n": 2,
+       "t": "Tal como éramos",
+       "f": "2018-08-12"
+      },
+      {
+       "n": 3,
+       "t": "Todo va a ir bien",
+       "f": "2018-08-19"
+      },
+      {
+       "n": 4,
+       "t": "Érase una vez para siempre",
+       "f": "2018-08-26"
+      },
+      {
+       "n": 5,
+       "t": "Amor con el paso del tiempo",
+       "f": "2018-09-02"
+      },
+      {
+       "n": 6,
+       "t": "Aquí y allí",
+       "f": "2018-09-09"
+      },
+      {
+       "n": 7,
+       "t": "Son solo negocios",
+       "f": "2018-09-16"
+      },
+      {
+       "n": 8,
+       "t": "Todos nuestros mañanas",
+       "f": "2018-09-23"
+      },
+      {
+       "n": 9,
+       "t": "Regreso al pasado",
+       "f": "2018-09-30"
+      },
+      {
+       "n": 10,
+       "t": "Viento en popa",
+       "f": "2018-10-07"
+      }
+     ]
+    },
+    {
+     "n": 4,
+     "eps": [
+      {
+       "n": 1,
+       "t": "Empezamos por el final",
+       "f": "2019-08-25"
+      },
+      {
+       "n": 2,
+       "t": "Un voto de confianza",
+       "f": "2019-09-01"
+      },
+      {
+       "n": 3,
+       "t": "Un soneto para Caroline",
+       "f": "2019-09-08"
+      },
+      {
+       "n": 4,
+       "t": "Desamor y teatro",
+       "f": "2019-09-15"
+      },
+      {
+       "n": 5,
+       "t": "Todo el tiempo del mundo",
+       "f": "2019-09-22"
+      },
+      {
+       "n": 6,
+       "t": "Acuarelas, deseos y bodas",
+       "f": "2019-09-29"
+      }
+     ]
+    },
+    {
+     "n": 5,
+     "eps": [
+      {
+       "n": 1,
+       "t": "Un beso sigue siendo un beso",
+       "f": "2021-08-15"
+      },
+      {
+       "n": 2,
+       "t": "Buen trabajo si puedes conseguirlo",
+       "f": "2021-08-22"
+      },
+      {
+       "n": 3,
+       "t": "¿Salen las estrellas esta noche?",
+       "f": "2021-08-29"
+      },
+      {
+       "n": 4,
+       "t": "Caminos felices",
+       "f": "2021-09-05"
+      },
+      {
+       "n": 5,
+       "t": "No pueden quitarme eso",
+       "f": "2021-09-12"
+      },
+      {
+       "n": 6,
+       "t": "El amor llegó para quedarse",
+       "f": "2021-09-19"
+      },
+      {
+       "n": 7,
+       "t": "Novedades",
+       "f": "2021-09-26"
+      },
+      {
+       "n": 8,
+       "t": "Dónde o cuándo",
+       "f": "2021-10-03"
+      },
+      {
+       "n": 9,
+       "t": "Qué diferencia hace un día",
+       "f": "2021-10-10"
+      },
+      {
+       "n": 10,
+       "t": "Ese viejo sentimiento",
+       "f": "2021-10-17"
+      }
+     ]
+    },
+    {
+     "n": 6,
+     "eps": [
+      {
+       "n": 1,
+       "t": "Episodio 1",
+       "f": "2022-08-14"
+      },
+      {
+       "n": 2,
+       "t": "Episodio 2",
+       "f": "2022-08-21"
+      },
+      {
+       "n": 3,
+       "t": "Episodio 3",
+       "f": "2022-08-28"
+      },
+      {
+       "n": 4,
+       "t": "Episodio 4",
+       "f": "2022-09-04"
+      },
+      {
+       "n": 5,
+       "t": "Episodio 5",
+       "f": "2022-09-11"
+      },
+      {
+       "n": 6,
+       "t": "Episodio 6",
+       "f": "2022-09-18"
+      },
+      {
+       "n": 7,
+       "t": "Episodio 7",
+       "f": "2022-09-25"
+      },
+      {
+       "n": 8,
+       "t": "Episodio 8",
+       "f": "2022-10-02"
+      },
+      {
+       "n": 9,
+       "t": "Episodio 9",
+       "f": "2022-10-09"
+      },
+      {
+       "n": 10,
+       "t": "Episodio 10",
+       "f": "2022-10-16"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "25928575",
+   "titulo": "Air Jaws: Ultimate Breach Off",
+   "tipo": "p",
+   "plataforma": "hbo",
+   "estado": "expiring",
+   "fecha": "2026-11-16",
+   "genero": "Documental",
+   "generos": [
+    "Documental"
+   ],
+   "imdb": null,
+   "rt": null,
+   "duracion": "43 min",
+   "sinopsis": "",
+   "poster": "https://image.tmdb.org/t/p/w342/ArpgHSzJwO5PGf3TNVzL2vExK4K.jpg",
+   "reparto": [],
+   "trailer": null,
+   "temporadas_det": []
+  },
+  {
+   "id": "326385",
+   "titulo": "Phelps vs Shark",
+   "tipo": "p",
+   "plataforma": "prime",
+   "estado": "expiring",
+   "fecha": "2026-11-17",
+   "genero": "Documental",
+   "generos": [
+    "Documental"
+   ],
+   "imdb": 4.0,
+   "rt": null,
+   "duracion": "44 min",
+   "sinopsis": "Los tiburones son los depredadores más rápidos del planeta. ¿Qué ocurre cuando el nadador humano más rápido del mundo, Michael Phelps, compite contra uno en la carrera definitiva?",
+   "poster": "https://image.tmdb.org/t/p/w342/wTkDCzeiudNssnGR19DgRObIitW.jpg",
+   "reparto": [
+    {
+     "nombre": "Michael Phelps",
+     "foto": "https://image.tmdb.org/t/p/w185/rS4HyEdM50My75JSJmRZcWVaurb.jpg"
+    }
+   ],
+   "trailer": null,
+   "temporadas_det": []
+  },
+  {
+   "id": "11160",
+   "titulo": "Crímenes del futuro",
+   "tipo": "p",
+   "plataforma": "prime",
+   "estado": "expiring",
+   "fecha": "2026-11-17",
+   "genero": "Ciencia ficción",
+   "generos": [
+    "Ciencia ficción",
+    "Terror",
+    "Suspense"
+   ],
+   "imdb": 5.8,
+   "rt": 79,
+   "duracion": "1 h 47 min",
+   "sinopsis": "En un futuro no muy lejano la humanidad está aprendiendo a adaptarse a su entorno sintético, en un mundo donde no existe el dolor. Esta evolución lleva a los humanos más allá de su estado natural y hacia una metamorfosis, alterando su estructura biológica.",
+   "poster": "https://image.tmdb.org/t/p/w342/6UA0pEWBy9KpbVghhHoWRex7Wk2.jpg",
+   "reparto": [
+    {
+     "nombre": "Viggo Mortensen",
+     "foto": "https://image.tmdb.org/t/p/w185/vH5gVSpHAMhDaFWfh0Q7BG61O1y.jpg"
+    },
+    {
+     "nombre": "Léa Seydoux",
+     "foto": "https://image.tmdb.org/t/p/w185/4q6xqqWLLleQrFjeqeYYV8B0fwE.jpg"
+    },
+    {
+     "nombre": "Scott Speedman",
+     "foto": "https://image.tmdb.org/t/p/w185/tGgD96WOhmuQU4e6ZTU5IEx4W9E.jpg"
+    },
+    {
+     "nombre": "Kristen Stewart",
+     "foto": "https://image.tmdb.org/t/p/w185/ryhCjTGqS6G6OprbR0qUEH355lA.jpg"
+    },
+    {
+     "nombre": "Welket Bungué",
+     "foto": "https://image.tmdb.org/t/p/w185/91GlmzrJyhaBscr4IqVUrnRueGS.jpg"
+    },
+    {
+     "nombre": "Don McKellar",
+     "foto": "https://image.tmdb.org/t/p/w185/lPQPESremJWcF0SLvzwiQP6ZVgT.jpg"
+    }
+   ],
+   "trailer": "https://www.youtube.com/watch?v=kt4K32grhwg",
+   "temporadas_det": []
+  },
+  {
+   "id": "1695043",
+   "titulo": "Apaches",
+   "tipo": "p",
+   "plataforma": "prime",
+   "estado": "expiring",
+   "fecha": "2026-11-17",
+   "genero": "Drama",
+   "generos": [
+    "Drama",
+    "Suspense"
+   ],
+   "imdb": 5.4,
+   "rt": null,
+   "duracion": "1 h 35 min",
+   "sinopsis": "París, 1884. La vida de tres niños huérfanos que vagan por las calles dominadas por despiadados criminales cambia trágicamente cuando llevan a cabo un audaz robo.",
+   "poster": "https://image.tmdb.org/t/p/w342/kk7EPMFOE8Cuccnx5fxrSBpQuBq.jpg",
+   "reparto": [
+    {
+     "nombre": "Alice Isaaz",
+     "foto": "https://image.tmdb.org/t/p/w185/yULL4NbQW3ymzB2lHcI7SVlb7dS.jpg"
+    },
+    {
+     "nombre": "Niels Schneider",
+     "foto": "https://image.tmdb.org/t/p/w185/eG7go6nzgnb791avzYoN7GSqPd6.jpg"
+    },
+    {
+     "nombre": "Rod Paradot",
+     "foto": "https://image.tmdb.org/t/p/w185/6ks9zfw3IFcz6t2IAhokM90D5E1.jpg"
+    },
+    {
+     "nombre": "Artus",
+     "foto": "https://image.tmdb.org/t/p/w185/78eYMroV3AyRJDqijnp0FSLPCgZ.jpg"
+    },
+    {
+     "nombre": "Émilie Gavois-Kahn",
+     "foto": "https://image.tmdb.org/t/p/w185/1UWOiaw6O7VlcCwujtJpZb9ATD2.jpg"
+    },
+    {
+     "nombre": "Bruno Lochet",
+     "foto": "https://image.tmdb.org/t/p/w185/SNuKtVcGejDrxmMrvHBksrTs5x.jpg"
+    }
+   ],
+   "trailer": "https://www.youtube.com/watch?v=mRz4A4QEyIA",
+   "temporadas_det": []
+  },
+  {
+   "id": "27823",
+   "titulo": "Conjuring Kesha",
+   "tipo": "s",
+   "plataforma": "prime",
+   "estado": "expiring",
+   "fecha": "2026-11-17",
+   "genero": "Reality",
+   "generos": [
+    "Reality",
+    "Documental"
+   ],
+   "imdb": 4.5,
+   "rt": null,
+   "duracion": "1 temporada, 6 episodios",
+   "sinopsis": "Kesha explores her cosmic connection with the supernatural at notoriously haunted locations. The pop icon brings the world's top paranormal experts and her celebrity friends along for a terrifying ride as she journeys deep into the heart of darkness.",
+   "poster": "https://image.tmdb.org/t/p/w342/rdOhwGutz97NBfyG02o3tDQ7vIw.jpg",
+   "reparto": [
+    {
+     "nombre": "Kesha",
+     "foto": "https://image.tmdb.org/t/p/w185/fWV7GU00kDv1C8XjTWJv0zyj5YP.jpg"
+    }
+   ],
+   "trailer": "https://www.youtube.com/watch?v=OVXcV7NCIgs",
+   "temporadas_det": [
+    {
+     "n": 1,
+     "eps": [
+      {
+       "n": 1,
+       "t": "Episodio 1",
+       "f": "2022-07-08"
+      },
+      {
+       "n": 2,
+       "t": "Episodio 2",
+       "f": "2022-07-08"
+      },
+      {
+       "n": 3,
+       "t": "Episodio 3",
+       "f": "2022-07-15"
+      },
+      {
+       "n": 4,
+       "t": "Episodio 4",
+       "f": "2022-07-22"
+      },
+      {
+       "n": 5,
+       "t": "Episodio 5",
+       "f": "2022-07-29"
+      },
+      {
+       "n": 6,
+       "t": "Episodio 6",
+       "f": "2022-08-05"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "50530",
+   "titulo": "Flip or Flop Nashville",
+   "tipo": "s",
+   "plataforma": "prime",
+   "estado": "expiring",
+   "fecha": "2026-11-17",
+   "genero": "Reality",
+   "generos": [
+    "Reality"
+   ],
+   "imdb": 4.7,
+   "rt": null,
+   "duracion": "2 temporadas, 21 episodios",
+   "sinopsis": "Page Turner and DeRon Jenkins aren't just house flippers in Nashville, they're also exes. With a decade of partnership, this driven team takes on big, small and dirty jobs to get top dollar on their investments.",
+   "poster": "https://image.tmdb.org/t/p/w342/9cQrSXAO5traleqCkDXdCiFVPeO.jpg",
+   "reparto": [],
+   "trailer": null,
+   "temporadas_det": [
+    {
+     "n": 1,
+     "eps": [
+      {
+       "n": 1,
+       "t": "Episodio 1",
+       "f": "2018-01-18"
+      },
+      {
+       "n": 2,
+       "t": "Episodio 2",
+       "f": "2018-01-25"
+      },
+      {
+       "n": 3,
+       "t": "Episodio 3",
+       "f": "2018-02-01"
+      },
+      {
+       "n": 4,
+       "t": "Episodio 4",
+       "f": "2018-02-08"
+      },
+      {
+       "n": 5,
+       "t": "Episodio 5",
+       "f": "2018-02-15"
+      },
+      {
+       "n": 6,
+       "t": "Episodio 6",
+       "f": "2018-02-22"
+      },
+      {
+       "n": 7,
+       "t": "Episodio 7",
+       "f": "2018-03-01"
+      },
+      {
+       "n": 8,
+       "t": "Episodio 8",
+       "f": "2018-03-08"
+      },
+      {
+       "n": 9,
+       "t": "Episodio 9",
+       "f": "2018-03-08"
+      }
+     ]
+    },
+    {
+     "n": 2,
+     "eps": [
+      {
+       "n": 1,
+       "t": "Episodio 1",
+       "f": "2019-01-03"
+      },
+      {
+       "n": 2,
+       "t": "Episodio 2",
+       "f": "2019-01-10"
+      },
+      {
+       "n": 3,
+       "t": "Episodio 3",
+       "f": "2019-01-17"
+      },
+      {
+       "n": 4,
+       "t": "Episodio 4",
+       "f": "2019-01-24"
+      },
+      {
+       "n": 5,
+       "t": "Episodio 5",
+       "f": "2019-02-07"
+      },
+      {
+       "n": 6,
+       "t": "Episodio 6",
+       "f": "2019-02-06"
+      },
+      {
+       "n": 7,
+       "t": "Episodio 7",
+       "f": "2019-02-07"
+      },
+      {
+       "n": 8,
+       "t": "Episodio 8",
+       "f": "2019-02-14"
+      },
+      {
+       "n": 9,
+       "t": "Episodio 9",
+       "f": "2019-02-21"
+      },
+      {
+       "n": 10,
+       "t": "Episodio 10",
+       "f": "2019-03-07"
+      },
+      {
+       "n": 11,
+       "t": "Episodio 11",
+       "f": "2019-03-14"
+      },
+      {
+       "n": 12,
+       "t": "Episodio 12",
+       "f": "2019-03-21"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "25930760",
+   "titulo": "Tiger Shark King",
+   "tipo": "p",
+   "plataforma": "prime",
+   "estado": "expiring",
+   "fecha": "2026-11-17",
+   "genero": "Documental",
+   "generos": [
+    "Documental"
+   ],
+   "imdb": null,
+   "rt": null,
+   "duracion": "",
+   "sinopsis": "",
+   "poster": "https://image.tmdb.org/t/p/w342/fSJa3etPAaFxd5o3MP0hTJZUPLP.jpg",
+   "reparto": [
+    {
+     "nombre": "Jimi Partington",
+     "foto": null
+    }
+   ],
+   "trailer": null,
+   "temporadas_det": []
+  },
+  {
+   "id": "25898833",
+   "titulo": "Mako Mania: Battle for California",
+   "tipo": "p",
+   "plataforma": "prime",
+   "estado": "expiring",
+   "fecha": "2026-11-17",
+   "genero": "Documental",
+   "generos": [
+    "Documental"
+   ],
+   "imdb": null,
+   "rt": null,
+   "duracion": "",
+   "sinopsis": "",
+   "poster": "https://image.tmdb.org/t/p/w342/zaccPkO8oKVVKjNv2C98iZ75CnC.jpg",
+   "reparto": [
+    {
+     "nombre": "Jason Hildebrandt",
+     "foto": "https://image.tmdb.org/t/p/w185/xbGmWz053bVmpE02vsNhHIOzWoZ.jpg"
+    }
+   ],
+   "trailer": null,
+   "temporadas_det": []
+  },
+  {
+   "id": "89205",
+   "titulo": "Hermanos de sangre: Malcolm X y Muhammad Ali",
+   "tipo": "p",
+   "plataforma": "prime",
+   "estado": "expiring",
+   "fecha": "2026-11-17",
+   "genero": "Documental",
+   "generos": [
+    "Documental",
+    "Historia"
+   ],
+   "imdb": 5.8,
+   "rt": 94,
+   "duracion": "1 h 35 min",
+   "sinopsis": "La desconfianza y sus diferentes ideales hacen mella en el vínculo entre Malcolm X y Muhammad Ali, que empezó con un encuentro fortuito y acabó con una trágica disputa.",
+   "poster": "https://image.tmdb.org/t/p/w342/kdOXdPIgbbCHXb51tWJZ0r8kZfe.jpg",
+   "reparto": [
+    {
+     "nombre": "Malcolm X",
+     "foto": "https://image.tmdb.org/t/p/w185/fMQdemLvaN5WIHw1k21cX59Pf5s.jpg"
+    },
+    {
+     "nombre": "Muhammad Ali",
+     "foto": "https://image.tmdb.org/t/p/w185/u1ck2Lfx34GvW3YOoEE1ddNVdw6.jpg"
+    },
+    {
+     "nombre": "Elijah Muhammad",
+     "foto": null
+    },
+    {
+     "nombre": "Al Sharpton",
+     "foto": "https://image.tmdb.org/t/p/w185/xaZZuzMF18hRmYFwOxffIzm3zf.jpg"
+    },
+    {
+     "nombre": "Cornel West",
+     "foto": "https://image.tmdb.org/t/p/w185/eyLtTHcC3InxVPTyRus1pNfa0pK.jpg"
+    },
+    {
+     "nombre": "Ilyasah Shabazz",
+     "foto": null
+    }
+   ],
+   "trailer": "https://www.youtube.com/watch?v=gvOAuxFCGeU",
+   "temporadas_det": []
+  },
+  {
+   "id": "46130",
+   "titulo": "Porter Ridge",
+   "tipo": "s",
+   "plataforma": "prime",
+   "estado": "expiring",
+   "fecha": "2026-11-17",
+   "genero": "Reality",
+   "generos": [
+    "Reality"
+   ],
+   "imdb": 4.7,
+   "rt": null,
+   "duracion": "1 temporada, 5 episodios",
+   "sinopsis": "An isolated, lawless community in Indiana lives by its own set of rules.",
+   "poster": "https://image.tmdb.org/t/p/w342/sAyUT1xwwQDcCqihRkWPX8Zxfen.jpg",
+   "reparto": [],
+   "trailer": null,
+   "temporadas_det": [
+    {
+     "n": 1,
+     "eps": [
+      {
+       "n": 1,
+       "t": "Episodio 1",
+       "f": "2013-08-13"
+      },
+      {
+       "n": 2,
+       "t": "Episodio 2",
+       "f": "2013-08-20"
+      },
+      {
+       "n": 3,
+       "t": "Episodio 3",
+       "f": "2013-08-27"
+      },
+      {
+       "n": 4,
+       "t": "Episodio 4",
+       "f": "2013-09-03"
+      },
+      {
+       "n": 5,
+       "t": "Episodio 5",
+       "f": "2013-09-10"
       }
      ]
     }
