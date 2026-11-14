@@ -1,7 +1,188 @@
 {
- "generado": "2026-11-13T23:25:24+00:00",
+ "generado": "2026-11-14T05:46:49+00:00",
  "pais": "ES",
  "items": [
+  {
+   "id": "1212",
+   "titulo": "R3sacon",
+   "tipo": "p",
+   "plataforma": "prime",
+   "estado": "expiring",
+   "fecha": "2026-11-14",
+   "genero": "Comedia",
+   "generos": [
+    "Comedia"
+   ],
+   "imdb": 5.9,
+   "rt": 21,
+   "duracion": "1 h 40 min",
+   "sinopsis": "Tras la inesperada muerte de su padre, Alan (Zach Galifianakas) es llevado por sus amigos Phil (Bradley Cooper), Stu (Ed Helms) y Doug (Justin Bartha) a un centro especializado para que mejore. Esta vez no hay boda ni fiesta de despedida ¿Qué puede ir mal? Pues que cuando estos chicos salen a la carretera, y sobre todo cuando aparece Chow (Ken Jeong)... la suerte está echada. Tercera entrega de la franquicia iniciada en 2009 con 'Resacón en Las Vegas'.",
+   "poster": "https://image.tmdb.org/t/p/w342/jxhkMvcdbk9RhobvURI1HeVrp3E.jpg",
+   "reparto": [
+    {
+     "nombre": "Bradley Cooper",
+     "foto": "https://image.tmdb.org/t/p/w185/5Dhy50qOMOHfR1NZifKIfffjV9X.jpg"
+    },
+    {
+     "nombre": "Ed Helms",
+     "foto": "https://image.tmdb.org/t/p/w185/gPZ8tZaNQGAc3KZRIPp9rgGbEnN.jpg"
+    },
+    {
+     "nombre": "Zach Galifianakis",
+     "foto": "https://image.tmdb.org/t/p/w185/qsDfoUlRnXHUiqZeBPWHzmgmKGX.jpg"
+    },
+    {
+     "nombre": "Justin Bartha",
+     "foto": "https://image.tmdb.org/t/p/w185/AalKjN8nR8RZ8g6ZdWV2smnQq4d.jpg"
+    },
+    {
+     "nombre": "Ken Jeong",
+     "foto": "https://image.tmdb.org/t/p/w185/dfuDZ2m2A8nBb0TdyeqmlPOobJA.jpg"
+    },
+    {
+     "nombre": "John Goodman",
+     "foto": "https://image.tmdb.org/t/p/w185/yyYqoyKHO7hE1zpgEV2XlqYWcNV.jpg"
+    }
+   ],
+   "trailer": "https://www.youtube.com/watch?v=96TelFMZwHc",
+   "temporadas_det": []
+  },
+  {
+   "id": "7081",
+   "titulo": "Huérfanos de Brooklyn",
+   "tipo": "p",
+   "plataforma": "prime",
+   "estado": "expiring",
+   "fecha": "2026-11-14",
+   "genero": "Drama",
+   "generos": [
+    "Drama",
+    "Suspense"
+   ],
+   "imdb": 6.7,
+   "rt": 65,
+   "duracion": "2 h 25 min",
+   "sinopsis": "Nueva York, 1957. Lionel Essrog, un detective privado que convive con el síndrome de Tourette, trata de resolver el asesinato de su mentor y mejor amigo, armado solo con vagas pistas y la fuerza de su mente obsesiva.",
+   "poster": "https://image.tmdb.org/t/p/w342/eQEy8Fe6ZnmwNzOh0CLZ1eR2oIX.jpg",
+   "reparto": [
+    {
+     "nombre": "Edward Norton",
+     "foto": "https://image.tmdb.org/t/p/w185/8nytsqL59SFJTVYVrN72k6qkGgJ.jpg"
+    },
+    {
+     "nombre": "Bruce Willis",
+     "foto": "https://image.tmdb.org/t/p/w185/w3aXr1e7gQCn8MSp1vW4sXHn99P.jpg"
+    },
+    {
+     "nombre": "Gugu Mbatha-Raw",
+     "foto": "https://image.tmdb.org/t/p/w185/sHAnv0kw5JHzWBOP7gAezwqgl8J.jpg"
+    },
+    {
+     "nombre": "Alec Baldwin",
+     "foto": "https://image.tmdb.org/t/p/w185/hzKy7x574eeUS3wt1R3yvWBRpeR.jpg"
+    },
+    {
+     "nombre": "Willem Dafoe",
+     "foto": "https://image.tmdb.org/t/p/w185/ui8e4sgZAwMPi3hzEO53jyBJF9B.jpg"
+    },
+    {
+     "nombre": "Bobby Cannavale",
+     "foto": "https://image.tmdb.org/t/p/w185/wlp20ggyNI7x0xGUtTjC2Xl2XmD.jpg"
+    }
+   ],
+   "trailer": "https://www.youtube.com/watch?v=Fru8IkuDp_k",
+   "temporadas_det": []
+  },
+  {
+   "id": "281",
+   "titulo": "Resacón en Las Vegas",
+   "tipo": "p",
+   "plataforma": "prime",
+   "estado": "expiring",
+   "fecha": "2026-11-14",
+   "genero": "Comedia",
+   "generos": [
+    "Comedia"
+   ],
+   "imdb": 7.6,
+   "rt": 79,
+   "duracion": "1 h 40 min",
+   "sinopsis": "\"The Hangover\" es la historia de una desmadrada despedida de soltero en la que el futuro novio y sus tres amigos, dos días antes de la boda, se montan la juerga padre en Las Vegas. Doug viaja a la ciudad del juego con sus mejores amigos Phil y Stu, así como su futuro cuñado Alan. La juerga es de campeonato y, como era de esperar, a la mañana siguiente tienen una resaca monumental. El problema es que, siendo incapaces de recordar nada de lo ocurrido durante la noche anterior, se encuentran con que el prometido ha desaparecido, topándose en su lugar con otras dos sorpresas en la suite del hotel: un tigre y un bebé.",
+   "poster": "https://image.tmdb.org/t/p/w342/rqeim09TdaflSvPNVnCTBjUHlKu.jpg",
+   "reparto": [
+    {
+     "nombre": "Bradley Cooper",
+     "foto": "https://image.tmdb.org/t/p/w185/5Dhy50qOMOHfR1NZifKIfffjV9X.jpg"
+    },
+    {
+     "nombre": "Ed Helms",
+     "foto": "https://image.tmdb.org/t/p/w185/gPZ8tZaNQGAc3KZRIPp9rgGbEnN.jpg"
+    },
+    {
+     "nombre": "Zach Galifianakis",
+     "foto": "https://image.tmdb.org/t/p/w185/qsDfoUlRnXHUiqZeBPWHzmgmKGX.jpg"
+    },
+    {
+     "nombre": "Justin Bartha",
+     "foto": "https://image.tmdb.org/t/p/w185/AalKjN8nR8RZ8g6ZdWV2smnQq4d.jpg"
+    },
+    {
+     "nombre": "Heather Graham",
+     "foto": "https://image.tmdb.org/t/p/w185/avYdNkeg1oTvmrNJbFDcTlBCkKs.jpg"
+    },
+    {
+     "nombre": "Sasha Barrese",
+     "foto": "https://image.tmdb.org/t/p/w185/4SGcSiC46h86mdChDj0taF5eHSl.jpg"
+    }
+   ],
+   "trailer": "https://www.youtube.com/watch?v=tlize92ffnY",
+   "temporadas_det": []
+  },
+  {
+   "id": "621",
+   "titulo": "Resacón 2: ¡Ahora en Tailandia!",
+   "tipo": "p",
+   "plataforma": "prime",
+   "estado": "expiring",
+   "fecha": "2026-11-14",
+   "genero": "Comedia",
+   "generos": [
+    "Comedia"
+   ],
+   "imdb": 6.5,
+   "rt": 35,
+   "duracion": "1 h 42 min",
+   "sinopsis": "Phil, Stu, Alan y Doug viajan a la exótica Tailandia para la boda de Stu. Con el recuerdo de la desastrosa despedida de soltero en Las Vegas aún vivo en su memoria - o al menos bien documentado -, Stu no deja nada al azar. Ha optado por un brunch preboda seguro y tranquilo con tortitas, café, y sin alcohol... Sin embargo, las cosas no siempre salen como se piensa. Dos noches antes del gran día, en un fabuloso resort de Tailandia, Stu cede. Una cerveza para cada uno. En botellas cerradas, ¿qué podría pasar?Lo que ocurre en Las Vegas se queda en Las Vegas, pero lo que ocurre en Bangkok resulta difícil de imaginar.",
+   "poster": "https://image.tmdb.org/t/p/w342/u8B1a1AEhZ0k2mvPvzOYSJDnlge.jpg",
+   "reparto": [
+    {
+     "nombre": "Bradley Cooper",
+     "foto": "https://image.tmdb.org/t/p/w185/5Dhy50qOMOHfR1NZifKIfffjV9X.jpg"
+    },
+    {
+     "nombre": "Ed Helms",
+     "foto": "https://image.tmdb.org/t/p/w185/gPZ8tZaNQGAc3KZRIPp9rgGbEnN.jpg"
+    },
+    {
+     "nombre": "Zach Galifianakis",
+     "foto": "https://image.tmdb.org/t/p/w185/qsDfoUlRnXHUiqZeBPWHzmgmKGX.jpg"
+    },
+    {
+     "nombre": "Justin Bartha",
+     "foto": "https://image.tmdb.org/t/p/w185/AalKjN8nR8RZ8g6ZdWV2smnQq4d.jpg"
+    },
+    {
+     "nombre": "Mason Lee",
+     "foto": "https://image.tmdb.org/t/p/w185/zVJfscd1rBPCXOMnsqTmlohCo8i.jpg"
+    },
+    {
+     "nombre": "Ken Jeong",
+     "foto": "https://image.tmdb.org/t/p/w185/dfuDZ2m2A8nBb0TdyeqmlPOobJA.jpg"
+    }
+   ],
+   "trailer": "https://www.youtube.com/watch?v=3DxQXtVmWG0",
+   "temporadas_det": []
+  },
   {
    "id": "27050",
    "titulo": "Karakuri Circus",
@@ -242,7 +423,7 @@
    "id": "281",
    "titulo": "Resacón en Las Vegas",
    "tipo": "p",
-   "plataforma": "prime",
+   "plataforma": "hbo",
    "estado": "expiring",
    "fecha": "2026-11-14",
    "genero": "Comedia",
@@ -287,7 +468,7 @@
    "id": "7081",
    "titulo": "Huérfanos de Brooklyn",
    "tipo": "p",
-   "plataforma": "prime",
+   "plataforma": "hbo",
    "estado": "expiring",
    "fecha": "2026-11-14",
    "genero": "Drama",
@@ -333,7 +514,7 @@
    "id": "621",
    "titulo": "Resacón 2: ¡Ahora en Tailandia!",
    "tipo": "p",
-   "plataforma": "prime",
+   "plataforma": "hbo",
    "estado": "expiring",
    "fecha": "2026-11-14",
    "genero": "Comedia",
@@ -375,55 +556,10 @@
    "temporadas_det": []
   },
   {
-   "id": "11715492",
-   "titulo": "Phénix",
-   "tipo": "p",
-   "plataforma": "prime",
-   "estado": "expiring",
-   "fecha": "2026-11-14",
-   "genero": "Drama",
-   "generos": [
-    "Drama"
-   ],
-   "imdb": null,
-   "rt": null,
-   "duracion": "1 h 36 min",
-   "sinopsis": "",
-   "poster": "https://image.tmdb.org/t/p/w342/awdLIxsvelpNhqLFE7m7HlQevE9.jpg",
-   "reparto": [
-    {
-     "nombre": "Aksel Leblanc",
-     "foto": "https://image.tmdb.org/t/p/w185/cd4L3pRf8224HDJFIDpR9DBIOgI.jpg"
-    },
-    {
-     "nombre": "Maxime Genois",
-     "foto": "https://image.tmdb.org/t/p/w185/xHa3vrn99FagTGuhdmdXYfDwvD3.jpg"
-    },
-    {
-     "nombre": "Evelyne Brochu",
-     "foto": "https://image.tmdb.org/t/p/w185/11rEHdNfqH6WLJDufd1H0MSIrP6.jpg"
-    },
-    {
-     "nombre": "Alexandre Landry",
-     "foto": "https://image.tmdb.org/t/p/w185/OmGOXEqqFspcS3pP3uwSkEefVj.jpg"
-    },
-    {
-     "nombre": "Rosemarie Sabor",
-     "foto": "https://image.tmdb.org/t/p/w185/1Mw9NocVQadFQ2cROBRoUI7qsuK.jpg"
-    },
-    {
-     "nombre": "Maxime Desjardins-Tremblay",
-     "foto": "https://image.tmdb.org/t/p/w185/ibOMQS8SafBMlcG9kDjqr76n2Vm.jpg"
-    }
-   ],
-   "trailer": null,
-   "temporadas_det": []
-  },
-  {
    "id": "1212",
    "titulo": "R3sacon",
    "tipo": "p",
-   "plataforma": "prime",
+   "plataforma": "hbo",
    "estado": "expiring",
    "fecha": "2026-11-14",
    "genero": "Comedia",
@@ -509,187 +645,6 @@
     }
    ],
    "trailer": "https://www.youtube.com/watch?v=KS9g4vFqFo0",
-   "temporadas_det": []
-  },
-  {
-   "id": "281",
-   "titulo": "Resacón en Las Vegas",
-   "tipo": "p",
-   "plataforma": "hbo",
-   "estado": "expiring",
-   "fecha": "2026-11-14",
-   "genero": "Comedia",
-   "generos": [
-    "Comedia"
-   ],
-   "imdb": 7.6,
-   "rt": 79,
-   "duracion": "1 h 40 min",
-   "sinopsis": "\"The Hangover\" es la historia de una desmadrada despedida de soltero en la que el futuro novio y sus tres amigos, dos días antes de la boda, se montan la juerga padre en Las Vegas. Doug viaja a la ciudad del juego con sus mejores amigos Phil y Stu, así como su futuro cuñado Alan. La juerga es de campeonato y, como era de esperar, a la mañana siguiente tienen una resaca monumental. El problema es que, siendo incapaces de recordar nada de lo ocurrido durante la noche anterior, se encuentran con que el prometido ha desaparecido, topándose en su lugar con otras dos sorpresas en la suite del hotel: un tigre y un bebé.",
-   "poster": "https://image.tmdb.org/t/p/w342/rqeim09TdaflSvPNVnCTBjUHlKu.jpg",
-   "reparto": [
-    {
-     "nombre": "Bradley Cooper",
-     "foto": "https://image.tmdb.org/t/p/w185/5Dhy50qOMOHfR1NZifKIfffjV9X.jpg"
-    },
-    {
-     "nombre": "Ed Helms",
-     "foto": "https://image.tmdb.org/t/p/w185/gPZ8tZaNQGAc3KZRIPp9rgGbEnN.jpg"
-    },
-    {
-     "nombre": "Zach Galifianakis",
-     "foto": "https://image.tmdb.org/t/p/w185/qsDfoUlRnXHUiqZeBPWHzmgmKGX.jpg"
-    },
-    {
-     "nombre": "Justin Bartha",
-     "foto": "https://image.tmdb.org/t/p/w185/AalKjN8nR8RZ8g6ZdWV2smnQq4d.jpg"
-    },
-    {
-     "nombre": "Heather Graham",
-     "foto": "https://image.tmdb.org/t/p/w185/avYdNkeg1oTvmrNJbFDcTlBCkKs.jpg"
-    },
-    {
-     "nombre": "Sasha Barrese",
-     "foto": "https://image.tmdb.org/t/p/w185/4SGcSiC46h86mdChDj0taF5eHSl.jpg"
-    }
-   ],
-   "trailer": "https://www.youtube.com/watch?v=tlize92ffnY",
-   "temporadas_det": []
-  },
-  {
-   "id": "7081",
-   "titulo": "Huérfanos de Brooklyn",
-   "tipo": "p",
-   "plataforma": "hbo",
-   "estado": "expiring",
-   "fecha": "2026-11-14",
-   "genero": "Drama",
-   "generos": [
-    "Drama",
-    "Suspense"
-   ],
-   "imdb": 6.7,
-   "rt": 65,
-   "duracion": "2 h 25 min",
-   "sinopsis": "Nueva York, 1957. Lionel Essrog, un detective privado que convive con el síndrome de Tourette, trata de resolver el asesinato de su mentor y mejor amigo, armado solo con vagas pistas y la fuerza de su mente obsesiva.",
-   "poster": "https://image.tmdb.org/t/p/w342/eQEy8Fe6ZnmwNzOh0CLZ1eR2oIX.jpg",
-   "reparto": [
-    {
-     "nombre": "Edward Norton",
-     "foto": "https://image.tmdb.org/t/p/w185/8nytsqL59SFJTVYVrN72k6qkGgJ.jpg"
-    },
-    {
-     "nombre": "Bruce Willis",
-     "foto": "https://image.tmdb.org/t/p/w185/w3aXr1e7gQCn8MSp1vW4sXHn99P.jpg"
-    },
-    {
-     "nombre": "Gugu Mbatha-Raw",
-     "foto": "https://image.tmdb.org/t/p/w185/sHAnv0kw5JHzWBOP7gAezwqgl8J.jpg"
-    },
-    {
-     "nombre": "Alec Baldwin",
-     "foto": "https://image.tmdb.org/t/p/w185/hzKy7x574eeUS3wt1R3yvWBRpeR.jpg"
-    },
-    {
-     "nombre": "Willem Dafoe",
-     "foto": "https://image.tmdb.org/t/p/w185/ui8e4sgZAwMPi3hzEO53jyBJF9B.jpg"
-    },
-    {
-     "nombre": "Bobby Cannavale",
-     "foto": "https://image.tmdb.org/t/p/w185/wlp20ggyNI7x0xGUtTjC2Xl2XmD.jpg"
-    }
-   ],
-   "trailer": "https://www.youtube.com/watch?v=Fru8IkuDp_k",
-   "temporadas_det": []
-  },
-  {
-   "id": "621",
-   "titulo": "Resacón 2: ¡Ahora en Tailandia!",
-   "tipo": "p",
-   "plataforma": "hbo",
-   "estado": "expiring",
-   "fecha": "2026-11-14",
-   "genero": "Comedia",
-   "generos": [
-    "Comedia"
-   ],
-   "imdb": 6.5,
-   "rt": 35,
-   "duracion": "1 h 42 min",
-   "sinopsis": "Phil, Stu, Alan y Doug viajan a la exótica Tailandia para la boda de Stu. Con el recuerdo de la desastrosa despedida de soltero en Las Vegas aún vivo en su memoria - o al menos bien documentado -, Stu no deja nada al azar. Ha optado por un brunch preboda seguro y tranquilo con tortitas, café, y sin alcohol... Sin embargo, las cosas no siempre salen como se piensa. Dos noches antes del gran día, en un fabuloso resort de Tailandia, Stu cede. Una cerveza para cada uno. En botellas cerradas, ¿qué podría pasar?Lo que ocurre en Las Vegas se queda en Las Vegas, pero lo que ocurre en Bangkok resulta difícil de imaginar.",
-   "poster": "https://image.tmdb.org/t/p/w342/u8B1a1AEhZ0k2mvPvzOYSJDnlge.jpg",
-   "reparto": [
-    {
-     "nombre": "Bradley Cooper",
-     "foto": "https://image.tmdb.org/t/p/w185/5Dhy50qOMOHfR1NZifKIfffjV9X.jpg"
-    },
-    {
-     "nombre": "Ed Helms",
-     "foto": "https://image.tmdb.org/t/p/w185/gPZ8tZaNQGAc3KZRIPp9rgGbEnN.jpg"
-    },
-    {
-     "nombre": "Zach Galifianakis",
-     "foto": "https://image.tmdb.org/t/p/w185/qsDfoUlRnXHUiqZeBPWHzmgmKGX.jpg"
-    },
-    {
-     "nombre": "Justin Bartha",
-     "foto": "https://image.tmdb.org/t/p/w185/AalKjN8nR8RZ8g6ZdWV2smnQq4d.jpg"
-    },
-    {
-     "nombre": "Mason Lee",
-     "foto": "https://image.tmdb.org/t/p/w185/zVJfscd1rBPCXOMnsqTmlohCo8i.jpg"
-    },
-    {
-     "nombre": "Ken Jeong",
-     "foto": "https://image.tmdb.org/t/p/w185/dfuDZ2m2A8nBb0TdyeqmlPOobJA.jpg"
-    }
-   ],
-   "trailer": "https://www.youtube.com/watch?v=3DxQXtVmWG0",
-   "temporadas_det": []
-  },
-  {
-   "id": "1212",
-   "titulo": "R3sacon",
-   "tipo": "p",
-   "plataforma": "hbo",
-   "estado": "expiring",
-   "fecha": "2026-11-14",
-   "genero": "Comedia",
-   "generos": [
-    "Comedia"
-   ],
-   "imdb": 5.9,
-   "rt": 21,
-   "duracion": "1 h 40 min",
-   "sinopsis": "Tras la inesperada muerte de su padre, Alan (Zach Galifianakas) es llevado por sus amigos Phil (Bradley Cooper), Stu (Ed Helms) y Doug (Justin Bartha) a un centro especializado para que mejore. Esta vez no hay boda ni fiesta de despedida ¿Qué puede ir mal? Pues que cuando estos chicos salen a la carretera, y sobre todo cuando aparece Chow (Ken Jeong)... la suerte está echada. Tercera entrega de la franquicia iniciada en 2009 con 'Resacón en Las Vegas'.",
-   "poster": "https://image.tmdb.org/t/p/w342/jxhkMvcdbk9RhobvURI1HeVrp3E.jpg",
-   "reparto": [
-    {
-     "nombre": "Bradley Cooper",
-     "foto": "https://image.tmdb.org/t/p/w185/5Dhy50qOMOHfR1NZifKIfffjV9X.jpg"
-    },
-    {
-     "nombre": "Ed Helms",
-     "foto": "https://image.tmdb.org/t/p/w185/gPZ8tZaNQGAc3KZRIPp9rgGbEnN.jpg"
-    },
-    {
-     "nombre": "Zach Galifianakis",
-     "foto": "https://image.tmdb.org/t/p/w185/qsDfoUlRnXHUiqZeBPWHzmgmKGX.jpg"
-    },
-    {
-     "nombre": "Justin Bartha",
-     "foto": "https://image.tmdb.org/t/p/w185/AalKjN8nR8RZ8g6ZdWV2smnQq4d.jpg"
-    },
-    {
-     "nombre": "Ken Jeong",
-     "foto": "https://image.tmdb.org/t/p/w185/dfuDZ2m2A8nBb0TdyeqmlPOobJA.jpg"
-    },
-    {
-     "nombre": "John Goodman",
-     "foto": "https://image.tmdb.org/t/p/w185/yyYqoyKHO7hE1zpgEV2XlqYWcNV.jpg"
-    }
-   ],
-   "trailer": "https://www.youtube.com/watch?v=96TelFMZwHc",
    "temporadas_det": []
   },
   {
@@ -1233,6 +1188,51 @@
     }
    ],
    "trailer": "https://www.youtube.com/watch?v=oIPq9Kp-9A0",
+   "temporadas_det": []
+  },
+  {
+   "id": "11715492",
+   "titulo": "Phénix",
+   "tipo": "p",
+   "plataforma": "prime",
+   "estado": "expiring",
+   "fecha": "2026-11-14",
+   "genero": "Drama",
+   "generos": [
+    "Drama"
+   ],
+   "imdb": null,
+   "rt": null,
+   "duracion": "1 h 36 min",
+   "sinopsis": "",
+   "poster": "https://image.tmdb.org/t/p/w342/awdLIxsvelpNhqLFE7m7HlQevE9.jpg",
+   "reparto": [
+    {
+     "nombre": "Aksel Leblanc",
+     "foto": "https://image.tmdb.org/t/p/w185/cd4L3pRf8224HDJFIDpR9DBIOgI.jpg"
+    },
+    {
+     "nombre": "Maxime Genois",
+     "foto": "https://image.tmdb.org/t/p/w185/xHa3vrn99FagTGuhdmdXYfDwvD3.jpg"
+    },
+    {
+     "nombre": "Evelyne Brochu",
+     "foto": "https://image.tmdb.org/t/p/w185/11rEHdNfqH6WLJDufd1H0MSIrP6.jpg"
+    },
+    {
+     "nombre": "Alexandre Landry",
+     "foto": "https://image.tmdb.org/t/p/w185/OmGOXEqqFspcS3pP3uwSkEefVj.jpg"
+    },
+    {
+     "nombre": "Rosemarie Sabor",
+     "foto": "https://image.tmdb.org/t/p/w185/1Mw9NocVQadFQ2cROBRoUI7qsuK.jpg"
+    },
+    {
+     "nombre": "Maxime Desjardins-Tremblay",
+     "foto": "https://image.tmdb.org/t/p/w185/ibOMQS8SafBMlcG9kDjqr76n2Vm.jpg"
+    }
+   ],
+   "trailer": null,
    "temporadas_det": []
   },
   {
@@ -12632,6 +12632,52 @@
     }
    ],
    "trailer": "https://www.youtube.com/watch?v=l9BCyDDm7sU",
+   "temporadas_det": []
+  },
+  {
+   "id": "27527545",
+   "titulo": "Bronca Navidad",
+   "tipo": "p",
+   "plataforma": "prime",
+   "estado": "upcoming",
+   "fecha": "2026-11-23",
+   "genero": "Comedia",
+   "generos": [
+    "Comedia",
+    "Romance"
+   ],
+   "imdb": null,
+   "rt": null,
+   "duracion": "",
+   "sinopsis": "Después de que el mal tiempo obligara a cancelar todos los vuelos hacia el este durante las vacaciones, dos rivales laborales que compiten por el mismo puesto se embarcan a regañadientes en un viaje por carretera a través del país que los une de maneras que nunca imaginaron.",
+   "poster": "https://image.tmdb.org/t/p/w342/1oljTBjhbuIzd6UDRAhVpvbxxnY.jpg",
+   "reparto": [
+    {
+     "nombre": "Christopher Briney",
+     "foto": "https://image.tmdb.org/t/p/w185/1M21pqg3Lf8n6gwI9l9RX1PuPjw.jpg"
+    },
+    {
+     "nombre": "Michelle Randolph",
+     "foto": "https://image.tmdb.org/t/p/w185/5W3DB2THOjE4L4Hhc68CzcQiwuK.jpg"
+    },
+    {
+     "nombre": "Lukas Gage",
+     "foto": "https://image.tmdb.org/t/p/w185/xXknCnXtRBmqg38TkMuPFtugt5s.jpg"
+    },
+    {
+     "nombre": "Paris Hilton",
+     "foto": "https://image.tmdb.org/t/p/w185/8ywcy0guTGiL6JIPvnFtELMlwuu.jpg"
+    },
+    {
+     "nombre": "Julia Fox",
+     "foto": "https://image.tmdb.org/t/p/w185/AwipgBalCBiOfwXKssxM0NQlz33.jpg"
+    },
+    {
+     "nombre": "P.J. Byrne",
+     "foto": "https://image.tmdb.org/t/p/w185/1JVBaxRy3OxkHymD3nwBd5kVWWL.jpg"
+    }
+   ],
+   "trailer": "https://www.youtube.com/watch?v=nOyT9RkGRn4",
    "temporadas_det": []
   },
   {
