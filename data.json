@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-15T05:46:42+00:00",
+ "generado": "2026-11-15T13:44:06+00:00",
  "pais": "ES",
  "items": [
   {
@@ -381,6 +381,189 @@
    ]
   },
   {
+   "id": "89205",
+   "titulo": "Hermanos de sangre: Malcolm X y Muhammad Ali",
+   "tipo": "p",
+   "plataforma": "prime",
+   "estado": "expiring",
+   "fecha": "2026-11-16",
+   "genero": "Documental",
+   "generos": [
+    "Documental",
+    "Historia"
+   ],
+   "imdb": 5.8,
+   "rt": 94,
+   "duracion": "1 h 35 min",
+   "sinopsis": "La desconfianza y sus diferentes ideales hacen mella en el vínculo entre Malcolm X y Muhammad Ali, que empezó con un encuentro fortuito y acabó con una trágica disputa.",
+   "poster": "https://image.tmdb.org/t/p/w342/kdOXdPIgbbCHXb51tWJZ0r8kZfe.jpg",
+   "reparto": [
+    {
+     "nombre": "Malcolm X",
+     "foto": "https://image.tmdb.org/t/p/w185/fMQdemLvaN5WIHw1k21cX59Pf5s.jpg"
+    },
+    {
+     "nombre": "Muhammad Ali",
+     "foto": "https://image.tmdb.org/t/p/w185/u1ck2Lfx34GvW3YOoEE1ddNVdw6.jpg"
+    },
+    {
+     "nombre": "Elijah Muhammad",
+     "foto": null
+    },
+    {
+     "nombre": "Al Sharpton",
+     "foto": "https://image.tmdb.org/t/p/w185/xaZZuzMF18hRmYFwOxffIzm3zf.jpg"
+    },
+    {
+     "nombre": "Cornel West",
+     "foto": "https://image.tmdb.org/t/p/w185/eyLtTHcC3InxVPTyRus1pNfa0pK.jpg"
+    },
+    {
+     "nombre": "Ilyasah Shabazz",
+     "foto": null
+    }
+   ],
+   "trailer": "https://www.youtube.com/watch?v=gvOAuxFCGeU",
+   "temporadas_det": []
+  },
+  {
+   "id": "4396541",
+   "titulo": "Tiburón martillo: instinto asesino",
+   "tipo": "p",
+   "plataforma": "prime",
+   "estado": "expiring",
+   "fecha": "2026-11-16",
+   "genero": "Documental",
+   "generos": [
+    "Documental"
+   ],
+   "imdb": 4.5,
+   "rt": null,
+   "duracion": "44 min",
+   "sinopsis": "Un experto cree que los tiburones martillo llegan a grandes tamaños cazando otros tiburones. Para probarlo, usará una muestra de tejido de los tiburones más grandes de la tierra.",
+   "poster": "https://image.tmdb.org/t/p/w342/q0UIas3ULaMhePOsOPeMHS60gq6.jpg",
+   "reparto": [
+    {
+     "nombre": "Andy Casagrande",
+     "foto": "https://image.tmdb.org/t/p/w185/txBmNXMenXZGPiwPg1NPZP70AFJ.jpg"
+    }
+   ],
+   "trailer": null,
+   "temporadas_det": []
+  },
+  {
+   "id": "31803",
+   "titulo": "I Am Shauna Rae",
+   "tipo": "s",
+   "plataforma": "prime",
+   "estado": "expiring",
+   "fecha": "2026-11-16",
+   "genero": "Drama",
+   "generos": [
+    "Drama",
+    "Reality"
+   ],
+   "imdb": 5.3,
+   "rt": null,
+   "duracion": "2 temporadas, 16 episodios",
+   "sinopsis": "After a battle with brain cancer stunted her growth, 22-year-old Shauna Rae struggles to gain adult independence while trapped in a child's body.",
+   "poster": "https://image.tmdb.org/t/p/w342/e7v83H8mBGHkhC2ztwM7rDJs3gf.jpg",
+   "reparto": [],
+   "trailer": null,
+   "temporadas_det": [
+    {
+     "n": 1,
+     "eps": [
+      {
+       "n": 1,
+       "t": "Episodio 1",
+       "f": "2022-01-11"
+      },
+      {
+       "n": 2,
+       "t": "Episodio 2",
+       "f": "2022-01-18"
+      },
+      {
+       "n": 3,
+       "t": "Episodio 3",
+       "f": "2022-01-25"
+      },
+      {
+       "n": 4,
+       "t": "Episodio 4",
+       "f": "2022-02-01"
+      },
+      {
+       "n": 5,
+       "t": "Episodio 5",
+       "f": "2022-02-08"
+      },
+      {
+       "n": 6,
+       "t": "Episodio 6",
+       "f": "2022-02-15"
+      }
+     ]
+    },
+    {
+     "n": 2,
+     "eps": [
+      {
+       "n": 1,
+       "t": "Episodio 1",
+       "f": "2022-11-01"
+      },
+      {
+       "n": 2,
+       "t": "Episodio 2",
+       "f": "2022-11-08"
+      },
+      {
+       "n": 3,
+       "t": "Episodio 3",
+       "f": "2022-11-15"
+      },
+      {
+       "n": 4,
+       "t": "Episodio 4",
+       "f": "2022-11-22"
+      },
+      {
+       "n": 5,
+       "t": "Episodio 5",
+       "f": "2022-11-29"
+      },
+      {
+       "n": 6,
+       "t": "Episodio 6",
+       "f": "2022-12-06"
+      },
+      {
+       "n": 7,
+       "t": "Episodio 7",
+       "f": "2022-12-13"
+      },
+      {
+       "n": 8,
+       "t": "Episodio 8",
+       "f": "2022-12-20"
+      },
+      {
+       "n": 9,
+       "t": "Episodio 9",
+       "f": "2022-12-27"
+      },
+      {
+       "n": 10,
+       "t": "Episodio 10",
+       "f": "2023-01-03"
+      }
+     ]
+    }
+   ]
+  },
+  {
    "id": "6363",
    "titulo": "El pacto de los lobos",
    "tipo": "p",
@@ -589,68 +772,6 @@
    "temporadas_det": []
   },
   {
-   "id": "27823",
-   "titulo": "Conjuring Kesha",
-   "tipo": "s",
-   "plataforma": "prime",
-   "estado": "expiring",
-   "fecha": "2026-11-16",
-   "genero": "Reality",
-   "generos": [
-    "Reality",
-    "Documental"
-   ],
-   "imdb": 4.5,
-   "rt": null,
-   "duracion": "1 temporada, 6 episodios",
-   "sinopsis": "Kesha explores her cosmic connection with the supernatural at notoriously haunted locations. The pop icon brings the world's top paranormal experts and her celebrity friends along for a terrifying ride as she journeys deep into the heart of darkness.",
-   "poster": "https://image.tmdb.org/t/p/w342/rdOhwGutz97NBfyG02o3tDQ7vIw.jpg",
-   "reparto": [
-    {
-     "nombre": "Kesha",
-     "foto": "https://image.tmdb.org/t/p/w185/fWV7GU00kDv1C8XjTWJv0zyj5YP.jpg"
-    }
-   ],
-   "trailer": "https://www.youtube.com/watch?v=OVXcV7NCIgs",
-   "temporadas_det": [
-    {
-     "n": 1,
-     "eps": [
-      {
-       "n": 1,
-       "t": "Episodio 1",
-       "f": "2022-07-08"
-      },
-      {
-       "n": 2,
-       "t": "Episodio 2",
-       "f": "2022-07-08"
-      },
-      {
-       "n": 3,
-       "t": "Episodio 3",
-       "f": "2022-07-15"
-      },
-      {
-       "n": 4,
-       "t": "Episodio 4",
-       "f": "2022-07-22"
-      },
-      {
-       "n": 5,
-       "t": "Episodio 5",
-       "f": "2022-07-29"
-      },
-      {
-       "n": 6,
-       "t": "Episodio 6",
-       "f": "2022-08-05"
-      }
-     ]
-    }
-   ]
-  },
-  {
    "id": "25930760",
    "titulo": "Tiger Shark King",
    "tipo": "p",
@@ -670,31 +791,6 @@
     {
      "nombre": "Jimi Partington",
      "foto": null
-    }
-   ],
-   "trailer": null,
-   "temporadas_det": []
-  },
-  {
-   "id": "25898833",
-   "titulo": "Mako Mania: Battle for California",
-   "tipo": "p",
-   "plataforma": "prime",
-   "estado": "expiring",
-   "fecha": "2026-11-16",
-   "genero": "Documental",
-   "generos": [
-    "Documental"
-   ],
-   "imdb": null,
-   "rt": null,
-   "duracion": "",
-   "sinopsis": "",
-   "poster": "https://image.tmdb.org/t/p/w342/zaccPkO8oKVVKjNv2C98iZ75CnC.jpg",
-   "reparto": [
-    {
-     "nombre": "Jason Hildebrandt",
-     "foto": "https://image.tmdb.org/t/p/w185/xbGmWz053bVmpE02vsNhHIOzWoZ.jpg"
     }
    ],
    "trailer": null,
@@ -812,6 +908,93 @@
    ],
    "trailer": "https://www.youtube.com/watch?v=kt4K32grhwg",
    "temporadas_det": []
+  },
+  {
+   "id": "25898833",
+   "titulo": "Mako Mania: Battle for California",
+   "tipo": "p",
+   "plataforma": "prime",
+   "estado": "expiring",
+   "fecha": "2026-11-16",
+   "genero": "Documental",
+   "generos": [
+    "Documental"
+   ],
+   "imdb": null,
+   "rt": null,
+   "duracion": "",
+   "sinopsis": "",
+   "poster": "https://image.tmdb.org/t/p/w342/zaccPkO8oKVVKjNv2C98iZ75CnC.jpg",
+   "reparto": [
+    {
+     "nombre": "Jason Hildebrandt",
+     "foto": "https://image.tmdb.org/t/p/w185/xbGmWz053bVmpE02vsNhHIOzWoZ.jpg"
+    }
+   ],
+   "trailer": null,
+   "temporadas_det": []
+  },
+  {
+   "id": "27823",
+   "titulo": "Conjuring Kesha",
+   "tipo": "s",
+   "plataforma": "prime",
+   "estado": "expiring",
+   "fecha": "2026-11-16",
+   "genero": "Reality",
+   "generos": [
+    "Reality",
+    "Documental"
+   ],
+   "imdb": 4.5,
+   "rt": null,
+   "duracion": "1 temporada, 6 episodios",
+   "sinopsis": "Kesha explores her cosmic connection with the supernatural at notoriously haunted locations. The pop icon brings the world's top paranormal experts and her celebrity friends along for a terrifying ride as she journeys deep into the heart of darkness.",
+   "poster": "https://image.tmdb.org/t/p/w342/rdOhwGutz97NBfyG02o3tDQ7vIw.jpg",
+   "reparto": [
+    {
+     "nombre": "Kesha",
+     "foto": "https://image.tmdb.org/t/p/w185/fWV7GU00kDv1C8XjTWJv0zyj5YP.jpg"
+    }
+   ],
+   "trailer": "https://www.youtube.com/watch?v=OVXcV7NCIgs",
+   "temporadas_det": [
+    {
+     "n": 1,
+     "eps": [
+      {
+       "n": 1,
+       "t": "Episodio 1",
+       "f": "2022-07-08"
+      },
+      {
+       "n": 2,
+       "t": "Episodio 2",
+       "f": "2022-07-08"
+      },
+      {
+       "n": 3,
+       "t": "Episodio 3",
+       "f": "2022-07-15"
+      },
+      {
+       "n": 4,
+       "t": "Episodio 4",
+       "f": "2022-07-22"
+      },
+      {
+       "n": 5,
+       "t": "Episodio 5",
+       "f": "2022-07-29"
+      },
+      {
+       "n": 6,
+       "t": "Episodio 6",
+       "f": "2022-08-05"
+      }
+     ]
+    }
+   ]
   },
   {
    "id": "37022",
@@ -1208,235 +1391,6 @@
        "n": 4,
        "t": "Episodio 4",
        "f": "2015-10-06"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "id": "1695043",
-   "titulo": "Apaches",
-   "tipo": "p",
-   "plataforma": "prime",
-   "estado": "expiring",
-   "fecha": "2026-11-16",
-   "genero": "Drama",
-   "generos": [
-    "Drama",
-    "Suspense"
-   ],
-   "imdb": 5.4,
-   "rt": null,
-   "duracion": "1 h 35 min",
-   "sinopsis": "París, 1884. La vida de tres niños huérfanos que vagan por las calles dominadas por despiadados criminales cambia trágicamente cuando llevan a cabo un audaz robo.",
-   "poster": "https://image.tmdb.org/t/p/w342/kk7EPMFOE8Cuccnx5fxrSBpQuBq.jpg",
-   "reparto": [
-    {
-     "nombre": "Alice Isaaz",
-     "foto": "https://image.tmdb.org/t/p/w185/yULL4NbQW3ymzB2lHcI7SVlb7dS.jpg"
-    },
-    {
-     "nombre": "Niels Schneider",
-     "foto": "https://image.tmdb.org/t/p/w185/eG7go6nzgnb791avzYoN7GSqPd6.jpg"
-    },
-    {
-     "nombre": "Rod Paradot",
-     "foto": "https://image.tmdb.org/t/p/w185/6ks9zfw3IFcz6t2IAhokM90D5E1.jpg"
-    },
-    {
-     "nombre": "Artus",
-     "foto": "https://image.tmdb.org/t/p/w185/78eYMroV3AyRJDqijnp0FSLPCgZ.jpg"
-    },
-    {
-     "nombre": "Émilie Gavois-Kahn",
-     "foto": "https://image.tmdb.org/t/p/w185/1UWOiaw6O7VlcCwujtJpZb9ATD2.jpg"
-    },
-    {
-     "nombre": "Bruno Lochet",
-     "foto": "https://image.tmdb.org/t/p/w185/SNuKtVcGejDrxmMrvHBksrTs5x.jpg"
-    }
-   ],
-   "trailer": "https://www.youtube.com/watch?v=mRz4A4QEyIA",
-   "temporadas_det": []
-  },
-  {
-   "id": "89205",
-   "titulo": "Hermanos de sangre: Malcolm X y Muhammad Ali",
-   "tipo": "p",
-   "plataforma": "prime",
-   "estado": "expiring",
-   "fecha": "2026-11-16",
-   "genero": "Documental",
-   "generos": [
-    "Documental",
-    "Historia"
-   ],
-   "imdb": 5.8,
-   "rt": 94,
-   "duracion": "1 h 35 min",
-   "sinopsis": "La desconfianza y sus diferentes ideales hacen mella en el vínculo entre Malcolm X y Muhammad Ali, que empezó con un encuentro fortuito y acabó con una trágica disputa.",
-   "poster": "https://image.tmdb.org/t/p/w342/kdOXdPIgbbCHXb51tWJZ0r8kZfe.jpg",
-   "reparto": [
-    {
-     "nombre": "Malcolm X",
-     "foto": "https://image.tmdb.org/t/p/w185/fMQdemLvaN5WIHw1k21cX59Pf5s.jpg"
-    },
-    {
-     "nombre": "Muhammad Ali",
-     "foto": "https://image.tmdb.org/t/p/w185/u1ck2Lfx34GvW3YOoEE1ddNVdw6.jpg"
-    },
-    {
-     "nombre": "Elijah Muhammad",
-     "foto": null
-    },
-    {
-     "nombre": "Al Sharpton",
-     "foto": "https://image.tmdb.org/t/p/w185/xaZZuzMF18hRmYFwOxffIzm3zf.jpg"
-    },
-    {
-     "nombre": "Cornel West",
-     "foto": "https://image.tmdb.org/t/p/w185/eyLtTHcC3InxVPTyRus1pNfa0pK.jpg"
-    },
-    {
-     "nombre": "Ilyasah Shabazz",
-     "foto": null
-    }
-   ],
-   "trailer": "https://www.youtube.com/watch?v=gvOAuxFCGeU",
-   "temporadas_det": []
-  },
-  {
-   "id": "4396541",
-   "titulo": "Tiburón martillo: instinto asesino",
-   "tipo": "p",
-   "plataforma": "prime",
-   "estado": "expiring",
-   "fecha": "2026-11-16",
-   "genero": "Documental",
-   "generos": [
-    "Documental"
-   ],
-   "imdb": 4.5,
-   "rt": null,
-   "duracion": "44 min",
-   "sinopsis": "Un experto cree que los tiburones martillo llegan a grandes tamaños cazando otros tiburones. Para probarlo, usará una muestra de tejido de los tiburones más grandes de la tierra.",
-   "poster": "https://image.tmdb.org/t/p/w342/q0UIas3ULaMhePOsOPeMHS60gq6.jpg",
-   "reparto": [
-    {
-     "nombre": "Andy Casagrande",
-     "foto": "https://image.tmdb.org/t/p/w185/txBmNXMenXZGPiwPg1NPZP70AFJ.jpg"
-    }
-   ],
-   "trailer": null,
-   "temporadas_det": []
-  },
-  {
-   "id": "31803",
-   "titulo": "I Am Shauna Rae",
-   "tipo": "s",
-   "plataforma": "prime",
-   "estado": "expiring",
-   "fecha": "2026-11-16",
-   "genero": "Drama",
-   "generos": [
-    "Drama",
-    "Reality"
-   ],
-   "imdb": 5.3,
-   "rt": null,
-   "duracion": "2 temporadas, 16 episodios",
-   "sinopsis": "After a battle with brain cancer stunted her growth, 22-year-old Shauna Rae struggles to gain adult independence while trapped in a child's body.",
-   "poster": "https://image.tmdb.org/t/p/w342/e7v83H8mBGHkhC2ztwM7rDJs3gf.jpg",
-   "reparto": [],
-   "trailer": null,
-   "temporadas_det": [
-    {
-     "n": 1,
-     "eps": [
-      {
-       "n": 1,
-       "t": "Episodio 1",
-       "f": "2022-01-11"
-      },
-      {
-       "n": 2,
-       "t": "Episodio 2",
-       "f": "2022-01-18"
-      },
-      {
-       "n": 3,
-       "t": "Episodio 3",
-       "f": "2022-01-25"
-      },
-      {
-       "n": 4,
-       "t": "Episodio 4",
-       "f": "2022-02-01"
-      },
-      {
-       "n": 5,
-       "t": "Episodio 5",
-       "f": "2022-02-08"
-      },
-      {
-       "n": 6,
-       "t": "Episodio 6",
-       "f": "2022-02-15"
-      }
-     ]
-    },
-    {
-     "n": 2,
-     "eps": [
-      {
-       "n": 1,
-       "t": "Episodio 1",
-       "f": "2022-11-01"
-      },
-      {
-       "n": 2,
-       "t": "Episodio 2",
-       "f": "2022-11-08"
-      },
-      {
-       "n": 3,
-       "t": "Episodio 3",
-       "f": "2022-11-15"
-      },
-      {
-       "n": 4,
-       "t": "Episodio 4",
-       "f": "2022-11-22"
-      },
-      {
-       "n": 5,
-       "t": "Episodio 5",
-       "f": "2022-11-29"
-      },
-      {
-       "n": 6,
-       "t": "Episodio 6",
-       "f": "2022-12-06"
-      },
-      {
-       "n": 7,
-       "t": "Episodio 7",
-       "f": "2022-12-13"
-      },
-      {
-       "n": 8,
-       "t": "Episodio 8",
-       "f": "2022-12-20"
-      },
-      {
-       "n": 9,
-       "t": "Episodio 9",
-       "f": "2022-12-27"
-      },
-      {
-       "n": 10,
-       "t": "Episodio 10",
-       "f": "2023-01-03"
       }
      ]
     }
@@ -4971,6 +4925,52 @@
    ]
   },
   {
+   "id": "1695043",
+   "titulo": "Apaches",
+   "tipo": "p",
+   "plataforma": "prime",
+   "estado": "expiring",
+   "fecha": "2026-11-16",
+   "genero": "Drama",
+   "generos": [
+    "Drama",
+    "Suspense"
+   ],
+   "imdb": 5.4,
+   "rt": null,
+   "duracion": "1 h 35 min",
+   "sinopsis": "París, 1884. La vida de tres niños huérfanos que vagan por las calles dominadas por despiadados criminales cambia trágicamente cuando llevan a cabo un audaz robo.",
+   "poster": "https://image.tmdb.org/t/p/w342/kk7EPMFOE8Cuccnx5fxrSBpQuBq.jpg",
+   "reparto": [
+    {
+     "nombre": "Alice Isaaz",
+     "foto": "https://image.tmdb.org/t/p/w185/yULL4NbQW3ymzB2lHcI7SVlb7dS.jpg"
+    },
+    {
+     "nombre": "Niels Schneider",
+     "foto": "https://image.tmdb.org/t/p/w185/eG7go6nzgnb791avzYoN7GSqPd6.jpg"
+    },
+    {
+     "nombre": "Rod Paradot",
+     "foto": "https://image.tmdb.org/t/p/w185/6ks9zfw3IFcz6t2IAhokM90D5E1.jpg"
+    },
+    {
+     "nombre": "Artus",
+     "foto": "https://image.tmdb.org/t/p/w185/78eYMroV3AyRJDqijnp0FSLPCgZ.jpg"
+    },
+    {
+     "nombre": "Émilie Gavois-Kahn",
+     "foto": "https://image.tmdb.org/t/p/w185/1UWOiaw6O7VlcCwujtJpZb9ATD2.jpg"
+    },
+    {
+     "nombre": "Bruno Lochet",
+     "foto": "https://image.tmdb.org/t/p/w185/SNuKtVcGejDrxmMrvHBksrTs5x.jpg"
+    }
+   ],
+   "trailer": "https://www.youtube.com/watch?v=mRz4A4QEyIA",
+   "temporadas_det": []
+  },
+  {
    "id": "62180",
    "titulo": "The Fable: El asesino que no mata",
    "tipo": "p",
@@ -5949,411 +5949,32 @@
    "temporadas_det": []
   },
   {
-   "id": "34816",
-   "titulo": "Gaikotsu Shotenin Honda-san",
-   "tipo": "s",
-   "plataforma": "prime",
-   "estado": "new",
-   "fecha": "2026-11-14",
-   "genero": "Comedia",
-   "generos": [
-    "Comedia",
-    "Animación"
-   ],
-   "imdb": 5.2,
-   "rt": null,
-   "duracion": "1 temporada, 12 episodios",
-   "sinopsis": "Honda-san is at war - with business, with out-of-print books, and with people who love manga! Who knew there were so many laughs to be found at the manga counter of a bookstore?! These are the day-to-day happenings that take place at a certain bookstore where the love of manga is abundant.",
-   "poster": "https://image.tmdb.org/t/p/w342/9aKzJUkC7r9UTlDpNjUnQh9CjPf.jpg",
-   "reparto": [
-    {
-     "nombre": "Soma Saito",
-     "foto": "https://image.tmdb.org/t/p/w185/8W8Y02Jmjivw0kk5PDih9dqiyd9.jpg"
-    },
-    {
-     "nombre": "Yuko Sanpei",
-     "foto": "https://image.tmdb.org/t/p/w185/gms4G7ZRIQYXI9zsorkQr8aHnOU.jpg"
-    },
-    {
-     "nombre": "Eri Kitamura",
-     "foto": "https://image.tmdb.org/t/p/w185/oZuKOoiqUsZZcgO5wqlUoZQUPfw.jpg"
-    },
-    {
-     "nombre": "Kimiko Saito",
-     "foto": "https://image.tmdb.org/t/p/w185/rPP0jCjtLuEEroY3e2aRT8zonYK.jpg"
-    },
-    {
-     "nombre": "Shizuka Itoh",
-     "foto": "https://image.tmdb.org/t/p/w185/n47YvFPlJzl8HnsoDBtM8SUqG8q.jpg"
-    },
-    {
-     "nombre": "Aya Endo",
-     "foto": "https://image.tmdb.org/t/p/w185/s59Lip4dPC7rI3cz1pHs9vSmuvf.jpg"
-    }
-   ],
-   "trailer": null,
-   "temporadas_det": [
-    {
-     "n": 1,
-     "eps": [
-      {
-       "n": 1,
-       "t": "Episodio 1",
-       "f": "2018-10-08"
-      },
-      {
-       "n": 2,
-       "t": "Episodio 2",
-       "f": "2018-10-15"
-      },
-      {
-       "n": 3,
-       "t": "Episodio 3",
-       "f": "2018-10-22"
-      },
-      {
-       "n": 4,
-       "t": "Episodio 4",
-       "f": "2018-10-29"
-      },
-      {
-       "n": 5,
-       "t": "Episodio 5",
-       "f": "2018-11-05"
-      },
-      {
-       "n": 6,
-       "t": "Episodio 6",
-       "f": "2018-11-12"
-      },
-      {
-       "n": 7,
-       "t": "Episodio 7",
-       "f": "2018-11-19"
-      },
-      {
-       "n": 8,
-       "t": "Episodio 8",
-       "f": "2018-11-26"
-      },
-      {
-       "n": 9,
-       "t": "Episodio 9",
-       "f": "2018-12-03"
-      },
-      {
-       "n": 10,
-       "t": "Episodio 10",
-       "f": "2018-12-10"
-      },
-      {
-       "n": 11,
-       "t": "Episodio 11",
-       "f": "2018-12-17"
-      },
-      {
-       "n": 12,
-       "t": "Episodio 12",
-       "f": "2018-12-24"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "id": "4303795",
-   "titulo": "Hanabi-chan wa Okuregachi",
-   "tipo": "s",
-   "plataforma": "prime",
-   "estado": "new",
-   "fecha": "2026-11-14",
-   "genero": "Animación",
-   "generos": [
-    "Animación",
-    "Comedia"
-   ],
-   "imdb": 3.9,
-   "rt": null,
-   "duracion": "1 temporada, 12 episodios",
-   "sinopsis": "Shitamachi God Heaven, a closed-down pachinko hall, gets new management, but looks like they’ve got company—a group of girls living there. Manager Musashi Shinonome’s staff just got bigger with Hanabi and more anthropomorphic pachislot girls. But even with all this help restoring the hall, they’re failing—at least they’re failing together. This comedy of disappointment is open for business!",
-   "poster": "https://image.tmdb.org/t/p/w342/p7eHnuydyPmG4ncpGo2vgNCg6nu.jpg",
-   "reparto": [
-    {
-     "nombre": "Azumi Waki",
-     "foto": "https://image.tmdb.org/t/p/w185/nxm4DLWv0BOcK2owvAz5yafSAXj.jpg"
-    },
-    {
-     "nombre": "Sumire Uesaka",
-     "foto": "https://image.tmdb.org/t/p/w185/AbouCe2WVBHvMlBm9NnG7GHyJpa.jpg"
-    },
-    {
-     "nombre": "Mao Ichimichi",
-     "foto": "https://image.tmdb.org/t/p/w185/a3cflYtrlFK0LXfWODgLDO7E7CP.jpg"
-    },
-    {
-     "nombre": "Nao Toyama",
-     "foto": "https://image.tmdb.org/t/p/w185/6WJDd1z946yFfZBgpC7dWi0FyQw.jpg"
-    },
-    {
-     "nombre": "Naomi Ohzora",
-     "foto": "https://image.tmdb.org/t/p/w185/qygKX6EtfvPdnPsMM0d41mPztP2.jpg"
-    },
-    {
-     "nombre": "Yoshino Nanjo",
-     "foto": "https://image.tmdb.org/t/p/w185/tkeAJsWuJMFdIYU0LrwHEPxBx77.jpg"
-    }
-   ],
-   "trailer": null,
-   "temporadas_det": [
-    {
-     "n": 1,
-     "eps": [
-      {
-       "n": 1,
-       "t": "Episodio 1",
-       "f": "2022-07-10"
-      },
-      {
-       "n": 2,
-       "t": "Episodio 2",
-       "f": "2022-07-17"
-      },
-      {
-       "n": 3,
-       "t": "Episodio 3",
-       "f": "2022-07-24"
-      },
-      {
-       "n": 4,
-       "t": "Episodio 4",
-       "f": "2022-07-31"
-      },
-      {
-       "n": 5,
-       "t": "Episodio 5",
-       "f": "2022-08-07"
-      },
-      {
-       "n": 6,
-       "t": "Episodio 6",
-       "f": "2022-08-14"
-      },
-      {
-       "n": 7,
-       "t": "Episodio 7",
-       "f": "2022-08-21"
-      },
-      {
-       "n": 8,
-       "t": "Episodio 8",
-       "f": "2022-08-28"
-      },
-      {
-       "n": 9,
-       "t": "Episodio 9",
-       "f": "2022-09-04"
-      },
-      {
-       "n": 10,
-       "t": "Episodio 10",
-       "f": "2022-09-11"
-      },
-      {
-       "n": 11,
-       "t": "Episodio 11",
-       "f": "2022-09-18"
-      },
-      {
-       "n": 12,
-       "t": "Episodio 12",
-       "f": "2022-09-25"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "id": "23901224",
-   "titulo": "Mary Christmas",
+   "id": "27300873",
+   "titulo": "Tyler Perry's The Gospel of Christmas",
    "tipo": "p",
-   "plataforma": "prime",
+   "plataforma": "netflix",
    "estado": "new",
-   "fecha": "2026-11-14",
-   "genero": "Familia",
+   "fecha": "2026-11-15",
+   "genero": "Drama",
    "generos": [
-    "Familia",
-    "Romance",
     "Drama"
    ],
    "imdb": null,
    "rt": null,
-   "duracion": "1 h 25 min",
-   "sinopsis": "A live-in nanny helps a single father bring festive cheer into his home, bringing him closer to his daughter and ultimately making him fall in love.",
-   "poster": "https://image.tmdb.org/t/p/w342/9IToY3FhrwpT3dmKfKjUottl5ci.jpg",
-   "reparto": [
-    {
-     "nombre": "Sian Altman",
-     "foto": "https://image.tmdb.org/t/p/w185/49DvxTVXjkNR95dTBdVnI6fI14a.jpg"
-    },
-    {
-     "nombre": "Jack Forsyth-Noble",
-     "foto": "https://image.tmdb.org/t/p/w185/27TcxVdVg7s0FEAP2Z1PfCIqb8C.jpg"
-    },
-    {
-     "nombre": "Arabella Steadman",
-     "foto": null
-    },
-    {
-     "nombre": "Akil Largie",
-     "foto": "https://image.tmdb.org/t/p/w185/rAFF2NYg5scEF1I4pc5EKiPTvNF.jpg"
-    },
-    {
-     "nombre": "Becca Hirani",
-     "foto": "https://image.tmdb.org/t/p/w185/hb3Gch6qk239AI4AgHcoBWgzZwv.jpg"
-    }
-   ],
-   "trailer": "https://www.youtube.com/watch?v=5mVaH6ry2wY",
+   "duracion": "1 h 43 min",
+   "sinopsis": "Un joven pastor, que intenta estar a la altura del legado de su padre, traslada a su esposa e hijos de Georgia a Nueva York para salvar una iglesia moribunda con un poco de ayuda de sus ángeles guardianes.",
+   "poster": "https://cdn.movieofthenight.com/show/27300873/poster/vertical/en/240.jpg?Expires=1824246452&Signature=Vuvkv4lY5PnYEiJqtIDHvpeVT-TTDIjN4DkSoqrU2agmizMYV~KjTzylc~OcySPr0TFRPQQWX5hrva9aPDLh2jMzC4G453FKYHfF3tcEVc2bMPUvJq7xgWPRnpHkpTgC3534x-UNzGkgNy-w0Ff7IzaoZBC3q0ieF3iAf8ddem94yK9Tp~q14VqIVniRtQ7tPIRNo~8IgCqEPVHibRuQ2oWoqN47NB7VEKAqL3snvD1~DPydZ6ab2r5niH5x9VgqOZlBpJLeEEXKxvA-LA7DYWKp6ABcR7H-WLCYhCcoKihNOD~RbCU0pI0oHF7GsCLEiDPchzpcz461to4NCGYZoQ__&Key-Pair-Id=KK4HN3OO4AT5R",
+   "reparto": [],
+   "trailer": "https://www.youtube.com/watch?v=lXh2rNl2wdQ",
    "temporadas_det": []
   },
   {
-   "id": "27306457",
-   "titulo": "Finders Keepers",
-   "tipo": "p",
-   "plataforma": "prime",
-   "estado": "new",
-   "fecha": "2026-11-14",
-   "genero": "Crimen",
-   "generos": [
-    "Crimen",
-    "Drama",
-    "Suspense",
-    "Terror"
-   ],
-   "imdb": null,
-   "rt": null,
-   "duracion": "1 h 13 min",
-   "sinopsis": "",
-   "poster": "https://image.tmdb.org/t/p/w342/qZDmcsArtyLtfcRhVH7X5oA8Zrk.jpg",
-   "reparto": [
-    {
-     "nombre": "Craig Russell",
-     "foto": "https://image.tmdb.org/t/p/w185/itm2zeDEg0hMNQK6JaXyYuBYKtu.jpg"
-    },
-    {
-     "nombre": "Michael Geary",
-     "foto": "https://image.tmdb.org/t/p/w185/oCgPBoQ8kp7Bb8H4LcgTa7GZhfT.jpg"
-    },
-    {
-     "nombre": "Kara Lily Hayworth",
-     "foto": null
-    },
-    {
-     "nombre": "Giedre Jackyte",
-     "foto": "https://image.tmdb.org/t/p/w185/dlVhRriM429BxfYtMZ7sXfxdW4o.jpg"
-    },
-    {
-     "nombre": "Sean Bingham",
-     "foto": null
-    }
-   ],
-   "trailer": "https://www.youtube.com/watch?v=rwHSIa_bEME",
-   "temporadas_det": []
-  },
-  {
-   "id": "26606262",
-   "titulo": "The Beast",
-   "tipo": "p",
-   "plataforma": "prime",
-   "estado": "new",
-   "fecha": "2026-11-14",
-   "genero": "Acción",
-   "generos": [
-    "Acción",
-    "Suspense"
-   ],
-   "imdb": null,
-   "rt": 52,
-   "duracion": "1 h 39 min",
-   "sinopsis": "Cuando una milicia de hostiles no identificados coordina un golpe contra Estados Unidos, el presidente descubre el alcance de las capacidades ofensivas altamente clasificadas de La Bestia para salvar su vida y la de Estados Unidos.",
-   "poster": "https://image.tmdb.org/t/p/w342/ocg5JfJP19fodcv5uQUApkmZMdI.jpg",
-   "reparto": [
-    {
-     "nombre": "Samuel L. Jackson",
-     "foto": "https://image.tmdb.org/t/p/w185/AiAYAqwpM5xmiFrAIeQvUXDCVvo.jpg"
-    },
-    {
-     "nombre": "Joel Kinnaman",
-     "foto": "https://image.tmdb.org/t/p/w185/cVfYzTyQdJ4xtxKPZe7IcW3BJN4.jpg"
-    },
-    {
-     "nombre": "Guy Burnet",
-     "foto": "https://image.tmdb.org/t/p/w185/ksxpXRLJplv8kSfEHPYdboIwNfi.jpg"
-    },
-    {
-     "nombre": "Eoin Macken",
-     "foto": "https://image.tmdb.org/t/p/w185/9QcWKlulGbdDI8XNCJW88BfPyPv.jpg"
-    },
-    {
-     "nombre": "Colin Morgan",
-     "foto": "https://image.tmdb.org/t/p/w185/wuRCR2u5MK8IA3MQAMwjF6RGv5k.jpg"
-    }
-   ],
-   "trailer": "https://www.youtube.com/watch?v=5ckqV_uf8E0",
-   "temporadas_det": []
-  },
-  {
-   "id": "8594",
-   "titulo": "El guía del desfiladero (Pathfinder)",
-   "tipo": "p",
-   "plataforma": "prime",
-   "estado": "new",
-   "fecha": "2026-11-14",
-   "genero": "Aventura",
-   "generos": [
-    "Aventura",
-    "Acción"
-   ],
-   "imdb": 5.4,
-   "rt": 8,
-   "duracion": "1 h 39 min",
-   "sinopsis": "Un joven vikingo fue dejado atrás por su gente tras una incursión en las Costas Orientales. A pesar de su linaje, es joven es criado por los indios que sobrevivieron al ataque. Ante la vuelta de los Vikingos, quienes de nuevo vienen con planes de destruir la aldea, el joven guerrero Nórdico se encuentra en medio de un conflicto en que luchará para impedir que su misma gente traiga la destrucción y la muerte al pueblo donde fue acogido como si fuera uno mas, convirtiéndolo en su familia. Pero en medio de la lucha en contra de su linaje, su verdadero destino le es revelado, y su identidad es reclamada.",
-   "poster": "https://image.tmdb.org/t/p/w342/44EwZZhkNuuYWAtTeW3HVQ1uL4f.jpg",
-   "reparto": [
-    {
-     "nombre": "Karl Urban",
-     "foto": "https://image.tmdb.org/t/p/w185/7Y96dAfg0HcFrcLjlD5eD9N0uj4.jpg"
-    },
-    {
-     "nombre": "Moon Bloodgood",
-     "foto": "https://image.tmdb.org/t/p/w185/9CGOg5nGFlQ3IWwbElMAEJMm9Iq.jpg"
-    },
-    {
-     "nombre": "Nicole Muñoz",
-     "foto": "https://image.tmdb.org/t/p/w185/dKwknVUm2cl0C3SdG0UMuA1z5nD.jpg"
-    },
-    {
-     "nombre": "Clancy Brown",
-     "foto": "https://image.tmdb.org/t/p/w185/1JeBRNG7VS7r64V9lOvej9bZXW5.jpg"
-    },
-    {
-     "nombre": "Jay Tavare",
-     "foto": "https://image.tmdb.org/t/p/w185/gGAiOz3CZ2CEtBNVQdmjJuAb3uG.jpg"
-    },
-    {
-     "nombre": "Ray G. Thunderchild",
-     "foto": "https://image.tmdb.org/t/p/w185/pgfuTstibGqygddv7EKhazg3KW7.jpg"
-    }
-   ],
-   "trailer": "https://www.youtube.com/watch?v=hxOav6ojI4c",
-   "temporadas_det": []
-  },
-  {
-   "id": "25030398",
-   "titulo": "GIFT",
+   "id": "27520406",
+   "titulo": "Minami, abogada extraordinaria",
    "tipo": "s",
-   "plataforma": "prime",
+   "plataforma": "netflix",
    "estado": "new",
-   "fecha": "2026-11-14",
+   "fecha": "2026-11-15",
    "genero": "Drama",
    "generos": [
     "Drama"
@@ -6361,32 +5982,32 @@
    "imdb": null,
    "rt": null,
    "duracion": "1 temporada, 10 episodios",
-   "sinopsis": "",
-   "poster": "https://image.tmdb.org/t/p/w342/5bjdruO6jpKc4xz1PQjZudwxvYA.jpg",
+   "sinopsis": "Con una memoria prodigiosa y una perspectiva única, Minami se enfrenta a retos dentro y fuera de los tribunales como abogada novata con trastorno del espectro autista",
+   "poster": "https://image.tmdb.org/t/p/w342/ax4KpZOjZ59hp6IjYNOfJMAYge0.jpg",
    "reparto": [
     {
-     "nombre": "堤真一",
-     "foto": "https://image.tmdb.org/t/p/w185/t3E5FKE7UGbdlnA8gy9lx03otIk.jpg"
+     "nombre": "芦田愛菜",
+     "foto": "https://image.tmdb.org/t/p/w185/GkmFEAuslzWJ4yYhj9KahmmGdE.jpg"
     },
     {
-     "nombre": "山田裕貴",
-     "foto": "https://image.tmdb.org/t/p/w185/1oRe8UYddBYzyqAjlSwMTIFgg4K.jpg"
-    },
-    {
-     "nombre": "有村架純",
-     "foto": "https://image.tmdb.org/t/p/w185/wgRmACLMYhZWmMOaGUmUUMYPDTG.jpg"
-    },
-    {
-     "nombre": "本田響矢",
-     "foto": "https://image.tmdb.org/t/p/w185/fsbJgDmEm3lmn0SS6D609A6jfRq.jpg"
-    },
-    {
-     "nombre": "細田善彦",
-     "foto": "https://image.tmdb.org/t/p/w185/dPG05qmZNGiIhcldQb0Cc9hfiDM.jpg"
+     "nombre": "Fumiya Takahashi",
+     "foto": "https://image.tmdb.org/t/p/w185/aNdoFv1zPypM3nxR5T7LfpfKLZR.jpg"
     },
     {
      "nombre": "細田佳央太",
      "foto": "https://image.tmdb.org/t/p/w185/jzAY3P40g705sXd3QEfM1BtwVul.jpg"
+    },
+    {
+     "nombre": "久保史緒里",
+     "foto": "https://image.tmdb.org/t/p/w185/ejAisLumalUEhMUuAvnlJAxNrbs.jpg"
+    },
+    {
+     "nombre": "柿原りんか",
+     "foto": "https://image.tmdb.org/t/p/w185/qqgIY5gE87874N2nVNRNGm1baqp.jpg"
+    },
+    {
+     "nombre": "竹内櫻",
+     "foto": "https://image.tmdb.org/t/p/w185/h7EJtg4Xb20pfwlekcN0TAoVgbL.jpg"
     }
    ],
    "trailer": null,
@@ -6397,1325 +6018,1572 @@
       {
        "n": 1,
        "t": "Episodio 1",
-       "f": "2026-04-12"
+       "f": "2026-10-19"
       },
       {
        "n": 2,
        "t": "Episodio 2",
-       "f": "2026-04-19"
+       "f": "2026-10-26"
       },
       {
        "n": 3,
        "t": "Episodio 3",
-       "f": "2026-04-26"
+       "f": "2026-11-02"
       },
       {
        "n": 4,
        "t": "Episodio 4",
-       "f": "2026-05-03"
+       "f": "2026-11-09"
       },
       {
        "n": 5,
        "t": "Episodio 5",
-       "f": "2026-05-10"
+       "f": "2026-11-16"
       },
       {
        "n": 6,
        "t": "Episodio 6",
-       "f": "2026-05-17"
+       "f": "2026-11-23"
       },
       {
        "n": 7,
        "t": "Episodio 7",
-       "f": "2026-05-24"
+       "f": "2026-11-30"
       },
       {
        "n": 8,
        "t": "Episodio 8",
-       "f": "2026-05-31"
+       "f": "2026-12-07"
       },
       {
        "n": 9,
        "t": "Episodio 9",
-       "f": "2026-06-07"
+       "f": "2026-12-14"
       },
       {
        "n": 10,
        "t": "Episodio 10",
-       "f": "2026-06-14"
+       "f": "2026-12-21"
       }
      ]
     }
    ]
   },
   {
-   "id": "10739996",
-   "titulo": "Engaño",
-   "tipo": "s",
-   "plataforma": "prime",
-   "estado": "new",
-   "fecha": "2026-11-14",
-   "genero": "Drama",
-   "generos": [
-    "Drama",
-    "Misterio"
-   ],
-   "imdb": 5.9,
-   "rt": null,
-   "duracion": "1 temporada, 6 episodios",
-   "sinopsis": "Tras cumplir los 60, una mujer rica se enamora de un hombre atractivo y mucho más joven... pero su familia le hará dudar sobre las intenciones de él.",
-   "poster": "https://image.tmdb.org/t/p/w342/4cu2lhkpItl8JtSFVulBas4LE8X.jpg",
-   "reparto": [
-    {
-     "nombre": "Monica Guerritore",
-     "foto": "https://image.tmdb.org/t/p/w185/3yTCJIS3B8TcAQyXkc3gZcHr6Hu.jpg"
-    },
-    {
-     "nombre": "Giacomo Gianniotti",
-     "foto": "https://image.tmdb.org/t/p/w185/gym2kTV6aqHYRK2zFEhVnYBuPiR.jpg"
-    },
-    {
-     "nombre": "Emanuel Caserio",
-     "foto": "https://image.tmdb.org/t/p/w185/lOwyRouuQZpRe0jHOFMBIlZSDis.jpg"
-    },
-    {
-     "nombre": "Francesco Del Gaudio",
-     "foto": null
-    },
-    {
-     "nombre": "Dharma Mangia Woods",
-     "foto": "https://image.tmdb.org/t/p/w185/myrHxn2gyDoX6msZIfHlfq0P3NG.jpg"
-    },
-    {
-     "nombre": "Geppy Gleijeses",
-     "foto": "https://image.tmdb.org/t/p/w185/bTkhTTg9WyKKO3nH2v1R7oLfiXo.jpg"
-    }
-   ],
-   "trailer": "https://www.youtube.com/watch?v=HfN9hApi1wI",
-   "temporadas_det": [
-    {
-     "n": 1,
-     "eps": [
-      {
-       "n": 1,
-       "t": "Episodio 1",
-       "f": "2024-10-09"
-      },
-      {
-       "n": 2,
-       "t": "Episodio 2",
-       "f": "2024-10-09"
-      },
-      {
-       "n": 3,
-       "t": "Episodio 3",
-       "f": "2024-10-09"
-      },
-      {
-       "n": 4,
-       "t": "Episodio 4",
-       "f": "2024-10-09"
-      },
-      {
-       "n": 5,
-       "t": "Episodio 5",
-       "f": "2024-10-09"
-      },
-      {
-       "n": 6,
-       "t": "Episodio 6",
-       "f": "2024-10-09"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "id": "27614",
-   "titulo": "Bethenny Getting Married?",
-   "tipo": "s",
-   "plataforma": "prime",
-   "estado": "new",
-   "fecha": "2026-11-14",
-   "genero": "Reality",
-   "generos": [
-    "Reality"
-   ],
-   "imdb": 5.2,
-   "rt": null,
-   "duracion": "1 temporada, 1 episodios",
-   "sinopsis": "Breakout reality star Bethenny Frankel prepares for a wedding and a baby while continuing to grow her career as an author and natural chef.",
-   "poster": "https://cdn.movieofthenight.com/show/27614/poster/vertical/en/240.jpg?Expires=1822230222&Signature=jJja5bT2QpNYwtCRN2NZHwfXEN~awym5RfiWBSj~FJ1q3Z3VANZpinR6MEOJ6G-iVx00EKKaKTsHUlhGyv1QpwPcPZt~f6dwzXn6Oo2lAC5Pm1-eRBEq7OvGen~LDfwYptk7BgQGflTYvbjBz5Vo~tLMP3021RWq6ukzPj6RyZMIlToo8ZprJ4KPbvkfi95fDmb7SnvDKb0BM9zJZsxXHq2CV8hJs9fNKBrBrPYTjl18Ec3y9KeiC5J3B4uoD0C5SVX0mzggcTaGpgoE0TlpaA5rnuY78ZrBFSAfk0e7vqAqq08H8JzFabGpNGRk7Ko-N2Fnn8uo14LfZcrjsWP00w__&Key-Pair-Id=KK4HN3OO4AT5R",
-   "reparto": [],
-   "trailer": null,
-   "temporadas_det": [
-    {
-     "n": 1,
-     "eps": [
-      {
-       "n": 1,
-       "t": "Episodio 1",
-       "f": "2010-06-10"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "id": "26422",
-   "titulo": "Ladies of London",
-   "tipo": "s",
-   "plataforma": "prime",
-   "estado": "new",
-   "fecha": "2026-11-14",
-   "genero": "Reality",
-   "generos": [
-    "Reality"
-   ],
-   "imdb": 5.3,
-   "rt": null,
-   "duracion": "4 temporadas, 39 episodios",
-   "sinopsis": "Several elite British socialites and American expats enjoy upper-crust life in London while attempting to balance their social lives, businesses, and families.",
-   "poster": "https://image.tmdb.org/t/p/w342/mcydqq33qv7doH8T9vyxdAkWKDH.jpg",
-   "reparto": [
-    {
-     "nombre": "Marissa Hermer",
-     "foto": "https://image.tmdb.org/t/p/w185/wCCbB3qPys6mvGJucsIBBNvOTce.jpg"
-    },
-    {
-     "nombre": "Juliet Angus",
-     "foto": "https://image.tmdb.org/t/p/w185/x5NphAZSYYQS6J39L1piaTqNBj.jpg"
-    },
-    {
-     "nombre": "Caroline Stanbury",
-     "foto": "https://image.tmdb.org/t/p/w185/fuWxdU8ObUmNmdnVO8TlslzwNB0.jpg"
-    }
-   ],
-   "trailer": "https://www.youtube.com/watch?v=hHFEvJaxV_I",
-   "temporadas_det": [
-    {
-     "n": 1,
-     "eps": [
-      {
-       "n": 1,
-       "t": "Episodio 1",
-       "f": "2014-06-02"
-      },
-      {
-       "n": 2,
-       "t": "Episodio 2",
-       "f": "2014-06-09"
-      },
-      {
-       "n": 3,
-       "t": "Episodio 3",
-       "f": "2014-06-16"
-      },
-      {
-       "n": 4,
-       "t": "Episodio 4",
-       "f": "2014-06-23"
-      },
-      {
-       "n": 5,
-       "t": "Episodio 5",
-       "f": "2014-06-30"
-      },
-      {
-       "n": 6,
-       "t": "Episodio 6",
-       "f": "2014-07-07"
-      },
-      {
-       "n": 7,
-       "t": "Episodio 7",
-       "f": "2014-07-14"
-      },
-      {
-       "n": 8,
-       "t": "Episodio 8",
-       "f": "2014-07-21"
-      }
-     ]
-    },
-    {
-     "n": 2,
-     "eps": [
-      {
-       "n": 1,
-       "t": "Episodio 1",
-       "f": "2015-09-07"
-      },
-      {
-       "n": 2,
-       "t": "Episodio 2",
-       "f": "2015-09-14"
-      },
-      {
-       "n": 3,
-       "t": "Episodio 3",
-       "f": "2015-09-21"
-      },
-      {
-       "n": 4,
-       "t": "Episodio 4",
-       "f": "2015-09-28"
-      },
-      {
-       "n": 5,
-       "t": "Episodio 5",
-       "f": "2015-10-05"
-      },
-      {
-       "n": 6,
-       "t": "Episodio 6",
-       "f": "2015-10-12"
-      },
-      {
-       "n": 7,
-       "t": "Episodio 7",
-       "f": "2015-10-19"
-      },
-      {
-       "n": 8,
-       "t": "Episodio 8",
-       "f": "2015-10-26"
-      },
-      {
-       "n": 9,
-       "t": "Episodio 9",
-       "f": "2015-11-02"
-      },
-      {
-       "n": 10,
-       "t": "Episodio 10",
-       "f": "2015-11-09"
-      }
-     ]
-    },
-    {
-     "n": 3,
-     "eps": [
-      {
-       "n": 1,
-       "t": "Episodio 1",
-       "f": "2016-11-29"
-      },
-      {
-       "n": 2,
-       "t": "Episodio 2",
-       "f": "2016-12-06"
-      },
-      {
-       "n": 3,
-       "t": "Episodio 3",
-       "f": "2016-12-13"
-      },
-      {
-       "n": 4,
-       "t": "Episodio 4",
-       "f": "2016-12-20"
-      },
-      {
-       "n": 5,
-       "t": "Episodio 5",
-       "f": "2016-12-27"
-      },
-      {
-       "n": 6,
-       "t": "Episodio 6",
-       "f": "2017-01-03"
-      },
-      {
-       "n": 7,
-       "t": "Episodio 7",
-       "f": "2017-01-10"
-      },
-      {
-       "n": 8,
-       "t": "Episodio 8",
-       "f": "2017-01-17"
-      },
-      {
-       "n": 9,
-       "t": "Episodio 9",
-       "f": "2017-01-24"
-      },
-      {
-       "n": 10,
-       "t": "Episodio 10",
-       "f": "2017-01-31"
-      },
-      {
-       "n": 11,
-       "t": "Episodio 11",
-       "f": "2017-02-07"
-      }
-     ]
-    },
-    {
-     "n": 4,
-     "eps": [
-      {
-       "n": 1,
-       "t": "Episodio 1",
-       "f": "2026-03-05"
-      },
-      {
-       "n": 2,
-       "t": "Episodio 2",
-       "f": "2026-03-05"
-      },
-      {
-       "n": 3,
-       "t": "Episodio 3",
-       "f": "2026-03-12"
-      },
-      {
-       "n": 4,
-       "t": "Episodio 4",
-       "f": "2026-03-19"
-      },
-      {
-       "n": 5,
-       "t": "Episodio 5",
-       "f": "2026-03-26"
-      },
-      {
-       "n": 6,
-       "t": "Episodio 6",
-       "f": "2026-04-02"
-      },
-      {
-       "n": 7,
-       "t": "Episodio 7",
-       "f": "2026-04-09"
-      },
-      {
-       "n": 8,
-       "t": "Episodio 8",
-       "f": "2026-04-16"
-      },
-      {
-       "n": 9,
-       "t": "Episodio 9",
-       "f": "2026-04-23"
-      },
-      {
-       "n": 10,
-       "t": "Episodio 10",
-       "f": "2026-04-30"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "id": "20931681",
-   "titulo": "Giada in My Kitchen",
-   "tipo": "s",
-   "plataforma": "prime",
-   "estado": "new",
-   "fecha": "2026-11-14",
-   "genero": "Reality",
-   "generos": [
-    "Reality"
-   ],
-   "imdb": 4.4,
-   "rt": null,
-   "duracion": "1 temporada, 1 episodios",
-   "sinopsis": "Star chef Giada De Laurentiis has cooked in countless kitchens worldwide. To her, the kitchen is the heart of the home. Giada will team up with A-List designer Erick Garcia to surprise a deserving family with the kitchen makeover of their dreams. Their combined expertise leads to kitchens that are as beautiful as they are functional, transforming the lives of these families forever.",
-   "poster": "https://image.tmdb.org/t/p/w342/1jfLiK73OxNUuoUWiJioXUcCTqK.jpg",
-   "reparto": [],
-   "trailer": "https://www.youtube.com/watch?v=502hxN5jzGk",
-   "temporadas_det": [
-    {
-     "n": 1,
-     "eps": [
-      {
-       "n": 1,
-       "t": "Episodio 1",
-       "f": "2025-06-23"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "id": "42602",
-   "titulo": "Willy Fog 2",
-   "tipo": "s",
-   "plataforma": "prime",
-   "estado": "new",
-   "fecha": "2026-11-14",
-   "genero": "Animación",
-   "generos": [
-    "Animación",
-    "Comedia",
-    "Acción",
-    "Aventura",
-    "Infantil"
-   ],
-   "imdb": 5.7,
-   "rt": null,
-   "duracion": "1 temporada, 26 episodios",
-   "sinopsis": "Willy Fog vuelve a ser desafiado por Sullivan y se embarca, con sus amigos, en busca de un camino secreto hacia el centro de la Tierra y las profundidades del mar.",
-   "poster": "https://image.tmdb.org/t/p/w342/tU9W12W2vslng9YcaFawAvMfrV5.jpg",
-   "reparto": [
-    {
-     "nombre": "Claudio Rodríguez",
-     "foto": "https://image.tmdb.org/t/p/w185/qOQgqpi5k5RAX56Ilud2nLzRbBW.jpg"
-    },
-    {
-     "nombre": "Gloria Cámara",
-     "foto": "https://image.tmdb.org/t/p/w185/5iJ6I8VHAGN8KamRgkEHGmcXOkL.jpg"
-    },
-    {
-     "nombre": "Ángel Egido",
-     "foto": null
-    },
-    {
-     "nombre": "Luis Reina",
-     "foto": null
-    },
-    {
-     "nombre": "Eduardo Jover",
-     "foto": null
-    },
-    {
-     "nombre": "Rafael Alonso Naranjo Jr.",
-     "foto": null
-    }
-   ],
-   "trailer": null,
-   "temporadas_det": [
-    {
-     "n": 1,
-     "eps": [
-      {
-       "n": 1,
-       "t": "El mensaje cifrado",
-       "f": "1994-09-24"
-      },
-      {
-       "n": 2,
-       "t": "Rumbo a Islandia",
-       "f": "1994-10-01"
-      },
-      {
-       "n": 3,
-       "t": "Un guía silencioso",
-       "f": "1994-10-02"
-      },
-      {
-       "n": 4,
-       "t": "El volcán dormido",
-       "f": "1994-10-08"
-      },
-      {
-       "n": 5,
-       "t": "Romy en peligro",
-       "f": "1994-10-09"
-      },
-      {
-       "n": 6,
-       "t": "Hacia el Centro de la Tierra",
-       "f": "1994-10-15"
-      },
-      {
-       "n": 7,
-       "t": "La venganza de Transfer",
-       "f": "1994-10-16"
-      },
-      {
-       "n": 8,
-       "t": "Un río inesperado",
-       "f": "1994-10-22"
-      },
-      {
-       "n": 9,
-       "t": "Perdidos en la oscuridad",
-       "f": "1994-10-23"
-      },
-      {
-       "n": 10,
-       "t": "El mar subterráneo",
-       "f": "1994-10-29"
-      },
-      {
-       "n": 11,
-       "t": "La batalla de los monstruos",
-       "f": "1994-10-30"
-      },
-      {
-       "n": 12,
-       "t": "La tempestad",
-       "f": "1994-11-05"
-      },
-      {
-       "n": 13,
-       "t": "El regreso",
-       "f": "1994-11-06"
-      },
-      {
-       "n": 14,
-       "t": "Unos sucesos inexplicables",
-       "f": "1994-11-12"
-      },
-      {
-       "n": 15,
-       "t": "El profesor Aronnax",
-       "f": "1994-11-13"
-      },
-      {
-       "n": 16,
-       "t": "Ned Land, el arponero",
-       "f": "1994-11-19"
-      },
-      {
-       "n": 17,
-       "t": "En alta mar",
-       "f": "1994-11-20"
-      },
-      {
-       "n": 18,
-       "t": "El monstruo de las profundidades",
-       "f": "1994-11-26"
-      },
-      {
-       "n": 19,
-       "t": "El capitán Nemo",
-       "f": "1994-11-27"
-      },
-      {
-       "n": 20,
-       "t": "Visitando el Nautilus",
-       "f": "1994-12-03"
-      },
-      {
-       "n": 21,
-       "t": "Un paseo submarino",
-       "f": "1994-12-04"
-      },
-      {
-       "n": 22,
-       "t": "En tierra firme",
-       "f": ""
-      },
-      {
-       "n": 23,
-       "t": "Los pescadores de perlas",
-       "f": "1994-12-18"
-      },
-      {
-       "n": 24,
-       "t": "En el Polo Sur",
-       "f": "1995-01-07"
-      },
-      {
-       "n": 25,
-       "t": "Luchando con los pulpos",
-       "f": "1995-01-08"
-      },
-      {
-       "n": 26,
-       "t": "Salvados por el torbellino",
-       "f": ""
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "id": "26596665",
-   "titulo": "Jagamae Sangeetham",
-   "tipo": "s",
-   "plataforma": "prime",
-   "estado": "new",
-   "fecha": "2026-11-14",
-   "genero": "Drama",
-   "generos": [
-    "Drama"
-   ],
-   "imdb": null,
-   "rt": null,
-   "duracion": "1 temporada, 8 episodios",
-   "sinopsis": "A young Carnatic prodigy carries the weight of his grandfather's name and his family's survival. As financial pressure mounts and a long-buried family conflict resurfaces through his uncle Thyagaraju, Balu is pushed to question everything he's been trained to honor. An unexpected creative partnership forces him to see his tradition, and his family, in a new light.",
-   "poster": "https://image.tmdb.org/t/p/w342/aEfuAAgMpePYJc99wFe19dMVst4.jpg",
-   "reparto": [
-    {
-     "nombre": "ప్రకాష్ రాజ్",
-     "foto": "https://image.tmdb.org/t/p/w185/dJvFZOXmZdkYCOUcKTXQAhBcAoH.jpg"
-    },
-    {
-     "nombre": "Madhoo",
-     "foto": "https://image.tmdb.org/t/p/w185/vH4fS92NFq0k2TGTPZe9I5qdPbo.jpg"
-    },
-    {
-     "nombre": "శ్రీకాంత్",
-     "foto": "https://image.tmdb.org/t/p/w185/o10UQ9zvh9cOAUENybde25yrueV.jpg"
-    },
-    {
-     "nombre": "Akshay Lagusani",
-     "foto": null
-    },
-    {
-     "nombre": "Sushmita Shetty",
-     "foto": "https://image.tmdb.org/t/p/w185/b1CQ3cppwIsNy1qsbGOEnsORIqO.jpg"
-    },
-    {
-     "nombre": "Sijju Menon",
-     "foto": null
-    }
-   ],
-   "trailer": "https://www.youtube.com/watch?v=tbiXRFXVuMs",
-   "temporadas_det": [
-    {
-     "n": 1,
-     "eps": [
-      {
-       "n": 1,
-       "t": "Episodio 1",
-       "f": "2026-09-04"
-      },
-      {
-       "n": 2,
-       "t": "Episodio 2",
-       "f": "2026-09-04"
-      },
-      {
-       "n": 3,
-       "t": "Episodio 3",
-       "f": "2026-09-04"
-      },
-      {
-       "n": 4,
-       "t": "Episodio 4",
-       "f": "2026-09-04"
-      },
-      {
-       "n": 5,
-       "t": "Episodio 5",
-       "f": "2026-09-04"
-      },
-      {
-       "n": 6,
-       "t": "Episodio 6",
-       "f": "2026-09-04"
-      },
-      {
-       "n": 7,
-       "t": "Episodio 7",
-       "f": "2026-09-04"
-      },
-      {
-       "n": 8,
-       "t": "Episodio 8",
-       "f": "2026-09-04"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "id": "8397",
-   "titulo": "La vuelta al mundo de Willy Fog",
-   "tipo": "s",
-   "plataforma": "prime",
-   "estado": "new",
-   "fecha": "2026-11-14",
-   "genero": "Animación",
-   "generos": [
-    "Animación",
-    "Comedia",
-    "Acción",
-    "Aventura",
-    "Infantil"
-   ],
-   "imdb": 6.0,
-   "rt": null,
-   "duracion": "1 temporada, 26 episodios",
-   "sinopsis": "Willy Fog es un millonario británico que apuesta que será capaz de dar la vuelta al mundo en solo ochenta días.",
-   "poster": "https://image.tmdb.org/t/p/w342/liYz7bSupyl56Zhhlb2ro0wG6bD.jpg",
-   "reparto": [
-    {
-     "nombre": "Claudio Rodríguez",
-     "foto": "https://image.tmdb.org/t/p/w185/qOQgqpi5k5RAX56Ilud2nLzRbBW.jpg"
-    },
-    {
-     "nombre": "Gloria Cámara",
-     "foto": "https://image.tmdb.org/t/p/w185/5iJ6I8VHAGN8KamRgkEHGmcXOkL.jpg"
-    },
-    {
-     "nombre": "Manuel Peiró",
-     "foto": "https://image.tmdb.org/t/p/w185/6my9rfJLNqiAhLrL7DPtMeX1pR9.jpg"
-    },
-    {
-     "nombre": "José Moratalla",
-     "foto": "https://image.tmdb.org/t/p/w185/14yhZLrfubiqF7ns6lbIExH3K1o.jpg"
-    },
-    {
-     "nombre": "Rafael de Penagos",
-     "foto": "https://image.tmdb.org/t/p/w185/olABmOU530V5V8PbmQi2YDuNfqq.jpg"
-    },
-    {
-     "nombre": "Luis Marín",
-     "foto": "https://image.tmdb.org/t/p/w185/wvUY3DgFLLVpq7XyuKjmfdTioAC.jpg"
-    }
-   ],
-   "trailer": null,
-   "temporadas_det": [
-    {
-     "n": 1,
-     "eps": [
-      {
-       "n": 1,
-       "t": "La apuesta",
-       "f": "1983-08-01"
-      },
-      {
-       "n": 2,
-       "t": "La partida",
-       "f": "1983-08-02"
-      },
-      {
-       "n": 3,
-       "t": "Un viaje accidentado",
-       "f": "1983-08-03"
-      },
-      {
-       "n": 4,
-       "t": "Se busca a Willy Fog",
-       "f": "1983-08-04"
-      },
-      {
-       "n": 5,
-       "t": "Willy Fog y el fantasma",
-       "f": "1983-08-05"
-      },
-      {
-       "n": 6,
-       "t": "Aventura en la pagoda",
-       "f": "1983-08-06"
-      },
-      {
-       "n": 7,
-       "t": "El expreso de Calcuta",
-       "f": "1983-08-07"
-      },
-      {
-       "n": 8,
-       "t": "Peligro en la selva",
-       "f": "1983-08-08"
-      },
-      {
-       "n": 9,
-       "t": "El rescate de Romy",
-       "f": "1983-08-09"
-      },
-      {
-       "n": 10,
-       "t": "Un regalo para Parsi",
-       "f": "1983-08-10"
-      },
-      {
-       "n": 11,
-       "t": "El bombín de Rigodón",
-       "f": "1983-08-11"
-      },
-      {
-       "n": 12,
-       "t": "Tempestad en el mar de China",
-       "f": "1983-08-12"
-      },
-      {
-       "n": 13,
-       "t": "Rigodón cae en la trampa",
-       "f": "1983-08-13"
-      },
-      {
-       "n": 14,
-       "t": "Rumbo a Yokohama",
-       "f": "1983-08-14"
-      },
-      {
-       "n": 15,
-       "t": "El circo de Akita",
-       "f": "1983-08-15"
-      },
-      {
-       "n": 16,
-       "t": "Fiesta en Hawai",
-       "f": "1983-08-16"
-      },
-      {
-       "n": 17,
-       "t": "Viaje en globo",
-       "f": "1983-08-17"
-      },
-      {
-       "n": 18,
-       "t": "En el ferrocarril del Pacífico",
-       "f": "1983-08-18"
-      },
-      {
-       "n": 19,
-       "t": "La estampida",
-       "f": "1983-08-19"
-      },
-      {
-       "n": 20,
-       "t": "Una decisión arriesgada",
-       "f": "1983-08-20"
-      },
-      {
-       "n": 21,
-       "t": "Un tren muy especial",
-       "f": "1983-08-21"
-      },
-      {
-       "n": 22,
-       "t": "El regreso de Rigodón",
-       "f": "1983-08-22"
-      },
-      {
-       "n": 23,
-       "t": "Destino: Nueva York",
-       "f": "1983-08-23"
-      },
-      {
-       "n": 24,
-       "t": "Motín en el Henrietta",
-       "f": "1983-08-24"
-      },
-      {
-       "n": 25,
-       "t": "El arresto de Willy Fog",
-       "f": "1983-08-25"
-      },
-      {
-       "n": 26,
-       "t": "Decisión final",
-       "f": "1983-08-26"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "id": "17042",
-   "titulo": "Girl",
+   "id": "8558",
+   "titulo": "Fred Claus, el hermano gamberro de Santa Claus",
    "tipo": "p",
-   "plataforma": "prime",
+   "plataforma": "netflix",
    "estado": "new",
-   "fecha": "2026-11-14",
-   "genero": "Drama",
-   "generos": [
-    "Drama"
-   ],
-   "imdb": 6.9,
-   "rt": 84,
-   "duracion": "1 h 55 min",
-   "sinopsis": "Lara, de 15 años, sueña con convertirse en bailarina. Con el apoyo de su padre, se lanza de lleno a esta búsqueda interminable. Pero su cuerpo no se doblega tan fácilmente a la disciplina que le impone, porque en realidad cuando nació era un niño.",
-   "poster": "https://image.tmdb.org/t/p/w342/eRtBDVZVhnqih9dcnIj4g4xKZQ.jpg",
-   "reparto": [
-    {
-     "nombre": "Victor Polster",
-     "foto": "https://image.tmdb.org/t/p/w185/d5wc5VeiR88UyFVyoHZPVVznK42.jpg"
-    },
-    {
-     "nombre": "Arieh Worthalter",
-     "foto": "https://image.tmdb.org/t/p/w185/3X5A6dwrFUlGo7SZtnf2Fms4BBe.jpg"
-    },
-    {
-     "nombre": "Oliver Bodart",
-     "foto": "https://image.tmdb.org/t/p/w185/wsyXtVy9AqSWC62JB2CJrMO2n8L.jpg"
-    },
-    {
-     "nombre": "Tijmen Govaerts",
-     "foto": "https://image.tmdb.org/t/p/w185/eKPKVwAYzPRMUp2Pm9VV9OfFiuC.jpg"
-    },
-    {
-     "nombre": "Katelijne Damen",
-     "foto": "https://image.tmdb.org/t/p/w185/nQG7KrbvlXjxWLvGu7C4KWFlioh.jpg"
-    },
-    {
-     "nombre": "Valentijn Dhaenens",
-     "foto": "https://image.tmdb.org/t/p/w185/mHl2MKRQWTwJazddhYZH2Fo6LNH.jpg"
-    }
-   ],
-   "trailer": "https://www.youtube.com/watch?v=if8qAhD4ZXc",
-   "temporadas_det": []
-  },
-  {
-   "id": "4794607",
-   "titulo": "Las vidas de Sing Sing",
-   "tipo": "p",
-   "plataforma": "prime",
-   "estado": "new",
-   "fecha": "2026-11-14",
-   "genero": "Drama",
-   "generos": [
-    "Drama"
-   ],
-   "imdb": 7.3,
-   "rt": 97,
-   "duracion": "1 h 47 min",
-   "sinopsis": "Un pequeño grupo de personas encarceladas en el Centro Correccional Sing Sing, una de las prisiones de máxima seguridad más famosas del mundo, intenta montar su propia producción original como parte de un taller de teatro. A través de las artes escénicas, estos hombres consiguen ver el mundo como un lugar por el que luchar.",
-   "poster": "https://image.tmdb.org/t/p/w342/3JccNwUnxZTCHK1vL5p0H4NgTin.jpg",
-   "reparto": [
-    {
-     "nombre": "Colman Domingo",
-     "foto": "https://image.tmdb.org/t/p/w185/t0cgfvtA7Thxnrtj5baRi656zlc.jpg"
-    },
-    {
-     "nombre": "Clarence Maclin",
-     "foto": "https://image.tmdb.org/t/p/w185/1nRVnEo3fICl9yhRyemn8PgrJ4q.jpg"
-    },
-    {
-     "nombre": "Sean San Jose",
-     "foto": "https://image.tmdb.org/t/p/w185/iijye4VXgoT2L6X0WGyXgzBz6IC.jpg"
-    },
-    {
-     "nombre": "Paul Raci",
-     "foto": "https://image.tmdb.org/t/p/w185/7ky9dBmNAMwkQuM4pMZkprtSN1Z.jpg"
-    },
-    {
-     "nombre": "David \"Dap\" Giraudy",
-     "foto": null
-    },
-    {
-     "nombre": "Patrick \"Preme\" Griffin",
-     "foto": null
-    }
-   ],
-   "trailer": "https://www.youtube.com/watch?v=j3dXc6P3zH8",
-   "temporadas_det": []
-  },
-  {
-   "id": "1290166",
-   "titulo": "Sala de profesores",
-   "tipo": "p",
-   "plataforma": "prime",
-   "estado": "new",
-   "fecha": "2026-11-14",
-   "genero": "Drama",
-   "generos": [
-    "Drama"
-   ],
-   "imdb": 7.3,
-   "rt": 95,
-   "duracion": "1 h 39 min",
-   "sinopsis": "Carla Nowak, una idealista profesora de matemáticas y deportes, comienza su primer trabajo en una escuela de secundaria. Cuando se producen una serie de robos en la escuela y se sospecha de uno de sus alumnos, decide llegar al fondo del asunto por su cuenta. Carla intenta mediar entre padres indignados, colegas obstinados y estudiantes agresivos, pero se enfrenta a las implacables estructuras del sistema escolar.",
-   "poster": "https://image.tmdb.org/t/p/w342/3xFWOPWzN4mwFx0js8bDvHOUIO0.jpg",
-   "reparto": [
-    {
-     "nombre": "Leonie Benesch",
-     "foto": "https://image.tmdb.org/t/p/w185/dXs2srrTNOTOZXNa0UOaO9xx2QL.jpg"
-    },
-    {
-     "nombre": "Leonard Stettnisch",
-     "foto": null
-    },
-    {
-     "nombre": "Eva Löbau",
-     "foto": "https://image.tmdb.org/t/p/w185/iHZVFa0GLXU5MeU4SUN20SgYWVS.jpg"
-    },
-    {
-     "nombre": "Michael Klammer",
-     "foto": "https://image.tmdb.org/t/p/w185/u47AlkNpQm0AMr9zY1DnFqXQJxW.jpg"
-    },
-    {
-     "nombre": "Rafael Stachowiak",
-     "foto": "https://image.tmdb.org/t/p/w185/ib6ui3FIKUngxTrK6UbFJNNNzDz.jpg"
-    },
-    {
-     "nombre": "Sarah Bauerett",
-     "foto": "https://image.tmdb.org/t/p/w185/8HSndA8YnD9uqVqmbUalKpaurIM.jpg"
-    }
-   ],
-   "trailer": "https://www.youtube.com/watch?v=Z8ZoCHcTZds",
-   "temporadas_det": []
-  },
-  {
-   "id": "8516",
-   "titulo": "Bella de día",
-   "tipo": "p",
-   "plataforma": "prime",
-   "estado": "new",
-   "fecha": "2026-11-14",
-   "genero": "Drama",
-   "generos": [
-    "Drama",
-    "Romance"
-   ],
-   "imdb": 7.1,
-   "rt": 95,
-   "duracion": "1 h 41 min",
-   "sinopsis": "Sévérine, una joven casada con un atractivo cirujano, descubre la existencia de la prostitución diurna. Impulsada por la curiosidad, ingresa en la casa de citas de Anaïs y termina acostumbrándose a llevar una doble vida. La aparición de Marcel, un delincuente que se enamora de ella, complicará la situación de la protagonista. En 2006 contó con una secuela, \"Belle Toujours\", dirigida por Manoel de Oliveira.",
-   "poster": "https://image.tmdb.org/t/p/w342/6LBPUWNYYtC4R4tTxLSsVG4qKPG.jpg",
-   "reparto": [
-    {
-     "nombre": "Catherine Deneuve",
-     "foto": "https://image.tmdb.org/t/p/w185/rG0FuNR4INt2RcziqFVH0Gslc9z.jpg"
-    },
-    {
-     "nombre": "Jean Sorel",
-     "foto": "https://image.tmdb.org/t/p/w185/fP0u5mPqTbBuJW1Uex0Wfv5rjbG.jpg"
-    },
-    {
-     "nombre": "Michel Piccoli",
-     "foto": "https://image.tmdb.org/t/p/w185/bazUUNSnTs1yrAjDgfnFYxwlqao.jpg"
-    },
-    {
-     "nombre": "Geneviève Page",
-     "foto": "https://image.tmdb.org/t/p/w185/zO5HduDwzPzUVVYa1YsjS0h1u4X.jpg"
-    },
-    {
-     "nombre": "Pierre Clémenti",
-     "foto": "https://image.tmdb.org/t/p/w185/qon2PVQqEk3T2vphwGvpzsfI8Ht.jpg"
-    },
-    {
-     "nombre": "Françoise Fabian",
-     "foto": "https://image.tmdb.org/t/p/w185/8osKgSNCZ5xQn40njZwBgDZ20Ss.jpg"
-    }
-   ],
-   "trailer": "https://www.youtube.com/watch?v=gC1lO7lqMuw",
-   "temporadas_det": []
-  },
-  {
-   "id": "5574",
-   "titulo": "Criminal",
-   "tipo": "p",
-   "plataforma": "prime",
-   "estado": "new",
-   "fecha": "2026-11-14",
-   "genero": "Crimen",
-   "generos": [
-    "Crimen",
-    "Drama",
-    "Suspense",
-    "Acción"
-   ],
-   "imdb": 7.3,
-   "rt": 60,
-   "duracion": "1 h 43 min",
-   "sinopsis": "Un encantador hombre de familia con un prometedor futuro, Wade Porter de repente lo pierde todo cuando accidentalmente mata a un ladrón que se coló en su casa. Detenido por homicidio involuntario, Wade es condenado a pasar tres años en un centro penitenciario de máxima seguridad en el que las reglas de la sociedad no se aplican. Obligado a compartir celda con un infame asesino y sufriendo las brutales palizas orquestadas por el sádico jefe de los guardias de la prisión, Wade pronto se da cuenta de que su vida está en juego y de que si quiere sobrevivir tendrá que convertirse en el recluso más duro. Porque lo que no te mata te hace más fuerte. Y en una prisión estatal, sólo los más fuertes sobreviven.",
-   "poster": "https://image.tmdb.org/t/p/w342/stZ0Are6wNP5WJPk5WPvdiRLJva.jpg",
-   "reparto": [
-    {
-     "nombre": "Stephen Dorff",
-     "foto": "https://image.tmdb.org/t/p/w185/bhlM1xNzBvc8jTw42YloUKlGTCL.jpg"
-    },
-    {
-     "nombre": "Val Kilmer",
-     "foto": "https://image.tmdb.org/t/p/w185/j2bJH6rxZkJJt8tHsBFMOxIVZdE.jpg"
-    },
-    {
-     "nombre": "Harold Perrineau",
-     "foto": "https://image.tmdb.org/t/p/w185/bVSLpGUaislREbujmknOqadrxYM.jpg"
-    },
-    {
-     "nombre": "Marisol Nichols",
-     "foto": "https://image.tmdb.org/t/p/w185/xgCZ4aebwqSACsL8SHbdEDNfdyC.jpg"
-    },
-    {
-     "nombre": "Johnny Lewis",
-     "foto": "https://image.tmdb.org/t/p/w185/ebfmLC4cr4F31aDw6DGMJcjOJNz.jpg"
-    },
-    {
-     "nombre": "Nick Chinlund",
-     "foto": "https://image.tmdb.org/t/p/w185/lRmgWDIXqBTneGbKlJNSFyiis1e.jpg"
-    }
-   ],
-   "trailer": "https://www.youtube.com/watch?v=zq5uhFXNQhg",
-   "temporadas_det": []
-  },
-  {
-   "id": "3761",
-   "titulo": "Barton Fink",
-   "tipo": "p",
-   "plataforma": "prime",
-   "estado": "new",
-   "fecha": "2026-11-14",
-   "genero": "Comedia",
-   "generos": [
-    "Comedia",
-    "Drama",
-    "Suspense"
-   ],
-   "imdb": 7.5,
-   "rt": 90,
-   "duracion": "1 h 56 min",
-   "sinopsis": "En 1941, Barton Fink viaja a Hollywood para escribir un guión sobre el luchador Wallace Berry. Una vez instalado en el Hotel Earle, el guionista sufre un agudo bloqueo mental. Su vecino de habitación, un jovial vendedor de seguros, trata de ayudarlo, pero una serie de circunstancias adversas hacen que se sienta cada vez más incapaz de afrontar su trabajo.",
-   "poster": "https://image.tmdb.org/t/p/w342/fJ4MIzs0UcaFK38eDVYK1oloQis.jpg",
-   "reparto": [
-    {
-     "nombre": "John Turturro",
-     "foto": "https://image.tmdb.org/t/p/w185/6O9W9cJW0kCqMzYeLupV9oH0ftn.jpg"
-    },
-    {
-     "nombre": "John Goodman",
-     "foto": "https://image.tmdb.org/t/p/w185/yyYqoyKHO7hE1zpgEV2XlqYWcNV.jpg"
-    },
-    {
-     "nombre": "Judy Davis",
-     "foto": "https://image.tmdb.org/t/p/w185/yAwsKkca91QJdsf1suUm637mwUx.jpg"
-    },
-    {
-     "nombre": "Michael Lerner",
-     "foto": "https://image.tmdb.org/t/p/w185/1jRm6TRS5atQrA1VQSef7GoL13g.jpg"
-    },
-    {
-     "nombre": "John Mahoney",
-     "foto": "https://image.tmdb.org/t/p/w185/paVSw7Brdp6MKa2j4UPukA0KHs3.jpg"
-    },
-    {
-     "nombre": "Tony Shalhoub",
-     "foto": "https://image.tmdb.org/t/p/w185/1zfBSuAmOr1xXjNg4WzFWPm5B0Z.jpg"
-    }
-   ],
-   "trailer": "https://www.youtube.com/watch?v=yglo5I1znpQ",
-   "temporadas_det": []
-  },
-  {
-   "id": "50721",
-   "titulo": "Dragonheart 4: Corazón de fuego",
-   "tipo": "p",
-   "plataforma": "prime",
-   "estado": "new",
-   "fecha": "2026-11-14",
-   "genero": "Fantasía",
-   "generos": [
-    "Fantasía",
-    "Aventura"
-   ],
-   "imdb": 5.4,
-   "rt": null,
-   "duracion": "1 h 38 min",
-   "sinopsis": "Drago, un dragón que comparte su corazón con el rey de Brittania, debe encontrar un heredero al trono cuando el rey fallece. Pero los herederos potenciales, Edric y Meghan, usan su fuerza del dragón y el poder del fuego para competir por el trono. Cuando los vikingos roben el fuego del corazón y desafíen los derechos de los heranos, las rivalidades acabarán abriendo paso a la aventura más épica.",
-   "poster": "https://image.tmdb.org/t/p/w342/cuhWzb39UawF0dQnfEV2tFSdycp.jpg",
-   "reparto": [
-    {
-     "nombre": "Patrick Stewart",
-     "foto": "https://image.tmdb.org/t/p/w185/ufqtnLh3JJjPbEgxEag3MM5nZyv.jpg"
-    },
-    {
-     "nombre": "Tom Rhys Harries",
-     "foto": "https://image.tmdb.org/t/p/w185/elxvpHPqOxGcKe6U2hcArIcpyWo.jpg"
-    },
-    {
-     "nombre": "Jessamine-Bliss Bell",
-     "foto": "https://image.tmdb.org/t/p/w185/hYTQOJJQ7OsTvlqI3HJQwz6PKIK.jpg"
-    },
-    {
-     "nombre": "Tamzin Merchant",
-     "foto": "https://image.tmdb.org/t/p/w185/1OShUfvL8E4XI33xD39NE0g9uPl.jpg"
-    },
-    {
-     "nombre": "André Eriksen",
-     "foto": "https://image.tmdb.org/t/p/w185/n2TRohxYgXXM4jphEnUYsS6Io9b.jpg"
-    },
-    {
-     "nombre": "Richard Cordery",
-     "foto": "https://image.tmdb.org/t/p/w185/dQXORgAzgjVXl9SXQBgsjflHZoP.jpg"
-    }
-   ],
-   "trailer": "https://www.youtube.com/watch?v=_zpFz4QKTAQ",
-   "temporadas_det": []
-  },
-  {
-   "id": "4726",
-   "titulo": "Jackass: La película",
-   "tipo": "p",
-   "plataforma": "prime",
-   "estado": "new",
-   "fecha": "2026-11-14",
+   "fecha": "2026-11-15",
    "genero": "Acción",
    "generos": [
     "Acción",
     "Comedia",
-    "Documental"
+    "Drama"
    ],
-   "imdb": 6.5,
-   "rt": 49,
-   "duracion": "1 h 27 min",
-   "sinopsis": "Johnny Knoxville y el resto del reparto de la serie de televisión \"Jackass\" realizan las hazañas más escandalosas y divertidas en Japón, donde se disfrazan de pandas y atacan un campo de golf mas intensas que en la TV.",
-   "poster": "https://image.tmdb.org/t/p/w342/pSdZUkluoxovi0fWibeO229oGpH.jpg",
+   "imdb": 5.7,
+   "rt": 20,
+   "duracion": "1 h 56 min",
+   "sinopsis": "Al Polo Norte, donde vive Santa Claus (Paul Giamatti), regresa la oveja negra de la familia: Fred Claus (Vince Vaughn), el hermano resentido y fracasado de Santa...",
+   "poster": "https://image.tmdb.org/t/p/w342/ipkhAexxfaTXEInrNzlhIeuel8p.jpg",
    "reparto": [
     {
-     "nombre": "Johnny Knoxville",
-     "foto": "https://image.tmdb.org/t/p/w185/7XDKsHsLC4uNYaGsuWG1tQXWRnu.jpg"
+     "nombre": "Vince Vaughn",
+     "foto": "https://image.tmdb.org/t/p/w185/qImHvsd7SFJh46Ujx50xUfkeMNz.jpg"
     },
     {
-     "nombre": "Bam Margera",
-     "foto": "https://image.tmdb.org/t/p/w185/4UiQ7FKhrwo0lUxBPPLZQSL2ZUb.jpg"
+     "nombre": "Paul Giamatti",
+     "foto": "https://image.tmdb.org/t/p/w185/wbrVVJRr5TwhDZuvijBgOorzcAb.jpg"
     },
     {
-     "nombre": "Steve-O",
-     "foto": "https://image.tmdb.org/t/p/w185/At4V4KPVOoBvWMtlZy6m4Wyvo3K.jpg"
+     "nombre": "John Michael Higgins",
+     "foto": "https://image.tmdb.org/t/p/w185/1McAEXIhRW2Q3LJsX3os90UXcJz.jpg"
     },
     {
-     "nombre": "Chris Pontius",
-     "foto": "https://image.tmdb.org/t/p/w185/fNthW6ozHId6veZmZO6dC1ofZhI.jpg"
+     "nombre": "Miranda Richardson",
+     "foto": "https://image.tmdb.org/t/p/w185/2IEW3fxqHb4AHBl5xU8JuipJbNK.jpg"
     },
     {
-     "nombre": "Ryan Dunn",
-     "foto": "https://image.tmdb.org/t/p/w185/cP0846ILp23Sz5W2bEfJxQMMJts.jpg"
+     "nombre": "Rachel Weisz",
+     "foto": "https://image.tmdb.org/t/p/w185/9tfHL5tholha1YF6bSKt422ETPM.jpg"
     },
     {
-     "nombre": "Jason 'Wee Man' Acuña",
-     "foto": "https://image.tmdb.org/t/p/w185/TYKzbOeNATeI1t4c51K7wp3Ny3.jpg"
+     "nombre": "Kathy Bates",
+     "foto": "https://image.tmdb.org/t/p/w185/3MsayDvY73uXGVbCFHyy1ABTacV.jpg"
     }
    ],
-   "trailer": "https://www.youtube.com/watch?v=GKuUHOqhKGM",
+   "trailer": "https://www.youtube.com/watch?v=dv9ce8cJVfg",
    "temporadas_det": []
   },
   {
-   "id": "511",
-   "titulo": "Ocean's Eleven. Hagan juego",
+   "id": "5863",
+   "titulo": "Como en casa en ningún sitio",
    "tipo": "p",
-   "plataforma": "prime",
+   "plataforma": "netflix",
    "estado": "new",
-   "fecha": "2026-11-14",
-   "genero": "Suspense",
+   "fecha": "2026-11-15",
+   "genero": "Comedia",
    "generos": [
-    "Suspense",
-    "Crimen"
+    "Comedia",
+    "Romance",
+    "Drama"
    ],
-   "imdb": 7.6,
-   "rt": 83,
-   "duracion": "1 h 56 min",
-   "sinopsis": "Danny Ocean es un carismático ladrón que, tan sólo 24 horas después de cumplir una larga condena en prisión, ya está planeando su próximo delito. Su objetivo: realizar el mayor atraco de casinos de la historia. Para ello formará un equipo de once hombres, cada uno de ellos el mejor en su campo. Sin embargo surgirá un problema inesperado: el dueño de los locales, Terry Benedic, está saliendo con Tess, su ex-mujer.",
-   "poster": "https://image.tmdb.org/t/p/w342/rDWIeM3bOOxh0uP9wd9baGOtx2p.jpg",
+   "imdb": 5.7,
+   "rt": 24,
+   "duracion": "1 h 28 min",
+   "sinopsis": "Brad y Kate son una guapa y exitosa pareja de San Francisco que ven cómo sus planes iniciales de pasar el día de Navidad en un lugar exótico, alejados de su ciudad y de sus propias familias, se convierten en algo muy diferente. Obligados y sin escapatoria, ambos se ven envueltos en una Navidad de lo más familiar. Pero no será una única celebración familiar, sino que serán cuatro en el mismo día. Cuatro celebraciones en las que saldrán a la luz los miedos de la infancia, se reabrirán las heridas de la adolescencia... y se pondrá en peligro la relación de Brad y Kate. Pero mientras Brad cuenta las horas para quitarse de encima ese mundo de padres, suegros, sobrinos y hermanos, Kate empieza a ver las cosas de un modo diferente y, al final del día, puede que se pregunte si la vida que ha elegido el resto de su familia no es tan mala después de todo.",
+   "poster": "https://image.tmdb.org/t/p/w342/zPVyJ03znHUulA6MZ7tvINzVsIx.jpg",
    "reparto": [
     {
-     "nombre": "George Clooney",
-     "foto": "https://image.tmdb.org/t/p/w185/dt0a7DT0SQeHb7NpURD6ifyEzsN.jpg"
+     "nombre": "Vince Vaughn",
+     "foto": "https://image.tmdb.org/t/p/w185/qImHvsd7SFJh46Ujx50xUfkeMNz.jpg"
     },
     {
-     "nombre": "Brad Pitt",
-     "foto": "https://image.tmdb.org/t/p/w185/ajNaPmXVVMJFg9GWmu6MJzTaXdV.jpg"
+     "nombre": "Reese Witherspoon",
+     "foto": "https://image.tmdb.org/t/p/w185/mfjunuTHrd0wnh8UG1ImMN9FSws.jpg"
     },
     {
-     "nombre": "Andy Garcia",
-     "foto": "https://image.tmdb.org/t/p/w185/9EivXoBlczZcFBet96WOoFbDsfF.jpg"
+     "nombre": "Robert Duvall",
+     "foto": "https://image.tmdb.org/t/p/w185/3tcKxC5Sc3DJ6XPDKKC2EAomEWn.jpg"
     },
     {
-     "nombre": "Matt Damon",
-     "foto": "https://image.tmdb.org/t/p/w185/aCvBXTAR9B1qRjIRzMBYhhbm1fR.jpg"
+     "nombre": "Sissy Spacek",
+     "foto": "https://image.tmdb.org/t/p/w185/xAxenjxjLNQFq4v1ccS2to3Mnoq.jpg"
     },
     {
-     "nombre": "Julia Roberts",
-     "foto": "https://image.tmdb.org/t/p/w185/fQacAdIa1WUNChQ6FgEko13eqOA.jpg"
+     "nombre": "Mary Steenburgen",
+     "foto": "https://image.tmdb.org/t/p/w185/yJhfuqS3yXW7kLSyvRU6n3b35mq.jpg"
     },
     {
-     "nombre": "Casey Affleck",
-     "foto": "https://image.tmdb.org/t/p/w185/304ilSygaCRWykoBWAL67TOw8g9.jpg"
+     "nombre": "Jon Voight",
+     "foto": "https://image.tmdb.org/t/p/w185/oxLsItDwLddXu8YYJCfkddYNejL.jpg"
     }
    ],
-   "trailer": "https://www.youtube.com/watch?v=n3epi9hPbqQ",
+   "trailer": "https://www.youtube.com/watch?v=6veo6Js7HUE",
    "temporadas_det": []
+  },
+  {
+   "id": "26603358",
+   "titulo": "Heartland",
+   "tipo": "p",
+   "plataforma": "netflix",
+   "estado": "new",
+   "fecha": "2026-11-15",
+   "genero": "Misterio",
+   "generos": [
+    "Misterio",
+    "Suspense"
+   ],
+   "imdb": null,
+   "rt": null,
+   "duracion": "",
+   "sinopsis": "",
+   "poster": "https://image.tmdb.org/t/p/w342/zhxlzxBlO1sWB1rPn7RmAoeQ2na.jpg",
+   "reparto": [
+    {
+     "nombre": "Jessica Chastain",
+     "foto": "https://image.tmdb.org/t/p/w185/mR1ELpP0T2Q1ZRSaADPgtrbPGla.jpg"
+    },
+    {
+     "nombre": "Garrett Hedlund",
+     "foto": "https://image.tmdb.org/t/p/w185/9zec61HuFJgiUEzPSt0NfPIj0Xv.jpg"
+    },
+    {
+     "nombre": "Carter Faith",
+     "foto": "https://image.tmdb.org/t/p/w185/bO46yvJpxObiPnnwEmQNk4FxJ83.jpg"
+    },
+    {
+     "nombre": "Ross Lynch",
+     "foto": "https://image.tmdb.org/t/p/w185/AlCEYF6SbZtCoOWBkVZvzdufMjs.jpg"
+    },
+    {
+     "nombre": "Jennifer Nettles",
+     "foto": "https://image.tmdb.org/t/p/w185/s6IDogtE93cMaMe4EYBjUeXVOV4.jpg"
+    },
+    {
+     "nombre": "Hill Harper",
+     "foto": "https://image.tmdb.org/t/p/w185/cgaRPrgB4DBxogIgiLwuABVmJVw.jpg"
+    }
+   ],
+   "trailer": "https://www.youtube.com/watch?v=ziIz59enN1c",
+   "temporadas_det": []
+  },
+  {
+   "id": "3877",
+   "titulo": "Hazme reír",
+   "tipo": "p",
+   "plataforma": "netflix",
+   "estado": "new",
+   "fecha": "2026-11-15",
+   "genero": "Comedia",
+   "generos": [
+    "Comedia",
+    "Drama"
+   ],
+   "imdb": 6.1,
+   "rt": 69,
+   "duracion": "2 h 32 min",
+   "sinopsis": "La historia ambientada en el mundo de los comediantes de standup (los monologuistas), y concretamente en George Simmons, un famoso cómico que descubre de repente que le queda poco tiempo de vida. George Simmons, que cree tenerlo todo, se da cuenta de lo que es estar cerca de la muerte, y a partir de ese momento pondrá todo su empeño en buscar aquello que realmente aporte significado a su vida.",
+   "poster": "https://image.tmdb.org/t/p/w342/vaSc6uJgCTiwQFftv0KUPwlFzoJ.jpg",
+   "reparto": [
+    {
+     "nombre": "Adam Sandler",
+     "foto": "https://image.tmdb.org/t/p/w185/iTMnXrPfC1rmom6a9q4hy6YSJWG.jpg"
+    },
+    {
+     "nombre": "Seth Rogen",
+     "foto": "https://image.tmdb.org/t/p/w185/nYl9bvQzaPQLzlf0wf75clLN6Hi.jpg"
+    },
+    {
+     "nombre": "Leslie Mann",
+     "foto": "https://image.tmdb.org/t/p/w185/x3OS9RL3qsv50kzRtpR2OhbuTkr.jpg"
+    },
+    {
+     "nombre": "Eric Bana",
+     "foto": "https://image.tmdb.org/t/p/w185/l9yoDgw3YFC2gMD1HTo5djGOwSY.jpg"
+    },
+    {
+     "nombre": "Jonah Hill",
+     "foto": "https://image.tmdb.org/t/p/w185/cymlWttB83MsAGR2EkTgANtjeRH.jpg"
+    },
+    {
+     "nombre": "Jason Schwartzman",
+     "foto": "https://image.tmdb.org/t/p/w185/gCjMdmW1DiPAClHVl4zHEIffIsE.jpg"
+    }
+   ],
+   "trailer": "https://www.youtube.com/watch?v=7ixy3fXB_Ak",
+   "temporadas_det": []
+  },
+  {
+   "id": "6929",
+   "titulo": "La cosa más dulce",
+   "tipo": "p",
+   "plataforma": "netflix",
+   "estado": "new",
+   "fecha": "2026-11-15",
+   "genero": "Romance",
+   "generos": [
+    "Romance",
+    "Comedia"
+   ],
+   "imdb": 5.3,
+   "rt": 25,
+   "duracion": "1 h 30 min",
+   "sinopsis": "La atractiva Christina Walters, inesperadamente y tras años de evitar relaciones serias con los hombres, conoce durante una noche de fiesta al que parece ser su media naranja, Pete. Pero cuando Christina se entera a la mañana siguiente que Pete ha dejado la ciudad, ella y su mejor amiga, Courtney, salen en su búsqueda y se encuentran con una serie de contratiempos durante su viaje.",
+   "poster": "https://image.tmdb.org/t/p/w342/m9Ik7hzYKzea3ACUMQ2Mpbt69OY.jpg",
+   "reparto": [
+    {
+     "nombre": "Cameron Diaz",
+     "foto": "https://image.tmdb.org/t/p/w185/tIWUyvmJayu8gtbrzCWC0L3H8kH.jpg"
+    },
+    {
+     "nombre": "Christina Applegate",
+     "foto": "https://image.tmdb.org/t/p/w185/ncWS3iguCMCQ53ewacGpMGA6MHv.jpg"
+    },
+    {
+     "nombre": "Thomas Jane",
+     "foto": "https://image.tmdb.org/t/p/w185/9frnlc2zoDcoeqZALB6aeYSQddl.jpg"
+    },
+    {
+     "nombre": "Selma Blair",
+     "foto": "https://image.tmdb.org/t/p/w185/2rO5eN6hDB0JxMMZHxNKEuMRm1m.jpg"
+    },
+    {
+     "nombre": "Jason Bateman",
+     "foto": "https://image.tmdb.org/t/p/w185/8e6mt0vGjPo6eW52gqRuXy5YnfN.jpg"
+    },
+    {
+     "nombre": "Parker Posey",
+     "foto": "https://image.tmdb.org/t/p/w185/bQmkOotVC6146QK42xLpQ9Ym4Cw.jpg"
+    }
+   ],
+   "trailer": "https://www.youtube.com/watch?v=5sA8dpA3gig",
+   "temporadas_det": []
+  },
+  {
+   "id": "11153",
+   "titulo": "Un vecino con pocas luces",
+   "tipo": "p",
+   "plataforma": "netflix",
+   "estado": "new",
+   "fecha": "2026-11-15",
+   "genero": "Comedia",
+   "generos": [
+    "Comedia",
+    "Familia"
+   ],
+   "imdb": 5.2,
+   "rt": 6,
+   "duracion": "1 h 33 min",
+   "sinopsis": "Para Steve Finch (Matthew Broderick), un optometrista de Massachussetts, la mejor época del año es la Navidad. Durante muchos años, ha conservado tradiciones que su mujer y sus hijos ya no pueden soportar. A pesar de ello, sigue teniendo un calendario del mes de diciembre repleto de actividades: la foto para la felicitación navideña, el ritual del árbol, los villancicos... Pero la felicidad de Steve se ve perturbada de repente por Buddy Hall (Danny DeVito), un astuto vendedor de coches que se instala en la casa de al lado.",
+   "poster": "https://image.tmdb.org/t/p/w342/icToXS9r12hEXERVBYHBR0kKCeO.jpg",
+   "reparto": [
+    {
+     "nombre": "Danny DeVito",
+     "foto": "https://image.tmdb.org/t/p/w185/6kO4IN7ndoIGw2JhyhAQN3SFmdx.jpg"
+    },
+    {
+     "nombre": "Matthew Broderick",
+     "foto": "https://image.tmdb.org/t/p/w185/papqFgpyroZJEqd7WvuNGN8ti2k.jpg"
+    },
+    {
+     "nombre": "Kristin Davis",
+     "foto": "https://image.tmdb.org/t/p/w185/61TjappibaZ1i8pEFlqwK2yrR2W.jpg"
+    },
+    {
+     "nombre": "Kristin Chenoweth",
+     "foto": "https://image.tmdb.org/t/p/w185/q3ENDu5n23FARhyij4FVRaTkSg4.jpg"
+    },
+    {
+     "nombre": "Alia Shawkat",
+     "foto": "https://image.tmdb.org/t/p/w185/kcTFBrPSQkenbPK76Iwj49c3Dku.jpg"
+    },
+    {
+     "nombre": "Fred Armisen",
+     "foto": "https://image.tmdb.org/t/p/w185/rhPN8Zx6nrtNiQN2JwPkJ3ZFJ9z.jpg"
+    }
+   ],
+   "trailer": "https://www.youtube.com/watch?v=7mGT_IC4oxM",
+   "temporadas_det": []
+  },
+  {
+   "id": "35819",
+   "titulo": "바람의 화원",
+   "tipo": "s",
+   "plataforma": "netflix",
+   "estado": "new",
+   "fecha": "2026-11-15",
+   "genero": "Drama",
+   "generos": [
+    "Drama"
+   ],
+   "imdb": 5.0,
+   "rt": null,
+   "duracion": "1 temporada, 20 episodios",
+   "sinopsis": "The competition between Hong Do and Yoon Suk commences, much to the Dohwaseo's chagrin and to the interest of the royal court",
+   "poster": "https://image.tmdb.org/t/p/w342/c0zNS5qLkf39IN72WVH9IDi4ZRQ.jpg",
+   "reparto": [
+    {
+     "nombre": "문근영",
+     "foto": "https://image.tmdb.org/t/p/w185/wnQhToleEfM1MnyJIx94cUoscT4.jpg"
+    },
+    {
+     "nombre": "문채원",
+     "foto": "https://image.tmdb.org/t/p/w185/x8kARXMszobY1YRcc3nbWczqyeZ.jpg"
+    },
+    {
+     "nombre": "박신양",
+     "foto": "https://image.tmdb.org/t/p/w185/gruS0gJcCDYBwVOjP5Vzngcfiw4.jpg"
+    },
+    {
+     "nombre": "한정수",
+     "foto": "https://image.tmdb.org/t/p/w185/4Oy1XCAdnZUA5hJ9cydU8ExLAPL.jpg"
+    },
+    {
+     "nombre": "이준",
+     "foto": "https://image.tmdb.org/t/p/w185/yjvG9Q9bSv222p96m0WScZRFviB.jpg"
+    },
+    {
+     "nombre": "배수빈",
+     "foto": "https://image.tmdb.org/t/p/w185/bc1nnZZ1PFMOwVoNodl1Vdo3RA6.jpg"
+    }
+   ],
+   "trailer": "https://www.youtube.com/watch?v=JMSE5TvR1ZI",
+   "temporadas_det": [
+    {
+     "n": 1,
+     "eps": [
+      {
+       "n": 1,
+       "t": "Episodio 1",
+       "f": "2008-09-24"
+      },
+      {
+       "n": 2,
+       "t": "Episodio 2",
+       "f": "2008-09-25"
+      },
+      {
+       "n": 3,
+       "t": "Episodio 3",
+       "f": "2008-10-01"
+      },
+      {
+       "n": 4,
+       "t": "Episodio 4",
+       "f": "2008-10-02"
+      },
+      {
+       "n": 5,
+       "t": "Episodio 5",
+       "f": "2008-10-08"
+      },
+      {
+       "n": 6,
+       "t": "Episodio 6",
+       "f": "2008-10-09"
+      },
+      {
+       "n": 7,
+       "t": "Episodio 7",
+       "f": "2008-10-22"
+      },
+      {
+       "n": 8,
+       "t": "Episodio 8",
+       "f": "2008-10-23"
+      },
+      {
+       "n": 9,
+       "t": "Episodio 9",
+       "f": "2008-10-29"
+      },
+      {
+       "n": 10,
+       "t": "Episodio 10",
+       "f": "2008-10-30"
+      },
+      {
+       "n": 11,
+       "t": "Episodio 11",
+       "f": "2008-11-05"
+      },
+      {
+       "n": 12,
+       "t": "Episodio 12",
+       "f": "2008-11-06"
+      },
+      {
+       "n": 13,
+       "t": "Episodio 13",
+       "f": "2008-11-12"
+      },
+      {
+       "n": 14,
+       "t": "Episodio 14",
+       "f": "2008-11-13"
+      },
+      {
+       "n": 15,
+       "t": "Episodio 15",
+       "f": "2008-11-19"
+      },
+      {
+       "n": 16,
+       "t": "Episodio 16",
+       "f": "2008-11-20"
+      },
+      {
+       "n": 17,
+       "t": "Episodio 17",
+       "f": "2008-11-26"
+      },
+      {
+       "n": 18,
+       "t": "Episodio 18",
+       "f": "2008-11-27"
+      },
+      {
+       "n": 19,
+       "t": "Episodio 19",
+       "f": "2008-12-03"
+      },
+      {
+       "n": 20,
+       "t": "Episodio 20",
+       "f": "2008-12-04"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "1897",
+   "titulo": "Gremlins",
+   "tipo": "p",
+   "plataforma": "netflix",
+   "estado": "new",
+   "fecha": "2026-11-15",
+   "genero": "Fantasía",
+   "generos": [
+    "Fantasía",
+    "Terror",
+    "Comedia"
+   ],
+   "imdb": 7.2,
+   "rt": 86,
+   "duracion": "1 h 46 min",
+   "sinopsis": "Rand es un viajante que un día regala a su hijo Billy una tierna y extraña criatura, un mogwai. El inocente regalo, sin embargo, será el origen de toda una ola de gamberradas y fechorías en un pequeño pueblo de Estados Unidos. Todo empieza cuando son infringidas, una tras otra, las tres reglas básicas que deben seguirse para cuidar a un mogwai: no darle de comer después de medianoche, no mojarlo y evitar que le dé la luz del Sol.",
+   "poster": "https://image.tmdb.org/t/p/w342/73Lf0JYHyWyZQGu04wvzzM3hh0l.jpg",
+   "reparto": [
+    {
+     "nombre": "Zach Galligan",
+     "foto": "https://image.tmdb.org/t/p/w185/mIqahCZcPw63km6dFnm1B1coAiY.jpg"
+    },
+    {
+     "nombre": "Phoebe Cates",
+     "foto": "https://image.tmdb.org/t/p/w185/nh2jiRCFa7TQdGB87k557LG0PtY.jpg"
+    },
+    {
+     "nombre": "Hoyt Axton",
+     "foto": "https://image.tmdb.org/t/p/w185/ko67ZaIC0rd6uaSOM619RjapQvO.jpg"
+    },
+    {
+     "nombre": "Frances Lee McCain",
+     "foto": "https://image.tmdb.org/t/p/w185/8KL73kRxsLDdrXPuMfiPET1EqH6.jpg"
+    },
+    {
+     "nombre": "Corey Feldman",
+     "foto": "https://image.tmdb.org/t/p/w185/9n5xDsrBFY0AFESmXOJEzEj4ezx.jpg"
+    },
+    {
+     "nombre": "Keye Luke",
+     "foto": "https://image.tmdb.org/t/p/w185/fh9RufZ6VQjKGFVtXFr3wv2MYCd.jpg"
+    }
+   ],
+   "trailer": "https://www.youtube.com/watch?v=XXxC0Geijzs",
+   "temporadas_det": []
+  },
+  {
+   "id": "2033",
+   "titulo": "Polar Express",
+   "tipo": "p",
+   "plataforma": "netflix",
+   "estado": "new",
+   "fecha": "2026-11-15",
+   "genero": "Aventura",
+   "generos": [
+    "Aventura",
+    "Animación",
+    "Familia",
+    "Fantasía"
+   ],
+   "imdb": 6.6,
+   "rt": 55,
+   "duracion": "1 h 40 min",
+   "sinopsis": "Esta es la historia de un jovencito en la víspera de Navidad quien aborda un poderoso y mágico tren que se dirige al hogar de Papá Noel, en el Polo Norte. Lo que se desarrolla es una aventura que sigue al dubitativo niño, quien toma un tren extraordinario al Polo Norte; durante este viaje, se embarca en una experiencia de autodescubrimiento que le muestra que las maravillas de la vida nunca se desvanecen para quienes creen.",
+   "poster": "https://image.tmdb.org/t/p/w342/ja6QGEUkP8t3wjjoHYvpRStomlT.jpg",
+   "reparto": [
+    {
+     "nombre": "Tom Hanks",
+     "foto": "https://image.tmdb.org/t/p/w185/oFvZoKI6lvU03n4YoNGAll9rkas.jpg"
+    },
+    {
+     "nombre": "Leslie Zemeckis",
+     "foto": "https://image.tmdb.org/t/p/w185/1bUcEr76agVCsWpMDbfll78biaW.jpg"
+    },
+    {
+     "nombre": "Eddie Deezen",
+     "foto": "https://image.tmdb.org/t/p/w185/AqjxoV14Jd3p5uvPsSPoAHmzQHI.jpg"
+    },
+    {
+     "nombre": "Nona Gaye",
+     "foto": "https://image.tmdb.org/t/p/w185/nD6Gawyx0QOQIKsFtJXBWMzjLw3.jpg"
+    },
+    {
+     "nombre": "Peter Scolari",
+     "foto": "https://image.tmdb.org/t/p/w185/r9sBCkb6hSinCpgWC7lu5XTJEfc.jpg"
+    },
+    {
+     "nombre": "Michael Jeter",
+     "foto": "https://image.tmdb.org/t/p/w185/pNBf8X56wCOHH7cArsMYJuke4fO.jpg"
+    }
+   ],
+   "trailer": "https://www.youtube.com/watch?v=f0oyHtZiJJs",
+   "temporadas_det": []
+  },
+  {
+   "id": "1111",
+   "titulo": "Cómo entrenar a tu dragón 2",
+   "tipo": "p",
+   "plataforma": "netflix",
+   "estado": "new",
+   "fecha": "2026-11-15",
+   "genero": "Fantasía",
+   "generos": [
+    "Fantasía",
+    "Acción",
+    "Aventura",
+    "Animación",
+    "Familia"
+   ],
+   "imdb": 7.7,
+   "rt": 92,
+   "duracion": "1 h 45 min",
+   "sinopsis": "Han pasado cinco años desde que Hipo empezó a entrenar a su dragón, rompiendo la tradición vikinga de cazarlos. Astrid y el resto de la pandilla han conseguido difundir en la isla un nuevo deporte: las carreras de dragones. Mientras realizan una carrera, atraviesan los cielos llegando a territorios inhóspitos, donde nadie antes ha estado. Durante un viaje descubren una cueva cubierta de hielo que resulta ser el refugio de cientos de dragones salvajes, a los que cuida un misterioso guardián. Hipo y los suyos se unen al guardián para proteger a los dragones de las fuerzas malignas que quieren acabar con ellos.",
+   "poster": "https://image.tmdb.org/t/p/w342/bXcRw7FL8QzUZOvY2fZdwDv5ymQ.jpg",
+   "reparto": [
+    {
+     "nombre": "Jay Baruchel",
+     "foto": "https://image.tmdb.org/t/p/w185/1GYJeQzPcY9Pfmc3FFsBwClkCv7.jpg"
+    },
+    {
+     "nombre": "Cate Blanchett",
+     "foto": "https://image.tmdb.org/t/p/w185/1Rd567YFdGfkJjSlhNPR8joYkaX.jpg"
+    },
+    {
+     "nombre": "Gerard Butler",
+     "foto": "https://image.tmdb.org/t/p/w185/i54XoxYieuff2w6MwyfwVUBvmR0.jpg"
+    },
+    {
+     "nombre": "Craig Ferguson",
+     "foto": "https://image.tmdb.org/t/p/w185/mBxNrOxdQeM7bVBveE47Syj9ES6.jpg"
+    },
+    {
+     "nombre": "America Ferrera",
+     "foto": "https://image.tmdb.org/t/p/w185/7q9uUWnaIjveX8DTU2lcA7mA3dp.jpg"
+    },
+    {
+     "nombre": "Jonah Hill",
+     "foto": "https://image.tmdb.org/t/p/w185/cymlWttB83MsAGR2EkTgANtjeRH.jpg"
+    }
+   ],
+   "trailer": "https://www.youtube.com/watch?v=1Y0erVF9cLI",
+   "temporadas_det": []
+  },
+  {
+   "id": "4159",
+   "titulo": "Ellas dan el golpe",
+   "tipo": "p",
+   "plataforma": "netflix",
+   "estado": "new",
+   "fecha": "2026-11-15",
+   "genero": "Comedia",
+   "generos": [
+    "Comedia",
+    "Drama"
+   ],
+   "imdb": 7.3,
+   "rt": 82,
+   "duracion": "2 h 08 min",
+   "sinopsis": "En 1943, mientras los hombres estaban en la guerra, el béisbol estuvo a punto de desaparecer. Se formó entonces una liga femenina que intentaba captar la atención del público. Dottie y Mae formaban parte de uno de esos equipos femeninos que debían demostrar que eran capaces de competir y luchar como hombres. Lo peor era que tenían que soportar a Jimmy, un sarcástico y alcohólico entrenador.",
+   "poster": "https://image.tmdb.org/t/p/w342/qHVHUVhE7RqjtecoSAnqYukiIos.jpg",
+   "reparto": [
+    {
+     "nombre": "Tom Hanks",
+     "foto": "https://image.tmdb.org/t/p/w185/oFvZoKI6lvU03n4YoNGAll9rkas.jpg"
+    },
+    {
+     "nombre": "Geena Davis",
+     "foto": "https://image.tmdb.org/t/p/w185/jNsZLedzKPuyUmgnvpRpP5oG3Wr.jpg"
+    },
+    {
+     "nombre": "Lori Petty",
+     "foto": "https://image.tmdb.org/t/p/w185/bmJFh4VxRii7h7jpo4YVC6BFeVd.jpg"
+    },
+    {
+     "nombre": "Madonna",
+     "foto": "https://image.tmdb.org/t/p/w185/8XtGxpB4z428QDgwKlFYPktYHFC.jpg"
+    },
+    {
+     "nombre": "Rosie O'Donnell",
+     "foto": "https://image.tmdb.org/t/p/w185/t6AySPJ24qQPNaDVPgjH4n4srBO.jpg"
+    },
+    {
+     "nombre": "Megan Cavanagh",
+     "foto": "https://image.tmdb.org/t/p/w185/bitalcVxjX8ThYaO6cKN4taodKD.jpg"
+    }
+   ],
+   "trailer": "https://www.youtube.com/watch?v=0A-O1MJAl9E",
+   "temporadas_det": []
+  },
+  {
+   "id": "9560",
+   "titulo": "La Gran Doctora",
+   "tipo": "s",
+   "plataforma": "netflix",
+   "estado": "new",
+   "fecha": "2026-11-15",
+   "genero": "Drama",
+   "generos": [
+    "Drama",
+    "Ciencia ficción",
+    "Fantasía"
+   ],
+   "imdb": 6.1,
+   "rt": null,
+   "duracion": "1 temporada, 24 episodios",
+   "sinopsis": "El romance entre un guerrero de la antigüedad (Choi Young) y una doctora  (Yoo Eun Soo) de los tiempos modernos, así como el proceso de hacer un  rey verdadero. Yoo Eun Soo es una cirujana plástica de 33 años en el año  2012. Originalmente fue una cirujana general, pero pronto descubrió que  era un trabajo excesivo, con bajo salario para la profesión y abandonó  el barco de la cirugía general. Su sueño es abrir algún día su propio  consultorio. Pero un día, Choi Young la secuestra y la lleva de vuelta a  la Era de Goryeo, porque necesitan sus habilidades médicas. Este drama  muestra el amor entre un guerrero a partir del período Goryeo y una  doctora en el día de hoy, su amor trasciende el tiempo y el espacio. Su  historia de amor se extiende por siglos, también las creencias en  conflicto. ¿Logrará el amor de Choi young y Yoo Eun Soo traspasar la  barrera del tiempo?",
+   "poster": "https://image.tmdb.org/t/p/w342/7OpDNXpe3AYoJXHp3FosYPLbFVD.jpg",
+   "reparto": [
+    {
+     "nombre": "Lee Min-ho",
+     "foto": "https://image.tmdb.org/t/p/w185/iqopuz6cKuRZRUPZQrj7lFZcWWb.jpg"
+    },
+    {
+     "nombre": "김희선",
+     "foto": "https://image.tmdb.org/t/p/w185/7ruHMfaI5YeJKfQBpUrri31SpL4.jpg"
+    },
+    {
+     "nombre": "유오성",
+     "foto": "https://image.tmdb.org/t/p/w185/iNqbeyp8Qoi0Sw2rlKgvwu5rSV2.jpg"
+    },
+    {
+     "nombre": "성훈",
+     "foto": "https://image.tmdb.org/t/p/w185/wGNCbshSo0YBcrsUCxfWMR9DLNr.jpg"
+    },
+    {
+     "nombre": "류덕환",
+     "foto": "https://image.tmdb.org/t/p/w185/vtijRyx62mv7ECDiiXQ7tWMxkaN.jpg"
+    },
+    {
+     "nombre": "박세영",
+     "foto": "https://image.tmdb.org/t/p/w185/2PefaowfnJYgEcGj3afolLlXpeg.jpg"
+    }
+   ],
+   "trailer": null,
+   "temporadas_det": [
+    {
+     "n": 1,
+     "eps": [
+      {
+       "n": 1,
+       "t": "Episodio 1",
+       "f": "2012-08-13"
+      },
+      {
+       "n": 2,
+       "t": "Episodio 2",
+       "f": "2012-08-14"
+      },
+      {
+       "n": 3,
+       "t": "Episodio 3",
+       "f": "2012-08-20"
+      },
+      {
+       "n": 4,
+       "t": "Episodio 4",
+       "f": "2012-08-21"
+      },
+      {
+       "n": 5,
+       "t": "Episodio 5",
+       "f": "2012-08-27"
+      },
+      {
+       "n": 6,
+       "t": "Episodio 6",
+       "f": "2012-08-28"
+      },
+      {
+       "n": 7,
+       "t": "Episodio 7",
+       "f": "2012-09-03"
+      },
+      {
+       "n": 8,
+       "t": "Episodio 8",
+       "f": "2012-09-04"
+      },
+      {
+       "n": 9,
+       "t": "Episodio 9",
+       "f": "2012-09-10"
+      },
+      {
+       "n": 10,
+       "t": "Episodio 10",
+       "f": "2012-09-11"
+      },
+      {
+       "n": 11,
+       "t": "Episodio 11",
+       "f": "2012-09-17"
+      },
+      {
+       "n": 12,
+       "t": "Episodio 12",
+       "f": "2012-09-18"
+      },
+      {
+       "n": 13,
+       "t": "Episodio 13",
+       "f": "2012-09-24"
+      },
+      {
+       "n": 14,
+       "t": "Episodio 14",
+       "f": "2012-09-25"
+      },
+      {
+       "n": 15,
+       "t": "Episodio 15",
+       "f": "2012-10-01"
+      },
+      {
+       "n": 16,
+       "t": "Episodio 16",
+       "f": "2012-10-02"
+      },
+      {
+       "n": 17,
+       "t": "Episodio 17",
+       "f": "2012-10-08"
+      },
+      {
+       "n": 18,
+       "t": "Episodio 18",
+       "f": "2012-10-09"
+      },
+      {
+       "n": 19,
+       "t": "Episodio 19",
+       "f": "2012-10-15"
+      },
+      {
+       "n": 20,
+       "t": "Episodio 20",
+       "f": "2012-10-16"
+      },
+      {
+       "n": 21,
+       "t": "Episodio 21",
+       "f": "2012-10-22"
+      },
+      {
+       "n": 22,
+       "t": "Episodio 22",
+       "f": "2012-10-23"
+      },
+      {
+       "n": 23,
+       "t": "Episodio 23",
+       "f": "2012-10-29"
+      },
+      {
+       "n": 24,
+       "t": "Episodio 24",
+       "f": "2012-10-30"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "15207294",
+   "titulo": "Peleas a domicilio",
+   "tipo": "p",
+   "plataforma": "netflix",
+   "estado": "new",
+   "fecha": "2026-11-15",
+   "genero": "Acción",
+   "generos": [
+    "Acción",
+    "Aventura",
+    "Comedia"
+   ],
+   "imdb": 4.0,
+   "rt": null,
+   "duracion": "1 h 38 min",
+   "sinopsis": "Naim es un encanto en su vida diaria, pero un monstruo cuando se trata de pelear. Para pagar el tratamiento de su perra enferma, se ve obligado a unirse a \"Allo Bagarre\", un grupo de combatientes callejeros que resuelven disputas a puñetazos. Pero el día que descubre que los conflictos se resuelven mediante el diálogo, a Naim le resultará difícil hacerse oír.",
+   "poster": "https://image.tmdb.org/t/p/w342/kq5RJr8i0V2Jt8tyGV82mn0BZDc.jpg",
+   "reparto": [
+    {
+     "nombre": "Nassim Lyes",
+     "foto": "https://image.tmdb.org/t/p/w185/nMJ1qjhdfgRT8JuyUfFEkEwihOW.jpg"
+    },
+    {
+     "nombre": "Anaïde Rozam",
+     "foto": "https://image.tmdb.org/t/p/w185/loZwn8wEJP5QTh2ujGi1RR9xnKa.jpg"
+    },
+    {
+     "nombre": "Ramzy Bedia",
+     "foto": "https://image.tmdb.org/t/p/w185/fzGqj63WW6NFAK43oVjtYzVy75y.jpg"
+    },
+    {
+     "nombre": "Hedi Bouchenafa",
+     "foto": "https://image.tmdb.org/t/p/w185/isbkfBuMRwoF6y0BqvWQzIeyFTt.jpg"
+    },
+    {
+     "nombre": "Arriles Amrani",
+     "foto": "https://image.tmdb.org/t/p/w185/jPHDD8cnRdskksJyqEQxjJf2BSU.jpg"
+    },
+    {
+     "nombre": "Matthieu Longatte",
+     "foto": "https://image.tmdb.org/t/p/w185/uhYWDmlnToiUEfVVweh9JlxREra.jpg"
+    }
+   ],
+   "trailer": null,
+   "temporadas_det": []
+  },
+  {
+   "id": "3529",
+   "titulo": "Cómo entrenar a tu dragón 3",
+   "tipo": "p",
+   "plataforma": "netflix",
+   "estado": "new",
+   "fecha": "2026-11-15",
+   "genero": "Animación",
+   "generos": [
+    "Animación",
+    "Familia",
+    "Aventura"
+   ],
+   "imdb": 7.4,
+   "rt": 90,
+   "duracion": "1 h 50 min",
+   "sinopsis": "Lo que comenzó como la inesperada amistad entre un joven vikingo y un temible dragón, Furia Nocturna,  se ha convertido en una épica trilogía que ha recorrido sus vidas. En esta nueva entrega, Hipo y Desdentao descubrirán finalmente su verdadero destino: para uno, gobernar Isla Mema junto a Astrid; para el otro, ser el líder de su especie. Pero, por el camino, deberán poner a prueba los lazos que los unen, plantando cara a la mayor amenaza que jamás haya afrontado... y a la aparición de una Furia Nocturna hembra.",
+   "poster": "https://image.tmdb.org/t/p/w342/rhnoAReqO3Xoe6GbJhT3409lnq8.jpg",
+   "reparto": [
+    {
+     "nombre": "Jay Baruchel",
+     "foto": "https://image.tmdb.org/t/p/w185/1GYJeQzPcY9Pfmc3FFsBwClkCv7.jpg"
+    },
+    {
+     "nombre": "America Ferrera",
+     "foto": "https://image.tmdb.org/t/p/w185/7q9uUWnaIjveX8DTU2lcA7mA3dp.jpg"
+    },
+    {
+     "nombre": "F. Murray Abraham",
+     "foto": "https://image.tmdb.org/t/p/w185/p2RYVGdrcP0m70BkkiKcwyrDeim.jpg"
+    },
+    {
+     "nombre": "Cate Blanchett",
+     "foto": "https://image.tmdb.org/t/p/w185/1Rd567YFdGfkJjSlhNPR8joYkaX.jpg"
+    },
+    {
+     "nombre": "Gerard Butler",
+     "foto": "https://image.tmdb.org/t/p/w185/i54XoxYieuff2w6MwyfwVUBvmR0.jpg"
+    },
+    {
+     "nombre": "Craig Ferguson",
+     "foto": "https://image.tmdb.org/t/p/w185/mBxNrOxdQeM7bVBveE47Syj9ES6.jpg"
+    }
+   ],
+   "trailer": "https://www.youtube.com/watch?v=5DEdq57E5ls",
+   "temporadas_det": []
+  },
+  {
+   "id": "5794",
+   "titulo": "El Grinch",
+   "tipo": "p",
+   "plataforma": "netflix",
+   "estado": "new",
+   "fecha": "2026-11-15",
+   "genero": "Animación",
+   "generos": [
+    "Animación",
+    "Comedia",
+    "Familia",
+    "Fantasía"
+   ],
+   "imdb": 6.5,
+   "rt": 60,
+   "duracion": "1 h 25 min",
+   "sinopsis": "El Grinch, la película de animación basada en el popular clásico navideño del Dr. Seuss, cuenta la historia de un cínico cascarrabias que se propone robar la Navidad hasta que el desbordante espíritu navideño de una niña le hace cambiar de opinión. Divertida, enternecedora y visualmente impactante, se trata de una historia universal sobre el indómito poder del optimismo.",
+   "poster": "https://image.tmdb.org/t/p/w342/o3b6DOiePNlNOiqLCzCvqvDvHpL.jpg",
+   "reparto": [
+    {
+     "nombre": "Benedict Cumberbatch",
+     "foto": "https://image.tmdb.org/t/p/w185/wz3MRiMmoz6b5X3oSzMRC9nLxY1.jpg"
+    },
+    {
+     "nombre": "Rashida Jones",
+     "foto": "https://image.tmdb.org/t/p/w185/cgWGm9eYCretBWeljPVtpRV7n6V.jpg"
+    },
+    {
+     "nombre": "Kenan Thompson",
+     "foto": "https://image.tmdb.org/t/p/w185/vHPhDGc1om91TzoIQ4zMscpNmxF.jpg"
+    },
+    {
+     "nombre": "Cameron Seely",
+     "foto": "https://image.tmdb.org/t/p/w185/btT8UCFUlhDR1NE4bFc2kj9gYWF.jpg"
+    },
+    {
+     "nombre": "Angela Lansbury",
+     "foto": "https://image.tmdb.org/t/p/w185/gGAWbfMqhJnXzC8dRLeOSXOo9vO.jpg"
+    },
+    {
+     "nombre": "Pharrell Williams",
+     "foto": "https://image.tmdb.org/t/p/w185/vbgFf9k1VE0WLWqQFOQ2nohJlLz.jpg"
+    }
+   ],
+   "trailer": "https://www.youtube.com/watch?v=_UOh0UX3alI",
+   "temporadas_det": []
+  },
+  {
+   "id": "14625950",
+   "titulo": "El asesino con ojos de corazón",
+   "tipo": "p",
+   "plataforma": "netflix",
+   "estado": "new",
+   "fecha": "2026-11-15",
+   "genero": "Terror",
+   "generos": [
+    "Terror",
+    "Romance",
+    "Comedia"
+   ],
+   "imdb": 6.0,
+   "rt": 78,
+   "duracion": "1 h 37 min",
+   "sinopsis": "Dos compañeros de trabajo son confundidos con una pareja por un asesino en San Francisco el día de San Valentín. Obligados a eludir al asesino, navegan por el paisaje romántico de la ciudad mientras trabajan juntos para sobrevivir.",
+   "poster": "https://image.tmdb.org/t/p/w342/6v0LlIAW903yLbsoTw6DMUAaQeq.jpg",
+   "reparto": [
+    {
+     "nombre": "Olivia Holt",
+     "foto": "https://image.tmdb.org/t/p/w185/gOYenPpic8MJnfzszGyUWgsYHSC.jpg"
+    },
+    {
+     "nombre": "Mason Gooding",
+     "foto": "https://image.tmdb.org/t/p/w185/bmlry1xqBzNgv8Chm783ss93Cvg.jpg"
+    },
+    {
+     "nombre": "Michaela Watkins",
+     "foto": "https://image.tmdb.org/t/p/w185/qw8RqZ2fehR0ZlHWwyH9WFjc3Qh.jpg"
+    },
+    {
+     "nombre": "Devon Sawa",
+     "foto": "https://image.tmdb.org/t/p/w185/yvMbpZ0UFQ1IBwlWm8quCA6fNc5.jpg"
+    },
+    {
+     "nombre": "Jordana Brewster",
+     "foto": "https://image.tmdb.org/t/p/w185/ceL0zxeVbWfCfhoIDZIE1NYqBWb.jpg"
+    },
+    {
+     "nombre": "Gigi Zumbado",
+     "foto": "https://image.tmdb.org/t/p/w185/ytuLWDoI558qsKNiA54qt0aACvh.jpg"
+    }
+   ],
+   "trailer": "https://www.youtube.com/watch?v=2unpOrLjZE4",
+   "temporadas_det": []
+  },
+  {
+   "id": "5491",
+   "titulo": "Paddington 2",
+   "tipo": "p",
+   "plataforma": "netflix",
+   "estado": "new",
+   "fecha": "2026-11-15",
+   "genero": "Aventura",
+   "generos": [
+    "Aventura",
+    "Comedia",
+    "Familia"
+   ],
+   "imdb": 7.7,
+   "rt": 99,
+   "duracion": "1 h 35 min",
+   "sinopsis": "El oso Paddington ya está felizmente integrado en casa de la familia Brown. Se ha convertido además en un miembro muy popular de la comunidad de Windsor Gardens. Su tía Lucy cumple 100 años y él tiene el regalo perfecto para ella: un maravilloso libro pop-up de la tienda de antigüedades de Mr. Gruber. Para poder comprar el libro, Paddington decidirá realizar una serie de extraños trabajos. Pero todo se complica cuando el libro es robado.",
+   "poster": "https://image.tmdb.org/t/p/w342/r6Vg1xxFqaORvw4GuOLnxQAeVhV.jpg",
+   "reparto": [
+    {
+     "nombre": "Ben Whishaw",
+     "foto": "https://image.tmdb.org/t/p/w185/e74Cz65ifeNb9zHfUTvF5rTix0d.jpg"
+    },
+    {
+     "nombre": "Sally Hawkins",
+     "foto": "https://image.tmdb.org/t/p/w185/1dtDq82dM2YQ17lBL4ZKPJo5LKw.jpg"
+    },
+    {
+     "nombre": "Hugh Bonneville",
+     "foto": "https://image.tmdb.org/t/p/w185/skbxj8MUuNiI39ZkP38uEirU0bC.jpg"
+    },
+    {
+     "nombre": "Madeleine Harris",
+     "foto": "https://image.tmdb.org/t/p/w185/tvwnWhlM2M8RTOnnHc2wU7aE3yw.jpg"
+    },
+    {
+     "nombre": "Samuel Joslin",
+     "foto": "https://image.tmdb.org/t/p/w185/gXthNRK0BN9IqXnhKIc4glxOB7P.jpg"
+    },
+    {
+     "nombre": "Julie Walters",
+     "foto": "https://image.tmdb.org/t/p/w185/bCTkV2OUgzbJdQEoCk3GesE4DXq.jpg"
+    }
+   ],
+   "trailer": "https://www.youtube.com/watch?v=07Um1PY_P4o",
+   "temporadas_det": []
+  },
+  {
+   "id": "321",
+   "titulo": "Cómo entrenar a tu dragón",
+   "tipo": "p",
+   "plataforma": "netflix",
+   "estado": "new",
+   "fecha": "2026-11-15",
+   "genero": "Fantasía",
+   "generos": [
+    "Fantasía",
+    "Aventura",
+    "Animación",
+    "Familia"
+   ],
+   "imdb": 8.0,
+   "rt": 99,
+   "duracion": "1 h 38 min",
+   "sinopsis": "Ambientada en el mítico mundo de los rudos vikingos y los dragones salvajes, y basada en el libro infantil de Cressida Cowell, esta comedia de acción narra la historia de Hipo, un vikingo adolescente que no encaja exactamente en la antiquísima reputación de su tribu como cazadores de dragones. El mundo de Hipo se trastoca al encontrar a un dragón que le desafía a él y a sus compañeros vikingos, a ver el mundo desde un punto de vista totalmente diferente.",
+   "poster": "https://image.tmdb.org/t/p/w342/vUF9bN3pT99IgdRMSInG0YSqPCN.jpg",
+   "reparto": [
+    {
+     "nombre": "Jay Baruchel",
+     "foto": "https://image.tmdb.org/t/p/w185/1GYJeQzPcY9Pfmc3FFsBwClkCv7.jpg"
+    },
+    {
+     "nombre": "Gerard Butler",
+     "foto": "https://image.tmdb.org/t/p/w185/i54XoxYieuff2w6MwyfwVUBvmR0.jpg"
+    },
+    {
+     "nombre": "Craig Ferguson",
+     "foto": "https://image.tmdb.org/t/p/w185/mBxNrOxdQeM7bVBveE47Syj9ES6.jpg"
+    },
+    {
+     "nombre": "America Ferrera",
+     "foto": "https://image.tmdb.org/t/p/w185/7q9uUWnaIjveX8DTU2lcA7mA3dp.jpg"
+    },
+    {
+     "nombre": "Jonah Hill",
+     "foto": "https://image.tmdb.org/t/p/w185/cymlWttB83MsAGR2EkTgANtjeRH.jpg"
+    },
+    {
+     "nombre": "Christopher Mintz-Plasse",
+     "foto": "https://image.tmdb.org/t/p/w185/dnj2qyxmPt5JF5uurbXQLegppAx.jpg"
+    }
+   ],
+   "trailer": "https://www.youtube.com/watch?v=KZtbJ_I9IFM",
+   "temporadas_det": []
+  },
+  {
+   "id": "8949454",
+   "titulo": "Open Secret",
+   "tipo": "p",
+   "plataforma": "netflix",
+   "estado": "new",
+   "fecha": "2026-11-15",
+   "genero": "Documental",
+   "generos": [
+    "Documental"
+   ],
+   "imdb": null,
+   "rt": null,
+   "duracion": "1 h 15 min",
+   "sinopsis": "",
+   "poster": "https://image.tmdb.org/t/p/w342/efN70Iz6Mb0AZyqABADUAWhX4xr.jpg",
+   "reparto": [
+    {
+     "nombre": "Kerry David",
+     "foto": null
+    },
+    {
+     "nombre": "Angie Kahney",
+     "foto": null
+    },
+    {
+     "nombre": "Tim Kennedy",
+     "foto": "https://image.tmdb.org/t/p/w185/pKatod1aBrxwl1Jj31FUWTskD1N.jpg"
+    },
+    {
+     "nombre": "Clyde Edgerton",
+     "foto": null
+    },
+    {
+     "nombre": "Matthew Beaudreau",
+     "foto": null
+    },
+    {
+     "nombre": "Ben Schactman",
+     "foto": null
+    }
+   ],
+   "trailer": null,
+   "temporadas_det": []
+  },
+  {
+   "id": "27519971",
+   "titulo": "ポリティカルパン",
+   "tipo": "s",
+   "plataforma": "netflix",
+   "estado": "new",
+   "fecha": "2026-11-15",
+   "genero": "Drama",
+   "generos": [
+    "Drama",
+    "Crimen"
+   ],
+   "imdb": null,
+   "rt": null,
+   "duracion": "1 temporada, 9 episodios",
+   "sinopsis": "",
+   "poster": "https://image.tmdb.org/t/p/w342/hZtrOm4lgEcGtzidBThjhVxoaTx.jpg",
+   "reparto": [
+    {
+     "nombre": "石原さとみ",
+     "foto": "https://image.tmdb.org/t/p/w185/gFBK1fHFLA8qJvSohrfXuuOflwu.jpg"
+    },
+    {
+     "nombre": "Issey Takahashi",
+     "foto": "https://image.tmdb.org/t/p/w185/o5V869FSj4cCS0gnpHrlbX3xV9v.jpg"
+    },
+    {
+     "nombre": "河合優実",
+     "foto": "https://image.tmdb.org/t/p/w185/pcYp2J96Kt0M2MuLE6BRb6b6nGG.jpg"
+    },
+    {
+     "nombre": "寛一郎",
+     "foto": "https://image.tmdb.org/t/p/w185/cqQgaDhudV9fEMh43UDQj1xukDn.jpg"
+    },
+    {
+     "nombre": "Takumi Kawanishi",
+     "foto": "https://image.tmdb.org/t/p/w185/5ZsOzlheMtqS0pDkgJkpabd2UF.jpg"
+    },
+    {
+     "nombre": "渡部篤郎",
+     "foto": "https://image.tmdb.org/t/p/w185/nhG7XVt3QfNgQQHnetBUJvfv79Q.jpg"
+    }
+   ],
+   "trailer": null,
+   "temporadas_det": [
+    {
+     "n": 1,
+     "eps": [
+      {
+       "n": 1,
+       "t": "Episodio 1",
+       "f": "2026-10-07"
+      },
+      {
+       "n": 2,
+       "t": "Episodio 2",
+       "f": "2026-10-14"
+      },
+      {
+       "n": 3,
+       "t": "Episodio 3",
+       "f": "2026-10-21"
+      },
+      {
+       "n": 4,
+       "t": "Episodio 4",
+       "f": "2026-10-28"
+      },
+      {
+       "n": 5,
+       "t": "Episodio 5",
+       "f": "2026-11-04"
+      },
+      {
+       "n": 6,
+       "t": "Episodio 6",
+       "f": "2026-11-11"
+      },
+      {
+       "n": 7,
+       "t": "Episodio 7",
+       "f": "2026-11-18"
+      },
+      {
+       "n": 8,
+       "t": "Episodio 8",
+       "f": "2026-11-25"
+      },
+      {
+       "n": 9,
+       "t": "Episodio 9",
+       "f": "2026-12-02"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "27521169",
+   "titulo": "Los Diez Valientes de Sanada",
+   "tipo": "s",
+   "plataforma": "netflix",
+   "estado": "new",
+   "fecha": "2026-11-15",
+   "genero": "Acción",
+   "generos": [
+    "Acción",
+    "Aventura",
+    "Bélica"
+   ],
+   "imdb": null,
+   "rt": null,
+   "duracion": "1 temporada, 8 episodios",
+   "sinopsis": "Catorce años después de la batalla de Sekigahara, Sanada Yukimura vive confinado en Kudoyama, rodeado de ninjas que aún le son leales. Cuando Tokugawa Ieyasu amenaza con acabar con el clan Toyotomi, Yukimura decide escapar para ayudar a Hideyori. Junto a Sarutobi Sasuke y otros ocho guerreros, los Diez Valientes de Sanada se dirigen al sitio de Osaka. Entre intrigas, traiciones y enfrentamientos, deberán unir fuerzas para desafiar el poder de Ieyasu.",
+   "poster": "https://image.tmdb.org/t/p/w342/qGyypl0Kkk7GkZPVUSrEOLEOo1B.jpg",
+   "reparto": [
+    {
+     "nombre": "岩本照",
+     "foto": "https://image.tmdb.org/t/p/w185/oAfILZaHGrqZwyg5xina3a0vhVQ.jpg"
+    },
+    {
+     "nombre": "Taishi Nakagawa",
+     "foto": "https://image.tmdb.org/t/p/w185/gvUJ1Ge1ERLnYwqb4cJVCXQQIYA.jpg"
+    },
+    {
+     "nombre": "安藤政信",
+     "foto": "https://image.tmdb.org/t/p/w185/8OkTaR4OkC3xmhhNcLSaE84aFFC.jpg"
+    },
+    {
+     "nombre": "伊原六花",
+     "foto": "https://image.tmdb.org/t/p/w185/5AFRiD8szYc8PmIYg81hYFWAYPu.jpg"
+    },
+    {
+     "nombre": "城桧吏",
+     "foto": "https://image.tmdb.org/t/p/w185/asekPbtKNWY4hptwL027Xi9xZY1.jpg"
+    },
+    {
+     "nombre": "武井壮",
+     "foto": "https://image.tmdb.org/t/p/w185/fcQRJxJ2gtxwLQqMN5kzCcQpt6z.jpg"
+    }
+   ],
+   "trailer": null,
+   "temporadas_det": [
+    {
+     "n": 1,
+     "eps": [
+      {
+       "n": 1,
+       "t": "Episodio 1",
+       "f": "2026-10-23"
+      },
+      {
+       "n": 2,
+       "t": "Episodio 2",
+       "f": "2026-10-30"
+      },
+      {
+       "n": 3,
+       "t": "Episodio 3",
+       "f": "2026-11-06"
+      },
+      {
+       "n": 4,
+       "t": "Episodio 4",
+       "f": "2026-11-13"
+      },
+      {
+       "n": 5,
+       "t": "Episodio 5",
+       "f": "2026-11-20"
+      },
+      {
+       "n": 6,
+       "t": "Episodio 6",
+       "f": "2026-11-27"
+      },
+      {
+       "n": 7,
+       "t": "Episodio 7",
+       "f": "2026-12-04"
+      },
+      {
+       "n": 8,
+       "t": "Episodio 8",
+       "f": "2026-12-11"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "2105",
+   "titulo": "Lara Croft. Tomb Raider",
+   "tipo": "p",
+   "plataforma": "netflix",
+   "estado": "new",
+   "fecha": "2026-11-15",
+   "genero": "Aventura",
+   "generos": [
+    "Aventura",
+    "Acción"
+   ],
+   "imdb": 5.8,
+   "rt": 21,
+   "duracion": "1 h 45 min",
+   "sinopsis": "Explorar imperios perdidos, descubrir tesoros de incalculable valor, castigar a los malvados en combates a vida o muerte… todo forma parte de un día de trabajo para la aventurera Lara Croft. Pero un secreto del pasado de su padre va a llevar a Lara a su desafío más grande: el Triángulo de la Luz, un legendario artefacto con el poder de alterar el espacio y el tiempo. Lara ha de encontrar el Triángulo antes de que caiga en poder de los Illuminati, una sociedad secreta dispuesta a dominar el mundo. Para detener a los Illumitati, Lara ha de sobrevivir a una auténtica cacería a través del planeta, repleta de inimaginables peligros.",
+   "poster": "https://image.tmdb.org/t/p/w342/gIv9ur6A76vOcAmC6fZ3MsoLji4.jpg",
+   "reparto": [
+    {
+     "nombre": "Angelina Jolie",
+     "foto": "https://image.tmdb.org/t/p/w185/bXNxIKcJ5cNNW8QFrBPWcfTSu9x.jpg"
+    },
+    {
+     "nombre": "Iain Glen",
+     "foto": "https://image.tmdb.org/t/p/w185/d9CKAAiV1HvSnzzmpDzD0mC0HlX.jpg"
+    },
+    {
+     "nombre": "Daniel Craig",
+     "foto": "https://image.tmdb.org/t/p/w185/iFerDZUmC5Fu26i4qI8xnUVEHc7.jpg"
+    },
+    {
+     "nombre": "Noah Taylor",
+     "foto": "https://image.tmdb.org/t/p/w185/a9VuohmpqbvcYflOpi0F3ck8L2j.jpg"
+    },
+    {
+     "nombre": "Chris Barrie",
+     "foto": "https://image.tmdb.org/t/p/w185/210iRxlqUWjCulX9HhkywDuG1dR.jpg"
+    },
+    {
+     "nombre": "Jon Voight",
+     "foto": "https://image.tmdb.org/t/p/w185/oxLsItDwLddXu8YYJCfkddYNejL.jpg"
+    }
+   ],
+   "trailer": "https://www.youtube.com/watch?v=XiC4PDCGigE",
+   "temporadas_det": []
+  },
+  {
+   "id": "27521120",
+   "titulo": "Como cargarse el Diwali: Los padres de ellos",
+   "tipo": "s",
+   "plataforma": "netflix",
+   "estado": "new",
+   "fecha": "2026-11-15",
+   "genero": "Comedia",
+   "generos": [
+    "Comedia"
+   ],
+   "imdb": null,
+   "rt": null,
+   "duracion": "1 temporada, 3 episodios",
+   "sinopsis": "",
+   "poster": "https://image.tmdb.org/t/p/w342/8HhaOOJGqXCpU0RgzJvLZInD4Go.jpg",
+   "reparto": [
+    {
+     "nombre": "Rosemary Zimu",
+     "foto": "https://image.tmdb.org/t/p/w185/sI6Y8c3g22LgTaxr5Db1W7kggJz.jpg"
+    },
+    {
+     "nombre": "Jailoshini Naidoo",
+     "foto": "https://image.tmdb.org/t/p/w185/vd0l9S2tSO6LHemArekagJp2SOt.jpg"
+    },
+    {
+     "nombre": "Koobeshen Naidoo",
+     "foto": "https://image.tmdb.org/t/p/w185/5eUmFyJB1XnItX1JMw85SD7YJCr.jpg"
+    },
+    {
+     "nombre": "Sonia Mbele",
+     "foto": "https://image.tmdb.org/t/p/w185/f0vgJRf6AsUvEyGTyyguMPI2rW4.jpg"
+    },
+    {
+     "nombre": "Meshack Mavuso Magabane",
+     "foto": "https://image.tmdb.org/t/p/w185/nsLl6sp7WgesC8YplKNSXEV6s5A.jpg"
+    },
+    {
+     "nombre": "Denise Zimba",
+     "foto": null
+    }
+   ],
+   "trailer": "https://www.youtube.com/watch?v=e1e0ZlP5o08",
+   "temporadas_det": [
+    {
+     "n": 1,
+     "eps": [
+      {
+       "n": 1,
+       "t": "¡Pum! ¡Pum!",
+       "f": "2026-10-30"
+      },
+      {
+       "n": 2,
+       "t": "¡Saltan chispas!",
+       "f": "2026-10-30"
+      },
+      {
+       "n": 3,
+       "t": "¡Amor reavivado!",
+       "f": "2026-10-30"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "4812",
+   "titulo": "Smile",
+   "tipo": "p",
+   "plataforma": "netflix",
+   "estado": "new",
+   "fecha": "2026-11-15",
+   "genero": "Terror",
+   "generos": [
+    "Terror",
+    "Misterio"
+   ],
+   "imdb": 6.5,
+   "rt": 79,
+   "duracion": "1 h 55 min",
+   "sinopsis": "Tras presenciar un extraño y traumático incidente con un paciente, la doctora Rose Cotter comienza a experimentar sucesos aterradores que no puede explicar. A medida que un miedo sobrecogedor comienza a afectar a todos los aspectos de su vida, Rose se verá obligada a afrontar a su problemático pasado para sobrevivir y escapar de su terrorífica nueva realidad.",
+   "poster": "https://image.tmdb.org/t/p/w342/qJO54b6LsBmEkMxdW8ZziL9Mnam.jpg",
+   "reparto": [
+    {
+     "nombre": "Sosie Bacon",
+     "foto": "https://image.tmdb.org/t/p/w185/pDvjTHGv8NhBkbIcBJFGt9zDw8.jpg"
+    },
+    {
+     "nombre": "Kyle Gallner",
+     "foto": "https://image.tmdb.org/t/p/w185/wfdywrw6K3ti1uW1IYDWbUtU8se.jpg"
+    },
+    {
+     "nombre": "Jessie T. Usher",
+     "foto": "https://image.tmdb.org/t/p/w185/iiu9dkYEkHJPMf7TzbrhhgwRvlt.jpg"
+    },
+    {
+     "nombre": "Robin Weigert",
+     "foto": "https://image.tmdb.org/t/p/w185/ifGimfhXs7WIyDJMIX8kJtUte88.jpg"
+    },
+    {
+     "nombre": "Caitlin Stasey",
+     "foto": "https://image.tmdb.org/t/p/w185/uJW62qSjIyI0OP30s5U8KLlDw32.jpg"
+    },
+    {
+     "nombre": "Kal Penn",
+     "foto": "https://image.tmdb.org/t/p/w185/yICM1JcxKbEpaqTUreY0yFMIc8W.jpg"
+    }
+   ],
+   "trailer": "https://www.youtube.com/watch?v=-8d987Wtkxs",
+   "temporadas_det": []
+  },
+  {
+   "id": "27301108",
+   "titulo": "Cunk on Cinema",
+   "tipo": "s",
+   "plataforma": "netflix",
+   "estado": "new",
+   "fecha": "2026-11-15",
+   "genero": "Comedia",
+   "generos": [
+    "Comedia",
+    "Documental"
+   ],
+   "imdb": null,
+   "rt": null,
+   "duracion": "1 temporada, 3 episodios",
+   "sinopsis": "",
+   "poster": "https://image.tmdb.org/t/p/w342/qTQWQgK22GVoP82skvLpHARpGWX.jpg",
+   "reparto": [
+    {
+     "nombre": "Diane Morgan",
+     "foto": "https://image.tmdb.org/t/p/w185/46Mdcr9ycOaLCKApoj101Cx1c1S.jpg"
+    }
+   ],
+   "trailer": "https://www.youtube.com/watch?v=_qD_dLCMa3w",
+   "temporadas_det": [
+    {
+     "n": 1,
+     "eps": [
+      {
+       "n": 1,
+       "t": "Episodio 1",
+       "f": "2026-11-12"
+      },
+      {
+       "n": 2,
+       "t": "Episodio 2",
+       "f": "2026-11-19"
+      },
+      {
+       "n": 3,
+       "t": "Episodio 3",
+       "f": "2026-11-26"
+      }
+     ]
+    }
+   ]
   },
   {
    "id": "27518831",
@@ -8534,240 +8402,6 @@
    ],
    "trailer": "https://www.youtube.com/watch?v=y2CMypNIX8Y",
    "temporadas_det": []
-  },
-  {
-   "id": "21897",
-   "titulo": "Stitches",
-   "tipo": "p",
-   "plataforma": "prime",
-   "estado": "new",
-   "fecha": "2026-11-15",
-   "genero": "Terror",
-   "generos": [
-    "Terror"
-   ],
-   "imdb": 5.8,
-   "rt": 43,
-   "duracion": "1 h 26 min",
-   "sinopsis": "¿Cuándo se darán cuenta los padres de que contratar a un payaso para el cumpleaños de sus hijos siempre trae problemas? Miren, por ejemplo, a John Wayne Gacy… En esta película, sin embargo, el perjudicado es el propio clown, un pobre hombre con el alias artístico de “Stitches”, que no saldrá con vida de la gamberrada que le han preparado Tom y sus amigos. Seis años después, Tom es ya un adolescente a punto de cumplir los dieciséis, y tanto él como sus amigos siguen gustando de celebrar los aniversarios a lo grande. Lo que no saben es que el bueno de Stitches regresará de la tumba para ajustarles las cuentas…",
-   "poster": "https://image.tmdb.org/t/p/w342/lxZ6rfvzKWwt2nu7ElrwYkNHu5o.jpg",
-   "reparto": [
-    {
-     "nombre": "Ross Noble",
-     "foto": "https://image.tmdb.org/t/p/w185/9oGbE5dvzkIDhIOSp9nnEPbCwDu.jpg"
-    },
-    {
-     "nombre": "Tommy Knight",
-     "foto": "https://image.tmdb.org/t/p/w185/1TShqPAfllvbzu3x7xA31rTqHTI.jpg"
-    },
-    {
-     "nombre": "Gemma-Leah Devereux",
-     "foto": "https://image.tmdb.org/t/p/w185/i9wfbNY5Pcpo8DlBsAl1jH2RHII.jpg"
-    },
-    {
-     "nombre": "John McDonnell",
-     "foto": null
-    },
-    {
-     "nombre": "Shane Murray-Corcoran",
-     "foto": "https://image.tmdb.org/t/p/w185/4iTVOGbNomJjVEobZwazNLD3gAP.jpg"
-    },
-    {
-     "nombre": "Thommas Kane Byrne",
-     "foto": "https://image.tmdb.org/t/p/w185/7vcEE2IKvBwUxvoUruDdEce86MI.jpg"
-    }
-   ],
-   "trailer": "https://www.youtube.com/watch?v=SAPkE9iKf6g",
-   "temporadas_det": []
-  },
-  {
-   "id": "42961",
-   "titulo": "Extraordinary Tales",
-   "tipo": "p",
-   "plataforma": "prime",
-   "estado": "new",
-   "fecha": "2026-11-15",
-   "genero": "Terror",
-   "generos": [
-    "Terror",
-    "Animación",
-    "Misterio"
-   ],
-   "imdb": 6.4,
-   "rt": 58,
-   "duracion": "1 h 13 min",
-   "sinopsis": "Largometraje dividido en varias historias basadas en obras del maestro Edgard Allan Poe. Cada uno de los cortos, o capítulos, está realizado con una técnica diferente, pero sin abandonar el aspecto pictórico o de ilustración que quiere conservar el director. (FILMAFFINITY)",
-   "poster": "https://image.tmdb.org/t/p/w342/mGETWBPMDHgpdFVsJf8cYGsPWnz.jpg",
-   "reparto": [
-    {
-     "nombre": "Christopher Lee",
-     "foto": "https://image.tmdb.org/t/p/w185/dA26fBr3t7mKqjn3OYW6kbD1LXM.jpg"
-    },
-    {
-     "nombre": "Lugosi Béla",
-     "foto": "https://image.tmdb.org/t/p/w185/fwimu7WKcaJXIjaDwYQg42GxUxa.jpg"
-    },
-    {
-     "nombre": "Julian Sands",
-     "foto": "https://image.tmdb.org/t/p/w185/8TYtEyKZle2B3cUYT7FBM9HJRtZ.jpg"
-    },
-    {
-     "nombre": "Guillermo del Toro",
-     "foto": "https://image.tmdb.org/t/p/w185/gldeyCtKcaqnK1v4Vu9vqayhzUQ.jpg"
-    },
-    {
-     "nombre": "Roger Corman",
-     "foto": "https://image.tmdb.org/t/p/w185/m0ApZMol42l8vLV8MLpUSCpyA6n.jpg"
-    },
-    {
-     "nombre": "Stephen Hughes",
-     "foto": "https://image.tmdb.org/t/p/w185/uaXZGVIwNd4OpxOvZvh4KceYDDL.jpg"
-    }
-   ],
-   "trailer": "https://www.youtube.com/watch?v=j4IDwG_FMpM",
-   "temporadas_det": []
-  },
-  {
-   "id": "51683",
-   "titulo": "Savageland",
-   "tipo": "p",
-   "plataforma": "prime",
-   "estado": "new",
-   "fecha": "2026-11-15",
-   "genero": "Terror",
-   "generos": [
-    "Terror",
-    "Crimen",
-    "Suspense"
-   ],
-   "imdb": 6.1,
-   "rt": null,
-   "duracion": "1 h 21 min",
-   "sinopsis": "Cuando una pequeña ciudad cerca de la frontera entre Arizona y México es eliminada de la noche a la mañana, la sospecha recae sobre el único superviviente. Pero un rollo de fotos que el sobreviviente tomó esa noche cuenta una historia diferente.",
-   "poster": "https://image.tmdb.org/t/p/w342/zen8kRKOjLpmZWNdGekzY58ZHOD.jpg",
-   "reparto": [
-    {
-     "nombre": "Noe Montes",
-     "foto": null
-    },
-    {
-     "nombre": "J.C. Carlos",
-     "foto": null
-    },
-    {
-     "nombre": "Lawrence Moss",
-     "foto": null
-    },
-    {
-     "nombre": "Edward L. Green",
-     "foto": null
-    },
-    {
-     "nombre": "George Savage",
-     "foto": null
-    },
-    {
-     "nombre": "Jason Stewart",
-     "foto": "https://image.tmdb.org/t/p/w185/6VjcLJ5zMfjzpiD9tHz8Y3yVULa.jpg"
-    }
-   ],
-   "trailer": "https://www.youtube.com/watch?v=Dr89mwnU9iQ",
-   "temporadas_det": []
-  },
-  {
-   "id": "112067",
-   "titulo": "The Lost Footage of Leah Sullivan",
-   "tipo": "p",
-   "plataforma": "prime",
-   "estado": "new",
-   "fecha": "2026-11-15",
-   "genero": "Terror",
-   "generos": [
-    "Terror",
-    "Misterio",
-    "Crimen",
-    "Suspense"
-   ],
-   "imdb": 5.4,
-   "rt": null,
-   "duracion": "1 h 24 min",
-   "sinopsis": "A journalism student returns to her hometown to investigate a brutal murder that took place 30 years ago. As the facts unravel, she begins to realize that this cold case murder may not be so cold after all, as she begins to uncover the horrifying truth. As she gets closer to discovering the truth, she edges even closer to her own demise. Will her blind ambition overtake her desire to survive?",
-   "poster": "https://image.tmdb.org/t/p/w342/tpMKGZQIRqtPvm9jcG9FZXaUCfk.jpg",
-   "reparto": [
-    {
-     "nombre": "Anna Stromberg",
-     "foto": "https://image.tmdb.org/t/p/w185/r8odD8kbXOShYQJXDZA7KvoVnXV.jpg"
-    },
-    {
-     "nombre": "Burt Grinstead",
-     "foto": null
-    },
-    {
-     "nombre": "Maureen Keiller",
-     "foto": "https://image.tmdb.org/t/p/w185/kYdJCb9KeGyBsJRo6fZ7NHijjXI.jpg"
-    },
-    {
-     "nombre": "Jimmy Driscoll",
-     "foto": null
-    },
-    {
-     "nombre": "David Nash",
-     "foto": null
-    },
-    {
-     "nombre": "Matthew Pilieci",
-     "foto": null
-    }
-   ],
-   "trailer": "https://www.youtube.com/watch?v=DY76a521awM",
-   "temporadas_det": []
-  },
-  {
-   "id": "27301108",
-   "titulo": "Cunk on Cinema",
-   "tipo": "s",
-   "plataforma": "netflix",
-   "estado": "upcoming",
-   "fecha": "2026-11-15",
-   "genero": "Comedia",
-   "generos": [
-    "Comedia",
-    "Documental"
-   ],
-   "imdb": null,
-   "rt": null,
-   "duracion": "1 temporada, 3 episodios",
-   "sinopsis": "",
-   "poster": "https://image.tmdb.org/t/p/w342/qTQWQgK22GVoP82skvLpHARpGWX.jpg",
-   "reparto": [
-    {
-     "nombre": "Diane Morgan",
-     "foto": "https://image.tmdb.org/t/p/w185/46Mdcr9ycOaLCKApoj101Cx1c1S.jpg"
-    }
-   ],
-   "trailer": "https://www.youtube.com/watch?v=_qD_dLCMa3w",
-   "temporadas_det": [
-    {
-     "n": 1,
-     "eps": [
-      {
-       "n": 1,
-       "t": "Episodio 1",
-       "f": "2026-11-12"
-      },
-      {
-       "n": 2,
-       "t": "Episodio 2",
-       "f": "2026-11-19"
-      },
-      {
-       "n": 3,
-       "t": "Episodio 3",
-       "f": "2026-11-26"
-      }
-     ]
-    }
-   ]
   },
   {
    "id": "29426",
@@ -19568,6 +19202,133 @@
    ],
    "trailer": "https://www.youtube.com/watch?v=ASN_qGMUREY",
    "temporadas_det": []
+  },
+  {
+   "id": "27066585",
+   "titulo": "Campus Drivers",
+   "tipo": "s",
+   "plataforma": "prime",
+   "estado": "upcoming",
+   "fecha": "2026-11-30",
+   "genero": "Drama",
+   "generos": [
+    "Drama"
+   ],
+   "imdb": null,
+   "rt": null,
+   "duracion": "1 temporada, 6 episodios",
+   "sinopsis": "",
+   "poster": "https://image.tmdb.org/t/p/w342/oPltcyfWWfVmxB6lV8JZZJV3m7Q.jpg",
+   "reparto": [
+    {
+     "nombre": "Carmen Kassovitz",
+     "foto": "https://image.tmdb.org/t/p/w185/iNLGKtgKWrnHjfZtUbLEwTjJPlf.jpg"
+    },
+    {
+     "nombre": "Baptiste Masseline",
+     "foto": "https://image.tmdb.org/t/p/w185/yfTgeK8drcv5uEKi0ZS1a3tDy0s.jpg"
+    },
+    {
+     "nombre": "Prune Pauchet",
+     "foto": "https://image.tmdb.org/t/p/w185/vBUANoC8vmMRBe7CGeMFV8juWst.jpg"
+    },
+    {
+     "nombre": "Esteban Vial",
+     "foto": "https://image.tmdb.org/t/p/w185/bS61EfCCt77ZpG2fRYZm8cOdVTY.jpg"
+    },
+    {
+     "nombre": "Madior Fall",
+     "foto": "https://image.tmdb.org/t/p/w185/aHEr670j2N4VZuai0mF6XhkR9mY.jpg"
+    },
+    {
+     "nombre": "Félix Nebel",
+     "foto": "https://image.tmdb.org/t/p/w185/4hRE5xTDVrn7VlXL9hb3YBTSQW3.jpg"
+    }
+   ],
+   "trailer": "https://www.youtube.com/watch?v=xybsbjGt1KA",
+   "temporadas_det": [
+    {
+     "n": 1,
+     "eps": [
+      {
+       "n": 1,
+       "t": "Corazón roto",
+       "f": "2026-11-06"
+      },
+      {
+       "n": 2,
+       "t": "Recién llegada",
+       "f": "2026-11-06"
+      },
+      {
+       "n": 3,
+       "t": "Chica zombi",
+       "f": "2026-11-06"
+      },
+      {
+       "n": 4,
+       "t": "Vacaciones de invierno",
+       "f": "2026-11-06"
+      },
+      {
+       "n": 5,
+       "t": "Se acabó el juego",
+       "f": "2026-11-06"
+      },
+      {
+       "n": 6,
+       "t": "Sin freno",
+       "f": "2026-11-06"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "27517853",
+   "titulo": "The Boy Who Stole Billions?",
+   "tipo": "s",
+   "plataforma": "prime",
+   "estado": "upcoming",
+   "fecha": "2026-11-30",
+   "genero": "Documental",
+   "generos": [
+    "Documental"
+   ],
+   "imdb": null,
+   "rt": null,
+   "duracion": "1 temporada, 3 episodios",
+   "sinopsis": "",
+   "poster": "https://image.tmdb.org/t/p/w342/1VBEnGprHEmhABgbAzihQYwZRKJ.jpg",
+   "reparto": [
+    {
+     "nombre": "Sam Bankman-Fried",
+     "foto": null
+    }
+   ],
+   "trailer": null,
+   "temporadas_det": [
+    {
+     "n": 1,
+     "eps": [
+      {
+       "n": 1,
+       "t": "Episodio 1",
+       "f": "2026-11-30"
+      },
+      {
+       "n": 2,
+       "t": "Episodio 2",
+       "f": "2026-11-30"
+      },
+      {
+       "n": 3,
+       "t": "Episodio 3",
+       "f": "2026-11-30"
+      }
+     ]
+    }
+   ]
   }
  ]
 }
