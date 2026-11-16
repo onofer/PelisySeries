@@ -1,385 +1,7 @@
 {
- "generado": "2026-11-15T22:40:08+00:00",
+ "generado": "2026-11-16T05:45:19+00:00",
  "pais": "ES",
  "items": [
-  {
-   "id": "55164",
-   "titulo": "Leonard Cohen: Yo soy tu hombre",
-   "tipo": "p",
-   "plataforma": "prime",
-   "estado": "expiring",
-   "fecha": "2026-11-15",
-   "genero": "Documental",
-   "generos": [
-    "Documental",
-    "Música"
-   ],
-   "imdb": 6.7,
-   "rt": 71,
-   "duracion": "1 h 45 min",
-   "sinopsis": "Compositor de canciones; poeta; ícono de la contracultura; y consumado seductor. Todo eso es el canadiense Leonard Cohen, un grande de la música desde que apareció en escena en 1967. Este documental le rinde homenaje.",
-   "poster": "https://image.tmdb.org/t/p/w342/5b2G1junuUkQn5MtMDXobzHUbDZ.jpg",
-   "reparto": [
-    {
-     "nombre": "Leonard Cohen",
-     "foto": "https://image.tmdb.org/t/p/w185/cRHWtGOa7IOJWayAQM3FBLCM82x.jpg"
-    },
-    {
-     "nombre": "Martha Wainwright",
-     "foto": null
-    },
-    {
-     "nombre": "Rufus Wainwright",
-     "foto": "https://image.tmdb.org/t/p/w185/6JKOGgb0UowE0Ad81Urjpn5BPRT.jpg"
-    },
-    {
-     "nombre": "Beth Orton",
-     "foto": "https://image.tmdb.org/t/p/w185/nSoGA6PfMPgUpOr0s6fZdLkBSKX.jpg"
-    },
-    {
-     "nombre": "Jarvis Cocker",
-     "foto": "https://image.tmdb.org/t/p/w185/i4EzLcmH0OPoEicgE4hasgFdkIl.jpg"
-    },
-    {
-     "nombre": "Bono",
-     "foto": "https://image.tmdb.org/t/p/w185/p0TED4bMzyw00fxjiMnOARQOKvp.jpg"
-    }
-   ],
-   "trailer": "https://www.youtube.com/watch?v=odzdOYVhELI",
-   "temporadas_det": []
-  },
-  {
-   "id": "5057622",
-   "titulo": "Inside Greenpeace",
-   "tipo": "s",
-   "plataforma": "prime",
-   "estado": "expiring",
-   "fecha": "2026-11-15",
-   "genero": "Documental",
-   "generos": [
-    "Documental"
-   ],
-   "imdb": 4.5,
-   "rt": null,
-   "duracion": "1 temporada, 5 episodios",
-   "sinopsis": "Greenpeace acompaña durante un año a activistas en su misión de salvar nuestro planeta, siguiéndoles en un viaje por todo el mundo para obtener información exclusiva. El equipo de rodaje no sólo acompaña a la tripulación del rompehielos \"Arctic Sunrise\" en su viaje de un mes frente a las costas de África hasta los hielos eternos de la Antártida, sino que también está al frente de algunas de las campañas más espectaculares y secretas de Greenpeace. También se adentran en el lado menos conocido de Greenpeace, incluidas sus campañas legales, su trabajo científico al más alto nivel y sus presiones políticas en pleno corazón del poder.",
-   "poster": "https://image.tmdb.org/t/p/w342/m2ado3veWW3Cvh5IwucZBWgkAta.jpg",
-   "reparto": [],
-   "trailer": null,
-   "temporadas_det": [
-    {
-     "n": 1,
-     "eps": [
-      {
-       "n": 1,
-       "t": "Episodio 1",
-       "f": "2023-09-17"
-      },
-      {
-       "n": 2,
-       "t": "Episodio 2",
-       "f": "2023-09-24"
-      },
-      {
-       "n": 3,
-       "t": "Episodio 3",
-       "f": "2023-10-01"
-      },
-      {
-       "n": 4,
-       "t": "Episodio 4",
-       "f": "2023-10-08"
-      },
-      {
-       "n": 5,
-       "t": "Episodio 5",
-       "f": "2023-10-15"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "id": "6375",
-   "titulo": "Hermanísimas",
-   "tipo": "p",
-   "plataforma": "netflix",
-   "estado": "expiring",
-   "fecha": "2026-11-15",
-   "genero": "Comedia",
-   "generos": [
-    "Comedia"
-   ],
-   "imdb": 5.9,
-   "rt": 60,
-   "duracion": "1 h 58 min",
-   "sinopsis": "Dos hermanas ya adultas deciden pasar un último fin de semana en la casa de su infancia, antes de que sus padres la pongan a la venta.",
-   "poster": "https://image.tmdb.org/t/p/w342/76mj1iXTJ1WSkreOYFiqVZ4QxG1.jpg",
-   "reparto": [
-    {
-     "nombre": "Amy Poehler",
-     "foto": "https://image.tmdb.org/t/p/w185/rwmvRonpluV6dCPiQissYrchvSD.jpg"
-    },
-    {
-     "nombre": "Tina Fey",
-     "foto": "https://image.tmdb.org/t/p/w185/yPTAi1iucXf85UpiFPtyiTSM6do.jpg"
-    },
-    {
-     "nombre": "Maya Rudolph",
-     "foto": "https://image.tmdb.org/t/p/w185/bpEVMFMyHEQ8wLdii9WKB279w8p.jpg"
-    },
-    {
-     "nombre": "Dianne Wiest",
-     "foto": "https://image.tmdb.org/t/p/w185/p9mfzY68FtEbedOMNB5X4eBShhx.jpg"
-    },
-    {
-     "nombre": "John Leguizamo",
-     "foto": "https://image.tmdb.org/t/p/w185/kwYCdxTlDh9zauUCg4mp2XTCQTw.jpg"
-    },
-    {
-     "nombre": "Ike Barinholtz",
-     "foto": "https://image.tmdb.org/t/p/w185/pxK1HXsQFfh3zT1KA3t6lEKMiZK.jpg"
-    }
-   ],
-   "trailer": "https://www.youtube.com/watch?v=NCOXkR__w9k",
-   "temporadas_det": []
-  },
-  {
-   "id": "27050",
-   "titulo": "Karakuri Circus",
-   "tipo": "s",
-   "plataforma": "prime",
-   "estado": "expiring",
-   "fecha": "2026-11-16",
-   "genero": "Acción",
-   "generos": [
-    "Acción",
-    "Aventura",
-    "Misterio",
-    "Crimen",
-    "Animación",
-    "Drama"
-   ],
-   "imdb": 5.4,
-   "rt": null,
-   "duracion": "1 temporada, 36 episodios",
-   "sinopsis": "Masaru Saiga es un niño de quinto grado que aspira a convertirse en titiritero. Después de que Sadayoshi Saiga, el CEO de Saiga, el gigante fabricante de teléfonos domésticos, y el padre de Masaru fallece, Masaru hereda 18 mil millones de yenes. Masaru es blanco de su riqueza y es salvado por dos personas. Narumi Katō es un hombre que ha estudiado Kung-Fu y tiene una extraña enfermedad llamada \"síndrome de Zonapha\", y Shirogane es una mujer de cabello plateado que controla el títere \"Arurukan\" (Arlequín). Juntos, Masaru, Narumi y Shirogane son arrojados a varias conspiraciones por aquellos que intentan robarle la fortuna a Masaru.",
-   "poster": "https://image.tmdb.org/t/p/w342/5n4QAkGDDpujWlHNDU9nDDbLMBn.jpg",
-   "reparto": [
-    {
-     "nombre": "Chihiro Ueda",
-     "foto": "https://image.tmdb.org/t/p/w185/vPVTSLPEHb9qkbNq6uDWAKYY39q.jpg"
-    },
-    {
-     "nombre": "Rikiya Koyama",
-     "foto": "https://image.tmdb.org/t/p/w185/hsZm87BORLpzhaycBaWOD5xpjVC.jpg"
-    },
-    {
-     "nombre": "Megumi Hayashibara",
-     "foto": "https://image.tmdb.org/t/p/w185/3Alm4pmBIxpeeh0Sdippxdbkpne.jpg"
-    },
-    {
-     "nombre": "Romi Park",
-     "foto": "https://image.tmdb.org/t/p/w185/fl9vyA3HEkOyTiZBJBhAR3OSmrO.jpg"
-    },
-    {
-     "nombre": "Masahiko Tanaka",
-     "foto": "https://image.tmdb.org/t/p/w185/ozi2h5bDv82EkYLJYSazrO3dzjh.jpg"
-    },
-    {
-     "nombre": "Akio Otsuka",
-     "foto": "https://image.tmdb.org/t/p/w185/uH9oiqOOgrsz2zNnouVZ1qPzDyb.jpg"
-    }
-   ],
-   "trailer": null,
-   "temporadas_det": [
-    {
-     "n": 1,
-     "eps": [
-      {
-       "n": 1,
-       "t": "El Telón Se Levanta",
-       "f": "2018-10-11"
-      },
-      {
-       "n": 2,
-       "t": "Promesa",
-       "f": "2018-10-19"
-      },
-      {
-       "n": 3,
-       "t": "Abismo",
-       "f": "2018-10-26"
-      },
-      {
-       "n": 4,
-       "t": "Tigre giratorio",
-       "f": "2018-11-01"
-      },
-      {
-       "n": 5,
-       "t": "Circo - Salida",
-       "f": "2018-11-08"
-      },
-      {
-       "n": 6,
-       "t": "Infierno",
-       "f": "2018-11-15"
-      },
-      {
-       "n": 7,
-       "t": "Demoníaco",
-       "f": "2018-11-22"
-      },
-      {
-       "n": 8,
-       "t": "Momento de Inicio, Momento de Fin",
-       "f": "2018-11-29"
-      },
-      {
-       "n": 9,
-       "t": "Memorias",
-       "f": "2018-12-06"
-      },
-      {
-       "n": 10,
-       "t": "Francine",
-       "f": "2018-12-13"
-      },
-      {
-       "n": 11,
-       "t": "Trompeteo",
-       "f": "2018-12-20"
-      },
-      {
-       "n": 12,
-       "t": "El comandante sin rostro",
-       "f": "2018-12-27"
-      },
-      {
-       "n": 13,
-       "t": "Lucila",
-       "f": "2019-01-10"
-      },
-      {
-       "n": 14,
-       "t": "Junto al mar, en la oscuridad de la noche",
-       "f": "2019-01-17"
-      },
-      {
-       "n": 15,
-       "t": "De vuelta al punto de partida",
-       "f": "2019-01-24"
-      },
-      {
-       "n": 16,
-       "t": "Encuentro",
-       "f": "2019-02-07"
-      },
-      {
-       "n": 17,
-       "t": "Visitante",
-       "f": "2019-02-14"
-      },
-      {
-       "n": 18,
-       "t": "Una sonrisa",
-       "f": "2019-02-21"
-      },
-      {
-       "n": 19,
-       "t": "La verdad detrás de la sombra",
-       "f": "2019-02-28"
-      },
-      {
-       "n": 20,
-       "t": "Negro sol",
-       "f": "2019-03-07"
-      },
-      {
-       "n": 21,
-       "t": "Diosa de plata",
-       "f": "2019-03-14"
-      },
-      {
-       "n": 22,
-       "t": "¡Dirígete a Harry!",
-       "f": "2019-03-21"
-      },
-      {
-       "n": 23,
-       "t": "El regreso del demonio",
-       "f": "2019-03-28"
-      },
-      {
-       "n": 24,
-       "t": "Escapar",
-       "f": "2019-04-04"
-      },
-      {
-       "n": 25,
-       "t": "En el Monte Saint-Michel",
-       "f": "2019-04-11"
-      },
-      {
-       "n": 26,
-       "t": "Espectáculo de animales",
-       "f": "2019-04-18"
-      },
-      {
-       "n": 27,
-       "t": "Descargar",
-       "f": "2019-04-25"
-      },
-      {
-       "n": 28,
-       "t": "Pig-chan se había ido",
-       "f": "2019-05-02"
-      },
-      {
-       "n": 29,
-       "t": "Lo que hizo Shirogane",
-       "f": "2019-05-09"
-      },
-      {
-       "n": 30,
-       "t": "Piedad",
-       "f": "2019-05-16"
-      },
-      {
-       "n": 31,
-       "t": "Meteorito negro",
-       "f": "2019-05-23"
-      },
-      {
-       "n": 32,
-       "t": "Despedida",
-       "f": "2019-05-30"
-      },
-      {
-       "n": 33,
-       "t": "El trío Nakamachi contra Lady Spider",
-       "f": "2019-06-06"
-      },
-      {
-       "n": 34,
-       "t": "Retaguardia",
-       "f": "2019-06-13"
-      },
-      {
-       "n": 35,
-       "t": "Abarcar",
-       "f": "2019-06-20"
-      },
-      {
-       "n": 36,
-       "t": "Cae el telón",
-       "f": "2019-06-27"
-      }
-     ]
-    }
-   ]
-  },
   {
    "id": "89205",
    "titulo": "Hermanos de sangre: Malcolm X y Muhammad Ali",
@@ -5946,6 +5568,235 @@
     }
    ],
    "trailer": "https://www.youtube.com/watch?v=9uG5hxgSGeQ",
+   "temporadas_det": []
+  },
+  {
+   "id": "19302",
+   "titulo": "Mientras estés conmigo",
+   "tipo": "p",
+   "plataforma": "prime",
+   "estado": "expiring",
+   "fecha": "2026-11-19",
+   "genero": "Música",
+   "generos": [
+    "Música",
+    "Drama",
+    "Romance"
+   ],
+   "imdb": 6.7,
+   "rt": 50,
+   "duracion": "1 h 56 min",
+   "sinopsis": "Cuenta la historia real de la estrella de música cristiana Jeremy Camp, profundizando en su aventura de amor y pérdida, demostrando así que siempre hay esperanza.",
+   "poster": "https://image.tmdb.org/t/p/w342/y6Vuu6XZim23JT6pxnKmHh0GaL1.jpg",
+   "reparto": [
+    {
+     "nombre": "KJ Apa",
+     "foto": "https://image.tmdb.org/t/p/w185/idpwm8ZdFnndjeQ3mKleF20hvRo.jpg"
+    },
+    {
+     "nombre": "Britt Robertson",
+     "foto": "https://image.tmdb.org/t/p/w185/6lnipeQ6auGaxn4gQ8UX68xoxOy.jpg"
+    },
+    {
+     "nombre": "Nathan Parsons",
+     "foto": "https://image.tmdb.org/t/p/w185/p0J7egp89b2XOCNsCMzFKcpeRoq.jpg"
+    },
+    {
+     "nombre": "Gary Sinise",
+     "foto": "https://image.tmdb.org/t/p/w185/olRjiV8ZhBixQiTvrGwXhpVXxsV.jpg"
+    },
+    {
+     "nombre": "Shania Twain",
+     "foto": "https://image.tmdb.org/t/p/w185/3owuqJmMriymwz05fzJ7z9mRSrA.jpg"
+    },
+    {
+     "nombre": "Reuben Dodd",
+     "foto": null
+    }
+   ],
+   "trailer": "https://www.youtube.com/watch?v=7Za7-Q8YURM",
+   "temporadas_det": []
+  },
+  {
+   "id": "8954906",
+   "titulo": "Septiembre dice",
+   "tipo": "p",
+   "plataforma": "hbo",
+   "estado": "expiring",
+   "fecha": "2026-11-19",
+   "genero": "Drama",
+   "generos": [
+    "Drama"
+   ],
+   "imdb": 5.9,
+   "rt": 63,
+   "duracion": "1 h 40 min",
+   "sinopsis": "Dos hermanas inseparables pero con mentalidades opuestas mantienen un vínculo al límite de la relación tóxica. Durante unas vacaciones en la costa de Irlanda con su madre, el despertar sexual de una de ellas empezará a romper esa unión.",
+   "poster": "https://image.tmdb.org/t/p/w342/rGG9cTEJWg7LiG9rU7CBCa3gOaj.jpg",
+   "reparto": [
+    {
+     "nombre": "Mia Tharia",
+     "foto": "https://image.tmdb.org/t/p/w185/oHb6lb5swU8U4JPEGfbUY5vkW5y.jpg"
+    },
+    {
+     "nombre": "Pascale Kann",
+     "foto": "https://image.tmdb.org/t/p/w185/g1GBSLFdBGIKssFQT1KqAGHf7yv.jpg"
+    },
+    {
+     "nombre": "Rakhee Thakrar",
+     "foto": "https://image.tmdb.org/t/p/w185/gYZeHjpYs0SBqW3b1YLCEqJNGoz.jpg"
+    },
+    {
+     "nombre": "Cal O'Driscoll",
+     "foto": null
+    },
+    {
+     "nombre": "Niamh Moriarty",
+     "foto": null
+    },
+    {
+     "nombre": "Barry John Kinsella",
+     "foto": "https://image.tmdb.org/t/p/w185/9ld1S0A0cUeh0LGkfIehNfhrPsc.jpg"
+    }
+   ],
+   "trailer": "https://www.youtube.com/watch?v=9uPbiMUL-Dk",
+   "temporadas_det": []
+  },
+  {
+   "id": "7801",
+   "titulo": "Fall",
+   "tipo": "p",
+   "plataforma": "netflix",
+   "estado": "expiring",
+   "fecha": "2026-11-19",
+   "genero": "Suspense",
+   "generos": [
+    "Suspense"
+   ],
+   "imdb": 6.6,
+   "rt": 80,
+   "duracion": "1 h 47 min",
+   "sinopsis": "Para las mejores amigas Becky y Hunter, la vida trata de superar tus miedos y empujar tus límites. Sin embargo, después de subir hasta la cima de una torre de comunicaciones abandonada, se encuentran atrapadas y sin forma de bajar. A 600 metros del suelo y totalmente alejadas de la civilización, las chicas pondrán a prueba sus habilidades de escaladoras expertas y lucharán desesperadamente por sobrevivir aunque lo tengan todo en contra. ¿Lo conseguirán?",
+   "poster": "https://image.tmdb.org/t/p/w342/aOidBN8Ch4LD6M9HyvDjTqM9fLF.jpg",
+   "reparto": [
+    {
+     "nombre": "Grace Caroline Currey",
+     "foto": "https://image.tmdb.org/t/p/w185/6chZcnjWEiFfpmB6D5BR9YUeIs9.jpg"
+    },
+    {
+     "nombre": "Virginia Gardner",
+     "foto": "https://image.tmdb.org/t/p/w185/53BsLl54uesFOa2DBraibwtRdEL.jpg"
+    },
+    {
+     "nombre": "Mason Gooding",
+     "foto": "https://image.tmdb.org/t/p/w185/bmlry1xqBzNgv8Chm783ss93Cvg.jpg"
+    },
+    {
+     "nombre": "Jeffrey Dean Morgan",
+     "foto": "https://image.tmdb.org/t/p/w185/m8bdrmh6ExDCGQ64E83mHg002YV.jpg"
+    },
+    {
+     "nombre": "Jasper Cole",
+     "foto": "https://image.tmdb.org/t/p/w185/18mmNj8eKPn9a1n3G0yvy650Bd8.jpg"
+    },
+    {
+     "nombre": "Darrell Dennis",
+     "foto": "https://image.tmdb.org/t/p/w185/2jOo4B5Nn9oGuzgx1UfoQs0MMCj.jpg"
+    }
+   ],
+   "trailer": "https://www.youtube.com/watch?v=FNk7Cu4sJOs",
+   "temporadas_det": []
+  },
+  {
+   "id": "2878278",
+   "titulo": "De viaje con mi asesino",
+   "tipo": "p",
+   "plataforma": "netflix",
+   "estado": "expiring",
+   "fecha": "2026-11-19",
+   "genero": "Suspense",
+   "generos": [
+    "Suspense",
+    "Crimen",
+    "Drama"
+   ],
+   "imdb": 5.2,
+   "rt": 25,
+   "duracion": "1 h 36 min",
+   "sinopsis": "Un viaje de tensiones y vínculos interesantes entre dos y, a veces, tres personajes, cada uno en su propio viaje.",
+   "poster": "https://image.tmdb.org/t/p/w342/rXXVN4HJvKeaUfD4f89246iFCKU.jpg",
+   "reparto": [
+    {
+     "nombre": "Jacob Elordi",
+     "foto": "https://image.tmdb.org/t/p/w185/9FGS8AGjVNtpWuUeoipYWR23sRZ.jpg"
+    },
+    {
+     "nombre": "Zachary Quinto",
+     "foto": "https://image.tmdb.org/t/p/w185/lNRhutc6s5soEAsPAird3W3sZdy.jpg"
+    },
+    {
+     "nombre": "Patrick J. Adams",
+     "foto": "https://image.tmdb.org/t/p/w185/uJiuAHTsZAbfMi9bKRksWn4oHLf.jpg"
+    },
+    {
+     "nombre": "Troy Evans",
+     "foto": "https://image.tmdb.org/t/p/w185/hRdsLKr430COdIIyeHY3QAdg45e.jpg"
+    },
+    {
+     "nombre": "Alexandra Doke",
+     "foto": "https://image.tmdb.org/t/p/w185/1bV2KxJ8Wx1KC7HsoUMS2D71Mjg.jpg"
+    },
+    {
+     "nombre": "John Lee Ames",
+     "foto": "https://image.tmdb.org/t/p/w185/bESEGfn6m3offfEmzrCy5CipXKQ.jpg"
+    }
+   ],
+   "trailer": "https://www.youtube.com/watch?v=cCHH-Ey10HU",
+   "temporadas_det": []
+  },
+  {
+   "id": "8954906",
+   "titulo": "Septiembre dice",
+   "tipo": "p",
+   "plataforma": "prime",
+   "estado": "expiring",
+   "fecha": "2026-11-20",
+   "genero": "Drama",
+   "generos": [
+    "Drama"
+   ],
+   "imdb": 5.9,
+   "rt": 63,
+   "duracion": "1 h 40 min",
+   "sinopsis": "Dos hermanas inseparables pero con mentalidades opuestas mantienen un vínculo al límite de la relación tóxica. Durante unas vacaciones en la costa de Irlanda con su madre, el despertar sexual de una de ellas empezará a romper esa unión.",
+   "poster": "https://image.tmdb.org/t/p/w342/rGG9cTEJWg7LiG9rU7CBCa3gOaj.jpg",
+   "reparto": [
+    {
+     "nombre": "Mia Tharia",
+     "foto": "https://image.tmdb.org/t/p/w185/oHb6lb5swU8U4JPEGfbUY5vkW5y.jpg"
+    },
+    {
+     "nombre": "Pascale Kann",
+     "foto": "https://image.tmdb.org/t/p/w185/g1GBSLFdBGIKssFQT1KqAGHf7yv.jpg"
+    },
+    {
+     "nombre": "Rakhee Thakrar",
+     "foto": "https://image.tmdb.org/t/p/w185/gYZeHjpYs0SBqW3b1YLCEqJNGoz.jpg"
+    },
+    {
+     "nombre": "Cal O'Driscoll",
+     "foto": null
+    },
+    {
+     "nombre": "Niamh Moriarty",
+     "foto": null
+    },
+    {
+     "nombre": "Barry John Kinsella",
+     "foto": "https://image.tmdb.org/t/p/w185/9ld1S0A0cUeh0LGkfIehNfhrPsc.jpg"
+    }
+   ],
+   "trailer": "https://www.youtube.com/watch?v=9uPbiMUL-Dk",
    "temporadas_det": []
   },
   {
