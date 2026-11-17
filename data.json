@@ -1,5154 +1,7 @@
 {
- "generado": "2026-11-16T15:20:58+00:00",
+ "generado": "2026-11-17T01:46:24+00:00",
  "pais": "ES",
  "items": [
-  {
-   "id": "89205",
-   "titulo": "Hermanos de sangre: Malcolm X y Muhammad Ali",
-   "tipo": "p",
-   "plataforma": "prime",
-   "estado": "expiring",
-   "fecha": "2026-11-16",
-   "genero": "Documental",
-   "generos": [
-    "Documental",
-    "Historia"
-   ],
-   "imdb": 5.8,
-   "rt": 94,
-   "duracion": "1 h 35 min",
-   "sinopsis": "La desconfianza y sus diferentes ideales hacen mella en el vínculo entre Malcolm X y Muhammad Ali, que empezó con un encuentro fortuito y acabó con una trágica disputa.",
-   "poster": "https://image.tmdb.org/t/p/w342/kdOXdPIgbbCHXb51tWJZ0r8kZfe.jpg",
-   "reparto": [
-    {
-     "nombre": "Malcolm X",
-     "foto": "https://image.tmdb.org/t/p/w185/fMQdemLvaN5WIHw1k21cX59Pf5s.jpg"
-    },
-    {
-     "nombre": "Muhammad Ali",
-     "foto": "https://image.tmdb.org/t/p/w185/u1ck2Lfx34GvW3YOoEE1ddNVdw6.jpg"
-    },
-    {
-     "nombre": "Elijah Muhammad",
-     "foto": null
-    },
-    {
-     "nombre": "Al Sharpton",
-     "foto": "https://image.tmdb.org/t/p/w185/xaZZuzMF18hRmYFwOxffIzm3zf.jpg"
-    },
-    {
-     "nombre": "Cornel West",
-     "foto": "https://image.tmdb.org/t/p/w185/eyLtTHcC3InxVPTyRus1pNfa0pK.jpg"
-    },
-    {
-     "nombre": "Ilyasah Shabazz",
-     "foto": null
-    }
-   ],
-   "trailer": "https://www.youtube.com/watch?v=gvOAuxFCGeU",
-   "temporadas_det": []
-  },
-  {
-   "id": "4396541",
-   "titulo": "Tiburón martillo: instinto asesino",
-   "tipo": "p",
-   "plataforma": "prime",
-   "estado": "expiring",
-   "fecha": "2026-11-16",
-   "genero": "Documental",
-   "generos": [
-    "Documental"
-   ],
-   "imdb": 4.5,
-   "rt": null,
-   "duracion": "44 min",
-   "sinopsis": "Un experto cree que los tiburones martillo llegan a grandes tamaños cazando otros tiburones. Para probarlo, usará una muestra de tejido de los tiburones más grandes de la tierra.",
-   "poster": "https://image.tmdb.org/t/p/w342/q0UIas3ULaMhePOsOPeMHS60gq6.jpg",
-   "reparto": [
-    {
-     "nombre": "Andy Casagrande",
-     "foto": "https://image.tmdb.org/t/p/w185/txBmNXMenXZGPiwPg1NPZP70AFJ.jpg"
-    }
-   ],
-   "trailer": null,
-   "temporadas_det": []
-  },
-  {
-   "id": "31803",
-   "titulo": "I Am Shauna Rae",
-   "tipo": "s",
-   "plataforma": "prime",
-   "estado": "expiring",
-   "fecha": "2026-11-16",
-   "genero": "Drama",
-   "generos": [
-    "Drama",
-    "Reality"
-   ],
-   "imdb": 5.3,
-   "rt": null,
-   "duracion": "2 temporadas, 16 episodios",
-   "sinopsis": "After a battle with brain cancer stunted her growth, 22-year-old Shauna Rae struggles to gain adult independence while trapped in a child's body.",
-   "poster": "https://image.tmdb.org/t/p/w342/e7v83H8mBGHkhC2ztwM7rDJs3gf.jpg",
-   "reparto": [],
-   "trailer": null,
-   "temporadas_det": [
-    {
-     "n": 1,
-     "eps": [
-      {
-       "n": 1,
-       "t": "Episodio 1",
-       "f": "2022-01-11"
-      },
-      {
-       "n": 2,
-       "t": "Episodio 2",
-       "f": "2022-01-18"
-      },
-      {
-       "n": 3,
-       "t": "Episodio 3",
-       "f": "2022-01-25"
-      },
-      {
-       "n": 4,
-       "t": "Episodio 4",
-       "f": "2022-02-01"
-      },
-      {
-       "n": 5,
-       "t": "Episodio 5",
-       "f": "2022-02-08"
-      },
-      {
-       "n": 6,
-       "t": "Episodio 6",
-       "f": "2022-02-15"
-      }
-     ]
-    },
-    {
-     "n": 2,
-     "eps": [
-      {
-       "n": 1,
-       "t": "Episodio 1",
-       "f": "2022-11-01"
-      },
-      {
-       "n": 2,
-       "t": "Episodio 2",
-       "f": "2022-11-08"
-      },
-      {
-       "n": 3,
-       "t": "Episodio 3",
-       "f": "2022-11-15"
-      },
-      {
-       "n": 4,
-       "t": "Episodio 4",
-       "f": "2022-11-22"
-      },
-      {
-       "n": 5,
-       "t": "Episodio 5",
-       "f": "2022-11-29"
-      },
-      {
-       "n": 6,
-       "t": "Episodio 6",
-       "f": "2022-12-06"
-      },
-      {
-       "n": 7,
-       "t": "Episodio 7",
-       "f": "2022-12-13"
-      },
-      {
-       "n": 8,
-       "t": "Episodio 8",
-       "f": "2022-12-20"
-      },
-      {
-       "n": 9,
-       "t": "Episodio 9",
-       "f": "2022-12-27"
-      },
-      {
-       "n": 10,
-       "t": "Episodio 10",
-       "f": "2023-01-03"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "id": "6363",
-   "titulo": "El pacto de los lobos",
-   "tipo": "p",
-   "plataforma": "prime",
-   "estado": "expiring",
-   "fecha": "2026-11-16",
-   "genero": "Aventura",
-   "generos": [
-    "Aventura",
-    "Terror",
-    "Historia"
-   ],
-   "imdb": 6.9,
-   "rt": 74,
-   "duracion": "2 h 22 min",
-   "sinopsis": "Gévaudan, en la Francia del siglo XVIII. Una monstruosa criatura devora salvajemente a los habitantes del lugar. Recién llegado de América, Grégoire de Fronsac recibe el encargo del rey Luis XV de identificar y encontrar a la fiera. Sin embargo Grégorie y su misterioso hermano de sangre, un indio llamado Mani, intentarán descubrir qué hay detrás de estos sucesos...",
-   "poster": "https://image.tmdb.org/t/p/w342/uQbLoLKahFHMbvOTvacyi9HYwTO.jpg",
-   "reparto": [
-    {
-     "nombre": "Samuel Le Bihan",
-     "foto": "https://image.tmdb.org/t/p/w185/jN4hwWfhFaE8v5TGiS6cg9HKOxe.jpg"
-    },
-    {
-     "nombre": "Vincent Cassel",
-     "foto": "https://image.tmdb.org/t/p/w185/ivUQfhn5olOmR5hthN8C8GThBV4.jpg"
-    },
-    {
-     "nombre": "Émilie Dequenne",
-     "foto": "https://image.tmdb.org/t/p/w185/aNGdK8n9GCzgHbxcucqdgmKM8lR.jpg"
-    },
-    {
-     "nombre": "Monica Bellucci",
-     "foto": "https://image.tmdb.org/t/p/w185/7g3k3u2gZpE7XU8GRYwHDuN1jlM.jpg"
-    },
-    {
-     "nombre": "Jérémie Renier",
-     "foto": "https://image.tmdb.org/t/p/w185/3oBBshsyiBEh4PkR9YDMCl3iyp1.jpg"
-    },
-    {
-     "nombre": "Mark Dacascos",
-     "foto": "https://image.tmdb.org/t/p/w185/trOACuJz1KzhB51qe6asaxRuxrh.jpg"
-    }
-   ],
-   "trailer": "https://www.youtube.com/watch?v=xGINKIKO0nc",
-   "temporadas_det": []
-  },
-  {
-   "id": "50530",
-   "titulo": "Flip or Flop Nashville",
-   "tipo": "s",
-   "plataforma": "prime",
-   "estado": "expiring",
-   "fecha": "2026-11-16",
-   "genero": "Reality",
-   "generos": [
-    "Reality"
-   ],
-   "imdb": 4.7,
-   "rt": null,
-   "duracion": "2 temporadas, 21 episodios",
-   "sinopsis": "Page Turner and DeRon Jenkins aren't just house flippers in Nashville, they're also exes. With a decade of partnership, this driven team takes on big, small and dirty jobs to get top dollar on their investments.",
-   "poster": "https://image.tmdb.org/t/p/w342/9cQrSXAO5traleqCkDXdCiFVPeO.jpg",
-   "reparto": [],
-   "trailer": null,
-   "temporadas_det": [
-    {
-     "n": 1,
-     "eps": [
-      {
-       "n": 1,
-       "t": "Episodio 1",
-       "f": "2018-01-18"
-      },
-      {
-       "n": 2,
-       "t": "Episodio 2",
-       "f": "2018-01-25"
-      },
-      {
-       "n": 3,
-       "t": "Episodio 3",
-       "f": "2018-02-01"
-      },
-      {
-       "n": 4,
-       "t": "Episodio 4",
-       "f": "2018-02-08"
-      },
-      {
-       "n": 5,
-       "t": "Episodio 5",
-       "f": "2018-02-15"
-      },
-      {
-       "n": 6,
-       "t": "Episodio 6",
-       "f": "2018-02-22"
-      },
-      {
-       "n": 7,
-       "t": "Episodio 7",
-       "f": "2018-03-01"
-      },
-      {
-       "n": 8,
-       "t": "Episodio 8",
-       "f": "2018-03-08"
-      },
-      {
-       "n": 9,
-       "t": "Episodio 9",
-       "f": "2018-03-08"
-      }
-     ]
-    },
-    {
-     "n": 2,
-     "eps": [
-      {
-       "n": 1,
-       "t": "Episodio 1",
-       "f": "2019-01-03"
-      },
-      {
-       "n": 2,
-       "t": "Episodio 2",
-       "f": "2019-01-10"
-      },
-      {
-       "n": 3,
-       "t": "Episodio 3",
-       "f": "2019-01-17"
-      },
-      {
-       "n": 4,
-       "t": "Episodio 4",
-       "f": "2019-01-24"
-      },
-      {
-       "n": 5,
-       "t": "Episodio 5",
-       "f": "2019-02-07"
-      },
-      {
-       "n": 6,
-       "t": "Episodio 6",
-       "f": "2019-02-06"
-      },
-      {
-       "n": 7,
-       "t": "Episodio 7",
-       "f": "2019-02-07"
-      },
-      {
-       "n": 8,
-       "t": "Episodio 8",
-       "f": "2019-02-14"
-      },
-      {
-       "n": 9,
-       "t": "Episodio 9",
-       "f": "2019-02-21"
-      },
-      {
-       "n": 10,
-       "t": "Episodio 10",
-       "f": "2019-03-07"
-      },
-      {
-       "n": 11,
-       "t": "Episodio 11",
-       "f": "2019-03-14"
-      },
-      {
-       "n": 12,
-       "t": "Episodio 12",
-       "f": "2019-03-21"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "id": "326385",
-   "titulo": "Phelps vs Shark",
-   "tipo": "p",
-   "plataforma": "prime",
-   "estado": "expiring",
-   "fecha": "2026-11-16",
-   "genero": "Documental",
-   "generos": [
-    "Documental"
-   ],
-   "imdb": 4.0,
-   "rt": null,
-   "duracion": "44 min",
-   "sinopsis": "Los tiburones son los depredadores más rápidos del planeta. ¿Qué ocurre cuando el nadador humano más rápido del mundo, Michael Phelps, compite contra uno en la carrera definitiva?",
-   "poster": "https://image.tmdb.org/t/p/w342/wTkDCzeiudNssnGR19DgRObIitW.jpg",
-   "reparto": [
-    {
-     "nombre": "Michael Phelps",
-     "foto": "https://image.tmdb.org/t/p/w185/rS4HyEdM50My75JSJmRZcWVaurb.jpg"
-    }
-   ],
-   "trailer": null,
-   "temporadas_det": []
-  },
-  {
-   "id": "25930760",
-   "titulo": "Tiger Shark King",
-   "tipo": "p",
-   "plataforma": "prime",
-   "estado": "expiring",
-   "fecha": "2026-11-16",
-   "genero": "Documental",
-   "generos": [
-    "Documental"
-   ],
-   "imdb": null,
-   "rt": null,
-   "duracion": "",
-   "sinopsis": "",
-   "poster": "https://image.tmdb.org/t/p/w342/fSJa3etPAaFxd5o3MP0hTJZUPLP.jpg",
-   "reparto": [
-    {
-     "nombre": "Jimi Partington",
-     "foto": null
-    }
-   ],
-   "trailer": null,
-   "temporadas_det": []
-  },
-  {
-   "id": "50014",
-   "titulo": "Man vs. Bear",
-   "tipo": "s",
-   "plataforma": "prime",
-   "estado": "expiring",
-   "fecha": "2026-11-16",
-   "genero": "Reality",
-   "generos": [
-    "Reality"
-   ],
-   "imdb": 4.7,
-   "rt": null,
-   "duracion": "1 temporada, 8 episodios",
-   "sinopsis": "For thousands of years, grizzly bears have stood at the top of the evolutionary food chain with unchallenged dominance. Now for the first time ever, humans will be entering the bears’ territory and take them on in a competition like never attempted.",
-   "poster": "https://image.tmdb.org/t/p/w342/uaBlpHmKKc2zDAvwDq1iCHzwZbJ.jpg",
-   "reparto": [],
-   "trailer": null,
-   "temporadas_det": [
-    {
-     "n": 1,
-     "eps": [
-      {
-       "n": 1,
-       "t": "Episodio 1",
-       "f": "2019-12-04"
-      },
-      {
-       "n": 2,
-       "t": "Episodio 2",
-       "f": "2019-12-11"
-      },
-      {
-       "n": 3,
-       "t": "Episodio 3",
-       "f": "2019-12-18"
-      },
-      {
-       "n": 4,
-       "t": "Episodio 4",
-       "f": "2019-12-25"
-      },
-      {
-       "n": 5,
-       "t": "Episodio 5",
-       "f": "2020-01-01"
-      },
-      {
-       "n": 6,
-       "t": "Episodio 6",
-       "f": "2020-01-08"
-      },
-      {
-       "n": 7,
-       "t": "Episodio 7",
-       "f": "2020-01-15"
-      },
-      {
-       "n": 8,
-       "t": "Episodio 8",
-       "f": "2020-01-22"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "id": "11160",
-   "titulo": "Crímenes del futuro",
-   "tipo": "p",
-   "plataforma": "prime",
-   "estado": "expiring",
-   "fecha": "2026-11-16",
-   "genero": "Ciencia ficción",
-   "generos": [
-    "Ciencia ficción",
-    "Terror",
-    "Suspense"
-   ],
-   "imdb": 5.8,
-   "rt": 79,
-   "duracion": "1 h 47 min",
-   "sinopsis": "En un futuro no muy lejano la humanidad está aprendiendo a adaptarse a su entorno sintético, en un mundo donde no existe el dolor. Esta evolución lleva a los humanos más allá de su estado natural y hacia una metamorfosis, alterando su estructura biológica.",
-   "poster": "https://image.tmdb.org/t/p/w342/6UA0pEWBy9KpbVghhHoWRex7Wk2.jpg",
-   "reparto": [
-    {
-     "nombre": "Viggo Mortensen",
-     "foto": "https://image.tmdb.org/t/p/w185/vH5gVSpHAMhDaFWfh0Q7BG61O1y.jpg"
-    },
-    {
-     "nombre": "Léa Seydoux",
-     "foto": "https://image.tmdb.org/t/p/w185/4q6xqqWLLleQrFjeqeYYV8B0fwE.jpg"
-    },
-    {
-     "nombre": "Scott Speedman",
-     "foto": "https://image.tmdb.org/t/p/w185/tGgD96WOhmuQU4e6ZTU5IEx4W9E.jpg"
-    },
-    {
-     "nombre": "Kristen Stewart",
-     "foto": "https://image.tmdb.org/t/p/w185/ryhCjTGqS6G6OprbR0qUEH355lA.jpg"
-    },
-    {
-     "nombre": "Welket Bungué",
-     "foto": "https://image.tmdb.org/t/p/w185/91GlmzrJyhaBscr4IqVUrnRueGS.jpg"
-    },
-    {
-     "nombre": "Don McKellar",
-     "foto": "https://image.tmdb.org/t/p/w185/lPQPESremJWcF0SLvzwiQP6ZVgT.jpg"
-    }
-   ],
-   "trailer": "https://www.youtube.com/watch?v=kt4K32grhwg",
-   "temporadas_det": []
-  },
-  {
-   "id": "25898833",
-   "titulo": "Mako Mania: Battle for California",
-   "tipo": "p",
-   "plataforma": "prime",
-   "estado": "expiring",
-   "fecha": "2026-11-16",
-   "genero": "Documental",
-   "generos": [
-    "Documental"
-   ],
-   "imdb": null,
-   "rt": null,
-   "duracion": "",
-   "sinopsis": "",
-   "poster": "https://image.tmdb.org/t/p/w342/zaccPkO8oKVVKjNv2C98iZ75CnC.jpg",
-   "reparto": [
-    {
-     "nombre": "Jason Hildebrandt",
-     "foto": "https://image.tmdb.org/t/p/w185/xbGmWz053bVmpE02vsNhHIOzWoZ.jpg"
-    }
-   ],
-   "trailer": null,
-   "temporadas_det": []
-  },
-  {
-   "id": "27823",
-   "titulo": "Conjuring Kesha",
-   "tipo": "s",
-   "plataforma": "prime",
-   "estado": "expiring",
-   "fecha": "2026-11-16",
-   "genero": "Reality",
-   "generos": [
-    "Reality",
-    "Documental"
-   ],
-   "imdb": 4.5,
-   "rt": null,
-   "duracion": "1 temporada, 6 episodios",
-   "sinopsis": "Kesha explores her cosmic connection with the supernatural at notoriously haunted locations. The pop icon brings the world's top paranormal experts and her celebrity friends along for a terrifying ride as she journeys deep into the heart of darkness.",
-   "poster": "https://image.tmdb.org/t/p/w342/rdOhwGutz97NBfyG02o3tDQ7vIw.jpg",
-   "reparto": [
-    {
-     "nombre": "Kesha",
-     "foto": "https://image.tmdb.org/t/p/w185/fWV7GU00kDv1C8XjTWJv0zyj5YP.jpg"
-    }
-   ],
-   "trailer": "https://www.youtube.com/watch?v=OVXcV7NCIgs",
-   "temporadas_det": [
-    {
-     "n": 1,
-     "eps": [
-      {
-       "n": 1,
-       "t": "Episodio 1",
-       "f": "2022-07-08"
-      },
-      {
-       "n": 2,
-       "t": "Episodio 2",
-       "f": "2022-07-08"
-      },
-      {
-       "n": 3,
-       "t": "Episodio 3",
-       "f": "2022-07-15"
-      },
-      {
-       "n": 4,
-       "t": "Episodio 4",
-       "f": "2022-07-22"
-      },
-      {
-       "n": 5,
-       "t": "Episodio 5",
-       "f": "2022-07-29"
-      },
-      {
-       "n": 6,
-       "t": "Episodio 6",
-       "f": "2022-08-05"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "id": "37022",
-   "titulo": "sMothered",
-   "tipo": "s",
-   "plataforma": "prime",
-   "estado": "expiring",
-   "fecha": "2026-11-16",
-   "genero": "Reality",
-   "generos": [
-    "Reality",
-    "Drama",
-    "Familia"
-   ],
-   "imdb": 5.2,
-   "rt": null,
-   "duracion": "5 temporadas, 51 episodios",
-   "sinopsis": "These outrageous mother-daughter duos take their bonds to the extreme!",
-   "poster": "https://image.tmdb.org/t/p/w342/t41ALDzAWfdnKc0cS9CJIsXyLWM.jpg",
-   "reparto": [],
-   "trailer": "https://www.youtube.com/watch?v=bCRDF-jxjS0",
-   "temporadas_det": [
-    {
-     "n": 1,
-     "eps": [
-      {
-       "n": 1,
-       "t": "Episodio 1",
-       "f": "2019-06-09"
-      },
-      {
-       "n": 2,
-       "t": "Episodio 2",
-       "f": "2019-06-16"
-      },
-      {
-       "n": 3,
-       "t": "Episodio 3",
-       "f": "2019-06-23"
-      },
-      {
-       "n": 4,
-       "t": "Episodio 4",
-       "f": "2019-06-30"
-      },
-      {
-       "n": 5,
-       "t": "Episodio 5",
-       "f": "2019-07-07"
-      },
-      {
-       "n": 6,
-       "t": "Episodio 6",
-       "f": "2019-07-14"
-      },
-      {
-       "n": 7,
-       "t": "Episodio 7",
-       "f": "2019-07-21"
-      },
-      {
-       "n": 8,
-       "t": "Episodio 8",
-       "f": "2019-07-28"
-      }
-     ]
-    },
-    {
-     "n": 2,
-     "eps": [
-      {
-       "n": 1,
-       "t": "Episodio 1",
-       "f": "2020-05-24"
-      },
-      {
-       "n": 2,
-       "t": "Episodio 2",
-       "f": "2020-05-31"
-      },
-      {
-       "n": 3,
-       "t": "Episodio 3",
-       "f": "2020-06-07"
-      },
-      {
-       "n": 4,
-       "t": "Episodio 4",
-       "f": "2020-06-14"
-      },
-      {
-       "n": 5,
-       "t": "Episodio 5",
-       "f": "2020-06-21"
-      },
-      {
-       "n": 6,
-       "t": "Episodio 6",
-       "f": "2020-06-28"
-      },
-      {
-       "n": 7,
-       "t": "Episodio 7",
-       "f": "2020-07-05"
-      },
-      {
-       "n": 8,
-       "t": "Episodio 8",
-       "f": "2020-07-12"
-      },
-      {
-       "n": 9,
-       "t": "Episodio 9",
-       "f": "2020-07-19"
-      },
-      {
-       "n": 10,
-       "t": "Episodio 10",
-       "f": "2020-07-26"
-      },
-      {
-       "n": 11,
-       "t": "Episodio 11",
-       "f": "2020-08-02"
-      },
-      {
-       "n": 12,
-       "t": "Episodio 12",
-       "f": "2020-08-09"
-      }
-     ]
-    },
-    {
-     "n": 3,
-     "eps": [
-      {
-       "n": 1,
-       "t": "Episodio 1",
-       "f": "2021-05-31"
-      },
-      {
-       "n": 2,
-       "t": "Episodio 2",
-       "f": "2021-06-07"
-      },
-      {
-       "n": 3,
-       "t": "Episodio 3",
-       "f": "2021-06-14"
-      },
-      {
-       "n": 4,
-       "t": "Episodio 4",
-       "f": "2021-06-21"
-      },
-      {
-       "n": 5,
-       "t": "Episodio 5",
-       "f": "2021-06-28"
-      },
-      {
-       "n": 6,
-       "t": "Episodio 6",
-       "f": "2021-07-05"
-      },
-      {
-       "n": 7,
-       "t": "Episodio 7",
-       "f": "2021-07-12"
-      },
-      {
-       "n": 8,
-       "t": "Episodio 8",
-       "f": "2021-07-19"
-      },
-      {
-       "n": 9,
-       "t": "Episodio 9",
-       "f": "2021-07-26"
-      },
-      {
-       "n": 10,
-       "t": "Episodio 10",
-       "f": "2021-08-02"
-      }
-     ]
-    },
-    {
-     "n": 4,
-     "eps": [
-      {
-       "n": 1,
-       "t": "Episodio 1",
-       "f": "2022-08-08"
-      },
-      {
-       "n": 2,
-       "t": "Episodio 2",
-       "f": "2022-08-15"
-      },
-      {
-       "n": 3,
-       "t": "Episodio 3",
-       "f": "2022-08-22"
-      },
-      {
-       "n": 4,
-       "t": "Episodio 4",
-       "f": "2022-08-29"
-      },
-      {
-       "n": 5,
-       "t": "Episodio 5",
-       "f": "2022-09-05"
-      },
-      {
-       "n": 6,
-       "t": "Episodio 6",
-       "f": "2022-09-19"
-      },
-      {
-       "n": 7,
-       "t": "Episodio 7",
-       "f": "2022-09-26"
-      },
-      {
-       "n": 8,
-       "t": "Episodio 8",
-       "f": "2022-10-03"
-      },
-      {
-       "n": 9,
-       "t": "Episodio 9",
-       "f": "2022-10-10"
-      },
-      {
-       "n": 10,
-       "t": "Episodio 10",
-       "f": "2022-10-17"
-      },
-      {
-       "n": 11,
-       "t": "Episodio 11",
-       "f": "2022-10-24"
-      }
-     ]
-    },
-    {
-     "n": 5,
-     "eps": [
-      {
-       "n": 1,
-       "t": "Episodio 1",
-       "f": "2023-12-12"
-      },
-      {
-       "n": 2,
-       "t": "Episodio 2",
-       "f": "2023-12-19"
-      },
-      {
-       "n": 3,
-       "t": "Episodio 3",
-       "f": "2023-12-26"
-      },
-      {
-       "n": 4,
-       "t": "Episodio 4",
-       "f": "2024-01-02"
-      },
-      {
-       "n": 5,
-       "t": "Episodio 5",
-       "f": "2024-01-09"
-      },
-      {
-       "n": 6,
-       "t": "Episodio 6",
-       "f": "2024-01-16"
-      },
-      {
-       "n": 7,
-       "t": "Episodio 7",
-       "f": "2024-01-23"
-      },
-      {
-       "n": 8,
-       "t": "Episodio 8",
-       "f": "2024-01-30"
-      },
-      {
-       "n": 9,
-       "t": "Episodio 9",
-       "f": "2024-02-06"
-      },
-      {
-       "n": 10,
-       "t": "Episodio 10",
-       "f": "2024-02-13"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "id": "46130",
-   "titulo": "Porter Ridge",
-   "tipo": "s",
-   "plataforma": "prime",
-   "estado": "expiring",
-   "fecha": "2026-11-16",
-   "genero": "Reality",
-   "generos": [
-    "Reality"
-   ],
-   "imdb": 4.7,
-   "rt": null,
-   "duracion": "1 temporada, 5 episodios",
-   "sinopsis": "An isolated, lawless community in Indiana lives by its own set of rules.",
-   "poster": "https://image.tmdb.org/t/p/w342/sAyUT1xwwQDcCqihRkWPX8Zxfen.jpg",
-   "reparto": [],
-   "trailer": null,
-   "temporadas_det": [
-    {
-     "n": 1,
-     "eps": [
-      {
-       "n": 1,
-       "t": "Episodio 1",
-       "f": "2013-08-13"
-      },
-      {
-       "n": 2,
-       "t": "Episodio 2",
-       "f": "2013-08-20"
-      },
-      {
-       "n": 3,
-       "t": "Episodio 3",
-       "f": "2013-08-27"
-      },
-      {
-       "n": 4,
-       "t": "Episodio 4",
-       "f": "2013-09-03"
-      },
-      {
-       "n": 5,
-       "t": "Episodio 5",
-       "f": "2013-09-10"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "id": "71476",
-   "titulo": "Rebel Gold",
-   "tipo": "s",
-   "plataforma": "prime",
-   "estado": "expiring",
-   "fecha": "2026-11-16",
-   "genero": "Documental",
-   "generos": [
-    "Documental"
-   ],
-   "imdb": 4.4,
-   "rt": null,
-   "duracion": "1 temporada, 4 episodios",
-   "sinopsis": "A team of all-star treasure hunters dig deep into American history hoping to get to the bottom of the legend of Jefferson Davis' missing Civil War-era gold.",
-   "poster": "https://image.tmdb.org/t/p/w342/jhVzUotRgO0zstAMYk7Q6W9oN9z.jpg",
-   "reparto": [],
-   "trailer": null,
-   "temporadas_det": [
-    {
-     "n": 1,
-     "eps": [
-      {
-       "n": 1,
-       "t": "Episodio 1",
-       "f": "2015-09-15"
-      },
-      {
-       "n": 2,
-       "t": "Episodio 2",
-       "f": "2015-09-22"
-      },
-      {
-       "n": 3,
-       "t": "Episodio 3",
-       "f": "2015-09-29"
-      },
-      {
-       "n": 4,
-       "t": "Episodio 4",
-       "f": "2015-10-06"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "id": "40193",
-   "titulo": "El regreso de la reina de Versalles",
-   "tipo": "s",
-   "plataforma": "hbo",
-   "estado": "expiring",
-   "fecha": "2026-11-16",
-   "genero": "Reality",
-   "generos": [
-    "Reality"
-   ],
-   "imdb": 4.3,
-   "rt": null,
-   "duracion": "1 temporada, 6 episodios",
-   "sinopsis": "Después de que una caída en picado de la bolsa casi acabara con la casa de sus sueños de Jackie, ella y su familia están listas para volver a su famosa casa de 90.000 pies cuadrados (8361 m²).",
-   "poster": "https://image.tmdb.org/t/p/w342/oEKsdgZ2DbwSJ85Xaqxbm37S8fc.jpg",
-   "reparto": [
-    {
-     "nombre": "Jacqueline Siegel",
-     "foto": null
-    }
-   ],
-   "trailer": null,
-   "temporadas_det": [
-    {
-     "n": 1,
-     "eps": [
-      {
-       "n": 1,
-       "t": "El renacer de Versalles",
-       "f": "2022-03-30"
-      },
-      {
-       "n": 2,
-       "t": "¡Diva Las Vegas!",
-       "f": "2022-03-30"
-      },
-      {
-       "n": 3,
-       "t": "Una cocina digna de una reina",
-       "f": "2022-04-06"
-      },
-      {
-       "n": 4,
-       "t": "El bar clandestino de la reina",
-       "f": "2022-04-13"
-      },
-      {
-       "n": 5,
-       "t": "Es difícil ser reina",
-       "f": "2022-04-20"
-      },
-      {
-       "n": 6,
-       "t": "La reina que viene a casa",
-       "f": "2022-04-27"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "id": "23782",
-   "titulo": "Cinco por sorpresa",
-   "tipo": "s",
-   "plataforma": "hbo",
-   "estado": "expiring",
-   "fecha": "2026-11-16",
-   "genero": "Reality",
-   "generos": [
-    "Reality"
-   ],
-   "imdb": 5.4,
-   "rt": null,
-   "duracion": "10 temporadas, 82 episodios",
-   "sinopsis": "40 biberones al día, 420 pañales a la semana y alimentaciones cada tres horas se convirtieron en la nueva normalidad para Danielle y Adam Busby cuando dieron la bienvenida a casa al único grupo de quintillizas compuesto exclusivamente por mujeres en el país. La familia de tres se convirtió en una familia de ocho de la noche a la mañana, y TLC sigue ese increíble viaje en la nueva serie \"OUTDAUGHhered\". La serie captura a Danielle, Adam y su adorable hija Blayke de 4 años mientras se adaptan a su nueva vida, mientras intentan aferrarse a las identidades y vidas que habían cultivado antes de que llegaran las cinco nuevas incorporaciones. Tras las divertidas y conmovedoras payasadas de toda la familia, incluida la alocada madre de Danielle, Michelle, y sus hermanas gemelas mayores y sus familias, todo está en acción mientras la familia confía en su círculo unido para aprovechar al máximo esta increíble vida. aventuras.",
-   "poster": "https://image.tmdb.org/t/p/w342/cfj8mrvjW76UEeg1dTFumzIKGPh.jpg",
-   "reparto": [
-    {
-     "nombre": "Danielle Busby",
-     "foto": "https://image.tmdb.org/t/p/w185/35e86RzOd9gYwpfvfIcz3PX7jkK.jpg"
-    },
-    {
-     "nombre": "Adam Busby",
-     "foto": "https://image.tmdb.org/t/p/w185/fTcyfUI9wM44uakrN8srtAHpbLz.jpg"
-    }
-   ],
-   "trailer": "https://www.youtube.com/watch?v=HQpfPgvdNho",
-   "temporadas_det": [
-    {
-     "n": 1,
-     "eps": [
-      {
-       "n": 1,
-       "t": "Episodio 1",
-       "f": "2016-05-10"
-      },
-      {
-       "n": 2,
-       "t": "Episodio 2",
-       "f": "2016-05-17"
-      },
-      {
-       "n": 3,
-       "t": "Episodio 3",
-       "f": "2016-05-24"
-      },
-      {
-       "n": 4,
-       "t": "Episodio 4",
-       "f": "2016-05-31"
-      }
-     ]
-    },
-    {
-     "n": 2,
-     "eps": [
-      {
-       "n": 1,
-       "t": "Episodio 1",
-       "f": "2016-11-15"
-      },
-      {
-       "n": 2,
-       "t": "Episodio 2",
-       "f": "2016-11-22"
-      },
-      {
-       "n": 3,
-       "t": "Episodio 3",
-       "f": "2016-11-29"
-      },
-      {
-       "n": 4,
-       "t": "Episodio 4",
-       "f": "2016-12-06"
-      },
-      {
-       "n": 5,
-       "t": "Episodio 5",
-       "f": "2016-12-13"
-      },
-      {
-       "n": 6,
-       "t": "Episodio 6",
-       "f": "2016-12-20"
-      },
-      {
-       "n": 7,
-       "t": "Episodio 7",
-       "f": "2016-12-27"
-      },
-      {
-       "n": 8,
-       "t": "Episodio 8",
-       "f": "2017-01-03"
-      },
-      {
-       "n": 9,
-       "t": "Episodio 9",
-       "f": "2017-01-10"
-      },
-      {
-       "n": 10,
-       "t": "Episodio 10",
-       "f": "2017-01-17"
-      }
-     ]
-    },
-    {
-     "n": 3,
-     "eps": [
-      {
-       "n": 1,
-       "t": "Episodio 1",
-       "f": "2017-07-11"
-      },
-      {
-       "n": 2,
-       "t": "Episodio 2",
-       "f": "2017-07-18"
-      },
-      {
-       "n": 3,
-       "t": "Episodio 3",
-       "f": "2017-07-25"
-      },
-      {
-       "n": 4,
-       "t": "Episodio 4",
-       "f": "2017-08-01"
-      },
-      {
-       "n": 5,
-       "t": "Episodio 5",
-       "f": "2017-08-08"
-      },
-      {
-       "n": 6,
-       "t": "Episodio 6",
-       "f": "2017-08-15"
-      },
-      {
-       "n": 7,
-       "t": "Episodio 7",
-       "f": "2017-08-22"
-      },
-      {
-       "n": 8,
-       "t": "Episodio 8",
-       "f": "2017-08-29"
-      },
-      {
-       "n": 9,
-       "t": "Episodio 9",
-       "f": "2017-09-05"
-      },
-      {
-       "n": 10,
-       "t": "Episodio 10",
-       "f": "2017-09-12"
-      }
-     ]
-    },
-    {
-     "n": 4,
-     "eps": [
-      {
-       "n": 1,
-       "t": "Episodio 1",
-       "f": "2018-07-10"
-      },
-      {
-       "n": 2,
-       "t": "Episodio 2",
-       "f": "2018-07-17"
-      },
-      {
-       "n": 3,
-       "t": "Episodio 3",
-       "f": "2018-07-24"
-      },
-      {
-       "n": 4,
-       "t": "Episodio 4",
-       "f": "2018-07-31"
-      },
-      {
-       "n": 5,
-       "t": "Episodio 5",
-       "f": "2018-08-07"
-      },
-      {
-       "n": 6,
-       "t": "Episodio 6",
-       "f": "2018-08-14"
-      },
-      {
-       "n": 7,
-       "t": "Episodio 7",
-       "f": "2018-08-21"
-      },
-      {
-       "n": 8,
-       "t": "Episodio 8",
-       "f": "2018-08-28"
-      },
-      {
-       "n": 9,
-       "t": "Episodio 9",
-       "f": "2018-09-04"
-      },
-      {
-       "n": 10,
-       "t": "Episodio 10",
-       "f": "2018-09-11"
-      },
-      {
-       "n": 11,
-       "t": "Episodio 11",
-       "f": "2018-09-18"
-      },
-      {
-       "n": 12,
-       "t": "Episodio 12",
-       "f": "2018-09-25"
-      },
-      {
-       "n": 13,
-       "t": "Episodio 13",
-       "f": "2018-10-02"
-      }
-     ]
-    },
-    {
-     "n": 5,
-     "eps": [
-      {
-       "n": 1,
-       "t": "Episodio 1",
-       "f": "2019-06-11"
-      },
-      {
-       "n": 2,
-       "t": "Episodio 2",
-       "f": "2019-06-18"
-      },
-      {
-       "n": 3,
-       "t": "Episodio 3",
-       "f": "2019-06-25"
-      },
-      {
-       "n": 4,
-       "t": "Episodio 4",
-       "f": "2019-07-02"
-      },
-      {
-       "n": 5,
-       "t": "Episodio 5",
-       "f": "2019-07-09"
-      },
-      {
-       "n": 6,
-       "t": "Episodio 6",
-       "f": "2019-07-16"
-      },
-      {
-       "n": 7,
-       "t": "Episodio 7",
-       "f": "2019-07-23"
-      },
-      {
-       "n": 8,
-       "t": "Episodio 8",
-       "f": "2019-07-30"
-      }
-     ]
-    },
-    {
-     "n": 6,
-     "eps": [
-      {
-       "n": 1,
-       "t": "Episodio 1",
-       "f": "2019-09-24"
-      },
-      {
-       "n": 2,
-       "t": "Episodio 2",
-       "f": "2019-10-08"
-      },
-      {
-       "n": 3,
-       "t": "Episodio 3",
-       "f": "2019-10-15"
-      },
-      {
-       "n": 4,
-       "t": "Episodio 4",
-       "f": "2019-10-22"
-      },
-      {
-       "n": 5,
-       "t": "Episodio 5",
-       "f": "2019-10-29"
-      },
-      {
-       "n": 6,
-       "t": "Episodio 6",
-       "f": "2019-11-05"
-      }
-     ]
-    },
-    {
-     "n": 7,
-     "eps": [
-      {
-       "n": 1,
-       "t": "Episodio 1",
-       "f": "2020-06-02"
-      },
-      {
-       "n": 2,
-       "t": "Episodio 2",
-       "f": "2020-06-16"
-      },
-      {
-       "n": 3,
-       "t": "Episodio 3",
-       "f": "2020-06-23"
-      },
-      {
-       "n": 4,
-       "t": "Episodio 4",
-       "f": "2020-06-30"
-      }
-     ]
-    },
-    {
-     "n": 8,
-     "eps": [
-      {
-       "n": 1,
-       "t": "Episodio 1",
-       "f": "2021-02-23"
-      },
-      {
-       "n": 2,
-       "t": "Episodio 2",
-       "f": "2021-03-02"
-      },
-      {
-       "n": 3,
-       "t": "Episodio 3",
-       "f": "2021-03-09"
-      },
-      {
-       "n": 4,
-       "t": "Episodio 4",
-       "f": "2021-03-16"
-      },
-      {
-       "n": 5,
-       "t": "Episodio 5",
-       "f": "2021-03-23"
-      },
-      {
-       "n": 6,
-       "t": "Episodio 6",
-       "f": "2021-03-30"
-      },
-      {
-       "n": 7,
-       "t": "Episodio 7",
-       "f": "2021-04-06"
-      },
-      {
-       "n": 8,
-       "t": "Episodio 8",
-       "f": "2021-04-13"
-      },
-      {
-       "n": 9,
-       "t": "Episodio 9",
-       "f": "2021-04-20"
-      },
-      {
-       "n": 10,
-       "t": "Episodio 10",
-       "f": "2021-04-27"
-      },
-      {
-       "n": 11,
-       "t": "Episodio 11",
-       "f": "2021-05-04"
-      }
-     ]
-    },
-    {
-     "n": 9,
-     "eps": [
-      {
-       "n": 1,
-       "t": "Episodio 1",
-       "f": "2023-07-11"
-      },
-      {
-       "n": 2,
-       "t": "Episodio 2",
-       "f": "2023-07-18"
-      },
-      {
-       "n": 3,
-       "t": "Episodio 3",
-       "f": "2023-07-25"
-      },
-      {
-       "n": 4,
-       "t": "Episodio 4",
-       "f": "2023-08-01"
-      },
-      {
-       "n": 5,
-       "t": "Episodio 5",
-       "f": "2023-08-08"
-      },
-      {
-       "n": 6,
-       "t": "Episodio 6",
-       "f": "2023-08-15"
-      },
-      {
-       "n": 7,
-       "t": "Episodio 7",
-       "f": "2023-08-22"
-      },
-      {
-       "n": 8,
-       "t": "Episodio 8",
-       "f": "2023-08-29"
-      }
-     ]
-    },
-    {
-     "n": 10,
-     "eps": [
-      {
-       "n": 1,
-       "t": "Episodio 1",
-       "f": "2024-05-07"
-      },
-      {
-       "n": 2,
-       "t": "Episodio 2",
-       "f": "2024-05-14"
-      },
-      {
-       "n": 3,
-       "t": "Episodio 3",
-       "f": "2024-05-21"
-      },
-      {
-       "n": 4,
-       "t": "Episodio 4",
-       "f": "2024-05-28"
-      },
-      {
-       "n": 5,
-       "t": "Episodio 5",
-       "f": "2024-06-04"
-      },
-      {
-       "n": 6,
-       "t": "Episodio 6",
-       "f": "2024-06-11"
-      },
-      {
-       "n": 7,
-       "t": "Episodio 7",
-       "f": "2024-06-18"
-      },
-      {
-       "n": 8,
-       "t": "Episodio 8",
-       "f": "2024-06-25"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "id": "37022",
-   "titulo": "sMothered",
-   "tipo": "s",
-   "plataforma": "hbo",
-   "estado": "expiring",
-   "fecha": "2026-11-16",
-   "genero": "Reality",
-   "generos": [
-    "Reality",
-    "Drama",
-    "Familia"
-   ],
-   "imdb": 5.2,
-   "rt": null,
-   "duracion": "5 temporadas, 51 episodios",
-   "sinopsis": "These outrageous mother-daughter duos take their bonds to the extreme!",
-   "poster": "https://image.tmdb.org/t/p/w342/t41ALDzAWfdnKc0cS9CJIsXyLWM.jpg",
-   "reparto": [],
-   "trailer": "https://www.youtube.com/watch?v=bCRDF-jxjS0",
-   "temporadas_det": [
-    {
-     "n": 1,
-     "eps": [
-      {
-       "n": 1,
-       "t": "Episodio 1",
-       "f": "2019-06-09"
-      },
-      {
-       "n": 2,
-       "t": "Episodio 2",
-       "f": "2019-06-16"
-      },
-      {
-       "n": 3,
-       "t": "Episodio 3",
-       "f": "2019-06-23"
-      },
-      {
-       "n": 4,
-       "t": "Episodio 4",
-       "f": "2019-06-30"
-      },
-      {
-       "n": 5,
-       "t": "Episodio 5",
-       "f": "2019-07-07"
-      },
-      {
-       "n": 6,
-       "t": "Episodio 6",
-       "f": "2019-07-14"
-      },
-      {
-       "n": 7,
-       "t": "Episodio 7",
-       "f": "2019-07-21"
-      },
-      {
-       "n": 8,
-       "t": "Episodio 8",
-       "f": "2019-07-28"
-      }
-     ]
-    },
-    {
-     "n": 2,
-     "eps": [
-      {
-       "n": 1,
-       "t": "Episodio 1",
-       "f": "2020-05-24"
-      },
-      {
-       "n": 2,
-       "t": "Episodio 2",
-       "f": "2020-05-31"
-      },
-      {
-       "n": 3,
-       "t": "Episodio 3",
-       "f": "2020-06-07"
-      },
-      {
-       "n": 4,
-       "t": "Episodio 4",
-       "f": "2020-06-14"
-      },
-      {
-       "n": 5,
-       "t": "Episodio 5",
-       "f": "2020-06-21"
-      },
-      {
-       "n": 6,
-       "t": "Episodio 6",
-       "f": "2020-06-28"
-      },
-      {
-       "n": 7,
-       "t": "Episodio 7",
-       "f": "2020-07-05"
-      },
-      {
-       "n": 8,
-       "t": "Episodio 8",
-       "f": "2020-07-12"
-      },
-      {
-       "n": 9,
-       "t": "Episodio 9",
-       "f": "2020-07-19"
-      },
-      {
-       "n": 10,
-       "t": "Episodio 10",
-       "f": "2020-07-26"
-      },
-      {
-       "n": 11,
-       "t": "Episodio 11",
-       "f": "2020-08-02"
-      },
-      {
-       "n": 12,
-       "t": "Episodio 12",
-       "f": "2020-08-09"
-      }
-     ]
-    },
-    {
-     "n": 3,
-     "eps": [
-      {
-       "n": 1,
-       "t": "Episodio 1",
-       "f": "2021-05-31"
-      },
-      {
-       "n": 2,
-       "t": "Episodio 2",
-       "f": "2021-06-07"
-      },
-      {
-       "n": 3,
-       "t": "Episodio 3",
-       "f": "2021-06-14"
-      },
-      {
-       "n": 4,
-       "t": "Episodio 4",
-       "f": "2021-06-21"
-      },
-      {
-       "n": 5,
-       "t": "Episodio 5",
-       "f": "2021-06-28"
-      },
-      {
-       "n": 6,
-       "t": "Episodio 6",
-       "f": "2021-07-05"
-      },
-      {
-       "n": 7,
-       "t": "Episodio 7",
-       "f": "2021-07-12"
-      },
-      {
-       "n": 8,
-       "t": "Episodio 8",
-       "f": "2021-07-19"
-      },
-      {
-       "n": 9,
-       "t": "Episodio 9",
-       "f": "2021-07-26"
-      },
-      {
-       "n": 10,
-       "t": "Episodio 10",
-       "f": "2021-08-02"
-      }
-     ]
-    },
-    {
-     "n": 4,
-     "eps": [
-      {
-       "n": 1,
-       "t": "Episodio 1",
-       "f": "2022-08-08"
-      },
-      {
-       "n": 2,
-       "t": "Episodio 2",
-       "f": "2022-08-15"
-      },
-      {
-       "n": 3,
-       "t": "Episodio 3",
-       "f": "2022-08-22"
-      },
-      {
-       "n": 4,
-       "t": "Episodio 4",
-       "f": "2022-08-29"
-      },
-      {
-       "n": 5,
-       "t": "Episodio 5",
-       "f": "2022-09-05"
-      },
-      {
-       "n": 6,
-       "t": "Episodio 6",
-       "f": "2022-09-19"
-      },
-      {
-       "n": 7,
-       "t": "Episodio 7",
-       "f": "2022-09-26"
-      },
-      {
-       "n": 8,
-       "t": "Episodio 8",
-       "f": "2022-10-03"
-      },
-      {
-       "n": 9,
-       "t": "Episodio 9",
-       "f": "2022-10-10"
-      },
-      {
-       "n": 10,
-       "t": "Episodio 10",
-       "f": "2022-10-17"
-      },
-      {
-       "n": 11,
-       "t": "Episodio 11",
-       "f": "2022-10-24"
-      }
-     ]
-    },
-    {
-     "n": 5,
-     "eps": [
-      {
-       "n": 1,
-       "t": "Episodio 1",
-       "f": "2023-12-12"
-      },
-      {
-       "n": 2,
-       "t": "Episodio 2",
-       "f": "2023-12-19"
-      },
-      {
-       "n": 3,
-       "t": "Episodio 3",
-       "f": "2023-12-26"
-      },
-      {
-       "n": 4,
-       "t": "Episodio 4",
-       "f": "2024-01-02"
-      },
-      {
-       "n": 5,
-       "t": "Episodio 5",
-       "f": "2024-01-09"
-      },
-      {
-       "n": 6,
-       "t": "Episodio 6",
-       "f": "2024-01-16"
-      },
-      {
-       "n": 7,
-       "t": "Episodio 7",
-       "f": "2024-01-23"
-      },
-      {
-       "n": 8,
-       "t": "Episodio 8",
-       "f": "2024-01-30"
-      },
-      {
-       "n": 9,
-       "t": "Episodio 9",
-       "f": "2024-02-06"
-      },
-      {
-       "n": 10,
-       "t": "Episodio 10",
-       "f": "2024-02-13"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "id": "31803",
-   "titulo": "I Am Shauna Rae",
-   "tipo": "s",
-   "plataforma": "hbo",
-   "estado": "expiring",
-   "fecha": "2026-11-16",
-   "genero": "Drama",
-   "generos": [
-    "Drama",
-    "Reality"
-   ],
-   "imdb": 5.3,
-   "rt": null,
-   "duracion": "2 temporadas, 16 episodios",
-   "sinopsis": "After a battle with brain cancer stunted her growth, 22-year-old Shauna Rae struggles to gain adult independence while trapped in a child's body.",
-   "poster": "https://image.tmdb.org/t/p/w342/e7v83H8mBGHkhC2ztwM7rDJs3gf.jpg",
-   "reparto": [],
-   "trailer": null,
-   "temporadas_det": [
-    {
-     "n": 1,
-     "eps": [
-      {
-       "n": 1,
-       "t": "Episodio 1",
-       "f": "2022-01-11"
-      },
-      {
-       "n": 2,
-       "t": "Episodio 2",
-       "f": "2022-01-18"
-      },
-      {
-       "n": 3,
-       "t": "Episodio 3",
-       "f": "2022-01-25"
-      },
-      {
-       "n": 4,
-       "t": "Episodio 4",
-       "f": "2022-02-01"
-      },
-      {
-       "n": 5,
-       "t": "Episodio 5",
-       "f": "2022-02-08"
-      },
-      {
-       "n": 6,
-       "t": "Episodio 6",
-       "f": "2022-02-15"
-      }
-     ]
-    },
-    {
-     "n": 2,
-     "eps": [
-      {
-       "n": 1,
-       "t": "Episodio 1",
-       "f": "2022-11-01"
-      },
-      {
-       "n": 2,
-       "t": "Episodio 2",
-       "f": "2022-11-08"
-      },
-      {
-       "n": 3,
-       "t": "Episodio 3",
-       "f": "2022-11-15"
-      },
-      {
-       "n": 4,
-       "t": "Episodio 4",
-       "f": "2022-11-22"
-      },
-      {
-       "n": 5,
-       "t": "Episodio 5",
-       "f": "2022-11-29"
-      },
-      {
-       "n": 6,
-       "t": "Episodio 6",
-       "f": "2022-12-06"
-      },
-      {
-       "n": 7,
-       "t": "Episodio 7",
-       "f": "2022-12-13"
-      },
-      {
-       "n": 8,
-       "t": "Episodio 8",
-       "f": "2022-12-20"
-      },
-      {
-       "n": 9,
-       "t": "Episodio 9",
-       "f": "2022-12-27"
-      },
-      {
-       "n": 10,
-       "t": "Episodio 10",
-       "f": "2023-01-03"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "id": "34930",
-   "titulo": "Rock the Block",
-   "tipo": "s",
-   "plataforma": "hbo",
-   "estado": "expiring",
-   "fecha": "2026-11-16",
-   "genero": "Reality",
-   "generos": [
-    "Reality"
-   ],
-   "imdb": 5.4,
-   "rt": null,
-   "duracion": "7 temporadas, 44 episodios",
-   "sinopsis": "Leanne Ford, Alison Victoria, Jasmine Roth and Mina Starsiak-Hawk each have a month to renovate a home. The designer who nets the highest appraisal gets bragging rights and a street named in her honor.",
-   "poster": "https://image.tmdb.org/t/p/w342/aj2nYQvxvwDYDVestUMOkff7gux.jpg",
-   "reparto": [
-    {
-     "nombre": "Ty Pennington",
-     "foto": "https://image.tmdb.org/t/p/w185/aeB9ERQXGK3L6Gq4pRdwUMrPR4J.jpg"
-    }
-   ],
-   "trailer": null,
-   "temporadas_det": [
-    {
-     "n": 1,
-     "eps": [
-      {
-       "n": 1,
-       "t": "Episodio 1",
-       "f": "2019-10-21"
-      },
-      {
-       "n": 2,
-       "t": "Episodio 2",
-       "f": "2019-10-28"
-      },
-      {
-       "n": 3,
-       "t": "Episodio 3",
-       "f": "2019-11-04"
-      },
-      {
-       "n": 4,
-       "t": "Episodio 4",
-       "f": "2019-11-11"
-      }
-     ]
-    },
-    {
-     "n": 2,
-     "eps": [
-      {
-       "n": 1,
-       "t": "Episodio 1",
-       "f": "2021-03-08"
-      },
-      {
-       "n": 2,
-       "t": "Episodio 2",
-       "f": "2021-03-15"
-      },
-      {
-       "n": 3,
-       "t": "Episodio 3",
-       "f": "2021-03-22"
-      },
-      {
-       "n": 4,
-       "t": "Episodio 4",
-       "f": "2021-03-29"
-      },
-      {
-       "n": 5,
-       "t": "Episodio 5",
-       "f": "2021-04-05"
-      },
-      {
-       "n": 6,
-       "t": "Episodio 6",
-       "f": "2021-04-12"
-      }
-     ]
-    },
-    {
-     "n": 3,
-     "eps": [
-      {
-       "n": 1,
-       "t": "Episodio 1",
-       "f": "2022-02-28"
-      },
-      {
-       "n": 2,
-       "t": "Episodio 2",
-       "f": "2022-03-07"
-      },
-      {
-       "n": 3,
-       "t": "Episodio 3",
-       "f": "2022-03-14"
-      },
-      {
-       "n": 4,
-       "t": "Episodio 4",
-       "f": "2022-03-21"
-      },
-      {
-       "n": 5,
-       "t": "Episodio 5",
-       "f": "2022-03-28"
-      },
-      {
-       "n": 6,
-       "t": "Episodio 6",
-       "f": "2022-04-04"
-      }
-     ]
-    },
-    {
-     "n": 4,
-     "eps": [
-      {
-       "n": 1,
-       "t": "Episodio 1",
-       "f": "2023-03-06"
-      },
-      {
-       "n": 2,
-       "t": "Episodio 2",
-       "f": "2023-03-13"
-      },
-      {
-       "n": 3,
-       "t": "Episodio 3",
-       "f": "2023-03-20"
-      },
-      {
-       "n": 4,
-       "t": "Episodio 4",
-       "f": "2023-03-27"
-      },
-      {
-       "n": 5,
-       "t": "Episodio 5",
-       "f": "2023-04-03"
-      },
-      {
-       "n": 6,
-       "t": "Episodio 6",
-       "f": "2023-04-10"
-      }
-     ]
-    },
-    {
-     "n": 5,
-     "eps": [
-      {
-       "n": 1,
-       "t": "Episodio 1",
-       "f": "2024-03-04"
-      },
-      {
-       "n": 2,
-       "t": "Episodio 2",
-       "f": "2024-03-11"
-      },
-      {
-       "n": 3,
-       "t": "Episodio 3",
-       "f": "2024-03-18"
-      },
-      {
-       "n": 4,
-       "t": "Episodio 4",
-       "f": "2024-03-25"
-      },
-      {
-       "n": 5,
-       "t": "Episodio 5",
-       "f": "2024-04-01"
-      },
-      {
-       "n": 6,
-       "t": "Episodio 6",
-       "f": "2024-04-08"
-      },
-      {
-       "n": 7,
-       "t": "Episodio 7",
-       "f": "2024-04-15"
-      },
-      {
-       "n": 8,
-       "t": "Episodio 8",
-       "f": "2024-04-17"
-      }
-     ]
-    },
-    {
-     "n": 6,
-     "eps": [
-      {
-       "n": 1,
-       "t": "Episodio 1",
-       "f": "2025-04-14"
-      },
-      {
-       "n": 2,
-       "t": "Episodio 2",
-       "f": "2025-04-21"
-      },
-      {
-       "n": 3,
-       "t": "Episodio 3",
-       "f": "2025-04-28"
-      },
-      {
-       "n": 4,
-       "t": "Episodio 4",
-       "f": "2025-05-05"
-      },
-      {
-       "n": 5,
-       "t": "Episodio 5",
-       "f": "2025-05-12"
-      },
-      {
-       "n": 6,
-       "t": "Episodio 6",
-       "f": "2025-05-19"
-      },
-      {
-       "n": 7,
-       "t": "Episodio 7",
-       "f": "2025-05-26"
-      }
-     ]
-    },
-    {
-     "n": 7,
-     "eps": [
-      {
-       "n": 1,
-       "t": "Episodio 1",
-       "f": "2026-04-13"
-      },
-      {
-       "n": 2,
-       "t": "Episodio 2",
-       "f": "2026-04-20"
-      },
-      {
-       "n": 3,
-       "t": "Episodio 3",
-       "f": "2026-04-27"
-      },
-      {
-       "n": 4,
-       "t": "Episodio 4",
-       "f": "2026-05-04"
-      },
-      {
-       "n": 5,
-       "t": "Episodio 5",
-       "f": "2026-05-11"
-      },
-      {
-       "n": 6,
-       "t": "Episodio 6",
-       "f": "2026-05-18"
-      },
-      {
-       "n": 7,
-       "t": "Episodio 7",
-       "f": "2026-05-25"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "id": "16260",
-   "titulo": "Street Outlaws",
-   "tipo": "s",
-   "plataforma": "hbo",
-   "estado": "expiring",
-   "fecha": "2026-11-16",
-   "genero": "Reality",
-   "generos": [
-    "Reality"
-   ],
-   "imdb": 5.7,
-   "rt": null,
-   "duracion": "19 temporadas, 236 episodios",
-   "sinopsis": "Here is Oklahoma City’s largest undercover street racing ring in the US, where cars, from classics to tricked-out trucks, compete to make the Top 10.",
-   "poster": "https://image.tmdb.org/t/p/w342/oQXmhjhmqdArArpnubmtm20d0zX.jpg",
-   "reparto": [
-    {
-     "nombre": "James Love",
-     "foto": "https://image.tmdb.org/t/p/w185/c1Ck2JOCl6Wax3hCjuExTcmHRBP.jpg"
-    },
-    {
-     "nombre": "Jeff Lutz",
-     "foto": "https://image.tmdb.org/t/p/w185/snhqaE26nSabS12062XE7Enc5d7.jpg"
-    },
-    {
-     "nombre": "Sean Whitley",
-     "foto": "https://image.tmdb.org/t/p/w185/vmUJg1VDuvgEKkbxCX4mFBZIjNs.jpg"
-    },
-    {
-     "nombre": "Chris Dave",
-     "foto": "https://image.tmdb.org/t/p/w185/vb0YNu49WAqwutI5P6WrqX2BSKQ.jpg"
-    },
-    {
-     "nombre": "Justin Shearer",
-     "foto": "https://image.tmdb.org/t/p/w185/1u8MALuQBFQM78q0AyTdARufspe.jpg"
-    },
-    {
-     "nombre": "Jerry Johnston",
-     "foto": "https://image.tmdb.org/t/p/w185/k0TzEevPQnoiqjlTT2ueeCYKth7.jpg"
-    }
-   ],
-   "trailer": "https://www.youtube.com/watch?v=I8NtLKVd_nM",
-   "temporadas_det": [
-    {
-     "n": 1,
-     "eps": [
-      {
-       "n": 1,
-       "t": "Episodio 1",
-       "f": "2013-12-16"
-      },
-      {
-       "n": 2,
-       "t": "Episodio 2",
-       "f": "2013-12-23"
-      },
-      {
-       "n": 3,
-       "t": "Episodio 3",
-       "f": "2013-12-30"
-      },
-      {
-       "n": 4,
-       "t": "Episodio 4",
-       "f": "2014-01-17"
-      },
-      {
-       "n": 5,
-       "t": "Episodio 5",
-       "f": "2014-01-13"
-      },
-      {
-       "n": 6,
-       "t": "Episodio 6",
-       "f": "2014-02-10"
-      },
-      {
-       "n": 7,
-       "t": "Episodio 7",
-       "f": "2014-02-17"
-      },
-      {
-       "n": 8,
-       "t": "Episodio 8",
-       "f": "2014-02-24"
-      }
-     ]
-    },
-    {
-     "n": 2,
-     "eps": [
-      {
-       "n": 1,
-       "t": "Episodio 1",
-       "f": "2014-06-06"
-      },
-      {
-       "n": 2,
-       "t": "Episodio 2",
-       "f": "2014-04-28"
-      },
-      {
-       "n": 3,
-       "t": "Episodio 3",
-       "f": "2014-05-05"
-      },
-      {
-       "n": 4,
-       "t": "Episodio 4",
-       "f": "2014-05-12"
-      },
-      {
-       "n": 5,
-       "t": "Episodio 5",
-       "f": "2014-05-19"
-      },
-      {
-       "n": 6,
-       "t": "Episodio 6",
-       "f": "2014-05-26"
-      },
-      {
-       "n": 7,
-       "t": "Episodio 7",
-       "f": "2014-06-02"
-      },
-      {
-       "n": 8,
-       "t": "Episodio 8",
-       "f": "2014-06-02"
-      }
-     ]
-    },
-    {
-     "n": 3,
-     "eps": [
-      {
-       "n": 1,
-       "t": "Episodio 1",
-       "f": "2014-11-03"
-      },
-      {
-       "n": 2,
-       "t": "Episodio 2",
-       "f": "2014-11-10"
-      },
-      {
-       "n": 3,
-       "t": "Episodio 3",
-       "f": "2014-11-17"
-      },
-      {
-       "n": 4,
-       "t": "Episodio 4",
-       "f": "2014-11-24"
-      },
-      {
-       "n": 5,
-       "t": "Episodio 5",
-       "f": "2014-12-08"
-      },
-      {
-       "n": 6,
-       "t": "Episodio 6",
-       "f": "2014-12-15"
-      },
-      {
-       "n": 7,
-       "t": "Episodio 7",
-       "f": "2014-12-29"
-      },
-      {
-       "n": 8,
-       "t": "Episodio 8",
-       "f": "2015-01-05"
-      }
-     ]
-    },
-    {
-     "n": 4,
-     "eps": [
-      {
-       "n": 1,
-       "t": "Episodio 1",
-       "f": "2015-05-04"
-      },
-      {
-       "n": 2,
-       "t": "Episodio 2",
-       "f": "2015-05-11"
-      },
-      {
-       "n": 3,
-       "t": "Episodio 3",
-       "f": "2015-05-18"
-      },
-      {
-       "n": 4,
-       "t": "Episodio 4",
-       "f": "2015-06-01"
-      },
-      {
-       "n": 5,
-       "t": "Episodio 5",
-       "f": "2015-06-08"
-      },
-      {
-       "n": 6,
-       "t": "Episodio 6",
-       "f": "2015-06-15"
-      },
-      {
-       "n": 7,
-       "t": "Episodio 7",
-       "f": "2015-06-22"
-      },
-      {
-       "n": 8,
-       "t": "Episodio 8",
-       "f": "2015-06-29"
-      },
-      {
-       "n": 9,
-       "t": "Episodio 9",
-       "f": "2015-07-13"
-      },
-      {
-       "n": 10,
-       "t": "Episodio 10",
-       "f": "2015-07-20"
-      },
-      {
-       "n": 11,
-       "t": "Episodio 11",
-       "f": "2015-12-14"
-      }
-     ]
-    },
-    {
-     "n": 5,
-     "eps": [
-      {
-       "n": 1,
-       "t": "Episodio 1",
-       "f": "2015-05-17"
-      },
-      {
-       "n": 2,
-       "t": "Episodio 2",
-       "f": "2015-12-28"
-      },
-      {
-       "n": 3,
-       "t": "Episodio 3",
-       "f": "2016-01-04"
-      },
-      {
-       "n": 4,
-       "t": "Episodio 4",
-       "f": "2015-06-07"
-      },
-      {
-       "n": 5,
-       "t": "Episodio 5",
-       "f": "2016-02-27"
-      },
-      {
-       "n": 6,
-       "t": "Episodio 6",
-       "f": "2016-03-05"
-      },
-      {
-       "n": 7,
-       "t": "Episodio 7",
-       "f": "2016-03-12"
-      },
-      {
-       "n": 8,
-       "t": "Episodio 8",
-       "f": "2016-03-19"
-      },
-      {
-       "n": 9,
-       "t": "Episodio 9",
-       "f": "2016-04-02"
-      },
-      {
-       "n": 10,
-       "t": "Episodio 10",
-       "f": "2016-04-09"
-      },
-      {
-       "n": 11,
-       "t": "Episodio 11",
-       "f": "2015-08-03"
-      },
-      {
-       "n": 12,
-       "t": "Episodio 12",
-       "f": "2015-08-03"
-      },
-      {
-       "n": 13,
-       "t": "Episodio 13",
-       "f": "2015-07-27"
-      }
-     ]
-    },
-    {
-     "n": 6,
-     "eps": [
-      {
-       "n": 1,
-       "t": "Episodio 1",
-       "f": "2016-04-23"
-      },
-      {
-       "n": 2,
-       "t": "Episodio 2",
-       "f": "2016-04-30"
-      },
-      {
-       "n": 3,
-       "t": "Episodio 3",
-       "f": "2016-04-30"
-      },
-      {
-       "n": 4,
-       "t": "Episodio 4",
-       "f": "2016-05-07"
-      },
-      {
-       "n": 5,
-       "t": "Episodio 5",
-       "f": "2016-05-07"
-      },
-      {
-       "n": 6,
-       "t": "Episodio 6",
-       "f": "2016-05-14"
-      },
-      {
-       "n": 7,
-       "t": "Episodio 7",
-       "f": "2016-05-14"
-      }
-     ]
-    },
-    {
-     "n": 7,
-     "eps": [
-      {
-       "n": 1,
-       "t": "Episodio 1",
-       "f": "2016-04-25"
-      },
-      {
-       "n": 2,
-       "t": "Episodio 2",
-       "f": "2016-05-02"
-      },
-      {
-       "n": 3,
-       "t": "Episodio 3",
-       "f": "2016-05-09"
-      },
-      {
-       "n": 4,
-       "t": "Episodio 4",
-       "f": "2016-05-16"
-      },
-      {
-       "n": 5,
-       "t": "Episodio 5",
-       "f": "2016-05-23"
-      },
-      {
-       "n": 6,
-       "t": "Episodio 6",
-       "f": "2016-05-30"
-      },
-      {
-       "n": 7,
-       "t": "Episodio 7",
-       "f": "2016-06-06"
-      },
-      {
-       "n": 8,
-       "t": "Episodio 8",
-       "f": "2016-06-13"
-      },
-      {
-       "n": 9,
-       "t": "Episodio 9",
-       "f": "2016-06-20"
-      }
-     ]
-    },
-    {
-     "n": 8,
-     "eps": [
-      {
-       "n": 1,
-       "t": "Episodio 1",
-       "f": "2016-10-31"
-      },
-      {
-       "n": 2,
-       "t": "Episodio 2",
-       "f": "2016-11-07"
-      },
-      {
-       "n": 3,
-       "t": "Episodio 3",
-       "f": "2016-11-14"
-      },
-      {
-       "n": 4,
-       "t": "Episodio 4",
-       "f": "2016-11-21"
-      },
-      {
-       "n": 5,
-       "t": "Episodio 5",
-       "f": "2018-06-27"
-      },
-      {
-       "n": 6,
-       "t": "Episodio 6",
-       "f": "2018-07-04"
-      },
-      {
-       "n": 7,
-       "t": "Episodio 7",
-       "f": "2018-07-11"
-      },
-      {
-       "n": 8,
-       "t": "Episodio 8",
-       "f": "2018-07-18"
-      },
-      {
-       "n": 9,
-       "t": "Episodio 9",
-       "f": "2018-08-01"
-      },
-      {
-       "n": 10,
-       "t": "Episodio 10",
-       "f": "2018-08-08"
-      },
-      {
-       "n": 11,
-       "t": "Episodio 11",
-       "f": ""
-      },
-      {
-       "n": 12,
-       "t": "Episodio 12",
-       "f": ""
-      }
-     ]
-    },
-    {
-     "n": 9,
-     "eps": [
-      {
-       "n": 1,
-       "t": "Episodio 1",
-       "f": "2018-10-22"
-      },
-      {
-       "n": 2,
-       "t": "Episodio 2",
-       "f": "2018-10-22"
-      },
-      {
-       "n": 3,
-       "t": "Episodio 3",
-       "f": "2018-08-15"
-      },
-      {
-       "n": 4,
-       "t": "Episodio 4",
-       "f": "2018-08-15"
-      },
-      {
-       "n": 5,
-       "t": "Episodio 5",
-       "f": "2018-08-29"
-      },
-      {
-       "n": 6,
-       "t": "Episodio 6",
-       "f": ""
-      },
-      {
-       "n": 7,
-       "t": "Episodio 7",
-       "f": "2018-11-05"
-      },
-      {
-       "n": 8,
-       "t": "Episodio 8",
-       "f": "2018-09-03"
-      },
-      {
-       "n": 9,
-       "t": "Episodio 9",
-       "f": "2018-09-17"
-      },
-      {
-       "n": 10,
-       "t": "Episodio 10",
-       "f": "2018-09-17"
-      },
-      {
-       "n": 11,
-       "t": "Episodio 11",
-       "f": "2018-10-15"
-      },
-      {
-       "n": 12,
-       "t": "Episodio 12",
-       "f": "2018-09-24"
-      },
-      {
-       "n": 13,
-       "t": "Episodio 13",
-       "f": "2018-10-01"
-      },
-      {
-       "n": 14,
-       "t": "Episodio 14",
-       "f": "2017-06-05"
-      },
-      {
-       "n": 15,
-       "t": "Episodio 15",
-       "f": "2017-06-12"
-      }
-     ]
-    },
-    {
-     "n": 10,
-     "eps": [
-      {
-       "n": 1,
-       "t": "Episodio 1",
-       "f": "2017-11-27"
-      },
-      {
-       "n": 2,
-       "t": "Episodio 2",
-       "f": ""
-      },
-      {
-       "n": 3,
-       "t": "Episodio 3",
-       "f": "2019-03-11"
-      },
-      {
-       "n": 4,
-       "t": "Episodio 4",
-       "f": "2019-03-25"
-      },
-      {
-       "n": 5,
-       "t": "Episodio 5",
-       "f": "2018-01-01"
-      },
-      {
-       "n": 6,
-       "t": "Episodio 6",
-       "f": "2019-04-01"
-      },
-      {
-       "n": 7,
-       "t": "Episodio 7",
-       "f": "2019-04-08"
-      },
-      {
-       "n": 8,
-       "t": "Episodio 8",
-       "f": "2018-01-24"
-      },
-      {
-       "n": 9,
-       "t": "Episodio 9",
-       "f": "2019-04-15"
-      },
-      {
-       "n": 10,
-       "t": "Episodio 10",
-       "f": "2018-01-31"
-      },
-      {
-       "n": 11,
-       "t": "Episodio 11",
-       "f": "2018-02-05"
-      },
-      {
-       "n": 12,
-       "t": "Episodio 12",
-       "f": "2019-01-28"
-      },
-      {
-       "n": 13,
-       "t": "Episodio 13",
-       "f": "2019-02-11"
-      },
-      {
-       "n": 14,
-       "t": "Episodio 14",
-       "f": "2018-02-21"
-      },
-      {
-       "n": 15,
-       "t": "Episodio 15",
-       "f": "2018-02-26"
-      },
-      {
-       "n": 16,
-       "t": "Episodio 16",
-       "f": "2018-03-26"
-      },
-      {
-       "n": 17,
-       "t": "Episodio 17",
-       "f": "2018-02-27"
-      },
-      {
-       "n": 18,
-       "t": "Episodio 18",
-       "f": "2018-02-28"
-      },
-      {
-       "n": 19,
-       "t": "Episodio 19",
-       "f": "2018-03-01"
-      },
-      {
-       "n": 20,
-       "t": "Episodio 20",
-       "f": "2018-03-03"
-      },
-      {
-       "n": 21,
-       "t": "Episodio 21",
-       "f": "2018-03-03"
-      },
-      {
-       "n": 22,
-       "t": "Episodio 22",
-       "f": "2018-03-04"
-      },
-      {
-       "n": 23,
-       "t": "Episodio 23",
-       "f": "2018-03-04"
-      },
-      {
-       "n": 24,
-       "t": "Episodio 24",
-       "f": "2018-03-05"
-      },
-      {
-       "n": 25,
-       "t": "Episodio 25",
-       "f": "2018-03-05"
-      }
-     ]
-    },
-    {
-     "n": 11,
-     "eps": [
-      {
-       "n": 1,
-       "t": "Episodio 1",
-       "f": "2018-05-21"
-      },
-      {
-       "n": 2,
-       "t": "Episodio 2",
-       "f": "2018-05-21"
-      },
-      {
-       "n": 3,
-       "t": "Episodio 3",
-       "f": "2018-05-28"
-      },
-      {
-       "n": 4,
-       "t": "Episodio 4",
-       "f": "2022-07-14"
-      },
-      {
-       "n": 5,
-       "t": "Episodio 5",
-       "f": "2022-07-14"
-      },
-      {
-       "n": 6,
-       "t": "Episodio 6",
-       "f": "2022-07-14"
-      },
-      {
-       "n": 7,
-       "t": "Episodio 7",
-       "f": "2022-07-21"
-      },
-      {
-       "n": 8,
-       "t": "Episodio 8",
-       "f": "2022-07-21"
-      },
-      {
-       "n": 9,
-       "t": "Episodio 9",
-       "f": "2022-08-04"
-      },
-      {
-       "n": 10,
-       "t": "Episodio 10",
-       "f": "2022-07-28"
-      },
-      {
-       "n": 11,
-       "t": "Episodio 11",
-       "f": "2022-07-28"
-      },
-      {
-       "n": 12,
-       "t": "Episodio 12",
-       "f": "2022-08-11"
-      },
-      {
-       "n": 13,
-       "t": "Episodio 13",
-       "f": "2022-08-04"
-      },
-      {
-       "n": 14,
-       "t": "Episodio 14",
-       "f": "2022-08-11"
-      },
-      {
-       "n": 15,
-       "t": "Episodio 15",
-       "f": "2022-08-18"
-      },
-      {
-       "n": 16,
-       "t": "Episodio 16",
-       "f": "2022-08-18"
-      },
-      {
-       "n": 17,
-       "t": "Episodio 17",
-       "f": "2022-08-25"
-      },
-      {
-       "n": 18,
-       "t": "Episodio 18",
-       "f": "2018-09-10"
-      }
-     ]
-    },
-    {
-     "n": 12,
-     "eps": [
-      {
-       "n": 1,
-       "t": "Episodio 1",
-       "f": "2019-01-01"
-      },
-      {
-       "n": 2,
-       "t": "Episodio 2",
-       "f": "2019-01-07"
-      },
-      {
-       "n": 3,
-       "t": "Episodio 3",
-       "f": "2019-01-14"
-      },
-      {
-       "n": 4,
-       "t": "Episodio 4",
-       "f": "2019-01-21"
-      },
-      {
-       "n": 5,
-       "t": "Episodio 5",
-       "f": "2019-01-21"
-      },
-      {
-       "n": 6,
-       "t": "Episodio 6",
-       "f": "2019-01-28"
-      },
-      {
-       "n": 7,
-       "t": "Episodio 7",
-       "f": "2019-01-28"
-      },
-      {
-       "n": 8,
-       "t": "Episodio 8",
-       "f": "2019-02-04"
-      },
-      {
-       "n": 9,
-       "t": "Episodio 9",
-       "f": "2019-02-04"
-      },
-      {
-       "n": 10,
-       "t": "Episodio 10",
-       "f": "2019-02-11"
-      },
-      {
-       "n": 11,
-       "t": "Episodio 11",
-       "f": "2019-02-11"
-      },
-      {
-       "n": 12,
-       "t": "Episodio 12",
-       "f": "2019-02-18"
-      },
-      {
-       "n": 13,
-       "t": "Episodio 13",
-       "f": "2019-02-18"
-      },
-      {
-       "n": 14,
-       "t": "Episodio 14",
-       "f": "2019-02-25"
-      },
-      {
-       "n": 15,
-       "t": "Episodio 15",
-       "f": "2019-02-25"
-      },
-      {
-       "n": 16,
-       "t": "Episodio 16",
-       "f": "2019-03-04"
-      },
-      {
-       "n": 17,
-       "t": "Episodio 17",
-       "f": "2019-03-04"
-      },
-      {
-       "n": 18,
-       "t": "Episodio 18",
-       "f": "2019-03-11"
-      },
-      {
-       "n": 19,
-       "t": "Episodio 19",
-       "f": "2019-03-11"
-      },
-      {
-       "n": 20,
-       "t": "Episodio 20",
-       "f": "2019-03-18"
-      },
-      {
-       "n": 21,
-       "t": "Episodio 21",
-       "f": "2019-03-18"
-      }
-     ]
-    },
-    {
-     "n": 13,
-     "eps": [
-      {
-       "n": 1,
-       "t": "Episodio 1",
-       "f": "2019-03-25"
-      },
-      {
-       "n": 2,
-       "t": "Episodio 2",
-       "f": "2019-03-25"
-      },
-      {
-       "n": 3,
-       "t": "Episodio 3",
-       "f": "2022-08-25"
-      },
-      {
-       "n": 4,
-       "t": "Episodio 4",
-       "f": "2019-10-19"
-      },
-      {
-       "n": 5,
-       "t": "Episodio 5",
-       "f": "2019-11-02"
-      },
-      {
-       "n": 6,
-       "t": "Episodio 6",
-       "f": "2019-11-09"
-      },
-      {
-       "n": 7,
-       "t": "Episodio 7",
-       "f": "2019-11-16"
-      },
-      {
-       "n": 8,
-       "t": "Episodio 8",
-       "f": "2019-10-26"
-      },
-      {
-       "n": 9,
-       "t": "Episodio 9",
-       "f": "2019-05-06"
-      },
-      {
-       "n": 10,
-       "t": "Episodio 10",
-       "f": "2019-11-23"
-      },
-      {
-       "n": 11,
-       "t": "Episodio 11",
-       "f": "2019-12-21"
-      },
-      {
-       "n": 12,
-       "t": "Episodio 12",
-       "f": "2019-12-28"
-      },
-      {
-       "n": 13,
-       "t": "Episodio 13",
-       "f": "2020-01-04"
-      }
-     ]
-    },
-    {
-     "n": 14,
-     "eps": [
-      {
-       "n": 1,
-       "t": "Episodio 1",
-       "f": "2019-10-08"
-      },
-      {
-       "n": 2,
-       "t": "Episodio 2",
-       "f": "2019-10-15"
-      },
-      {
-       "n": 3,
-       "t": "Episodio 3",
-       "f": "2019-10-21"
-      },
-      {
-       "n": 4,
-       "t": "Episodio 4",
-       "f": "2019-10-28"
-      },
-      {
-       "n": 5,
-       "t": "Episodio 5",
-       "f": "2019-11-04"
-      },
-      {
-       "n": 6,
-       "t": "Episodio 6",
-       "f": "2019-11-11"
-      },
-      {
-       "n": 7,
-       "t": "Episodio 7",
-       "f": "2019-11-18"
-      },
-      {
-       "n": 8,
-       "t": "Episodio 8",
-       "f": "2019-11-25"
-      },
-      {
-       "n": 9,
-       "t": "Episodio 9",
-       "f": "2019-12-02"
-      }
-     ]
-    },
-    {
-     "n": 15,
-     "eps": [
-      {
-       "n": 1,
-       "t": "Episodio 1",
-       "f": "2020-01-20"
-      },
-      {
-       "n": 2,
-       "t": "Episodio 2",
-       "f": "2020-01-20"
-      },
-      {
-       "n": 3,
-       "t": "Episodio 3",
-       "f": "2020-01-27"
-      },
-      {
-       "n": 4,
-       "t": "Episodio 4",
-       "f": "2020-01-27"
-      },
-      {
-       "n": 5,
-       "t": "Episodio 5",
-       "f": "2020-02-03"
-      },
-      {
-       "n": 6,
-       "t": "Episodio 6",
-       "f": "2020-02-03"
-      },
-      {
-       "n": 7,
-       "t": "Episodio 7",
-       "f": "2020-02-10"
-      },
-      {
-       "n": 8,
-       "t": "Episodio 8",
-       "f": "2020-02-10"
-      },
-      {
-       "n": 9,
-       "t": "Episodio 9",
-       "f": "2020-02-17"
-      },
-      {
-       "n": 10,
-       "t": "Episodio 10",
-       "f": "2020-02-17"
-      },
-      {
-       "n": 11,
-       "t": "Episodio 11",
-       "f": "2020-02-24"
-      },
-      {
-       "n": 12,
-       "t": "Episodio 12",
-       "f": "2020-02-24"
-      },
-      {
-       "n": 13,
-       "t": "Episodio 13",
-       "f": "2020-03-02"
-      },
-      {
-       "n": 14,
-       "t": "Episodio 14",
-       "f": "2020-03-02"
-      },
-      {
-       "n": 15,
-       "t": "Episodio 15",
-       "f": "2020-03-09"
-      },
-      {
-       "n": 16,
-       "t": "Episodio 16",
-       "f": "2020-03-09"
-      }
-     ]
-    },
-    {
-     "n": 16,
-     "eps": [
-      {
-       "n": 1,
-       "t": "Episodio 1",
-       "f": "2020-08-16"
-      },
-      {
-       "n": 2,
-       "t": "Episodio 2",
-       "f": "2020-08-23"
-      },
-      {
-       "n": 3,
-       "t": "Episodio 3",
-       "f": "2020-08-30"
-      },
-      {
-       "n": 4,
-       "t": "Episodio 4",
-       "f": "2020-09-06"
-      },
-      {
-       "n": 5,
-       "t": "Episodio 5",
-       "f": "2020-09-13"
-      },
-      {
-       "n": 6,
-       "t": "Episodio 6",
-       "f": "2020-09-20"
-      },
-      {
-       "n": 7,
-       "t": "Episodio 7",
-       "f": "2020-09-27"
-      },
-      {
-       "n": 8,
-       "t": "Episodio 8",
-       "f": "2020-10-04"
-      },
-      {
-       "n": 9,
-       "t": "Episodio 9",
-       "f": "2020-10-11"
-      },
-      {
-       "n": 10,
-       "t": "Episodio 10",
-       "f": "2020-10-18"
-      }
-     ]
-    },
-    {
-     "n": 17,
-     "eps": [
-      {
-       "n": 1,
-       "t": "Episodio 1",
-       "f": "2021-01-12"
-      },
-      {
-       "n": 2,
-       "t": "Episodio 2",
-       "f": "2021-01-19"
-      },
-      {
-       "n": 3,
-       "t": "Episodio 3",
-       "f": "2021-01-26"
-      },
-      {
-       "n": 4,
-       "t": "Episodio 4",
-       "f": "2021-02-02"
-      },
-      {
-       "n": 5,
-       "t": "Episodio 5",
-       "f": "2021-02-09"
-      },
-      {
-       "n": 6,
-       "t": "Episodio 6",
-       "f": "2021-02-16"
-      },
-      {
-       "n": 7,
-       "t": "Episodio 7",
-       "f": "2021-02-23"
-      },
-      {
-       "n": 8,
-       "t": "Episodio 8",
-       "f": "2021-03-02"
-      },
-      {
-       "n": 9,
-       "t": "Episodio 9",
-       "f": "2021-03-09"
-      },
-      {
-       "n": 10,
-       "t": "Episodio 10",
-       "f": "2021-03-16"
-      },
-      {
-       "n": 11,
-       "t": "Episodio 11",
-       "f": "2021-03-23"
-      },
-      {
-       "n": 12,
-       "t": "Episodio 12",
-       "f": "2021-03-30"
-      },
-      {
-       "n": 13,
-       "t": "Episodio 13",
-       "f": "2021-04-06"
-      }
-     ]
-    },
-    {
-     "n": 18,
-     "eps": [
-      {
-       "n": 1,
-       "t": "Episodio 1",
-       "f": "2022-01-10"
-      },
-      {
-       "n": 2,
-       "t": "Episodio 2",
-       "f": "2022-01-17"
-      },
-      {
-       "n": 3,
-       "t": "Episodio 3",
-       "f": "2022-01-24"
-      },
-      {
-       "n": 4,
-       "t": "Episodio 4",
-       "f": "2022-01-31"
-      },
-      {
-       "n": 5,
-       "t": "Episodio 5",
-       "f": "2022-02-07"
-      },
-      {
-       "n": 6,
-       "t": "Episodio 6",
-       "f": "2022-02-14"
-      },
-      {
-       "n": 7,
-       "t": "Episodio 7",
-       "f": "2022-02-21"
-      },
-      {
-       "n": 8,
-       "t": "Episodio 8",
-       "f": "2022-02-28"
-      },
-      {
-       "n": 9,
-       "t": "Episodio 9",
-       "f": "2022-03-07"
-      },
-      {
-       "n": 10,
-       "t": "Episodio 10",
-       "f": "2022-03-14"
-      }
-     ]
-    },
-    {
-     "n": 19,
-     "eps": [
-      {
-       "n": 1,
-       "t": "Episodio 1",
-       "f": "2023-01-02"
-      },
-      {
-       "n": 2,
-       "t": "Episodio 2",
-       "f": "2023-01-09"
-      },
-      {
-       "n": 3,
-       "t": "Episodio 3",
-       "f": "2023-01-16"
-      },
-      {
-       "n": 4,
-       "t": "Episodio 4",
-       "f": "2023-01-23"
-      },
-      {
-       "n": 5,
-       "t": "Episodio 5",
-       "f": "2023-01-30"
-      },
-      {
-       "n": 6,
-       "t": "Episodio 6",
-       "f": "2023-02-06"
-      },
-      {
-       "n": 7,
-       "t": "Episodio 7",
-       "f": "2023-02-13"
-      },
-      {
-       "n": 8,
-       "t": "Episodio 8",
-       "f": "2023-02-20"
-      },
-      {
-       "n": 9,
-       "t": "Episodio 9",
-       "f": "2023-02-27"
-      },
-      {
-       "n": 10,
-       "t": "Episodio 10",
-       "f": "2023-03-06"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "id": "27823",
-   "titulo": "Conjuring Kesha",
-   "tipo": "s",
-   "plataforma": "hbo",
-   "estado": "expiring",
-   "fecha": "2026-11-16",
-   "genero": "Reality",
-   "generos": [
-    "Reality",
-    "Documental"
-   ],
-   "imdb": 4.5,
-   "rt": null,
-   "duracion": "1 temporada, 6 episodios",
-   "sinopsis": "Kesha explores her cosmic connection with the supernatural at notoriously haunted locations. The pop icon brings the world's top paranormal experts and her celebrity friends along for a terrifying ride as she journeys deep into the heart of darkness.",
-   "poster": "https://image.tmdb.org/t/p/w342/rdOhwGutz97NBfyG02o3tDQ7vIw.jpg",
-   "reparto": [
-    {
-     "nombre": "Kesha",
-     "foto": "https://image.tmdb.org/t/p/w185/fWV7GU00kDv1C8XjTWJv0zyj5YP.jpg"
-    }
-   ],
-   "trailer": "https://www.youtube.com/watch?v=OVXcV7NCIgs",
-   "temporadas_det": [
-    {
-     "n": 1,
-     "eps": [
-      {
-       "n": 1,
-       "t": "Episodio 1",
-       "f": "2022-07-08"
-      },
-      {
-       "n": 2,
-       "t": "Episodio 2",
-       "f": "2022-07-08"
-      },
-      {
-       "n": 3,
-       "t": "Episodio 3",
-       "f": "2022-07-15"
-      },
-      {
-       "n": 4,
-       "t": "Episodio 4",
-       "f": "2022-07-22"
-      },
-      {
-       "n": 5,
-       "t": "Episodio 5",
-       "f": "2022-07-29"
-      },
-      {
-       "n": 6,
-       "t": "Episodio 6",
-       "f": "2022-08-05"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "id": "40981",
-   "titulo": "Rob Riggle Global Investigator",
-   "tipo": "s",
-   "plataforma": "hbo",
-   "estado": "expiring",
-   "fecha": "2026-11-16",
-   "genero": "Documental",
-   "generos": [
-    "Documental",
-    "Comedia"
-   ],
-   "imdb": 4.9,
-   "rt": null,
-   "duracion": "1 temporada, 6 episodios",
-   "sinopsis": "Actor Rob Riggle takes his passion for adventure across the globe in hopes of solving some of the world's greatest mysteries.",
-   "poster": "https://image.tmdb.org/t/p/w342/x6BaIDDwwRmBgWQNeMNzGognRj.jpg",
-   "reparto": [
-    {
-     "nombre": "Rob Riggle",
-     "foto": "https://image.tmdb.org/t/p/w185/hQgOp8vWxl6KPZbqzKSSL4k6G1j.jpg"
-    }
-   ],
-   "trailer": "https://www.youtube.com/watch?v=SQUb3BSa9iQ",
-   "temporadas_det": [
-    {
-     "n": 1,
-     "eps": [
-      {
-       "n": 1,
-       "t": "Episodio 1",
-       "f": "2020-03-10"
-      },
-      {
-       "n": 2,
-       "t": "Episodio 2",
-       "f": "2020-03-17"
-      },
-      {
-       "n": 3,
-       "t": "Episodio 3",
-       "f": "2020-03-24"
-      },
-      {
-       "n": 4,
-       "t": "Episodio 4",
-       "f": "2020-03-31"
-      },
-      {
-       "n": 5,
-       "t": "Episodio 5",
-       "f": "2020-04-07"
-      },
-      {
-       "n": 6,
-       "t": "Episodio 6",
-       "f": "2020-04-14"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "id": "40459",
-   "titulo": "Flip or Flop Atlanta",
-   "tipo": "s",
-   "plataforma": "hbo",
-   "estado": "expiring",
-   "fecha": "2026-11-16",
-   "genero": "Reality",
-   "generos": [
-    "Reality"
-   ],
-   "imdb": 4.9,
-   "rt": null,
-   "duracion": "2 temporadas, 28 episodios",
-   "sinopsis": "Husband-and-wife team Ken and Anita Corsini are on a mission to rehab homes in Atlanta. They race against the clock to renovate dilapidated houses and make them habitable once again.",
-   "poster": "https://image.tmdb.org/t/p/w342/rrDK3OtoUMML32kqjW5H5Vol8sc.jpg",
-   "reparto": [
-    {
-     "nombre": "Ken Corsini",
-     "foto": "https://image.tmdb.org/t/p/w185/quUMIcgBCm1MWtnLHPiQ4riPmvl.jpg"
-    },
-    {
-     "nombre": "Anita Corsini",
-     "foto": "https://image.tmdb.org/t/p/w185/33rGS0QgfcBjd4DKax5hpquD6Uz.jpg"
-    }
-   ],
-   "trailer": null,
-   "temporadas_det": [
-    {
-     "n": 1,
-     "eps": [
-      {
-       "n": 1,
-       "t": "Episodio 1",
-       "f": "2017-07-20"
-      },
-      {
-       "n": 2,
-       "t": "Episodio 2",
-       "f": "2017-07-27"
-      },
-      {
-       "n": 3,
-       "t": "Episodio 3",
-       "f": "2017-08-03"
-      },
-      {
-       "n": 4,
-       "t": "Episodio 4",
-       "f": "2017-08-10"
-      },
-      {
-       "n": 5,
-       "t": "Episodio 5",
-       "f": "2017-08-17"
-      },
-      {
-       "n": 6,
-       "t": "Episodio 6",
-       "f": "2017-08-24"
-      },
-      {
-       "n": 7,
-       "t": "Episodio 7",
-       "f": "2017-08-31"
-      },
-      {
-       "n": 8,
-       "t": "Episodio 8",
-       "f": "2017-09-07"
-      },
-      {
-       "n": 9,
-       "t": "Episodio 9",
-       "f": "2017-09-14"
-      },
-      {
-       "n": 10,
-       "t": "Episodio 10",
-       "f": "2017-09-21"
-      },
-      {
-       "n": 11,
-       "t": "Episodio 11",
-       "f": "2017-09-28"
-      },
-      {
-       "n": 12,
-       "t": "Episodio 12",
-       "f": "2017-10-05"
-      },
-      {
-       "n": 13,
-       "t": "Episodio 13",
-       "f": "2017-10-12"
-      },
-      {
-       "n": 14,
-       "t": "Episodio 14",
-       "f": "2017-10-19"
-      }
-     ]
-    },
-    {
-     "n": 2,
-     "eps": [
-      {
-       "n": 1,
-       "t": "Episodio 1",
-       "f": "2018-10-11"
-      },
-      {
-       "n": 2,
-       "t": "Episodio 2",
-       "f": "2018-10-11"
-      },
-      {
-       "n": 3,
-       "t": "Episodio 3",
-       "f": "2018-10-18"
-      },
-      {
-       "n": 4,
-       "t": "Episodio 4",
-       "f": "2018-10-18"
-      },
-      {
-       "n": 5,
-       "t": "Episodio 5",
-       "f": "2018-10-25"
-      },
-      {
-       "n": 6,
-       "t": "Episodio 6",
-       "f": "2018-10-25"
-      },
-      {
-       "n": 7,
-       "t": "Episodio 7",
-       "f": "2018-11-01"
-      },
-      {
-       "n": 8,
-       "t": "Episodio 8",
-       "f": "2018-11-01"
-      },
-      {
-       "n": 9,
-       "t": "Episodio 9",
-       "f": "2018-11-08"
-      },
-      {
-       "n": 10,
-       "t": "Episodio 10",
-       "f": "2018-11-15"
-      },
-      {
-       "n": 11,
-       "t": "Episodio 11",
-       "f": "2018-11-29"
-      },
-      {
-       "n": 12,
-       "t": "Episodio 12",
-       "f": "2018-11-29"
-      },
-      {
-       "n": 13,
-       "t": "Episodio 13",
-       "f": "2018-12-06"
-      },
-      {
-       "n": 14,
-       "t": "Episodio 14",
-       "f": "2018-12-06"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "id": "56099",
-   "titulo": "The Real Story with Maria Elena Salinas",
-   "tipo": "s",
-   "plataforma": "hbo",
-   "estado": "expiring",
-   "fecha": "2026-11-16",
-   "genero": "Documental",
-   "generos": [
-    "Documental",
-    "Crimen"
-   ],
-   "imdb": 4.6,
-   "rt": null,
-   "duracion": "2 temporadas, 14 episodios",
-   "sinopsis": "Maria Elena Salinas digs into the new evidence, perspectives and updates on national headline-making crimes.",
-   "poster": "https://image.tmdb.org/t/p/w342/hXfGqpty8pwiKziLzS95eG8tPu1.jpg",
-   "reparto": [
-    {
-     "nombre": "María Elena Salinas",
-     "foto": null
-    }
-   ],
-   "trailer": null,
-   "temporadas_det": [
-    {
-     "n": 1,
-     "eps": [
-      {
-       "n": 1,
-       "t": "Episodio 1",
-       "f": "2017-04-24"
-      },
-      {
-       "n": 2,
-       "t": "Episodio 2",
-       "f": "2017-05-01"
-      },
-      {
-       "n": 3,
-       "t": "Episodio 3",
-       "f": "2017-05-08"
-      },
-      {
-       "n": 4,
-       "t": "Episodio 4",
-       "f": "2017-05-15"
-      },
-      {
-       "n": 5,
-       "t": "Episodio 5",
-       "f": "2017-05-22"
-      },
-      {
-       "n": 10,
-       "t": "Episodio 10",
-       "f": "2017-06-27"
-      }
-     ]
-    },
-    {
-     "n": 2,
-     "eps": [
-      {
-       "n": 1,
-       "t": "Episodio 1",
-       "f": "2018-06-04"
-      },
-      {
-       "n": 2,
-       "t": "Episodio 2",
-       "f": "2018-06-11"
-      },
-      {
-       "n": 3,
-       "t": "Episodio 3",
-       "f": "2018-06-18"
-      },
-      {
-       "n": 4,
-       "t": "Episodio 4",
-       "f": "2018-06-25"
-      },
-      {
-       "n": 5,
-       "t": "Episodio 5",
-       "f": "2018-07-02"
-      },
-      {
-       "n": 6,
-       "t": "Episodio 6",
-       "f": "2018-07-16"
-      },
-      {
-       "n": 7,
-       "t": "Episodio 7",
-       "f": "2018-07-23"
-      },
-      {
-       "n": 8,
-       "t": "Episodio 8",
-       "f": "2018-07-30"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "id": "49745",
-   "titulo": "6 por sorpresa",
-   "tipo": "s",
-   "plataforma": "hbo",
-   "estado": "expiring",
-   "fecha": "2026-11-16",
-   "genero": "Reality",
-   "generos": [
-    "Reality"
-   ],
-   "imdb": 4.7,
-   "rt": null,
-   "duracion": "3 temporadas, 24 episodios",
-   "sinopsis": "The Waldrops have their hands full with three older sons and sextuplets.",
-   "poster": "https://image.tmdb.org/t/p/w342/mPduiblaqgl16AAqcT9F6V418Kn.jpg",
-   "reparto": [
-    {
-     "nombre": "Eric Waldrop",
-     "foto": null
-    },
-    {
-     "nombre": "Courtney Waldrop",
-     "foto": null
-    }
-   ],
-   "trailer": null,
-   "temporadas_det": [
-    {
-     "n": 1,
-     "eps": [
-      {
-       "n": 1,
-       "t": "Episodio 1",
-       "f": "2018-09-18"
-      },
-      {
-       "n": 2,
-       "t": "Episodio 2",
-       "f": "2018-09-25"
-      },
-      {
-       "n": 3,
-       "t": "Episodio 3",
-       "f": "2018-10-02"
-      },
-      {
-       "n": 4,
-       "t": "Episodio 4",
-       "f": "2018-10-09"
-      },
-      {
-       "n": 5,
-       "t": "Episodio 5",
-       "f": "2018-10-16"
-      },
-      {
-       "n": 6,
-       "t": "Episodio 6",
-       "f": "2018-10-23"
-      }
-     ]
-    },
-    {
-     "n": 2,
-     "eps": [
-      {
-       "n": 1,
-       "t": "Episodio 1",
-       "f": "2019-05-28"
-      },
-      {
-       "n": 2,
-       "t": "Episodio 2",
-       "f": "2019-06-04"
-      },
-      {
-       "n": 3,
-       "t": "Episodio 3",
-       "f": "2019-06-11"
-      },
-      {
-       "n": 4,
-       "t": "Episodio 4",
-       "f": "2019-06-18"
-      },
-      {
-       "n": 5,
-       "t": "Episodio 5",
-       "f": "2019-06-25"
-      },
-      {
-       "n": 6,
-       "t": "Episodio 6",
-       "f": "2019-07-02"
-      },
-      {
-       "n": 7,
-       "t": "Episodio 7",
-       "f": "2019-07-09"
-      },
-      {
-       "n": 8,
-       "t": "Episodio 8",
-       "f": "2019-07-16"
-      }
-     ]
-    },
-    {
-     "n": 3,
-     "eps": [
-      {
-       "n": 1,
-       "t": "Episodio 1",
-       "f": "2020-06-16"
-      },
-      {
-       "n": 2,
-       "t": "Episodio 2",
-       "f": "2020-06-23"
-      },
-      {
-       "n": 3,
-       "t": "Episodio 3",
-       "f": "2020-06-30"
-      },
-      {
-       "n": 4,
-       "t": "Episodio 4",
-       "f": "2020-07-07"
-      },
-      {
-       "n": 5,
-       "t": "Episodio 5",
-       "f": "2020-07-14"
-      },
-      {
-       "n": 6,
-       "t": "Episodio 6",
-       "f": "2020-09-29"
-      },
-      {
-       "n": 7,
-       "t": "Episodio 7",
-       "f": "2020-10-06"
-      },
-      {
-       "n": 8,
-       "t": "Episodio 8",
-       "f": "2020-10-13"
-      },
-      {
-       "n": 9,
-       "t": "Episodio 9",
-       "f": "2020-10-20"
-      },
-      {
-       "n": 10,
-       "t": "Episodio 10",
-       "f": "2020-10-27"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "id": "50530",
-   "titulo": "Flip or Flop Nashville",
-   "tipo": "s",
-   "plataforma": "hbo",
-   "estado": "expiring",
-   "fecha": "2026-11-16",
-   "genero": "Reality",
-   "generos": [
-    "Reality"
-   ],
-   "imdb": 4.7,
-   "rt": null,
-   "duracion": "2 temporadas, 21 episodios",
-   "sinopsis": "Page Turner and DeRon Jenkins aren't just house flippers in Nashville, they're also exes. With a decade of partnership, this driven team takes on big, small and dirty jobs to get top dollar on their investments.",
-   "poster": "https://image.tmdb.org/t/p/w342/9cQrSXAO5traleqCkDXdCiFVPeO.jpg",
-   "reparto": [],
-   "trailer": null,
-   "temporadas_det": [
-    {
-     "n": 1,
-     "eps": [
-      {
-       "n": 1,
-       "t": "Episodio 1",
-       "f": "2018-01-18"
-      },
-      {
-       "n": 2,
-       "t": "Episodio 2",
-       "f": "2018-01-25"
-      },
-      {
-       "n": 3,
-       "t": "Episodio 3",
-       "f": "2018-02-01"
-      },
-      {
-       "n": 4,
-       "t": "Episodio 4",
-       "f": "2018-02-08"
-      },
-      {
-       "n": 5,
-       "t": "Episodio 5",
-       "f": "2018-02-15"
-      },
-      {
-       "n": 6,
-       "t": "Episodio 6",
-       "f": "2018-02-22"
-      },
-      {
-       "n": 7,
-       "t": "Episodio 7",
-       "f": "2018-03-01"
-      },
-      {
-       "n": 8,
-       "t": "Episodio 8",
-       "f": "2018-03-08"
-      },
-      {
-       "n": 9,
-       "t": "Episodio 9",
-       "f": "2018-03-08"
-      }
-     ]
-    },
-    {
-     "n": 2,
-     "eps": [
-      {
-       "n": 1,
-       "t": "Episodio 1",
-       "f": "2019-01-03"
-      },
-      {
-       "n": 2,
-       "t": "Episodio 2",
-       "f": "2019-01-10"
-      },
-      {
-       "n": 3,
-       "t": "Episodio 3",
-       "f": "2019-01-17"
-      },
-      {
-       "n": 4,
-       "t": "Episodio 4",
-       "f": "2019-01-24"
-      },
-      {
-       "n": 5,
-       "t": "Episodio 5",
-       "f": "2019-02-07"
-      },
-      {
-       "n": 6,
-       "t": "Episodio 6",
-       "f": "2019-02-06"
-      },
-      {
-       "n": 7,
-       "t": "Episodio 7",
-       "f": "2019-02-07"
-      },
-      {
-       "n": 8,
-       "t": "Episodio 8",
-       "f": "2019-02-14"
-      },
-      {
-       "n": 9,
-       "t": "Episodio 9",
-       "f": "2019-02-21"
-      },
-      {
-       "n": 10,
-       "t": "Episodio 10",
-       "f": "2019-03-07"
-      },
-      {
-       "n": 11,
-       "t": "Episodio 11",
-       "f": "2019-03-14"
-      },
-      {
-       "n": 12,
-       "t": "Episodio 12",
-       "f": "2019-03-21"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "id": "50014",
-   "titulo": "Man vs. Bear",
-   "tipo": "s",
-   "plataforma": "hbo",
-   "estado": "expiring",
-   "fecha": "2026-11-16",
-   "genero": "Reality",
-   "generos": [
-    "Reality"
-   ],
-   "imdb": 4.7,
-   "rt": null,
-   "duracion": "1 temporada, 8 episodios",
-   "sinopsis": "For thousands of years, grizzly bears have stood at the top of the evolutionary food chain with unchallenged dominance. Now for the first time ever, humans will be entering the bears’ territory and take them on in a competition like never attempted.",
-   "poster": "https://image.tmdb.org/t/p/w342/uaBlpHmKKc2zDAvwDq1iCHzwZbJ.jpg",
-   "reparto": [],
-   "trailer": null,
-   "temporadas_det": [
-    {
-     "n": 1,
-     "eps": [
-      {
-       "n": 1,
-       "t": "Episodio 1",
-       "f": "2019-12-04"
-      },
-      {
-       "n": 2,
-       "t": "Episodio 2",
-       "f": "2019-12-11"
-      },
-      {
-       "n": 3,
-       "t": "Episodio 3",
-       "f": "2019-12-18"
-      },
-      {
-       "n": 4,
-       "t": "Episodio 4",
-       "f": "2019-12-25"
-      },
-      {
-       "n": 5,
-       "t": "Episodio 5",
-       "f": "2020-01-01"
-      },
-      {
-       "n": 6,
-       "t": "Episodio 6",
-       "f": "2020-01-08"
-      },
-      {
-       "n": 7,
-       "t": "Episodio 7",
-       "f": "2020-01-15"
-      },
-      {
-       "n": 8,
-       "t": "Episodio 8",
-       "f": "2020-01-22"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "id": "46130",
-   "titulo": "Porter Ridge",
-   "tipo": "s",
-   "plataforma": "hbo",
-   "estado": "expiring",
-   "fecha": "2026-11-16",
-   "genero": "Reality",
-   "generos": [
-    "Reality"
-   ],
-   "imdb": 4.7,
-   "rt": null,
-   "duracion": "1 temporada, 5 episodios",
-   "sinopsis": "An isolated, lawless community in Indiana lives by its own set of rules.",
-   "poster": "https://image.tmdb.org/t/p/w342/sAyUT1xwwQDcCqihRkWPX8Zxfen.jpg",
-   "reparto": [],
-   "trailer": null,
-   "temporadas_det": [
-    {
-     "n": 1,
-     "eps": [
-      {
-       "n": 1,
-       "t": "Episodio 1",
-       "f": "2013-08-13"
-      },
-      {
-       "n": 2,
-       "t": "Episodio 2",
-       "f": "2013-08-20"
-      },
-      {
-       "n": 3,
-       "t": "Episodio 3",
-       "f": "2013-08-27"
-      },
-      {
-       "n": 4,
-       "t": "Episodio 4",
-       "f": "2013-09-03"
-      },
-      {
-       "n": 5,
-       "t": "Episodio 5",
-       "f": "2013-09-10"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "id": "46507",
-   "titulo": "Flip or Flop Fort Worth",
-   "tipo": "s",
-   "plataforma": "hbo",
-   "estado": "expiring",
-   "fecha": "2026-11-16",
-   "genero": "Reality",
-   "generos": [
-    "Reality"
-   ],
-   "imdb": 4.7,
-   "rt": null,
-   "duracion": "1 temporada, 10 episodios",
-   "sinopsis": "",
-   "poster": "https://image.tmdb.org/t/p/w342/qdTuCAZElRZN5ZWCdleMKUWiREv.jpg",
-   "reparto": [
-    {
-     "nombre": "Andy Williams",
-     "foto": null
-    },
-    {
-     "nombre": "Ashley Williams",
-     "foto": null
-    }
-   ],
-   "trailer": null,
-   "temporadas_det": [
-    {
-     "n": 1,
-     "eps": [
-      {
-       "n": 1,
-       "t": "Episodio 1",
-       "f": "2017-11-02"
-      },
-      {
-       "n": 2,
-       "t": "Episodio 2",
-       "f": "2017-11-09"
-      },
-      {
-       "n": 3,
-       "t": "Episodio 3",
-       "f": "2017-11-16"
-      },
-      {
-       "n": 4,
-       "t": "Episodio 4",
-       "f": "2017-11-23"
-      },
-      {
-       "n": 5,
-       "t": "Episodio 5",
-       "f": "2017-11-30"
-      },
-      {
-       "n": 6,
-       "t": "Episodio 6",
-       "f": "2017-12-07"
-      },
-      {
-       "n": 7,
-       "t": "Episodio 7",
-       "f": "2017-12-14"
-      },
-      {
-       "n": 8,
-       "t": "Episodio 8",
-       "f": "2017-12-21"
-      },
-      {
-       "n": 9,
-       "t": "Episodio 9",
-       "f": "2018-01-04"
-      },
-      {
-       "n": 10,
-       "t": "Episodio 10",
-       "f": "2018-01-11"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "id": "71476",
-   "titulo": "Rebel Gold",
-   "tipo": "s",
-   "plataforma": "hbo",
-   "estado": "expiring",
-   "fecha": "2026-11-16",
-   "genero": "Documental",
-   "generos": [
-    "Documental"
-   ],
-   "imdb": 4.4,
-   "rt": null,
-   "duracion": "1 temporada, 4 episodios",
-   "sinopsis": "A team of all-star treasure hunters dig deep into American history hoping to get to the bottom of the legend of Jefferson Davis' missing Civil War-era gold.",
-   "poster": "https://image.tmdb.org/t/p/w342/jhVzUotRgO0zstAMYk7Q6W9oN9z.jpg",
-   "reparto": [],
-   "trailer": null,
-   "temporadas_det": [
-    {
-     "n": 1,
-     "eps": [
-      {
-       "n": 1,
-       "t": "Episodio 1",
-       "f": "2015-09-15"
-      },
-      {
-       "n": 2,
-       "t": "Episodio 2",
-       "f": "2015-09-22"
-      },
-      {
-       "n": 3,
-       "t": "Episodio 3",
-       "f": "2015-09-29"
-      },
-      {
-       "n": 4,
-       "t": "Episodio 4",
-       "f": "2015-10-06"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "id": "1695043",
-   "titulo": "Apaches",
-   "tipo": "p",
-   "plataforma": "prime",
-   "estado": "expiring",
-   "fecha": "2026-11-16",
-   "genero": "Drama",
-   "generos": [
-    "Drama",
-    "Suspense"
-   ],
-   "imdb": 5.4,
-   "rt": null,
-   "duracion": "1 h 35 min",
-   "sinopsis": "París, 1884. La vida de tres niños huérfanos que vagan por las calles dominadas por despiadados criminales cambia trágicamente cuando llevan a cabo un audaz robo.",
-   "poster": "https://image.tmdb.org/t/p/w342/kk7EPMFOE8Cuccnx5fxrSBpQuBq.jpg",
-   "reparto": [
-    {
-     "nombre": "Alice Isaaz",
-     "foto": "https://image.tmdb.org/t/p/w185/yULL4NbQW3ymzB2lHcI7SVlb7dS.jpg"
-    },
-    {
-     "nombre": "Niels Schneider",
-     "foto": "https://image.tmdb.org/t/p/w185/eG7go6nzgnb791avzYoN7GSqPd6.jpg"
-    },
-    {
-     "nombre": "Rod Paradot",
-     "foto": "https://image.tmdb.org/t/p/w185/6ks9zfw3IFcz6t2IAhokM90D5E1.jpg"
-    },
-    {
-     "nombre": "Artus",
-     "foto": "https://image.tmdb.org/t/p/w185/78eYMroV3AyRJDqijnp0FSLPCgZ.jpg"
-    },
-    {
-     "nombre": "Émilie Gavois-Kahn",
-     "foto": "https://image.tmdb.org/t/p/w185/1UWOiaw6O7VlcCwujtJpZb9ATD2.jpg"
-    },
-    {
-     "nombre": "Bruno Lochet",
-     "foto": "https://image.tmdb.org/t/p/w185/SNuKtVcGejDrxmMrvHBksrTs5x.jpg"
-    }
-   ],
-   "trailer": "https://www.youtube.com/watch?v=mRz4A4QEyIA",
-   "temporadas_det": []
-  },
-  {
-   "id": "62180",
-   "titulo": "The Fable: El asesino que no mata",
-   "tipo": "p",
-   "plataforma": "netflix",
-   "estado": "expiring",
-   "fecha": "2026-11-16",
-   "genero": "Acción",
-   "generos": [
-    "Acción",
-    "Comedia",
-    "Crimen"
-   ],
-   "imdb": 6.2,
-   "rt": null,
-   "duracion": "2 h 12 min",
-   "sinopsis": "Akira es el asesino legendario conocido como The Fable. Siguiendo la orden de su jefe y debido al exceso de trabajo, vive en paz con su pareja Yoko como hermanos comunes. Akira todavía trabaja a tiempo parcial en la empresa de diseño Octopus con el director ejecutivo Takoda y la empleada Misaki. El CEO Takoda y Misaki desconocen los antecedentes de Akira como asesino. Mientras tanto, Utsubo es representante de una NPO. Pero, Utsubo trabaja con el asesino a sueldo Suzuki para engañar a las personas con fines de extorsión. Apuntan a alguien de la empresa de diseño Octopus.",
-   "poster": "https://image.tmdb.org/t/p/w342/ezErMQQo614H3OUdiS5vDw5YiVS.jpg",
-   "reparto": [
-    {
-     "nombre": "岡田准一",
-     "foto": "https://image.tmdb.org/t/p/w185/pk5rltXChl9A3HjS6iQLGt1DWJY.jpg"
-    },
-    {
-     "nombre": "木村文乃",
-     "foto": "https://image.tmdb.org/t/p/w185/u9LWuxLvwl8cO7C7RtjxXHIGI5J.jpg"
-    },
-    {
-     "nombre": "堤真一",
-     "foto": "https://image.tmdb.org/t/p/w185/t3E5FKE7UGbdlnA8gy9lx03otIk.jpg"
-    },
-    {
-     "nombre": "平手友梨奈",
-     "foto": "https://image.tmdb.org/t/p/w185/wR3iI8ocqPWEZGY3Cea5E7m57KK.jpg"
-    },
-    {
-     "nombre": "安藤政信",
-     "foto": "https://image.tmdb.org/t/p/w185/8OkTaR4OkC3xmhhNcLSaE84aFFC.jpg"
-    },
-    {
-     "nombre": "山本美月",
-     "foto": "https://image.tmdb.org/t/p/w185/bDothbWptJS6RN8eLOzdKCZZgFa.jpg"
-    }
-   ],
-   "trailer": "https://www.youtube.com/watch?v=Y24pIsqROzA",
-   "temporadas_det": []
-  },
-  {
-   "id": "56386",
-   "titulo": "ザ・ファブル",
-   "tipo": "p",
-   "plataforma": "netflix",
-   "estado": "expiring",
-   "fecha": "2026-11-16",
-   "genero": "Acción",
-   "generos": [
-    "Acción",
-    "Comedia",
-    "Crimen"
-   ],
-   "imdb": 6.2,
-   "rt": null,
-   "duracion": "2 h 03 min",
-   "sinopsis": "An elite gun-for-hire is forced to lay low and not kill anyone for a year, but underworld figures start to threaten his newly calm and quiet life.",
-   "poster": "https://image.tmdb.org/t/p/w342/zILJ5Dzx1NTu2ATalKQrZgTi2mS.jpg",
-   "reparto": [
-    {
-     "nombre": "岡田准一",
-     "foto": "https://image.tmdb.org/t/p/w185/pk5rltXChl9A3HjS6iQLGt1DWJY.jpg"
-    },
-    {
-     "nombre": "木村文乃",
-     "foto": "https://image.tmdb.org/t/p/w185/u9LWuxLvwl8cO7C7RtjxXHIGI5J.jpg"
-    },
-    {
-     "nombre": "佐藤浩市",
-     "foto": "https://image.tmdb.org/t/p/w185/9HdEboDbi3hLVGwkgljQDznMZnb.jpg"
-    },
-    {
-     "nombre": "山本美月",
-     "foto": "https://image.tmdb.org/t/p/w185/bDothbWptJS6RN8eLOzdKCZZgFa.jpg"
-    },
-    {
-     "nombre": "Ken Yasuda",
-     "foto": "https://image.tmdb.org/t/p/w185/mSEnXFHj8MnighBVG0yZdKOVyxI.jpg"
-    },
-    {
-     "nombre": "柳楽優弥",
-     "foto": "https://image.tmdb.org/t/p/w185/7gk7OBP0r51M897sRZseU7n3OMm.jpg"
-    }
-   ],
-   "trailer": "https://www.youtube.com/watch?v=mmio9qs8NG8",
-   "temporadas_det": []
-  },
-  {
-   "id": "4174",
-   "titulo": "Paranoid",
-   "tipo": "s",
-   "plataforma": "netflix",
-   "estado": "expiring",
-   "fecha": "2026-11-16",
-   "genero": "Misterio",
-   "generos": [
-    "Misterio",
-    "Crimen"
-   ],
-   "imdb": 6.5,
-   "rt": null,
-   "duracion": "1 temporada, 8 episodios",
-   "sinopsis": "El asesinato de un médico sexo femenino en un parque infantil, delante de numerosos testigos, crea en un grupo de detectives un misterio cada vez más oscuro que los lleva a investigar a través de Europa.",
-   "poster": "https://image.tmdb.org/t/p/w342/6Z9oxugoepHqkXYVvElvb3VYcnm.jpg",
-   "reparto": [
-    {
-     "nombre": "Indira Varma",
-     "foto": "https://image.tmdb.org/t/p/w185/yaFCI907dcK2XkzO0HQgtK25kp2.jpg"
-    },
-    {
-     "nombre": "Robert Glenister",
-     "foto": "https://image.tmdb.org/t/p/w185/18oHwzcExUfXnDLyDWQEtmjPo1V.jpg"
-    },
-    {
-     "nombre": "Neil Stuke",
-     "foto": "https://image.tmdb.org/t/p/w185/k2WtfemrrSTvYtU3KQn9vwZ6HIm.jpg"
-    },
-    {
-     "nombre": "Christiane Paul",
-     "foto": "https://image.tmdb.org/t/p/w185/h1Cr9GA5C29FhDzbRZ6qrLTydjB.jpg"
-    },
-    {
-     "nombre": "Lesley Sharp",
-     "foto": "https://image.tmdb.org/t/p/w185/uqYQG4HSRLrOSSQdNH7mFmS4Xjo.jpg"
-    },
-    {
-     "nombre": "Anjli Mohindra",
-     "foto": "https://image.tmdb.org/t/p/w185/bUmLmifwwItfVP5bS6JbxISkwWR.jpg"
-    }
-   ],
-   "trailer": "https://www.youtube.com/watch?v=VlbpSReb1ek",
-   "temporadas_det": [
-    {
-     "n": 1,
-     "eps": [
-      {
-       "n": 1,
-       "t": "Episodio 1",
-       "f": "2016-09-22"
-      },
-      {
-       "n": 2,
-       "t": "Episodio 2",
-       "f": "2016-09-29"
-      },
-      {
-       "n": 3,
-       "t": "Episodio 3",
-       "f": "2016-10-06"
-      },
-      {
-       "n": 4,
-       "t": "Episodio 4",
-       "f": "2016-10-13"
-      },
-      {
-       "n": 5,
-       "t": "Episodio 5",
-       "f": "2016-10-20"
-      },
-      {
-       "n": 6,
-       "t": "Episodio 6",
-       "f": "2016-10-27"
-      },
-      {
-       "n": 7,
-       "t": "Episodio 7",
-       "f": "2016-11-03"
-      },
-      {
-       "n": 8,
-       "t": "Episodio 8",
-       "f": "2016-11-10"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "id": "4425",
-   "titulo": "Historias de Chesapeake",
-   "tipo": "s",
-   "plataforma": "netflix",
-   "estado": "expiring",
-   "fecha": "2026-11-16",
-   "genero": "Drama",
-   "generos": [
-    "Drama"
-   ],
-   "imdb": 6.6,
-   "rt": null,
-   "duracion": "6 temporadas, 55 episodios",
-   "sinopsis": "Abby O'Brien Winters es una joven que vive en Nueva York. Un día, recibe la llamada de su hermana pequeña Jess para decirle que está renovando una posada en su ciudad natal. Abby no duda en escapar de la gran ciudad para volver al lugar donde se crió, un tranquilo pueblo llamado Chesapeake Shores que está en Maryland. Todos los recuerdos vuelven de repente cuando ve de nuevo el pueblo que construyó su padre años atrás.  La estresante vida de Abby en Nueva York la había hecho olvidar a su propia familia, y está dispuesta a recuperarla. Primero, ayudará a su hermana para que no pierda la casa. Después, intentará estrechar lazos con sus padres y, por último, deberá enfrentarse a Trace Riley, su primer amor que abandonó hace ya dieciséis años.",
-   "poster": "https://image.tmdb.org/t/p/w342/wAWnKnDwrhfUZZ3hKlwr23yBOwM.jpg",
-   "reparto": [
-    {
-     "nombre": "Meghan Ory",
-     "foto": "https://image.tmdb.org/t/p/w185/tO94Q2cAwcNCKhV7POeR0nqtE4r.jpg"
-    },
-    {
-     "nombre": "Laci J. Mailey",
-     "foto": "https://image.tmdb.org/t/p/w185/rJdLd3U15ywK6K42gVvUh1U1ouA.jpg"
-    },
-    {
-     "nombre": "Emilie Ullerup",
-     "foto": "https://image.tmdb.org/t/p/w185/kdeA6wtFjjleggt0Bklc9mEBQKy.jpg"
-    },
-    {
-     "nombre": "Barbara Niven",
-     "foto": "https://image.tmdb.org/t/p/w185/qRwCFXzAzna7viOOC4xjOCSu2Hy.jpg"
-    },
-    {
-     "nombre": "Robert Buckley",
-     "foto": "https://image.tmdb.org/t/p/w185/o4ju4sTWoEMK6QvDjQrqHYRBCrz.jpg"
-    },
-    {
-     "nombre": "Brendan Penny",
-     "foto": "https://image.tmdb.org/t/p/w185/cgjw8TR9J9zicgGWuzdXdcE9aQK.jpg"
-    }
-   ],
-   "trailer": "https://www.youtube.com/watch?v=Nx-0M57diNA",
-   "temporadas_det": [
-    {
-     "n": 1,
-     "eps": [
-      {
-       "n": 1,
-       "t": "Piloto",
-       "f": "2016-08-14"
-      },
-      {
-       "n": 2,
-       "t": "De vuelta al hogar (Parte 1)",
-       "f": "2016-08-21"
-      },
-      {
-       "n": 3,
-       "t": "De vuelta al hogar (Parte 2)",
-       "f": "2016-08-28"
-      },
-      {
-       "n": 4,
-       "t": "No perdemos un hijo...",
-       "f": "2016-09-04"
-      },
-      {
-       "n": 5,
-       "t": "Ganamos una hija",
-       "f": "2016-09-11"
-      },
-      {
-       "n": 6,
-       "t": "Georgia en mi pensamiento",
-       "f": "2016-09-18"
-      },
-      {
-       "n": 7,
-       "t": "Segunda oportunidad",
-       "f": "2016-09-25"
-      },
-      {
-       "n": 8,
-       "t": "Negocios pendientes",
-       "f": "2016-10-02"
-      },
-      {
-       "n": 9,
-       "t": "Los ex marcan lugar",
-       "f": "2016-10-09"
-      }
-     ]
-    },
-    {
-     "n": 2,
-     "eps": [
-      {
-       "n": 1,
-       "t": "Secretos, mentiras y material escolar",
-       "f": "2017-08-06"
-      },
-      {
-       "n": 2,
-       "t": "Pasados y presentes",
-       "f": "2017-08-13"
-      },
-      {
-       "n": 3,
-       "t": "Fotografias y recuerdos",
-       "f": "2017-08-20"
-      },
-      {
-       "n": 4,
-       "t": "Siempre Nashville",
-       "f": "2017-08-27"
-      },
-      {
-       "n": 5,
-       "t": "Tesoros enterrados",
-       "f": "2017-09-03"
-      },
-      {
-       "n": 6,
-       "t": "Grandes oportunidades",
-       "f": "2017-09-10"
-      },
-      {
-       "n": 7,
-       "t": "Todos nuestros momentos del pasado",
-       "f": "2017-09-17"
-      },
-      {
-       "n": 8,
-       "t": "Los árboles no dejan ver el bosque",
-       "f": "2017-09-24"
-      },
-      {
-       "n": 9,
-       "t": "Corte real",
-       "f": "2017-10-01"
-      },
-      {
-       "n": 10,
-       "t": "Caída libre",
-       "f": "2017-10-08"
-      }
-     ]
-    },
-    {
-     "n": 3,
-     "eps": [
-      {
-       "n": 1,
-       "t": "Un libro abierto",
-       "f": "2018-08-05"
-      },
-      {
-       "n": 2,
-       "t": "Tal como éramos",
-       "f": "2018-08-12"
-      },
-      {
-       "n": 3,
-       "t": "Todo va a ir bien",
-       "f": "2018-08-19"
-      },
-      {
-       "n": 4,
-       "t": "Érase una vez para siempre",
-       "f": "2018-08-26"
-      },
-      {
-       "n": 5,
-       "t": "Amor con el paso del tiempo",
-       "f": "2018-09-02"
-      },
-      {
-       "n": 6,
-       "t": "Aquí y allí",
-       "f": "2018-09-09"
-      },
-      {
-       "n": 7,
-       "t": "Son solo negocios",
-       "f": "2018-09-16"
-      },
-      {
-       "n": 8,
-       "t": "Todos nuestros mañanas",
-       "f": "2018-09-23"
-      },
-      {
-       "n": 9,
-       "t": "Regreso al pasado",
-       "f": "2018-09-30"
-      },
-      {
-       "n": 10,
-       "t": "Viento en popa",
-       "f": "2018-10-07"
-      }
-     ]
-    },
-    {
-     "n": 4,
-     "eps": [
-      {
-       "n": 1,
-       "t": "Empezamos por el final",
-       "f": "2019-08-25"
-      },
-      {
-       "n": 2,
-       "t": "Un voto de confianza",
-       "f": "2019-09-01"
-      },
-      {
-       "n": 3,
-       "t": "Un soneto para Caroline",
-       "f": "2019-09-08"
-      },
-      {
-       "n": 4,
-       "t": "Desamor y teatro",
-       "f": "2019-09-15"
-      },
-      {
-       "n": 5,
-       "t": "Todo el tiempo del mundo",
-       "f": "2019-09-22"
-      },
-      {
-       "n": 6,
-       "t": "Acuarelas, deseos y bodas",
-       "f": "2019-09-29"
-      }
-     ]
-    },
-    {
-     "n": 5,
-     "eps": [
-      {
-       "n": 1,
-       "t": "Un beso sigue siendo un beso",
-       "f": "2021-08-15"
-      },
-      {
-       "n": 2,
-       "t": "Buen trabajo si puedes conseguirlo",
-       "f": "2021-08-22"
-      },
-      {
-       "n": 3,
-       "t": "¿Salen las estrellas esta noche?",
-       "f": "2021-08-29"
-      },
-      {
-       "n": 4,
-       "t": "Caminos felices",
-       "f": "2021-09-05"
-      },
-      {
-       "n": 5,
-       "t": "No pueden quitarme eso",
-       "f": "2021-09-12"
-      },
-      {
-       "n": 6,
-       "t": "El amor llegó para quedarse",
-       "f": "2021-09-19"
-      },
-      {
-       "n": 7,
-       "t": "Novedades",
-       "f": "2021-09-26"
-      },
-      {
-       "n": 8,
-       "t": "Dónde o cuándo",
-       "f": "2021-10-03"
-      },
-      {
-       "n": 9,
-       "t": "Qué diferencia hace un día",
-       "f": "2021-10-10"
-      },
-      {
-       "n": 10,
-       "t": "Ese viejo sentimiento",
-       "f": "2021-10-17"
-      }
-     ]
-    },
-    {
-     "n": 6,
-     "eps": [
-      {
-       "n": 1,
-       "t": "Episodio 1",
-       "f": "2022-08-14"
-      },
-      {
-       "n": 2,
-       "t": "Episodio 2",
-       "f": "2022-08-21"
-      },
-      {
-       "n": 3,
-       "t": "Episodio 3",
-       "f": "2022-08-28"
-      },
-      {
-       "n": 4,
-       "t": "Episodio 4",
-       "f": "2022-09-04"
-      },
-      {
-       "n": 5,
-       "t": "Episodio 5",
-       "f": "2022-09-11"
-      },
-      {
-       "n": 6,
-       "t": "Episodio 6",
-       "f": "2022-09-18"
-      },
-      {
-       "n": 7,
-       "t": "Episodio 7",
-       "f": "2022-09-25"
-      },
-      {
-       "n": 8,
-       "t": "Episodio 8",
-       "f": "2022-10-02"
-      },
-      {
-       "n": 9,
-       "t": "Episodio 9",
-       "f": "2022-10-09"
-      },
-      {
-       "n": 10,
-       "t": "Episodio 10",
-       "f": "2022-10-16"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "id": "25928575",
-   "titulo": "Air Jaws: Ultimate Breach Off",
-   "tipo": "p",
-   "plataforma": "hbo",
-   "estado": "expiring",
-   "fecha": "2026-11-16",
-   "genero": "Documental",
-   "generos": [
-    "Documental"
-   ],
-   "imdb": null,
-   "rt": null,
-   "duracion": "43 min",
-   "sinopsis": "",
-   "poster": "https://image.tmdb.org/t/p/w342/ArpgHSzJwO5PGf3TNVzL2vExK4K.jpg",
-   "reparto": [],
-   "trailer": null,
-   "temporadas_det": []
-  },
   {
    "id": "181109",
    "titulo": "Game Changer",
@@ -5797,6 +650,1722 @@
     }
    ],
    "trailer": "https://www.youtube.com/watch?v=9uPbiMUL-Dk",
+   "temporadas_det": []
+  },
+  {
+   "id": "14625683",
+   "titulo": "Expediente Warren: El último rito",
+   "tipo": "p",
+   "plataforma": "hbo",
+   "estado": "expiring",
+   "fecha": "2026-11-20",
+   "genero": "Terror",
+   "generos": [
+    "Terror"
+   ],
+   "imdb": 6.3,
+   "rt": null,
+   "duracion": "2 h 16 min",
+   "sinopsis": "Los investigadores de lo paranormal Ed y Lorraine Warren se enfrentan a un último caso aterrador en el que están implicadas entidades misteriosas a las que deben enfrentarse.",
+   "poster": "https://image.tmdb.org/t/p/w342/vrfti9ycF4mlA5WuIyfgCf1LJQG.jpg",
+   "reparto": [
+    {
+     "nombre": "Patrick Wilson",
+     "foto": "https://image.tmdb.org/t/p/w185/oym6H2QD9esk4yABjCHaUoNAOa8.jpg"
+    },
+    {
+     "nombre": "Vera Farmiga",
+     "foto": "https://image.tmdb.org/t/p/w185/5Vs7huBmTKftwlsc2BPAntyaQYj.jpg"
+    },
+    {
+     "nombre": "Mia Tomlinson",
+     "foto": "https://image.tmdb.org/t/p/w185/i8Kel9mWoL86UCKGGz3zf5Fza6y.jpg"
+    },
+    {
+     "nombre": "Ben Hardy",
+     "foto": "https://image.tmdb.org/t/p/w185/qCV3G1OHTJgPHX9kbWEBbS9RwVJ.jpg"
+    },
+    {
+     "nombre": "Rebecca Calder",
+     "foto": "https://image.tmdb.org/t/p/w185/2pkBR7d9MMrgRUBopEc7kRP8ZJL.jpg"
+    },
+    {
+     "nombre": "Tilly Walker",
+     "foto": "https://image.tmdb.org/t/p/w185/wd9La2PfiSP9CsU4BwlNHqXfDn6.jpg"
+    }
+   ],
+   "trailer": "https://www.youtube.com/watch?v=p4aWdkM5xF8",
+   "temporadas_det": []
+  },
+  {
+   "id": "14366912",
+   "titulo": "Thomas y sus amigos: El correo navideño exprés",
+   "tipo": "p",
+   "plataforma": "netflix",
+   "estado": "expiring",
+   "fecha": "2026-11-20",
+   "genero": "Animación",
+   "generos": [
+    "Animación",
+    "Aventura",
+    "Familia"
+   ],
+   "imdb": 4.6,
+   "rt": null,
+   "duracion": "1 h 00 min",
+   "sinopsis": "Percy descubre una carta de un niño a Santa Claus olvidada en el fondo de su furgón de correo en Nochebuena, pero está decidido a hacer las cosas bien, ¡incluso si eso significa localizar al propio Sr. Claus! Con la ayuda de Thomas y sus amigos, Percy viaja a través de deslumbrantes desfiles, dulces olores horneados de pan de jengibre y ráfagas de copos de nieve en una búsqueda para entregarle la carta a Santa y hacer realidad el deseo navideño de un niño.",
+   "poster": "https://image.tmdb.org/t/p/w342/XNMrpSPx2biE5bEPdpVAyQA4Sp.jpg",
+   "reparto": [
+    {
+     "nombre": "Neil Crone",
+     "foto": "https://image.tmdb.org/t/p/w185/dSKEir3QWqSKJQjPIQftNZoD8Hs.jpg"
+    },
+    {
+     "nombre": "Charlie Zeltzer",
+     "foto": "https://image.tmdb.org/t/p/w185/1dk52sApRAf1YMEcYUJPsT06nvs.jpg"
+    },
+    {
+     "nombre": "Luke Marty",
+     "foto": "https://image.tmdb.org/t/p/w185/6s6Pd5bbsWW6jCgLavdDUT5qN7Y.jpg"
+    },
+    {
+     "nombre": "Kai Harris",
+     "foto": "https://image.tmdb.org/t/p/w185/puIL0Z1bybGQcV1IwUhyDUNLk7M.jpg"
+    }
+   ],
+   "trailer": null,
+   "temporadas_det": []
+  },
+  {
+   "id": "14625683",
+   "titulo": "Expediente Warren: El último rito",
+   "tipo": "p",
+   "plataforma": "prime",
+   "estado": "expiring",
+   "fecha": "2026-11-21",
+   "genero": "Terror",
+   "generos": [
+    "Terror"
+   ],
+   "imdb": 6.3,
+   "rt": null,
+   "duracion": "2 h 16 min",
+   "sinopsis": "Los investigadores de lo paranormal Ed y Lorraine Warren se enfrentan a un último caso aterrador en el que están implicadas entidades misteriosas a las que deben enfrentarse.",
+   "poster": "https://image.tmdb.org/t/p/w342/vrfti9ycF4mlA5WuIyfgCf1LJQG.jpg",
+   "reparto": [
+    {
+     "nombre": "Patrick Wilson",
+     "foto": "https://image.tmdb.org/t/p/w185/oym6H2QD9esk4yABjCHaUoNAOa8.jpg"
+    },
+    {
+     "nombre": "Vera Farmiga",
+     "foto": "https://image.tmdb.org/t/p/w185/5Vs7huBmTKftwlsc2BPAntyaQYj.jpg"
+    },
+    {
+     "nombre": "Mia Tomlinson",
+     "foto": "https://image.tmdb.org/t/p/w185/i8Kel9mWoL86UCKGGz3zf5Fza6y.jpg"
+    },
+    {
+     "nombre": "Ben Hardy",
+     "foto": "https://image.tmdb.org/t/p/w185/qCV3G1OHTJgPHX9kbWEBbS9RwVJ.jpg"
+    },
+    {
+     "nombre": "Rebecca Calder",
+     "foto": "https://image.tmdb.org/t/p/w185/2pkBR7d9MMrgRUBopEc7kRP8ZJL.jpg"
+    },
+    {
+     "nombre": "Tilly Walker",
+     "foto": "https://image.tmdb.org/t/p/w185/wd9La2PfiSP9CsU4BwlNHqXfDn6.jpg"
+    }
+   ],
+   "trailer": "https://www.youtube.com/watch?v=p4aWdkM5xF8",
+   "temporadas_det": []
+  },
+  {
+   "id": "15599",
+   "titulo": "Calle Tzameti: 13 - El club del suicidio",
+   "tipo": "p",
+   "plataforma": "prime",
+   "estado": "expiring",
+   "fecha": "2026-11-21",
+   "genero": "Acción",
+   "generos": [
+    "Acción",
+    "Suspense"
+   ],
+   "imdb": 6.8,
+   "rt": 83,
+   "duracion": "1 h 35 min",
+   "sinopsis": "Sebastian es un joven de 20 años cuya familia inmigrante está pasando por penurias económicas. Para intentar sacarles de esa situación, acepta seguir unas instrucciones de un hombre adicto a la morfina para conseguir sacarse un dinero fácil. Así, una casual serie de acontecimientos, y el hallazgo de una carta que contiene un billete de tren y una reserva de hotel, llevarán a Sébastien a embarcarse en un viaje del que todo desconoce.",
+   "poster": "https://image.tmdb.org/t/p/w342/xPkR0dOqzMnMgjt5wVD9vdt67RP.jpg",
+   "reparto": [
+    {
+     "nombre": "გიორგი ბაბლუანი",
+     "foto": "https://image.tmdb.org/t/p/w185/rnLRO2ILupNGf8DvHaRlIOO931Z.jpg"
+    },
+    {
+     "nombre": "Aurélien Recoing",
+     "foto": "https://image.tmdb.org/t/p/w185/slDvlNa3l9eadFF2sANRk7jcjCl.jpg"
+    },
+    {
+     "nombre": "Pascal Bongard",
+     "foto": "https://image.tmdb.org/t/p/w185/bZXt06EFZQQxqdS8ZirC5Y6Oef0.jpg"
+    },
+    {
+     "nombre": "Fred Ulysse",
+     "foto": "https://image.tmdb.org/t/p/w185/zmPImRvC8p6J12IDCOJlXgWrYxj.jpg"
+    },
+    {
+     "nombre": "Nicolas Pignon",
+     "foto": null
+    },
+    {
+     "nombre": "Vania Vilers",
+     "foto": "https://image.tmdb.org/t/p/w185/feuwFPWk5dCCNQhK12H5szdTsG5.jpg"
+    }
+   ],
+   "trailer": null,
+   "temporadas_det": []
+  },
+  {
+   "id": "50814",
+   "titulo": "গান্ডু",
+   "tipo": "p",
+   "plataforma": "netflix",
+   "estado": "expiring",
+   "fecha": "2026-11-21",
+   "genero": "Drama",
+   "generos": [
+    "Drama"
+   ],
+   "imdb": 5.0,
+   "rt": null,
+   "duracion": "1 h 25 min",
+   "sinopsis": "After Nihilistic rapper Gandu steals from his mother's lover, he embarks on a drug-fueled rampage with a rickshaw puller in this abstract film.",
+   "poster": "https://image.tmdb.org/t/p/w342/ctAGjCNv3rg8BKM2RqIFbsKjaif.jpg",
+   "reparto": [
+    {
+     "nombre": "Anubrata Basu",
+     "foto": "https://image.tmdb.org/t/p/w185/Abgp2tzTuXh53cze8ighj5ldzCt.jpg"
+    },
+    {
+     "nombre": "Joyraj Bhattacharya",
+     "foto": "https://image.tmdb.org/t/p/w185/ptsVHdxBobj7K6V2PExdCeKNAPg.jpg"
+    },
+    {
+     "nombre": "Rii Sen",
+     "foto": "https://image.tmdb.org/t/p/w185/rQS0yPrq6mgzOuLXWejgXSqIml4.jpg"
+    },
+    {
+     "nombre": "Kamalika Banerjee",
+     "foto": "https://image.tmdb.org/t/p/w185/gF8mSEpzsZUqMpqxZInrTUSdH7M.jpg"
+    },
+    {
+     "nombre": "Silajit Majumder",
+     "foto": "https://image.tmdb.org/t/p/w185/s8e69hUGIvgD9RweQ10dCjBlCwS.jpg"
+    },
+    {
+     "nombre": "Soumyajit Majumdar",
+     "foto": "https://image.tmdb.org/t/p/w185/hJ72VQZVMb6DKV3BEWsnGBTmSm8.jpg"
+    }
+   ],
+   "trailer": "https://www.youtube.com/watch?v=R3UhwrNDpws",
+   "temporadas_det": []
+  },
+  {
+   "id": "120197",
+   "titulo": "তাসের দেশ",
+   "tipo": "p",
+   "plataforma": "netflix",
+   "estado": "expiring",
+   "fecha": "2026-11-21",
+   "genero": "Fantasía",
+   "generos": [
+    "Fantasía"
+   ],
+   "imdb": 4.2,
+   "rt": null,
+   "duracion": "1 h 50 min",
+   "sinopsis": "A royal prince arrives on an island of fascist rule and inspires a rebellion among its women in this hallucinogenic adaptation of a classic play.",
+   "poster": "https://image.tmdb.org/t/p/w342/2N8WtaHf8wwrUxa8TM3WgnqIzAf.jpg",
+   "reparto": [
+    {
+     "nombre": "Anubrata Basu",
+     "foto": "https://image.tmdb.org/t/p/w185/Abgp2tzTuXh53cze8ighj5ldzCt.jpg"
+    },
+    {
+     "nombre": "Joyraj Bhattacharya",
+     "foto": "https://image.tmdb.org/t/p/w185/ptsVHdxBobj7K6V2PExdCeKNAPg.jpg"
+    },
+    {
+     "nombre": "Soumyak Kanti DeBiswas",
+     "foto": null
+    },
+    {
+     "nombre": "Sayani Gupta",
+     "foto": "https://image.tmdb.org/t/p/w185/ZswP4g0UHDYvZLI2HlWzEcbvEN.jpg"
+    },
+    {
+     "nombre": "Rii Sen",
+     "foto": "https://image.tmdb.org/t/p/w185/rQS0yPrq6mgzOuLXWejgXSqIml4.jpg"
+    },
+    {
+     "nombre": "Imaad Shah",
+     "foto": "https://image.tmdb.org/t/p/w185/jMRd2YpIaIyZkT6bT78yRnbfO1o.jpg"
+    }
+   ],
+   "trailer": "https://www.youtube.com/watch?v=KoW9G8Orfvk",
+   "temporadas_det": []
+  },
+  {
+   "id": "95344",
+   "titulo": "Ludo",
+   "tipo": "p",
+   "plataforma": "netflix",
+   "estado": "expiring",
+   "fecha": "2026-11-21",
+   "genero": "Terror",
+   "generos": [
+    "Terror"
+   ],
+   "imdb": 2.8,
+   "rt": null,
+   "duracion": "1 h 30 min",
+   "sinopsis": "Cuatro adolescentes quieren pasar la noche de su vida. Quieren que la fiesta no pare pero tampoco les queda mucho dinero, por lo que deciden colarse en un centro comercial que ya ha cerrado sus puertas.  Lo que promete ser una noche de desfase se va a convertir en un juego misterioso cuando, de la nada aparece un viejo matrimonio que parece querer ponerles en peligro. Aunque la apariencia del matrimonio parece inofensiva, dentro de ellos esconden algo demoniaco.  Este filme de terror ha sido dirigido por Qaushiq  Mukherjee y protagonizado por Kamalika Banerjee, Joyraj Bhattacharya y Soumendra Bhattacharya.",
+   "poster": "https://image.tmdb.org/t/p/w342/rso6tCy4IZOcjckDQdRdPciWHfw.jpg",
+   "reparto": [
+    {
+     "nombre": "Kamalika Banerjee",
+     "foto": "https://image.tmdb.org/t/p/w185/gF8mSEpzsZUqMpqxZInrTUSdH7M.jpg"
+    },
+    {
+     "nombre": "Joyraj Bhattacharya",
+     "foto": "https://image.tmdb.org/t/p/w185/ptsVHdxBobj7K6V2PExdCeKNAPg.jpg"
+    },
+    {
+     "nombre": "Soumendra Bhattacharya",
+     "foto": "https://image.tmdb.org/t/p/w185/9aZqWzPA5xGRncUk4Tlei1aHrYl.jpg"
+    },
+    {
+     "nombre": "Ananya Biswas",
+     "foto": "https://image.tmdb.org/t/p/w185/ookGpz4OO9UluJEucOlu9lpBoA4.jpg"
+    },
+    {
+     "nombre": "Ranodeep Bose",
+     "foto": null
+    },
+    {
+     "nombre": "Murari Mukherjee",
+     "foto": null
+    }
+   ],
+   "trailer": "https://www.youtube.com/watch?v=JRCOFVj-gck",
+   "temporadas_det": []
+  },
+  {
+   "id": "8863414",
+   "titulo": "Ladrones con clase",
+   "tipo": "p",
+   "plataforma": "netflix",
+   "estado": "expiring",
+   "fecha": "2026-11-21",
+   "genero": "Acción",
+   "generos": [
+    "Acción",
+    "Suspense",
+    "Película de TV"
+   ],
+   "imdb": 5.1,
+   "rt": 20,
+   "duracion": "1 h 30 min",
+   "sinopsis": "El ladrón profesional Mason pretende cometer su mayor atraco junto a su hermano: asaltar un banco. Cuando sale mal, se ven atrapados dentro rodeados por las fuerzas del orden. La tensión aumenta cuando Mason negocia con su examante, la negociadora principal. Cada atraco tiene su precio.",
+   "poster": "https://image.tmdb.org/t/p/w342/4SddrMgc4lEagsJOCHZ60bjohSD.jpg",
+   "reparto": [
+    {
+     "nombre": "John Travolta",
+     "foto": "https://image.tmdb.org/t/p/w185/ap8eEYfBKTLixmVVpRlq4NslDD5.jpg"
+    },
+    {
+     "nombre": "Kristin Davis",
+     "foto": "https://image.tmdb.org/t/p/w185/61TjappibaZ1i8pEFlqwK2yrR2W.jpg"
+    },
+    {
+     "nombre": "Lukas Haas",
+     "foto": "https://image.tmdb.org/t/p/w185/vabZQXlAhyW2GxQfDM1PhKURA8.jpg"
+    },
+    {
+     "nombre": "Quavo",
+     "foto": "https://image.tmdb.org/t/p/w185/xnNpJvPluhit6LFxLEFlbZwHtoJ.jpg"
+    },
+    {
+     "nombre": "Bernard White",
+     "foto": "https://image.tmdb.org/t/p/w185/yW1MG2BHGBWxIAQ7F93TFtUNUFv.jpg"
+    },
+    {
+     "nombre": "Noel Gugliemi",
+     "foto": "https://image.tmdb.org/t/p/w185/8jujXofjpSroMQ1R2JLB0GWIPor.jpg"
+    }
+   ],
+   "trailer": "https://www.youtube.com/watch?v=Vt7rHUkoM08",
+   "temporadas_det": []
+  },
+  {
+   "id": "34086",
+   "titulo": "One shot (Misión de rescate)",
+   "tipo": "p",
+   "plataforma": "netflix",
+   "estado": "expiring",
+   "fecha": "2026-11-21",
+   "genero": "Acción",
+   "generos": [
+    "Acción",
+    "Suspense",
+    "Crimen",
+    "Bélica"
+   ],
+   "imdb": 5.9,
+   "rt": 61,
+   "duracion": "1 h 37 min",
+   "sinopsis": "Un escuadrón de élite de los Navy SEAL, en una misión encubierta para transportar a un prisionero fuera de una prisión insular de la CIA, queda atrapado cuando los insurgentes atacan mientras intentan rescatar al mismo prisionero.",
+   "poster": "https://image.tmdb.org/t/p/w342/aJCqUjcUgjqS7bxLpgH0C7pe3WW.jpg",
+   "reparto": [
+    {
+     "nombre": "Scott Adkins",
+     "foto": "https://image.tmdb.org/t/p/w185/9NRr2a1riIn5CWn5McZLJlk4vxR.jpg"
+    },
+    {
+     "nombre": "Ashley Greene",
+     "foto": "https://image.tmdb.org/t/p/w185/7crsfr0klw5iaYvZ3n9ps6RCIhp.jpg"
+    },
+    {
+     "nombre": "Ryan Phillippe",
+     "foto": "https://image.tmdb.org/t/p/w185/fgneZFXn0fGG1o7tMzJvHqfHHF7.jpg"
+    },
+    {
+     "nombre": "Emmanuel Imani",
+     "foto": "https://image.tmdb.org/t/p/w185/vxqp07dEmr9IesxhyFf24lEK9Ry.jpg"
+    },
+    {
+     "nombre": "Dino Kelly",
+     "foto": "https://image.tmdb.org/t/p/w185/8zNhDEjQGjWKCDdsso2fp49IK8d.jpg"
+    },
+    {
+     "nombre": "Jack Parr",
+     "foto": "https://image.tmdb.org/t/p/w185/9rva81mBAVFaZUA1x7njRb32Mdq.jpg"
+    }
+   ],
+   "trailer": "https://www.youtube.com/watch?v=8PmV8GFrZzo",
+   "temporadas_det": []
+  },
+  {
+   "id": "15251",
+   "titulo": "Postales desde el filo",
+   "tipo": "p",
+   "plataforma": "netflix",
+   "estado": "expiring",
+   "fecha": "2026-11-21",
+   "genero": "Comedia",
+   "generos": [
+    "Comedia",
+    "Drama"
+   ],
+   "imdb": 6.6,
+   "rt": 83,
+   "duracion": "1 h 50 min",
+   "sinopsis": "Hollywood. Tras salir de una clínica de desintoxicación en la que ingresó a causa de una sobredosis de pastillas, la actriz Suzanne Vale (Meryl Streep) se encuentra con que los estudios le ponen como condición para seguir trabajando que viva con su madre (Shirley MacLaine), una vieja actriz totalmente alcoholizada, a la que creen capaz de crear la atmósfera adecuada para proteger a su hija.",
+   "poster": "https://image.tmdb.org/t/p/w342/89mekyZZEp5M2KBTJ4NZzxQhMNT.jpg",
+   "reparto": [
+    {
+     "nombre": "Meryl Streep",
+     "foto": "https://image.tmdb.org/t/p/w185/g5cVxQBAQ3AXt3LhdBXtbbN47Uc.jpg"
+    },
+    {
+     "nombre": "Shirley MacLaine",
+     "foto": "https://image.tmdb.org/t/p/w185/vU4QsP3GRj03S8Z92vrZfkdb7rO.jpg"
+    },
+    {
+     "nombre": "Dennis Quaid",
+     "foto": "https://image.tmdb.org/t/p/w185/lMaDAJHzsKH7U3dln2B3kY3rOhE.jpg"
+    },
+    {
+     "nombre": "Gene Hackman",
+     "foto": "https://image.tmdb.org/t/p/w185/zDlv9vXjnRsvwNI0bARG0uOt5CJ.jpg"
+    },
+    {
+     "nombre": "Richard Dreyfuss",
+     "foto": "https://image.tmdb.org/t/p/w185/q2BPu6zWwFtnzQfpl4fgbKqURXM.jpg"
+    },
+    {
+     "nombre": "Rob Reiner",
+     "foto": "https://image.tmdb.org/t/p/w185/2nxxxj3aIU35eCOUEFBD0ireEhZ.jpg"
+    }
+   ],
+   "trailer": "https://www.youtube.com/watch?v=gSm7CJNzEFY",
+   "temporadas_det": []
+  },
+  {
+   "id": "4796091",
+   "titulo": "Otto Baxter: No es una p**a historia de terror",
+   "tipo": "p",
+   "plataforma": "prime",
+   "estado": "expiring",
+   "fecha": "2026-11-22",
+   "genero": "Documental",
+   "generos": [
+    "Documental"
+   ],
+   "imdb": 4.7,
+   "rt": 100,
+   "duracion": "1 h 24 min",
+   "sinopsis": "Otto Baxter, un cineasta con síndrome de Down, se sumerge en su mundo creativo mientras trabaja en una película de terror que refleja su vida y sus experiencias.",
+   "poster": "https://image.tmdb.org/t/p/w342/A8FFONsp7PntrYKiDEa2am0EuxC.jpg",
+   "reparto": [
+    {
+     "nombre": "Otto Baxter",
+     "foto": null
+    },
+    {
+     "nombre": "Peter Beard",
+     "foto": null
+    },
+    {
+     "nombre": "Bruce Fletcher",
+     "foto": null
+    },
+    {
+     "nombre": "Lucy Baxter",
+     "foto": null
+    },
+    {
+     "nombre": "Paul Kaye",
+     "foto": "https://image.tmdb.org/t/p/w185/bGZxKojbRrgyI3gFtRsduJnbcrm.jpg"
+    },
+    {
+     "nombre": "MyAnna Buring",
+     "foto": "https://image.tmdb.org/t/p/w185/boC5LKewKpz8zhtUmPScHfkSAlV.jpg"
+    }
+   ],
+   "trailer": "https://www.youtube.com/watch?v=hf8BqK7VXLg",
+   "temporadas_det": []
+  },
+  {
+   "id": "113137",
+   "titulo": "La última cacería",
+   "tipo": "p",
+   "plataforma": "prime",
+   "estado": "expiring",
+   "fecha": "2026-11-22",
+   "genero": "Western",
+   "generos": [
+    "Western",
+    "Crimen",
+    "Drama",
+    "Romance",
+    "Acción"
+   ],
+   "imdb": 4.7,
+   "rt": 20,
+   "duracion": "1 h 43 min",
+   "sinopsis": "En 1909, en medio del viejo oeste moribundo, Willie Boy, un corredor del desierto de larga distancia por tradición Chemehuevi, se enamora de la joven belleza nativa, Carlota. El padre de Carlota, un chamán chemehuevi y líder tribal local, se niega a dejar...",
+   "poster": "https://image.tmdb.org/t/p/w342/ifnOVSIuQpL8TC0bn4mBiX0cOr9.jpg",
+   "reparto": [
+    {
+     "nombre": "Martin Sensmeier",
+     "foto": "https://image.tmdb.org/t/p/w185/d25Mx8thmbgQWHR35S5s6MxjsCc.jpg"
+    },
+    {
+     "nombre": "Mainei Kinimaka",
+     "foto": null
+    },
+    {
+     "nombre": "Jason Momoa",
+     "foto": "https://image.tmdb.org/t/p/w185/3troAR6QbSb6nUFMDu61YCCWLKa.jpg"
+    },
+    {
+     "nombre": "Zahn McClarnon",
+     "foto": "https://image.tmdb.org/t/p/w185/54M2t1gziirkDdvj4SxAl6dXaVO.jpg"
+    },
+    {
+     "nombre": "Lily Gladstone",
+     "foto": "https://image.tmdb.org/t/p/w185/zYAN84WqZv2sbVE2JDkcWoXGoF7.jpg"
+    },
+    {
+     "nombre": "Raoul Max Trujillo",
+     "foto": "https://image.tmdb.org/t/p/w185/dIfHIt1pgnYW9oCksc0DdoY5Mt5.jpg"
+    }
+   ],
+   "trailer": "https://www.youtube.com/watch?v=wvCw2FoTXwY",
+   "temporadas_det": []
+  },
+  {
+   "id": "1695084",
+   "titulo": "Supercell",
+   "tipo": "p",
+   "plataforma": "prime",
+   "estado": "expiring",
+   "fecha": "2026-11-22",
+   "genero": "Acción",
+   "generos": [
+    "Acción",
+    "Drama"
+   ],
+   "imdb": 4.7,
+   "rt": null,
+   "duracion": "1 h 40 min",
+   "sinopsis": "El adolescente de buen corazón William siempre vivió con la esperanza de seguir los pasos de su difunto padre y convertirse en un cazador de tormentas. El legado de su padre ahora se ha convertido en un negocio turístico que persigue tormentas, administrado por el codicioso e imprudente Zane Rogers, quien ahora está usando a William como la principal atracción para guiar a un grupo de aventureros desprevenidos a lo más profundo del ojo de la supercélula más peligrosa de la historia. visto.",
+   "poster": "https://image.tmdb.org/t/p/w342/6uaKRc0Di2pfhRLFQaH5BntSJOH.jpg",
+   "reparto": [
+    {
+     "nombre": "Skeet Ulrich",
+     "foto": "https://image.tmdb.org/t/p/w185/moyTBJUTl82PaAhm8aHGwlvKr7r.jpg"
+    },
+    {
+     "nombre": "Anne Heche",
+     "foto": "https://image.tmdb.org/t/p/w185/65LVuA01bmKCmr8yqY2Ae3IgeC4.jpg"
+    },
+    {
+     "nombre": "Daniel Diemer",
+     "foto": "https://image.tmdb.org/t/p/w185/dWG4JHn8DKm3VFHlcFYPPxovdak.jpg"
+    },
+    {
+     "nombre": "Jordan Kristine Seamón",
+     "foto": "https://image.tmdb.org/t/p/w185/7Dldl75UJ0rICCVhSbKja2c4o3X.jpg"
+    },
+    {
+     "nombre": "Alec Baldwin",
+     "foto": "https://image.tmdb.org/t/p/w185/hzKy7x574eeUS3wt1R3yvWBRpeR.jpg"
+    },
+    {
+     "nombre": "Richard Gunn",
+     "foto": "https://image.tmdb.org/t/p/w185/7ODMQSrJSpAZj8DtqtoBKiofotp.jpg"
+    }
+   ],
+   "trailer": "https://www.youtube.com/watch?v=JYNAQGXjwH0",
+   "temporadas_det": []
+  },
+  {
+   "id": "20608521",
+   "titulo": "Cuestión de confianza",
+   "tipo": "p",
+   "plataforma": "prime",
+   "estado": "expiring",
+   "fecha": "2026-11-22",
+   "genero": "Suspense",
+   "generos": [
+    "Suspense",
+    "Terror"
+   ],
+   "imdb": 4.2,
+   "rt": 21,
+   "duracion": "1 h 30 min",
+   "sinopsis": "Tras un escándalo, una estrella de Hollywood se retira a una remota cabaña, pero no está sola. Traicionada por el hombre en quien más confiaba, se ve atrapada en un brutal juego de supervivencia. Puede esconderse, pero no puede huir.",
+   "poster": "https://image.tmdb.org/t/p/w342/o7KmMh4lH1l4a0EvS8Dq1MiQbc6.jpg",
+   "reparto": [
+    {
+     "nombre": "Sophie Turner",
+     "foto": "https://image.tmdb.org/t/p/w185/8ur4aHFakVCinWk0cvrGO8qAUhv.jpg"
+    },
+    {
+     "nombre": "Rhys Coiro",
+     "foto": "https://image.tmdb.org/t/p/w185/pjPbrZHU0kJUiMOPYfxK8FeBwWQ.jpg"
+    },
+    {
+     "nombre": "Billy Campbell",
+     "foto": "https://image.tmdb.org/t/p/w185/hMNmtQK3a6mqIQRyXn9G5bbheJV.jpg"
+    },
+    {
+     "nombre": "Peter Mensah",
+     "foto": "https://image.tmdb.org/t/p/w185/72L6LbeF5ZqRdLmhibNqysQNQRg.jpg"
+    },
+    {
+     "nombre": "Forrest Goodluck",
+     "foto": "https://image.tmdb.org/t/p/w185/4xjRFmyJqYZRtLODw22baOla2Ub.jpg"
+    },
+    {
+     "nombre": "Gianni Paolo",
+     "foto": "https://image.tmdb.org/t/p/w185/wf1boiYyi7EkYqdzOJMHnnoodnY.jpg"
+    }
+   ],
+   "trailer": "https://www.youtube.com/watch?v=UgalwGXCAFs",
+   "temporadas_det": []
+  },
+  {
+   "id": "1694702",
+   "titulo": "¡Shazam! La furia de los dioses",
+   "tipo": "p",
+   "plataforma": "hbo",
+   "estado": "expiring",
+   "fecha": "2026-11-22",
+   "genero": "Comedia",
+   "generos": [
+    "Comedia",
+    "Acción",
+    "Fantasía"
+   ],
+   "imdb": 6.0,
+   "rt": 49,
+   "duracion": "2 h 10 min",
+   "sinopsis": "Billy Batson y sus hermanos adoptivos, que se transforman en superhéroes al decir \"¡Shazam!\", se ven obligados a volver a la acción y luchar contra las Hijas de Atlas, a quienes deben evitar que use un arma que podría destruir el mundo.",
+   "poster": "https://image.tmdb.org/t/p/w342/xCxwaQeoIr4FcjlPgHfzog0x4B8.jpg",
+   "reparto": [
+    {
+     "nombre": "Zachary Levi",
+     "foto": "https://image.tmdb.org/t/p/w185/1W8L3kEMMPF9umT3ZGaNIiCYKfZ.jpg"
+    },
+    {
+     "nombre": "Asher Angel",
+     "foto": "https://image.tmdb.org/t/p/w185/lgBt67iggDs0d8QBSyjdk2ytHtK.jpg"
+    },
+    {
+     "nombre": "Jack Dylan Grazer",
+     "foto": "https://image.tmdb.org/t/p/w185/lSE2LLt1ZEVf2n1X2CycTl0ehyV.jpg"
+    },
+    {
+     "nombre": "Rachel Zegler",
+     "foto": "https://image.tmdb.org/t/p/w185/vbB2Q7q06vJF1QDxvq6VB1ubgDO.jpg"
+    },
+    {
+     "nombre": "Adam Brody",
+     "foto": "https://image.tmdb.org/t/p/w185/qKBWrohBYegm6AAaLrtxEqqouIK.jpg"
+    },
+    {
+     "nombre": "Ross Butler",
+     "foto": "https://image.tmdb.org/t/p/w185/9ZaZka3bsfMyknWP2t4VkvmfIpq.jpg"
+    }
+   ],
+   "trailer": "https://www.youtube.com/watch?v=AIc671o9yCI",
+   "temporadas_det": []
+  },
+  {
+   "id": "20466",
+   "titulo": "Fugitiva",
+   "tipo": "s",
+   "plataforma": "netflix",
+   "estado": "expiring",
+   "fecha": "2026-11-22",
+   "genero": "Drama",
+   "generos": [
+    "Drama",
+    "Crimen"
+   ],
+   "imdb": 5.6,
+   "rt": null,
+   "duracion": "1 temporada, 9 episodios",
+   "sinopsis": "Magda, una mujer que en un momento crucial de su vida ve cómo su mundo estalla en pedazos, se ve obligada a sacar a su familia de una situación límite.",
+   "poster": "https://image.tmdb.org/t/p/w342/a8jE0FOGWWtydthvgZn3TF6Y6uf.jpg",
+   "reparto": [
+    {
+     "nombre": "Paz Vega",
+     "foto": "https://image.tmdb.org/t/p/w185/fNLlJysFd5f0Q8Lj20EZpU8BiRN.jpg"
+    },
+    {
+     "nombre": "Julio Bracho",
+     "foto": "https://image.tmdb.org/t/p/w185/r1qF2fQAGT4BZXMcD0KaqNudUkA.jpg"
+    },
+    {
+     "nombre": "Lander Otaola",
+     "foto": null
+    },
+    {
+     "nombre": "Luisa Rubino",
+     "foto": "https://image.tmdb.org/t/p/w185/o1LmoIiubBEp9XDBxvr82IdQH73.jpg"
+    },
+    {
+     "nombre": "Arantza Ruiz",
+     "foto": "https://image.tmdb.org/t/p/w185/iVrwTFygTRzwj3AodMF1aEU5ZDy.jpg"
+    },
+    {
+     "nombre": "Mercedes Sampietro",
+     "foto": "https://image.tmdb.org/t/p/w185/5ZwykqdX9ClgABxC8d9VGSDW4kd.jpg"
+    }
+   ],
+   "trailer": "https://www.youtube.com/watch?v=Kyl1xiv3q-8",
+   "temporadas_det": [
+    {
+     "n": 1,
+     "eps": [
+      {
+       "n": 1,
+       "t": "La salida",
+       "f": "2018-04-05"
+      },
+      {
+       "n": 2,
+       "t": "La llegada",
+       "f": "2018-04-12"
+      },
+      {
+       "n": 3,
+       "t": "La búsqueda",
+       "f": "2018-04-19"
+      },
+      {
+       "n": 4,
+       "t": "El topo",
+       "f": "2018-04-26"
+      },
+      {
+       "n": 5,
+       "t": "La obsesión",
+       "f": "2018-05-03"
+      },
+      {
+       "n": 6,
+       "t": "El plan",
+       "f": "2018-05-10"
+      },
+      {
+       "n": 7,
+       "t": "La noche",
+       "f": "2018-05-17"
+      },
+      {
+       "n": 8,
+       "t": "El mar",
+       "f": "2018-05-24"
+      },
+      {
+       "n": 9,
+       "t": "La fuerza",
+       "f": "2018-06-07"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "14625200",
+   "titulo": "Mickey 17",
+   "tipo": "p",
+   "plataforma": "netflix",
+   "estado": "expiring",
+   "fecha": "2026-11-22",
+   "genero": "Ciencia ficción",
+   "generos": [
+    "Ciencia ficción",
+    "Comedia",
+    "Aventura"
+   ],
+   "imdb": 6.7,
+   "rt": 77,
+   "duracion": "2 h 17 min",
+   "sinopsis": "Mickey 17, un miembro de la tripulación 'expendable' (prescindible) enviado a un planeta helado para colonizarlo, se niega a dejar que su clon de reemplazo, Mickey 18, tome su lugar... Adaptación del libro original de Edward Ashton.",
+   "poster": "https://image.tmdb.org/t/p/w342/iOKu6Hf5atv3DuXBS0jBF3OYYdu.jpg",
+   "reparto": [
+    {
+     "nombre": "Robert Pattinson",
+     "foto": "https://image.tmdb.org/t/p/w185/3qZ09UE7lN6AtorfXFRYpEtSY93.jpg"
+    },
+    {
+     "nombre": "Naomi Ackie",
+     "foto": "https://image.tmdb.org/t/p/w185/dijwuTAEZUzQtoJfK49S4X80fQw.jpg"
+    },
+    {
+     "nombre": "Steven Yeun",
+     "foto": "https://image.tmdb.org/t/p/w185/fOMFO2Xx4duzpNgS9Q5ytO44yGb.jpg"
+    },
+    {
+     "nombre": "Mark Ruffalo",
+     "foto": "https://image.tmdb.org/t/p/w185/5GilHMOt5PAQh6rlUKZzGmaKEI7.jpg"
+    },
+    {
+     "nombre": "Toni Collette",
+     "foto": "https://image.tmdb.org/t/p/w185/lzXRh16qe4HHeBN6tMyw0DHvaMn.jpg"
+    },
+    {
+     "nombre": "Anamaria Vartolomei",
+     "foto": "https://image.tmdb.org/t/p/w185/jRU3453OyqirChIl2EEevhliAjq.jpg"
+    }
+   ],
+   "trailer": "https://www.youtube.com/watch?v=tA1s65o_kYM",
+   "temporadas_det": []
+  },
+  {
+   "id": "1694702",
+   "titulo": "¡Shazam! La furia de los dioses",
+   "tipo": "p",
+   "plataforma": "prime",
+   "estado": "expiring",
+   "fecha": "2026-11-23",
+   "genero": "Comedia",
+   "generos": [
+    "Comedia",
+    "Acción",
+    "Fantasía"
+   ],
+   "imdb": 6.0,
+   "rt": 49,
+   "duracion": "2 h 10 min",
+   "sinopsis": "Billy Batson y sus hermanos adoptivos, que se transforman en superhéroes al decir \"¡Shazam!\", se ven obligados a volver a la acción y luchar contra las Hijas de Atlas, a quienes deben evitar que use un arma que podría destruir el mundo.",
+   "poster": "https://image.tmdb.org/t/p/w342/xCxwaQeoIr4FcjlPgHfzog0x4B8.jpg",
+   "reparto": [
+    {
+     "nombre": "Zachary Levi",
+     "foto": "https://image.tmdb.org/t/p/w185/1W8L3kEMMPF9umT3ZGaNIiCYKfZ.jpg"
+    },
+    {
+     "nombre": "Asher Angel",
+     "foto": "https://image.tmdb.org/t/p/w185/lgBt67iggDs0d8QBSyjdk2ytHtK.jpg"
+    },
+    {
+     "nombre": "Jack Dylan Grazer",
+     "foto": "https://image.tmdb.org/t/p/w185/lSE2LLt1ZEVf2n1X2CycTl0ehyV.jpg"
+    },
+    {
+     "nombre": "Rachel Zegler",
+     "foto": "https://image.tmdb.org/t/p/w185/vbB2Q7q06vJF1QDxvq6VB1ubgDO.jpg"
+    },
+    {
+     "nombre": "Adam Brody",
+     "foto": "https://image.tmdb.org/t/p/w185/qKBWrohBYegm6AAaLrtxEqqouIK.jpg"
+    },
+    {
+     "nombre": "Ross Butler",
+     "foto": "https://image.tmdb.org/t/p/w185/9ZaZka3bsfMyknWP2t4VkvmfIpq.jpg"
+    }
+   ],
+   "trailer": "https://www.youtube.com/watch?v=AIc671o9yCI",
+   "temporadas_det": []
+  },
+  {
+   "id": "6585",
+   "titulo": "K-19: The Widowmaker",
+   "tipo": "p",
+   "plataforma": "prime",
+   "estado": "expiring",
+   "fecha": "2026-11-23",
+   "genero": "Historia",
+   "generos": [
+    "Historia",
+    "Suspense",
+    "Drama"
+   ],
+   "imdb": 6.6,
+   "rt": 60,
+   "duracion": "2 h 18 min",
+   "sinopsis": "Querido y de confianza para sus hombres, respetado como el capitán de submarinos con mayor experiencia de la Marina soviética, el Capitán Mikhail Polenin (Liam Neeson) es destituido del mando del K-19 cuando el liderazgo soviético decide que no está preparando su submarino insignia lo suficientemente rápido para su primera travesía. En su lugar, el Capitán Alexei Vostrikov (Harrison Ford), un oficial estrictamente \"orientado a la misión\" y con una voluntad de hierro, consigue sacar el K-19 al mar exactamente a la hora programada 16:00 horas del día 18 de Junio de 1961.",
+   "poster": "https://image.tmdb.org/t/p/w342/tsnjybp9cj9VOeZyxSx2cLuETWf.jpg",
+   "reparto": [
+    {
+     "nombre": "Harrison Ford",
+     "foto": "https://image.tmdb.org/t/p/w185/pjBMJVPpcZK23Vt1nzr1zEBTWrP.jpg"
+    },
+    {
+     "nombre": "Liam Neeson",
+     "foto": "https://image.tmdb.org/t/p/w185/sRLev3wJioBgun3ZoeAUFpkLy0D.jpg"
+    },
+    {
+     "nombre": "Peter Sarsgaard",
+     "foto": "https://image.tmdb.org/t/p/w185/5UANyM4co2nwYPgSEmGeNlZRm7V.jpg"
+    },
+    {
+     "nombre": "Joss Ackland",
+     "foto": "https://image.tmdb.org/t/p/w185/k8GQrf54DLILcLBmnMq94xijA6z.jpg"
+    },
+    {
+     "nombre": "John Shrapnel",
+     "foto": "https://image.tmdb.org/t/p/w185/A4Wmltbkz3sz79GcBkLeTqwfkvE.jpg"
+    },
+    {
+     "nombre": "Donald Sumpter",
+     "foto": "https://image.tmdb.org/t/p/w185/jfdH7vojRZ3fRSesLF8K3tZwwtq.jpg"
+    }
+   ],
+   "trailer": "https://www.youtube.com/watch?v=BvHWH8xg0Rw",
+   "temporadas_det": []
+  },
+  {
+   "id": "53934",
+   "titulo": "Una Navidad en Alaska",
+   "tipo": "p",
+   "plataforma": "prime",
+   "estado": "expiring",
+   "fecha": "2026-11-23",
+   "genero": "Romance",
+   "generos": [
+    "Romance",
+    "Película de TV"
+   ],
+   "imdb": 5.7,
+   "rt": null,
+   "duracion": "1 h 27 min",
+   "sinopsis": "Cuando están a punto de ascenderla, Jean hereda un hostal muy acogedor en Alaska y poco a poco se enamora de sus tradiciones navideñas.",
+   "poster": "https://image.tmdb.org/t/p/w342/dSsJ68MHxtmnMOIaqafPm9SvfDa.jpg",
+   "reparto": [
+    {
+     "nombre": "Tia Mowry",
+     "foto": "https://image.tmdb.org/t/p/w185/2p0l5uyURd1D4Iy3k8A81yc8lXJ.jpg"
+    },
+    {
+     "nombre": "Jackée Harry",
+     "foto": "https://image.tmdb.org/t/p/w185/h3DpIDfOrIdRx4EPKbuFc5LJzjC.jpg"
+    },
+    {
+     "nombre": "Tim Reid",
+     "foto": "https://image.tmdb.org/t/p/w185/zUqFVuSPBK09YVvCIxKkAOtoM8m.jpg"
+    },
+    {
+     "nombre": "Erin Gray",
+     "foto": "https://image.tmdb.org/t/p/w185/5EKbWSPCXfSNL7FwkXTuZ2xMcq5.jpg"
+    },
+    {
+     "nombre": "Rob Mayes",
+     "foto": "https://image.tmdb.org/t/p/w185/ozT84fSEs60eYD0WtiipYwUcEX3.jpg"
+    },
+    {
+     "nombre": "Kai Findley",
+     "foto": null
+    }
+   ],
+   "trailer": "https://www.youtube.com/watch?v=tmQYt9bvd5w",
+   "temporadas_det": []
+  },
+  {
+   "id": "11714830",
+   "titulo": "La guitarra flamenca de Yerai Cortés",
+   "tipo": "p",
+   "plataforma": "hbo",
+   "estado": "expiring",
+   "fecha": "2026-11-23",
+   "genero": "Documental",
+   "generos": [
+    "Documental",
+    "Música"
+   ],
+   "imdb": 5.6,
+   "rt": null,
+   "duracion": "1 h 35 min",
+   "sinopsis": "Cuando C. Tangana conoce a Yerai Cortés, se queda completamente fascinado con su talento e intrigado por su historia familiar. Yerai es una figura inusual dentro del flamenco; tan respetado por los gitanos más tradicionalistas como por los artistas vanguardistas de la nueva ola de la que él forma parte. Deciden emprender un viaje juntos para grabar un disco en el que las canciones vienen marcadas por una gran pena, donde el propio proceso artístico lo enfrenta con su pasado y lo empuja a explorar un secreto familiar a través del cual trata de redimir la relación con sus padres.",
+   "poster": "https://image.tmdb.org/t/p/w342/s1t3dpcwcVSNzas4AyCjLTV9ufL.jpg",
+   "reparto": [
+    {
+     "nombre": "Yerai Cortés",
+     "foto": "https://image.tmdb.org/t/p/w185/s1Prz4M0j820uYaN3q4OiDdZV9G.jpg"
+    },
+    {
+     "nombre": "C. Tangana",
+     "foto": "https://image.tmdb.org/t/p/w185/b96W6QXMP2LfCZ166RXMwtMxKxP.jpg"
+    },
+    {
+     "nombre": "La Tania",
+     "foto": "https://image.tmdb.org/t/p/w185/vdrFNdZSrM6wCNBzf1hQxdwSxdf.jpg"
+    },
+    {
+     "nombre": "Remedios Amaya",
+     "foto": "https://image.tmdb.org/t/p/w185/c376Sv2MT47K6N4BmwJVp9V7RjG.jpg"
+    },
+    {
+     "nombre": "farruquito",
+     "foto": "https://image.tmdb.org/t/p/w185/8xy7HdYUGd1BWKW3PMLEELOU18c.jpg"
+    },
+    {
+     "nombre": "María Merino",
+     "foto": "https://image.tmdb.org/t/p/w185/pHdzf9Rk3yQpgaf0pqyQwzvAZ14.jpg"
+    }
+   ],
+   "trailer": "https://www.youtube.com/watch?v=gs5s7g2kXJo",
+   "temporadas_det": []
+  },
+  {
+   "id": "179533",
+   "titulo": "Dragones al rescate: Las fiestas en Huttsgalor",
+   "tipo": "p",
+   "plataforma": "netflix",
+   "estado": "expiring",
+   "fecha": "2026-11-23",
+   "genero": "Animación",
+   "generos": [
+    "Animación",
+    "Familia"
+   ],
+   "imdb": 5.0,
+   "rt": null,
+   "duracion": "46 min",
+   "sinopsis": "Con la primera nevada llega la Odinavidad: la fiesta vikinga de la generosidad. Pero un tiempo de locos la pone en peligro. ¿Podrán salvarla los guardianes defensores?",
+   "poster": "https://image.tmdb.org/t/p/w342/AtOCY95r75F0Ybtp8Vk5YMnSrD4.jpg",
+   "reparto": [
+    {
+     "nombre": "Noah Kaye Bentley",
+     "foto": "https://image.tmdb.org/t/p/w185/1XFtLgZ9ijVisZyrKWqGykAoaFU.jpg"
+    },
+    {
+     "nombre": "Brennley Brown",
+     "foto": "https://image.tmdb.org/t/p/w185/47SKNOSxWhax5sbemeBIhl45YW0.jpg"
+    },
+    {
+     "nombre": "Zach Callison",
+     "foto": "https://image.tmdb.org/t/p/w185/xZ498fu7e34DNBDVNMAs4phMrdV.jpg"
+    },
+    {
+     "nombre": "Skai Jackson",
+     "foto": "https://image.tmdb.org/t/p/w185/5Hy1XF5QjERKuwOQLIUU3CyoCvH.jpg"
+    },
+    {
+     "nombre": "Marsai Martin",
+     "foto": "https://image.tmdb.org/t/p/w185/hYErUiiesrm9jmiY1JTbwlxcN7l.jpg"
+    },
+    {
+     "nombre": "Andre Robinson",
+     "foto": "https://image.tmdb.org/t/p/w185/94IRACbuilkND9xTK7DG5s1dDVI.jpg"
+    }
+   ],
+   "trailer": "https://www.youtube.com/watch?v=LF-C5js2iAQ",
+   "temporadas_det": []
+  },
+  {
+   "id": "28533",
+   "titulo": "Dragones al rescate",
+   "tipo": "s",
+   "plataforma": "netflix",
+   "estado": "expiring",
+   "fecha": "2026-11-23",
+   "genero": "Animación",
+   "generos": [
+    "Animación",
+    "Acción",
+    "Aventura",
+    "Comedia",
+    "Infantil",
+    "Ciencia ficción",
+    "Fantasía",
+    "Drama"
+   ],
+   "imdb": 5.4,
+   "rt": null,
+   "duracion": "2 temporadas, 26 episodios",
+   "sinopsis": "Los gemelos Dak y Leyla y sus amigos dragones dedican sus vidas a rescatar a otros, defender su hogar de Huttsgalor y divertirse en el camino.",
+   "poster": "https://image.tmdb.org/t/p/w342/gk588hozezLty9l2CLGO2JE9b8w.jpg",
+   "reparto": [
+    {
+     "nombre": "Brennley Brown",
+     "foto": "https://image.tmdb.org/t/p/w185/47SKNOSxWhax5sbemeBIhl45YW0.jpg"
+    },
+    {
+     "nombre": "Noah Kaye Bentley",
+     "foto": "https://image.tmdb.org/t/p/w185/1XFtLgZ9ijVisZyrKWqGykAoaFU.jpg"
+    },
+    {
+     "nombre": "Nicolas Cantu",
+     "foto": "https://image.tmdb.org/t/p/w185/ySFxLOQ9ejiZddviRVf9bhZvDsf.jpg"
+    },
+    {
+     "nombre": "Andre Robinson",
+     "foto": "https://image.tmdb.org/t/p/w185/94IRACbuilkND9xTK7DG5s1dDVI.jpg"
+    },
+    {
+     "nombre": "Zach Callison",
+     "foto": "https://image.tmdb.org/t/p/w185/xZ498fu7e34DNBDVNMAs4phMrdV.jpg"
+    },
+    {
+     "nombre": "Marsai Martin",
+     "foto": "https://image.tmdb.org/t/p/w185/hYErUiiesrm9jmiY1JTbwlxcN7l.jpg"
+    }
+   ],
+   "trailer": "https://www.youtube.com/watch?v=MB9bn5eg_pM",
+   "temporadas_det": [
+    {
+     "n": 1,
+     "eps": [
+      {
+       "n": 1,
+       "t": "El nido",
+       "f": "2019-09-27"
+      },
+      {
+       "n": 2,
+       "t": "Asunto intrincado",
+       "f": "2019-09-27"
+      },
+      {
+       "n": 3,
+       "t": "¡Feliz susto!",
+       "f": "2019-09-27"
+      },
+      {
+       "n": 4,
+       "t": "No hay humo sin fuego",
+       "f": "2019-09-27"
+      },
+      {
+       "n": 5,
+       "t": "Polos opuestos",
+       "f": "2019-09-27"
+      },
+      {
+       "n": 6,
+       "t": "Rompiendo el hielo",
+       "f": "2019-09-27"
+      },
+      {
+       "n": 7,
+       "t": "Malitos",
+       "f": "2019-09-27"
+      },
+      {
+       "n": 8,
+       "t": "Mala baba",
+       "f": "2019-09-27"
+      },
+      {
+       "n": 9,
+       "t": "Solos en casa",
+       "f": "2019-09-27"
+      },
+      {
+       "n": 10,
+       "t": "Peligro baboso",
+       "f": "2019-09-27"
+      },
+      {
+       "n": 11,
+       "t": "Entrenamiento intensivo",
+       "f": "2019-09-27"
+      },
+      {
+       "n": 12,
+       "t": "Diversión furiosa",
+       "f": "2019-09-27"
+      },
+      {
+       "n": 13,
+       "t": "Cascarrabias: 1.ª parte",
+       "f": "2019-09-27"
+      },
+      {
+       "n": 14,
+       "t": "Cascarrabias: 2.ª parte",
+       "f": "2019-09-27"
+      }
+     ]
+    },
+    {
+     "n": 2,
+     "eps": [
+      {
+       "n": 1,
+       "t": "¡Una estafa descomunal!",
+       "f": "2020-02-07"
+      },
+      {
+       "n": 2,
+       "t": "Alasmarinas",
+       "f": "2020-02-07"
+      },
+      {
+       "n": 3,
+       "t": "Amenaza mecánica",
+       "f": "2020-02-07"
+      },
+      {
+       "n": 4,
+       "t": "Unas merecidas vacaciones",
+       "f": "2020-02-07"
+      },
+      {
+       "n": 5,
+       "t": "Guardianes del tesoro",
+       "f": "2020-02-07"
+      },
+      {
+       "n": 6,
+       "t": "Un fichaje caótico",
+       "f": "2020-02-07"
+      },
+      {
+       "n": 7,
+       "t": "Temperatura volcánica",
+       "f": "2020-02-07"
+      },
+      {
+       "n": 8,
+       "t": "Miedo a las alturas",
+       "f": "2020-02-07"
+      },
+      {
+       "n": 9,
+       "t": "El rey Zampón",
+       "f": "2020-02-07"
+      },
+      {
+       "n": 10,
+       "t": "Sobrecarga",
+       "f": "2020-02-07"
+      },
+      {
+       "n": 11,
+       "t": "En la boca del dragón",
+       "f": "2020-02-07"
+      },
+      {
+       "n": 12,
+       "t": "Juego de Cuernos",
+       "f": "2020-02-07"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "156718",
+   "titulo": "Dragones al rescate: El secreto del Ala Cantarina",
+   "tipo": "p",
+   "plataforma": "netflix",
+   "estado": "expiring",
+   "fecha": "2026-11-23",
+   "genero": "Animación",
+   "generos": [
+    "Animación",
+    "Familia",
+    "Película de TV"
+   ],
+   "imdb": 5.1,
+   "rt": null,
+   "duracion": "45 min",
+   "sinopsis": "Un dragón cantante con una hermosa voz hipnotiza a los dragones y al pueblo de Huttsgalor, y los guardianes defensores deben dar con un modo de romper el hechizo.",
+   "poster": "https://image.tmdb.org/t/p/w342/dW0y9G5ovOK7IayMUGl3p25wdRN.jpg",
+   "reparto": [
+    {
+     "nombre": "Noah Kaye Bentley",
+     "foto": "https://image.tmdb.org/t/p/w185/1XFtLgZ9ijVisZyrKWqGykAoaFU.jpg"
+    },
+    {
+     "nombre": "Brennley Brown",
+     "foto": "https://image.tmdb.org/t/p/w185/47SKNOSxWhax5sbemeBIhl45YW0.jpg"
+    },
+    {
+     "nombre": "Zach Callison",
+     "foto": "https://image.tmdb.org/t/p/w185/xZ498fu7e34DNBDVNMAs4phMrdV.jpg"
+    },
+    {
+     "nombre": "Nicolas Cantu",
+     "foto": "https://image.tmdb.org/t/p/w185/ySFxLOQ9ejiZddviRVf9bhZvDsf.jpg"
+    },
+    {
+     "nombre": "Skai Jackson",
+     "foto": "https://image.tmdb.org/t/p/w185/5Hy1XF5QjERKuwOQLIUU3CyoCvH.jpg"
+    },
+    {
+     "nombre": "Marsai Martin",
+     "foto": "https://image.tmdb.org/t/p/w185/hYErUiiesrm9jmiY1JTbwlxcN7l.jpg"
+    }
+   ],
+   "trailer": "https://www.youtube.com/watch?v=Pn4P1IYdQuU",
+   "temporadas_det": []
+  },
+  {
+   "id": "166626",
+   "titulo": "Dragones al rescate: A la caza del dragón dorado",
+   "tipo": "p",
+   "plataforma": "netflix",
+   "estado": "expiring",
+   "fecha": "2026-11-23",
+   "genero": "Animación",
+   "generos": [
+    "Animación",
+    "Familia",
+    "Película de TV"
+   ],
+   "imdb": 5.0,
+   "rt": null,
+   "duracion": "46 min",
+   "sinopsis": "El equipo de rescate vive la búsqueda del tesoro más emocionante de su vida cuando debe encontrar un huevo valiosísimo y protegerlo de piratas malvados.",
+   "poster": "https://image.tmdb.org/t/p/w342/fD68JTgLp9Sa5tgdYIdvxWgj9I0.jpg",
+   "reparto": [
+    {
+     "nombre": "Noah Kaye Bentley",
+     "foto": "https://image.tmdb.org/t/p/w185/1XFtLgZ9ijVisZyrKWqGykAoaFU.jpg"
+    },
+    {
+     "nombre": "Zach Callison",
+     "foto": "https://image.tmdb.org/t/p/w185/xZ498fu7e34DNBDVNMAs4phMrdV.jpg"
+    },
+    {
+     "nombre": "Nicolas Cantu",
+     "foto": "https://image.tmdb.org/t/p/w185/ySFxLOQ9ejiZddviRVf9bhZvDsf.jpg"
+    },
+    {
+     "nombre": "Skai Jackson",
+     "foto": "https://image.tmdb.org/t/p/w185/5Hy1XF5QjERKuwOQLIUU3CyoCvH.jpg"
+    },
+    {
+     "nombre": "Marsai Martin",
+     "foto": "https://image.tmdb.org/t/p/w185/hYErUiiesrm9jmiY1JTbwlxcN7l.jpg"
+    },
+    {
+     "nombre": "Andre Robinson",
+     "foto": "https://image.tmdb.org/t/p/w185/94IRACbuilkND9xTK7DG5s1dDVI.jpg"
+    }
+   ],
+   "trailer": "https://www.youtube.com/watch?v=wP5S9YAFfdE",
+   "temporadas_det": []
+  },
+  {
+   "id": "5974",
+   "titulo": "Escapada perfecta",
+   "tipo": "p",
+   "plataforma": "netflix",
+   "estado": "expiring",
+   "fecha": "2026-11-23",
+   "genero": "Suspense",
+   "generos": [
+    "Suspense",
+    "Misterio",
+    "Aventura"
+   ],
+   "imdb": 6.4,
+   "rt": 62,
+   "duracion": "1 h 38 min",
+   "sinopsis": "Cliff y Cydney son una joven pareja aventurera que está pasando su luna de miel en una de las más maravillosas y remotas playas de Hawai. Creen haber encontrado el paraíso en sus tierras salvajes y senderos solitarios, hasta que se encuentran con un asustado grupo de excursionistas que hablan sobre el horrible asesinato de unos recién casados en las islas, y comienzan a preguntarse si quizás deberían volverse. Indecisos sobre qué hacer, Cliff y Cydney se unen a otras dos parejas, Nick y Gina y Kale y Cleo, y es cuando las cosas comienzan a ir terroríficamente de mal a peor. Lejos de la civilización o de poder ser rescatados, cada uno de ellos empieza a sentirse amenazado, sin saber ya en quién confiar. El paraíso se convierte en un infierno terrenal donde da comienzo una batalla brutal por la supervivencia.",
+   "poster": "https://image.tmdb.org/t/p/w342/w3pYmfz65PPEsDHVFuuiHe2tZVi.jpg",
+   "reparto": [
+    {
+     "nombre": "Steve Zahn",
+     "foto": "https://image.tmdb.org/t/p/w185/rwrPdKGwXnByxUVMxMf8Y7oswi3.jpg"
+    },
+    {
+     "nombre": "Milla Jovovich",
+     "foto": "https://image.tmdb.org/t/p/w185/usWnHCzbADijULREZYSJ0qfM00y.jpg"
+    },
+    {
+     "nombre": "Timothy Olyphant",
+     "foto": "https://image.tmdb.org/t/p/w185/ccQzw9I1BYBv0HHVJr4cvAWjtkI.jpg"
+    },
+    {
+     "nombre": "Kiele Sanchez",
+     "foto": "https://image.tmdb.org/t/p/w185/klmeWImg34TiEia6c6ZkwHhaVoB.jpg"
+    },
+    {
+     "nombre": "Chris Hemsworth",
+     "foto": "https://image.tmdb.org/t/p/w185/piQGdoIQOF3C1EI5cbYZLAW1gfj.jpg"
+    },
+    {
+     "nombre": "Marley Shelton",
+     "foto": "https://image.tmdb.org/t/p/w185/6fqY7QzZI5yoCCJZpvX0MceL6kZ.jpg"
+    }
+   ],
+   "trailer": "https://www.youtube.com/watch?v=izudtkH3rkU",
+   "temporadas_det": []
+  },
+  {
+   "id": "11714830",
+   "titulo": "La guitarra flamenca de Yerai Cortés",
+   "tipo": "p",
+   "plataforma": "prime",
+   "estado": "expiring",
+   "fecha": "2026-11-24",
+   "genero": "Documental",
+   "generos": [
+    "Documental",
+    "Música"
+   ],
+   "imdb": 5.6,
+   "rt": null,
+   "duracion": "1 h 35 min",
+   "sinopsis": "Cuando C. Tangana conoce a Yerai Cortés, se queda completamente fascinado con su talento e intrigado por su historia familiar. Yerai es una figura inusual dentro del flamenco; tan respetado por los gitanos más tradicionalistas como por los artistas vanguardistas de la nueva ola de la que él forma parte. Deciden emprender un viaje juntos para grabar un disco en el que las canciones vienen marcadas por una gran pena, donde el propio proceso artístico lo enfrenta con su pasado y lo empuja a explorar un secreto familiar a través del cual trata de redimir la relación con sus padres.",
+   "poster": "https://image.tmdb.org/t/p/w342/s1t3dpcwcVSNzas4AyCjLTV9ufL.jpg",
+   "reparto": [
+    {
+     "nombre": "Yerai Cortés",
+     "foto": "https://image.tmdb.org/t/p/w185/s1Prz4M0j820uYaN3q4OiDdZV9G.jpg"
+    },
+    {
+     "nombre": "C. Tangana",
+     "foto": "https://image.tmdb.org/t/p/w185/b96W6QXMP2LfCZ166RXMwtMxKxP.jpg"
+    },
+    {
+     "nombre": "La Tania",
+     "foto": "https://image.tmdb.org/t/p/w185/vdrFNdZSrM6wCNBzf1hQxdwSxdf.jpg"
+    },
+    {
+     "nombre": "Remedios Amaya",
+     "foto": "https://image.tmdb.org/t/p/w185/c376Sv2MT47K6N4BmwJVp9V7RjG.jpg"
+    },
+    {
+     "nombre": "farruquito",
+     "foto": "https://image.tmdb.org/t/p/w185/8xy7HdYUGd1BWKW3PMLEELOU18c.jpg"
+    },
+    {
+     "nombre": "María Merino",
+     "foto": "https://image.tmdb.org/t/p/w185/pHdzf9Rk3yQpgaf0pqyQwzvAZ14.jpg"
+    }
+   ],
+   "trailer": "https://www.youtube.com/watch?v=gs5s7g2kXJo",
+   "temporadas_det": []
+  },
+  {
+   "id": "176646",
+   "titulo": "Izla",
+   "tipo": "p",
+   "plataforma": "netflix",
+   "estado": "expiring",
+   "fecha": "2026-11-24",
+   "genero": "Comedia",
+   "generos": [
+    "Comedia",
+    "Terror"
+   ],
+   "imdb": 3.7,
+   "rt": null,
+   "duracion": "1 h 25 min",
+   "sinopsis": "Two brothers accompany a group of vloggers on their search for a mythical island. But when they find it, they uncover one sinister secret after another.",
+   "poster": "https://image.tmdb.org/t/p/w342/yvTLGmsML3igYAkgkEYuEBO7z6C.jpg",
+   "reparto": [
+    {
+     "nombre": "Paolo Contis",
+     "foto": "https://image.tmdb.org/t/p/w185/y0TlDzyBbsyEmpBr765SCGJ5ZEM.jpg"
+    },
+    {
+     "nombre": "Archie Alemania",
+     "foto": "https://image.tmdb.org/t/p/w185/xqP6UCeteZv8e9Ay4rFbBBuGau7.jpg"
+    },
+    {
+     "nombre": "Beauty Gonzalez",
+     "foto": "https://image.tmdb.org/t/p/w185/3idu5IUTSEfJQ6usqyYmtrvzjld.jpg"
+    },
+    {
+     "nombre": "Isabelle Daza",
+     "foto": "https://image.tmdb.org/t/p/w185/shYonrNkMd5MkGFsMCaADpSm5C1.jpg"
+    },
+    {
+     "nombre": "Elisse Joson",
+     "foto": "https://image.tmdb.org/t/p/w185/FVRO8R1QI61IdToA8WRYA0vzr0.jpg"
+    },
+    {
+     "nombre": "Niño Muhlach",
+     "foto": "https://image.tmdb.org/t/p/w185/soV5fvbgU1uttNfVKnchtnMc114.jpg"
+    }
+   ],
+   "trailer": "https://www.youtube.com/watch?v=U6_bJwIHqrs",
+   "temporadas_det": []
+  },
+  {
+   "id": "1232",
+   "titulo": "Las 4 estaciones de las chicas Gilmore",
+   "tipo": "s",
+   "plataforma": "netflix",
+   "estado": "expiring",
+   "fecha": "2026-11-24",
+   "genero": "Drama",
+   "generos": [
+    "Drama",
+    "Comedia"
+   ],
+   "imdb": 7.3,
+   "rt": null,
+   "duracion": "1 temporada, 4 episodios",
+   "sinopsis": "Diez años después de la serie original, Lorelai, Rory y Emily Gilmore pasan juntas cuatro estaciones llenas de cambios.",
+   "poster": "https://image.tmdb.org/t/p/w342/iYnvPGJwwTJbH3ZIXCV99L1FJFk.jpg",
+   "reparto": [
+    {
+     "nombre": "Lauren Graham",
+     "foto": "https://image.tmdb.org/t/p/w185/3leQVZnthAZwngH7HAD6T7qfsVu.jpg"
+    },
+    {
+     "nombre": "Alexis Bledel",
+     "foto": "https://image.tmdb.org/t/p/w185/mhkQzBtp2wuYoKhYqJ4IpDtbS3t.jpg"
+    },
+    {
+     "nombre": "Scott Patterson",
+     "foto": "https://image.tmdb.org/t/p/w185/qTm0LFuV8DktunzKa5T3UZoq1tC.jpg"
+    },
+    {
+     "nombre": "Kelly Bishop",
+     "foto": "https://image.tmdb.org/t/p/w185/gYSCnHaLAQU4RCgoyqBBslK1Uy5.jpg"
+    }
+   ],
+   "trailer": null,
+   "temporadas_det": [
+    {
+     "n": 1,
+     "eps": [
+      {
+       "n": 1,
+       "t": "Invierno",
+       "f": "2016-11-25"
+      },
+      {
+       "n": 2,
+       "t": "Primavera",
+       "f": "2016-11-25"
+      },
+      {
+       "n": 3,
+       "t": "Verano",
+       "f": "2016-11-25"
+      },
+      {
+       "n": 4,
+       "t": "Otoño",
+       "f": "2016-11-25"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "65856",
+   "titulo": "El paciente",
+   "tipo": "p",
+   "plataforma": "netflix",
+   "estado": "expiring",
+   "fecha": "2026-11-24",
+   "genero": "Suspense",
+   "generos": [
+    "Suspense",
+    "Misterio",
+    "Película de TV",
+    "Drama"
+   ],
+   "imdb": 5.4,
+   "rt": null,
+   "duracion": "1 h 32 min",
+   "sinopsis": "Tras despertar de un coma, lo único que quiere Thomas es averiguar qué le pasó a su familia. Pero la verdad es muchas veces tan sombría como la mente humana…",
+   "poster": "https://image.tmdb.org/t/p/w342/9uTx9dGdLtT4N6CumP32YSc1LqN.jpg",
+   "reparto": [
+    {
+     "nombre": "Txomin Vergez",
+     "foto": "https://image.tmdb.org/t/p/w185/nHJQLYixXyxxwQSBfKby1K6V5yH.jpg"
+    },
+    {
+     "nombre": "Clotilde Hesme",
+     "foto": "https://image.tmdb.org/t/p/w185/hPWDBjjk0OJaMdiVRaUBL7jeAcZ.jpg"
+    },
+    {
+     "nombre": "Audrey Dana",
+     "foto": "https://image.tmdb.org/t/p/w185/8DrYCwpImDoVftSOhcMnb1R7pqH.jpg"
+    },
+    {
+     "nombre": "Stéphane Rideau",
+     "foto": "https://image.tmdb.org/t/p/w185/78VnBXkHRUT13JOg5NJnZmjisE9.jpg"
+    },
+    {
+     "nombre": "Rebecca Williams",
+     "foto": "https://image.tmdb.org/t/p/w185/ajP9ZaymNQa3YlFy4cvEBtEDcBI.jpg"
+    },
+    {
+     "nombre": "Matthieu Lucci",
+     "foto": "https://image.tmdb.org/t/p/w185/bT2ADMuICq92GzfjSX9bDN5hENg.jpg"
+    }
+   ],
+   "trailer": null,
+   "temporadas_det": []
+  },
+  {
+   "id": "5475",
+   "titulo": "Mamá te quiere",
+   "tipo": "p",
+   "plataforma": "netflix",
+   "estado": "expiring",
+   "fecha": "2026-11-24",
+   "genero": "Suspense",
+   "generos": [
+    "Suspense",
+    "Terror",
+    "Drama"
+   ],
+   "imdb": 6.8,
+   "rt": 88,
+   "duracion": "1 h 29 min",
+   "sinopsis": "Dicen que el amor de una madre es para siempre... pero para Chloe esto no es un consuelo, sino una amenaza. Hay algo extraño, incluso siniestro en la relación de Chloe y su madre, Diane (Sarah Paulson). Diane ha criado a su hija completamente aislada, controlando cada uno de sus movimientos, pero Chloe pronto empezará a descubrir los oscuros secretos que guarda su madre...",
+   "poster": "https://image.tmdb.org/t/p/w342/rEeTuQSsEyM2bSG7rwvm23WJjfg.jpg",
+   "reparto": [
+    {
+     "nombre": "Sarah Paulson",
+     "foto": "https://image.tmdb.org/t/p/w185/tJnhBV516yrekR3hTDUw15UMbxS.jpg"
+    },
+    {
+     "nombre": "Kiera Allen",
+     "foto": "https://image.tmdb.org/t/p/w185/e3wOaDBdTEZccu38hUgHVFQBS7D.jpg"
+    },
+    {
+     "nombre": "Pat Healy",
+     "foto": "https://image.tmdb.org/t/p/w185/gWW97trwxTAi1nkY4CY1jNFMP5z.jpg"
+    },
+    {
+     "nombre": "Sara Sohn",
+     "foto": "https://image.tmdb.org/t/p/w185/a4ltEbyEMOMEQdNcgEGUm6SRkDc.jpg"
+    },
+    {
+     "nombre": "Erik Athavale",
+     "foto": "https://image.tmdb.org/t/p/w185/v5J8qSMldAixR3PcUoQmbAPlOOM.jpg"
+    },
+    {
+     "nombre": "BJ Harrison",
+     "foto": "https://image.tmdb.org/t/p/w185/gIJmpKIo5yC94SYnyqM82LWE8oG.jpg"
+    }
+   ],
+   "trailer": "https://www.youtube.com/watch?v=z_v0icKzgw0",
+   "temporadas_det": []
+  },
+  {
+   "id": "24568",
+   "titulo": "El buen vecino",
+   "tipo": "p",
+   "plataforma": "netflix",
+   "estado": "expiring",
+   "fecha": "2026-11-24",
+   "genero": "Suspense",
+   "generos": [
+    "Suspense",
+    "Drama"
+   ],
+   "imdb": 6.1,
+   "rt": 25,
+   "duracion": "1 h 37 min",
+   "sinopsis": "Una noche de pesadilla se desarrolla para David, un ex periodista del New York Times, cuando él y su nuevo y extraño vecino, Robert, golpean accidentalmente a una chica en su bicicleta. Aturdido y desorientado, David deja que Robert lo convenza de huir de la escena y dejar a la niña por muerta, para proteger su carrera. Robert no muestra remordimiento y, en nombre de la amistad, hace cosas indescriptibles para proteger el secreto. Ahora que la policía está buscando al asesino que se da a la fuga, las cosas comienzan a salirse de control cuando el periódico local de David lo envía a cubrir la historia en la que conoce a la hermana de la niña fallecida, Vanessa. A pesar de las circunstancias y de su profundo deseo de encontrar al asesino de su hermana, los dos inmediatamente tienen una conexión romántica, que sorprende y atormenta a David, mientras empuja a Robert a tomar medidas brutales para quedarse con su nuevo amigo.",
+   "poster": "https://image.tmdb.org/t/p/w342/w1Pg71Z60BweXmJui2H8o49MohO.jpg",
+   "reparto": [
+    {
+     "nombre": "Jonathan Rhys Meyers",
+     "foto": "https://image.tmdb.org/t/p/w185/3MvT0B15nt5JLp1dUcxmbqmjHUc.jpg"
+    },
+    {
+     "nombre": "Luke Kleintank",
+     "foto": "https://image.tmdb.org/t/p/w185/9iDyOwyeUyXNNjpqNwmXKwmwpTh.jpg"
+    },
+    {
+     "nombre": "Eloise Smyth",
+     "foto": "https://image.tmdb.org/t/p/w185/5q8siwyFN9h7eUYaoE04JA4Achu.jpg"
+    },
+    {
+     "nombre": "Bruce Davison",
+     "foto": "https://image.tmdb.org/t/p/w185/41JtouCUhnnBwWmdsemPydtk3FB.jpg"
+    },
+    {
+     "nombre": "Ieva Florence-Vīksne",
+     "foto": "https://image.tmdb.org/t/p/w185/b0K2ek5A9bE7CzLI6RRtGkmEJW9.jpg"
+    },
+    {
+     "nombre": "Regīna Razuma",
+     "foto": "https://image.tmdb.org/t/p/w185/nfeK3K6QZwD0aYDvv1LLP0mJQkd.jpg"
+    }
+   ],
+   "trailer": "https://www.youtube.com/watch?v=8PlcazoFgaw",
+   "temporadas_det": []
+  },
+  {
+   "id": "138563",
+   "titulo": "Larry the Cable Guy: Remain Seated",
+   "tipo": "p",
+   "plataforma": "netflix",
+   "estado": "expiring",
+   "fecha": "2026-11-25",
+   "genero": "Comedia",
+   "generos": [
+    "Comedia"
+   ],
+   "imdb": 5.2,
+   "rt": null,
+   "duracion": "1 h 08 min",
+   "sinopsis": "Larry the Cable Guy is back to Git R Done. Remain Seated, his latest solo special, will show you why this Grammy nominated, multi-platinum recording artist, and Billboard award winner is at the top of his game. Coming to you straight from the Rialto Square Theatre in Joliet, IL to your seat at home!",
+   "poster": "https://image.tmdb.org/t/p/w342/raByd3d1v1G2efSKosLRvuq8x5a.jpg",
+   "reparto": [
+    {
+     "nombre": "Larry the Cable Guy",
+     "foto": "https://image.tmdb.org/t/p/w185/34pX2sQj9DddaQWRBGukSWYdXxS.jpg"
+    }
+   ],
+   "trailer": "https://www.youtube.com/watch?v=VxKrdJLa4w0",
    "temporadas_det": []
   },
   {
