@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-17T01:46:24+00:00",
+ "generado": "2026-11-17T15:45:01+00:00",
  "pais": "ES",
  "items": [
   {
@@ -2384,7 +2384,32 @@
    "duracion": "1 h 43 min",
    "sinopsis": "Un joven pastor, que intenta estar a la altura del legado de su padre, traslada a su esposa e hijos de Georgia a Nueva York para salvar una iglesia moribunda con un poco de ayuda de sus ángeles guardianes.",
    "poster": "https://cdn.movieofthenight.com/show/27300873/poster/vertical/en/240.jpg?Expires=1824246452&Signature=Vuvkv4lY5PnYEiJqtIDHvpeVT-TTDIjN4DkSoqrU2agmizMYV~KjTzylc~OcySPr0TFRPQQWX5hrva9aPDLh2jMzC4G453FKYHfF3tcEVc2bMPUvJq7xgWPRnpHkpTgC3534x-UNzGkgNy-w0Ff7IzaoZBC3q0ieF3iAf8ddem94yK9Tp~q14VqIVniRtQ7tPIRNo~8IgCqEPVHibRuQ2oWoqN47NB7VEKAqL3snvD1~DPydZ6ab2r5niH5x9VgqOZlBpJLeEEXKxvA-LA7DYWKp6ABcR7H-WLCYhCcoKihNOD~RbCU0pI0oHF7GsCLEiDPchzpcz461to4NCGYZoQ__&Key-Pair-Id=KK4HN3OO4AT5R",
-   "reparto": [],
+   "reparto": [
+    {
+     "nombre": "Fantasia Barrino",
+     "foto": null
+    },
+    {
+     "nombre": "Tank",
+     "foto": null
+    },
+    {
+     "nombre": "Mason Douglas",
+     "foto": null
+    },
+    {
+     "nombre": "Eric Wiltz",
+     "foto": null
+    },
+    {
+     "nombre": "John Gray",
+     "foto": null
+    },
+    {
+     "nombre": "Hezekiah Walker",
+     "foto": null
+    }
+   ],
    "trailer": "https://www.youtube.com/watch?v=lXh2rNl2wdQ",
    "temporadas_det": []
   },
@@ -4411,143 +4436,6 @@
    "temporadas_det": []
   },
   {
-   "id": "4778543",
-   "titulo": "Lang Lang al piano: La mejor música de Disney",
-   "tipo": "p",
-   "plataforma": "prime",
-   "estado": "new",
-   "fecha": "2026-11-15",
-   "genero": "Música",
-   "generos": [
-    "Música",
-    "Documental"
-   ],
-   "imdb": 5.1,
-   "rt": null,
-   "duracion": "1 h 00 min",
-   "sinopsis": "El pianista Lang Lang, reconocido mundialmente, y la música más icónica de Disney se juntan en este concierto exclusivo de una noche en el Royal Albert Hall. Con segmentos musicales y documentales, esta película abre las puertas íntimamente a este viaje musical extraordinario, hablando de su amor por Disney desde su infancia en China.",
-   "poster": "https://image.tmdb.org/t/p/w342/5y7UlJGConbahwKgQQ9fQZyB8QX.jpg",
-   "reparto": [
-    {
-     "nombre": "Lang Lang",
-     "foto": "https://image.tmdb.org/t/p/w185/wcZgYrPPyecg6OAIUSC6iLeTXfi.jpg"
-    },
-    {
-     "nombre": "André de Ridder",
-     "foto": "https://image.tmdb.org/t/p/w185/8NYcVl8czct0xGg0kGiHzwRL7mX.jpg"
-    },
-    {
-     "nombre": "Gina Alice Redlinger",
-     "foto": "https://image.tmdb.org/t/p/w185/gaoCHzlo2efeSL3MZSfMyShoJG5.jpg"
-    },
-    {
-     "nombre": "Alfie Boe",
-     "foto": "https://image.tmdb.org/t/p/w185/1GsNw2SVw9FvIqhTxOHnGDWX3aG.jpg"
-    },
-    {
-     "nombre": "Wang Xiao",
-     "foto": null
-    },
-    {
-     "nombre": "Plínio Fernandes",
-     "foto": "https://image.tmdb.org/t/p/w185/2p8QUeFI6UocrZE1tG95tISjkwN.jpg"
-    }
-   ],
-   "trailer": "https://www.youtube.com/watch?v=AHUpenkxVGA",
-   "temporadas_det": []
-  },
-  {
-   "id": "8794",
-   "titulo": "La gran mentira",
-   "tipo": "p",
-   "plataforma": "netflix",
-   "estado": "upcoming",
-   "fecha": "2026-11-17",
-   "genero": "Crimen",
-   "generos": [
-    "Crimen"
-   ],
-   "imdb": 6.6,
-   "rt": null,
-   "duracion": "1 h 49 min",
-   "sinopsis": "El estafador profesional Roy Courtnay no puede creer su suerte cuando conoce a la viuda adinerada Betty McLeish por internet. Sin embargo, a medida que Betty le abre las puertas de su vida y su hogar, Roy se sorprende al sentir que esta mujer le importa mucho más de lo que se podría imaginar.",
-   "poster": "https://image.tmdb.org/t/p/w342/q3wHLlRKwEuxyluCUqHzBoC8gZO.jpg",
-   "reparto": [
-    {
-     "nombre": "Helen Mirren",
-     "foto": "https://image.tmdb.org/t/p/w185/1reKRrsdsHXJaRVHVyOEg4oPTcZ.jpg"
-    },
-    {
-     "nombre": "Ian McKellen",
-     "foto": "https://image.tmdb.org/t/p/w185/5cnnnpnJG6TiYUSS7qgJheUZgnv.jpg"
-    },
-    {
-     "nombre": "Russell Tovey",
-     "foto": "https://image.tmdb.org/t/p/w185/p1hNveDVY6vT5FDT0zJXDnZsDw.jpg"
-    },
-    {
-     "nombre": "Jim Carter",
-     "foto": "https://image.tmdb.org/t/p/w185/okiL3gc0mNqP0kPfMQHHvFjKnHb.jpg"
-    },
-    {
-     "nombre": "Mark Lewis Jones",
-     "foto": "https://image.tmdb.org/t/p/w185/5SAmzx40A0C3VOgzYPlcOmwqdL6.jpg"
-    },
-    {
-     "nombre": "Laurie Davidson",
-     "foto": "https://image.tmdb.org/t/p/w185/h2gts4uzqJ7DwusMfIekng78TL.jpg"
-    }
-   ],
-   "trailer": "https://www.youtube.com/watch?v=_z2dZqlCozI",
-   "temporadas_det": []
-  },
-  {
-   "id": "23436",
-   "titulo": "Leyenda urbana 3: La maldición de Mary",
-   "tipo": "p",
-   "plataforma": "netflix",
-   "estado": "upcoming",
-   "fecha": "2026-11-17",
-   "genero": "Terror",
-   "generos": [
-    "Terror",
-    "Misterio"
-   ],
-   "imdb": 4.3,
-   "rt": null,
-   "duracion": "1 h 33 min",
-   "sinopsis": "Utah, 1969. Una chica llamada Mary Banner es violada por el capitán del equipo de fútbol americano de su universidad. Posteriormente, éste la mata accidentamente e introduce su cuerpo en un maletero. Años después, varias chicas deciden realizar el truco de \"Bloody Mary\" delante de un espejo y traen -sin quererlo- a la vida el alma de Mary. A partir de ese momento, empiezan a desaparecer personas y morir en extrañas circunstancias...",
-   "poster": "https://image.tmdb.org/t/p/w342/rr3K9ZlpqWS531loiHg0vHomd1i.jpg",
-   "reparto": [
-    {
-     "nombre": "Kate Mara",
-     "foto": "https://image.tmdb.org/t/p/w185/t8a9iWAZrkdKjRG8jmtT27bJf0W.jpg"
-    },
-    {
-     "nombre": "Robert Vito",
-     "foto": "https://image.tmdb.org/t/p/w185/74nr2wDt1s4CxfKtnA73PzopOud.jpg"
-    },
-    {
-     "nombre": "Tina Lifford",
-     "foto": "https://image.tmdb.org/t/p/w185/1itvaDiqf2v8eXcDaFym46CYKWQ.jpg"
-    },
-    {
-     "nombre": "Ed Marinaro",
-     "foto": "https://image.tmdb.org/t/p/w185/cVHMLu3hL0VieCNPXm2azROLX5J.jpg"
-    },
-    {
-     "nombre": "Michael Coe",
-     "foto": "https://image.tmdb.org/t/p/w185/udEDQKSH3Tkf8wpqHWJH4Iffanx.jpg"
-    },
-    {
-     "nombre": "Lillith Fields",
-     "foto": null
-    }
-   ],
-   "trailer": "https://www.youtube.com/watch?v=OFYUWYJ0_fc",
-   "temporadas_det": []
-  },
-  {
    "id": "24669036",
    "titulo": "Madden",
    "tipo": "p",
@@ -6354,6 +6242,86 @@
        "n": 3,
        "t": "Episodio 3",
        "f": "2026-11-30"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "27517857",
+   "titulo": "Trinity",
+   "tipo": "s",
+   "plataforma": "netflix",
+   "estado": "upcoming",
+   "fecha": "2026-12-01",
+   "genero": "Drama",
+   "generos": [
+    "Drama",
+    "Bélica",
+    "Crimen"
+   ],
+   "imdb": null,
+   "rt": null,
+   "duracion": "1 temporada, 7 episodios",
+   "sinopsis": "",
+   "poster": "https://image.tmdb.org/t/p/w342/4V1DsqIwLmEKsgfzQayDF60eRYc.jpg",
+   "reparto": [
+    {
+     "nombre": "Gugu Mbatha-Raw",
+     "foto": "https://image.tmdb.org/t/p/w185/sHAnv0kw5JHzWBOP7gAezwqgl8J.jpg"
+    },
+    {
+     "nombre": "Richard Madden",
+     "foto": "https://image.tmdb.org/t/p/w185/9QQFfVZ6PLe3WVmOL56wGNOnbGL.jpg"
+    },
+    {
+     "nombre": "Marcia Gay Harden",
+     "foto": "https://image.tmdb.org/t/p/w185/5vxcHIHABJxqhweAsTiXVOhT4SE.jpg"
+    },
+    {
+     "nombre": "J. D. Pardo",
+     "foto": "https://image.tmdb.org/t/p/w185/uS616imhPsa4kt8veloLGQffx6f.jpg"
+    }
+   ],
+   "trailer": "https://www.youtube.com/watch?v=oMeVvhr7GZw",
+   "temporadas_det": [
+    {
+     "n": 1,
+     "eps": [
+      {
+       "n": 1,
+       "t": "Episodio 1",
+       "f": "2026-12-01"
+      },
+      {
+       "n": 2,
+       "t": "Episodio 2",
+       "f": "2026-12-01"
+      },
+      {
+       "n": 3,
+       "t": "Episodio 3",
+       "f": "2026-12-01"
+      },
+      {
+       "n": 4,
+       "t": "Episodio 4",
+       "f": "2026-12-01"
+      },
+      {
+       "n": 5,
+       "t": "Episodio 5",
+       "f": "2026-12-01"
+      },
+      {
+       "n": 6,
+       "t": "Episodio 6",
+       "f": "2026-12-01"
+      },
+      {
+       "n": 7,
+       "t": "Episodio 7",
+       "f": "2026-12-01"
       }
      ]
     }
