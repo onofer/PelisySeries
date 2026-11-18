@@ -1,148 +1,7 @@
 {
- "generado": "2026-11-17T15:45:01+00:00",
+ "generado": "2026-11-18T00:47:26+00:00",
  "pais": "ES",
  "items": [
-  {
-   "id": "181109",
-   "titulo": "Game Changer",
-   "tipo": "p",
-   "plataforma": "netflix",
-   "estado": "expiring",
-   "fecha": "2026-11-17",
-   "genero": "Comedia",
-   "generos": [
-    "Comedia",
-    "Crimen"
-   ],
-   "imdb": 4.8,
-   "rt": null,
-   "duracion": "1 h 42 min",
-   "sinopsis": "Una ciudad está poblada por varios clanes de gánsteres que dirigen varios negocios en los mercados negros. Cada clan quiere ser el gobernante absoluto, pero bajo el reinado de Big Boss, que cobra tarifas criminales por tema, el equilibrio entre ellos se mantiene de manera similar a la equidad entre los ilegales y los legales. Tee, Kid, Tuek y Sim, una pandilla de adictos a los juegos de computadora, se convirtieron en menciones de Big Boss. Cuando Big Boss murió abruptamente, Tee está a punto de informar a su equipo, pero duda y decide ocultar este hecho al resto. Para que pueda jugar otro juego con sus compañeros y satisfacer el último deseo de Big Boss.",
-   "poster": "https://image.tmdb.org/t/p/w342/wlMV4uGzj3znNtJwBTmV3BiNYGt.jpg",
-   "reparto": [
-    {
-     "nombre": "พิทวัส พฤกษกิจ",
-     "foto": "https://image.tmdb.org/t/p/w185/quwuaoK2zFr7la4Or8JuKtlOfnS.jpg"
-    },
-    {
-     "nombre": "อิศรา กิจนิตย์ชีว์",
-     "foto": "https://image.tmdb.org/t/p/w185/kaEkpevtYDXEqOw8eBHlDVCNUh5.jpg"
-    },
-    {
-     "nombre": "Kyutae Sim",
-     "foto": "https://image.tmdb.org/t/p/w185/wvBj8yd8HN5wzSl7iMsPcX25Z7a.jpg"
-    },
-    {
-     "nombre": "คุณพัทธ์ พิเชษฐ์วรวุฒิ",
-     "foto": "https://image.tmdb.org/t/p/w185/9EFuznRrHF6CpLmOytGNS9LmIh9.jpg"
-    },
-    {
-     "nombre": "พลอยไพลิน ตั้งประภาพร",
-     "foto": "https://image.tmdb.org/t/p/w185/dtEdV49INksbW7bNdM0IrhFFOj6.jpg"
-    },
-    {
-     "nombre": "Day Thaitanium",
-     "foto": null
-    }
-   ],
-   "trailer": null,
-   "temporadas_det": []
-  },
-  {
-   "id": "714",
-   "titulo": "Mystic River",
-   "tipo": "p",
-   "plataforma": "netflix",
-   "estado": "expiring",
-   "fecha": "2026-11-17",
-   "genero": "Suspense",
-   "generos": [
-    "Suspense",
-    "Drama",
-    "Misterio",
-    "Crimen"
-   ],
-   "imdb": 7.8,
-   "rt": 89,
-   "duracion": "2 h 17 min",
-   "sinopsis": "Cuando Jimmy Markum, Dave Boyle y Sean Devine eran unos niños que crecían juntos en un peligroso barrio obrero de Boston, pasaban los días jugando al hockey en la calle. Pero, un día, a Dave le ocurrió algo que marcó para siempre su vida y las de sus amigos. Veinticinco años más tarde, otra tragedia los vuelve a unir: el asesinato de Katie, la hija de 19 años de Jimmy. A Sean, que es policía, le asignan el caso; pero también tiene que estar muy pendiente de Jimmy porque, en su desesperación, está intentando tomarse la justicia por su mano.",
-   "poster": "https://image.tmdb.org/t/p/w342/b6j7T4uBjXdG8FBMuDFsHttgIK2.jpg",
-   "reparto": [
-    {
-     "nombre": "Sean Penn",
-     "foto": "https://image.tmdb.org/t/p/w185/9glqNTVpFpdN1nFklKaHPUyCwR6.jpg"
-    },
-    {
-     "nombre": "Tim Robbins",
-     "foto": "https://image.tmdb.org/t/p/w185/3FfJMIVwXgsIXbAT8ECBSZJAncR.jpg"
-    },
-    {
-     "nombre": "Kevin Bacon",
-     "foto": "https://image.tmdb.org/t/p/w185/rjX2Oz3tCZMfSwOoIAyEhdtXnTE.jpg"
-    },
-    {
-     "nombre": "Laurence Fishburne",
-     "foto": "https://image.tmdb.org/t/p/w185/2GbXERENPpl5MmlqOLlPVaVtifD.jpg"
-    },
-    {
-     "nombre": "Marcia Gay Harden",
-     "foto": "https://image.tmdb.org/t/p/w185/5vxcHIHABJxqhweAsTiXVOhT4SE.jpg"
-    },
-    {
-     "nombre": "Laura Linney",
-     "foto": "https://image.tmdb.org/t/p/w185/6I31xZxo9Hq6T0OhSwCUjHd8jkB.jpg"
-    }
-   ],
-   "trailer": "https://www.youtube.com/watch?v=iCYoGicgruU",
-   "temporadas_det": []
-  },
-  {
-   "id": "1866252",
-   "titulo": "Renfield",
-   "tipo": "p",
-   "plataforma": "netflix",
-   "estado": "expiring",
-   "fecha": "2026-11-17",
-   "genero": "Comedia",
-   "generos": [
-    "Comedia",
-    "Fantasía",
-    "Terror"
-   ],
-   "imdb": 6.4,
-   "rt": 58,
-   "duracion": "1 h 33 min",
-   "sinopsis": "En este moderno y monstruoso relato sobre el fiel ayudante de Drácula, Renfield se ve obligado a procurarle víctimas a su amo y hacer todo aquello que este le ordene, por inmoral que sea. Pero ahora, tras siglos de servidumbre, Renfield está listo para descubrir si hay vida lejos de la alargada sombra del Príncipe de las Tinieblas. ¿El problema? Que no sabe cómo romper esa relación de dependencia.",
-   "poster": "https://image.tmdb.org/t/p/w342/5dRS9I4zAxsUm3za9dg1nFDDwoO.jpg",
-   "reparto": [
-    {
-     "nombre": "Nicholas Hoult",
-     "foto": "https://image.tmdb.org/t/p/w185/pXm8GWTm9eIA8pUGOjvmYjlxamu.jpg"
-    },
-    {
-     "nombre": "Nicolas Cage",
-     "foto": "https://image.tmdb.org/t/p/w185/y1RtezurZYveYkVNRht7CwEgSYY.jpg"
-    },
-    {
-     "nombre": "Awkwafina",
-     "foto": "https://image.tmdb.org/t/p/w185/l5AKkg3H1QhMuXmTTmq1EyjyiRb.jpg"
-    },
-    {
-     "nombre": "Ben Schwartz",
-     "foto": "https://image.tmdb.org/t/p/w185/hWEQe66jXUAGVhbU5dy8s0IrrAQ.jpg"
-    },
-    {
-     "nombre": "Shohreh Aghdashloo",
-     "foto": "https://image.tmdb.org/t/p/w185/7josGC8QO9V6V8AuFdaS2tjUF8W.jpg"
-    },
-    {
-     "nombre": "Brandon Scott Jones",
-     "foto": "https://image.tmdb.org/t/p/w185/lgw6q8nuBLDet1VUIEbuS5FX9eJ.jpg"
-    }
-   ],
-   "trailer": "https://www.youtube.com/watch?v=8HnpIJ_KNi0",
-   "temporadas_det": []
-  },
   {
    "id": "618",
    "titulo": "Pacific Rim",
@@ -2369,6 +2228,148 @@
    "temporadas_det": []
   },
   {
+   "id": "2073",
+   "titulo": "Uncharted",
+   "tipo": "p",
+   "plataforma": "netflix",
+   "estado": "expiring",
+   "fecha": "2026-11-25",
+   "genero": "Acción",
+   "generos": [
+    "Acción",
+    "Aventura",
+    "Misterio"
+   ],
+   "imdb": 6.4,
+   "rt": null,
+   "duracion": "1 h 55 min",
+   "sinopsis": "Descubre la primera aventura de Nathan Drake, un joven, astuto y carismático cazatesoros, con su ingenioso compañero Victor “Sully” Sullivan. En una aventura de acción que se extiende por todo el mundo, ambos se embarcan en una peligrosa búsqueda de “el mayor tesoro nunca antes encontrado” al tiempo que rastrean las claves que les podrían conducir al hermano de Nathan, perdido hace ya mucho tiempo.",
+   "poster": "https://image.tmdb.org/t/p/w342/8FiWi61YRbkN95xmH668iq5sCo1.jpg",
+   "reparto": [
+    {
+     "nombre": "Tom Holland",
+     "foto": "https://image.tmdb.org/t/p/w185/xKBAaPIa1c7tzZD3Y0MhBLv4hPE.jpg"
+    },
+    {
+     "nombre": "Mark Wahlberg",
+     "foto": "https://image.tmdb.org/t/p/w185/1Oc3XSLyb8hxmjmlgFENu582Kqw.jpg"
+    },
+    {
+     "nombre": "Sophia Ali",
+     "foto": "https://image.tmdb.org/t/p/w185/45B39NY2LEYewNUiWtvFb7LrDct.jpg"
+    },
+    {
+     "nombre": "Tati Gabrielle",
+     "foto": "https://image.tmdb.org/t/p/w185/txZTL1HkPVxliTilbjlwR51VIt6.jpg"
+    },
+    {
+     "nombre": "Antonio Banderas",
+     "foto": "https://image.tmdb.org/t/p/w185/lpzfDt22374NPhOXZpUq74e9mfw.jpg"
+    },
+    {
+     "nombre": "Steven Waddington",
+     "foto": "https://image.tmdb.org/t/p/w185/hTsS9lg5Qi8KeWXmnMn45LfnIAx.jpg"
+    }
+   ],
+   "trailer": "https://www.youtube.com/watch?v=l-LD16Yzi2c",
+   "temporadas_det": []
+  },
+  {
+   "id": "3044",
+   "titulo": "Crank: Alto Voltaje",
+   "tipo": "p",
+   "plataforma": "netflix",
+   "estado": "expiring",
+   "fecha": "2026-11-25",
+   "genero": "Acción",
+   "generos": [
+    "Acción",
+    "Suspense",
+    "Crimen"
+   ],
+   "imdb": 6.0,
+   "rt": 64,
+   "duracion": "1 h 36 min",
+   "sinopsis": "Chev Chelios (Jason Statham) se salva de la muerte cuando el jefe mafioso chino cambia su corazón por una potente batería que le mantiene vivo. El único problema es que requiere descargas eléctricas para seguir funcionando.",
+   "poster": "https://image.tmdb.org/t/p/w342/25H2JzYmsBG5869h0bxkShDyov1.jpg",
+   "reparto": [
+    {
+     "nombre": "Jason Statham",
+     "foto": "https://image.tmdb.org/t/p/w185/8l6lmrmKFDvhDjMJPj6tBpJdhaA.jpg"
+    },
+    {
+     "nombre": "Amy Smart",
+     "foto": "https://image.tmdb.org/t/p/w185/9GQwkmqd5klfXvhd29YI5OKAx3N.jpg"
+    },
+    {
+     "nombre": "Dwight Yoakam",
+     "foto": "https://image.tmdb.org/t/p/w185/lMqcRiQs2OELf0xvFbLbX4nnXi8.jpg"
+    },
+    {
+     "nombre": "Efren Ramirez",
+     "foto": "https://image.tmdb.org/t/p/w185/vo4IDt4NeNCHBXLz58Wjlx5994a.jpg"
+    },
+    {
+     "nombre": "Julanne Chidi Hill",
+     "foto": "https://image.tmdb.org/t/p/w185/nicHdYpNDyy7jZ9Z5Q6e9gcSFTx.jpg"
+    },
+    {
+     "nombre": "Jose Pablo Cantillo",
+     "foto": "https://image.tmdb.org/t/p/w185/qtNesvN1bAQ779gJBt3LYDsm8f7.jpg"
+    }
+   ],
+   "trailer": "https://www.youtube.com/watch?v=sYsdD8xCQHA",
+   "temporadas_det": []
+  },
+  {
+   "id": "87929",
+   "titulo": "Calor mortal",
+   "tipo": "p",
+   "plataforma": "prime",
+   "estado": "expiring",
+   "fecha": "2026-11-26",
+   "genero": "Acción",
+   "generos": [
+    "Acción",
+    "Suspense",
+    "Crimen",
+    "Comedia"
+   ],
+   "imdb": 5.0,
+   "rt": 64,
+   "duracion": "1 h 24 min",
+   "sinopsis": "Cuando la mafia local aparece para incendiar su restaurante, Ana, una chef con un pasado meticuloso, defiende su territorio y demuestra sus habilidades con el cuchillo tanto dentro como fuera de la cocina.",
+   "poster": "https://image.tmdb.org/t/p/w342/hKPVrBoO8JBRH8vw1wVFX93iMS2.jpg",
+   "reparto": [
+    {
+     "nombre": "Ольга Куриленко",
+     "foto": "https://image.tmdb.org/t/p/w185/ei6eYUhQFw2AaV6U5fyPptBaPF0.jpg"
+    },
+    {
+     "nombre": "Don Johnson",
+     "foto": "https://image.tmdb.org/t/p/w185/6s6oav541p7xspCG6PvXut7knkP.jpg"
+    },
+    {
+     "nombre": "Chris Diamantopoulos",
+     "foto": "https://image.tmdb.org/t/p/w185/oenBtpk0RTId4wacQKYU4cPcq8Z.jpg"
+    },
+    {
+     "nombre": "Kaitlin Doubleday",
+     "foto": "https://image.tmdb.org/t/p/w185/rM62XI8aBUcyCT19i9bpNxSjjgd.jpg"
+    },
+    {
+     "nombre": "Dallas Page",
+     "foto": "https://image.tmdb.org/t/p/w185/fuuDFz0VesWZQMvE9h15gvWi9Jr.jpg"
+    },
+    {
+     "nombre": "Dylan Flashner",
+     "foto": "https://image.tmdb.org/t/p/w185/nMDE5OFcc1cSioewYSlJDdbt9X7.jpg"
+    }
+   ],
+   "trailer": "https://www.youtube.com/watch?v=XZoDwdLJUK0",
+   "temporadas_det": []
+  },
+  {
    "id": "27300873",
    "titulo": "Tyler Perry's The Gospel of Christmas",
    "tipo": "p",
@@ -4366,122 +4367,6 @@
    "temporadas_det": []
   },
   {
-   "id": "25932376",
-   "titulo": "Ireland's Mother and Baby Scandal",
-   "tipo": "p",
-   "plataforma": "prime",
-   "estado": "new",
-   "fecha": "2026-11-15",
-   "genero": "Crimen",
-   "generos": [
-    "Crimen",
-    "Documental",
-    "Historia"
-   ],
-   "imdb": null,
-   "rt": null,
-   "duracion": "47 min",
-   "sinopsis": "",
-   "poster": "https://image.tmdb.org/t/p/w342/mTN0QCo2VUCFuP0enHi6GbKDbxT.jpg",
-   "reparto": [],
-   "trailer": null,
-   "temporadas_det": []
-  },
-  {
-   "id": "71533",
-   "titulo": "Una Nochebuena cualquiera",
-   "tipo": "p",
-   "plataforma": "prime",
-   "estado": "new",
-   "fecha": "2026-11-15",
-   "genero": "Comedia",
-   "generos": [
-    "Comedia",
-    "Drama",
-    "Familia",
-    "Película de TV"
-   ],
-   "imdb": 6.0,
-   "rt": null,
-   "duracion": "1 h 35 min",
-   "sinopsis": "Una serie de contratiempos amenazan los intentos de una madre recién divorciada de hacer una perfecta primera Navidad con sus dos hijos \"sin padre\".",
-   "poster": "https://image.tmdb.org/t/p/w342/iA31KXW9NwnbJYxdZ4vgfrlRVTB.jpg",
-   "reparto": [
-    {
-     "nombre": "Anne Heche",
-     "foto": "https://image.tmdb.org/t/p/w185/65LVuA01bmKCmr8yqY2Ae3IgeC4.jpg"
-    },
-    {
-     "nombre": "Carlos Gómez",
-     "foto": "https://image.tmdb.org/t/p/w185/4uCM3Y4QS2uaRJBYf7Yi67VvPHl.jpg"
-    },
-    {
-     "nombre": "Kevin Daniels",
-     "foto": "https://image.tmdb.org/t/p/w185/poBtBxOZ4VxNox0I3Fd5nysviNg.jpg"
-    },
-    {
-     "nombre": "Brian Tee",
-     "foto": "https://image.tmdb.org/t/p/w185/ieqbktfBwcHkeikMfNDW94Yffzp.jpg"
-    },
-    {
-     "nombre": "Alissa Skovbye",
-     "foto": "https://image.tmdb.org/t/p/w185/gmt8w0sCToGv80eVCw7Y9fqsEZC.jpg"
-    },
-    {
-     "nombre": "Tracy Waterhouse",
-     "foto": "https://image.tmdb.org/t/p/w185/4IEjzCIRiI10TOGNXbiLK820PFh.jpg"
-    }
-   ],
-   "trailer": "https://www.youtube.com/watch?v=PHWmAWdZjOU",
-   "temporadas_det": []
-  },
-  {
-   "id": "24669036",
-   "titulo": "Madden",
-   "tipo": "p",
-   "plataforma": "prime",
-   "estado": "upcoming",
-   "fecha": "2026-11-18",
-   "genero": "Drama",
-   "generos": [
-    "Drama",
-    "Historia"
-   ],
-   "imdb": null,
-   "rt": null,
-   "duracion": "1 h 50 min",
-   "sinopsis": "Narra la increíble trayectoria de John Madden junto a su mejor amigo y figura verdaderamente singular, Al Davis: desde su colaboración con los Raiders —con quienes ganaron un Super Bowl— hasta convertirse en la voz más reconocible del fútbol americano y crear la serie de videojuegos Madden NFL, conocida a nivel mundial.",
-   "poster": "https://image.tmdb.org/t/p/w342/bRa83oPFFPqaAF3wrpVWPqqfFel.jpg",
-   "reparto": [
-    {
-     "nombre": "Nicolas Cage",
-     "foto": "https://image.tmdb.org/t/p/w185/y1RtezurZYveYkVNRht7CwEgSYY.jpg"
-    },
-    {
-     "nombre": "Christian Bale",
-     "foto": "https://image.tmdb.org/t/p/w185/7Pxez9J8fuPd2Mn9kex13YALrCQ.jpg"
-    },
-    {
-     "nombre": "John Mulaney",
-     "foto": "https://image.tmdb.org/t/p/w185/i3dGv3WoIONVLSlOpW4NIaT8Fs2.jpg"
-    },
-    {
-     "nombre": "Kathryn Hahn",
-     "foto": "https://image.tmdb.org/t/p/w185/9sVllAKfEls3SJD3GoPm2JEZoa5.jpg"
-    },
-    {
-     "nombre": "Sienna Miller",
-     "foto": "https://image.tmdb.org/t/p/w185/lq2mEeDbL98bSz0H7xcHA3F2Rrb.jpg"
-    },
-    {
-     "nombre": "Shane Gillis",
-     "foto": "https://image.tmdb.org/t/p/w185/ijRXBDjfazwne2jxjWEaaWqPw2.jpg"
-    }
-   ],
-   "trailer": "https://www.youtube.com/watch?v=xzh7HzLXXpk",
-   "temporadas_det": []
-  },
-  {
    "id": "24601339",
    "titulo": "When a Witness Recants",
    "tipo": "p",
@@ -4564,7 +4449,7 @@
    "rt": null,
    "duracion": "1 temporada, 4 episodios",
    "sinopsis": "",
-   "poster": "https://www.movieofthenight.com/media/image.svg?title=The+Law+of+Beasts&width=240&direction=vertical",
+   "poster": "https://cdn.movieofthenight.com/show/26597442/poster/vertical/en/240.jpg?Expires=1826565308&Signature=GmUTFL33ATPCuvyyfEi8uGoBx22qnXc1DAhynNMNrJ~vFr5ltmmHe1YKPGpSj6MyIkwhuTicsTJZCCaB7~AgrQ3fZKMwk8h33wLUBeGdy1Uabxp1odEdWCFuFu1QPeOqg2A1jiF3QypPjrWTWNpaezk3nYTAZlO7oD4JGU-GCtQq024OqjqAIDxo6P0F4F4NGaA0hZQyxjqOTs02JsOtI8pR6Dhr6JQ0Gs7j7K6XpiM2odlC6huHRgyEy--uTknh9TR34bwqua6BMMI7Ljlcjos9VaZxbkG4QkCx7-XwrCcO8hhIGczI7u5Y6I1nLR5-zU38VNAcVFw~wqxIM17BRQ__&Key-Pair-Id=KK4HN3OO4AT5R",
    "reparto": [
     {
      "nombre": "Agnieszka Grochowska",
