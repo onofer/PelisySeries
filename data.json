@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-18T00:47:26+00:00",
+ "generado": "2026-11-18T15:25:34+00:00",
  "pais": "ES",
  "items": [
   {
@@ -4227,429 +4227,51 @@
    "temporadas_det": []
   },
   {
-   "id": "28271",
-   "titulo": "Piel de serpiente",
-   "tipo": "p",
-   "plataforma": "prime",
-   "estado": "new",
-   "fecha": "2026-11-15",
-   "genero": "Romance",
-   "generos": [
-    "Romance",
-    "Drama"
-   ],
-   "imdb": 6.9,
-   "rt": 56,
-   "duracion": "2 h 15 min",
-   "sinopsis": "Adaptación de \"La caída de Orfeo\", drama de Tennessee Williams. Valentine 'Snakeskin' Xavier (Marlon Brando) es un músico de Nueva Orleáns que lleva una vida errante y muy irregular que le crea frecuentes problemas con la ley, razón por la cual se ve obligado a cambiar de ciudad continuamente. Durante un viaje, se detiene en Two Rivers, cerca del Mississippi. Allí consigue trabajo en la tienda de Lady Torrance (Anna Magnani), una mujer madura de origen italiano que se convierte en su amante. Al mismo tiempo, tambien se siente atraído por Carol Cutrere (Joanne Woodward), una joven alcohólica que corresponde a sus sentimientos.",
-   "poster": "https://image.tmdb.org/t/p/w342/vr7qs2dvVAZ1syc93ZGH3FQmD0P.jpg",
-   "reparto": [
-    {
-     "nombre": "Marlon Brando",
-     "foto": "https://image.tmdb.org/t/p/w185/yIvLpf9U9NfAvC7fuAgOQ8tu51T.jpg"
-    },
-    {
-     "nombre": "Anna Magnani",
-     "foto": "https://image.tmdb.org/t/p/w185/iT6FUf7z5O2N9OOZFxhreVWRHYp.jpg"
-    },
-    {
-     "nombre": "Joanne Woodward",
-     "foto": "https://image.tmdb.org/t/p/w185/exxVnvJM9oTT1zEjFhcEHidpQ6P.jpg"
-    },
-    {
-     "nombre": "Victor Jory",
-     "foto": "https://image.tmdb.org/t/p/w185/6H3Qr1HcKNEp9p3ZNUqs1YQ1aeW.jpg"
-    },
-    {
-     "nombre": "Maureen Stapleton",
-     "foto": "https://image.tmdb.org/t/p/w185/rXwg71O6oU6x3sB5c4erlAu7mhy.jpg"
-    },
-    {
-     "nombre": "R.G. Armstrong",
-     "foto": "https://image.tmdb.org/t/p/w185/5UjO0XPx6zoubmtb8jOUvaCBmiG.jpg"
-    }
-   ],
-   "trailer": "https://www.youtube.com/watch?v=Wr_kd-ivZ9c",
-   "temporadas_det": []
-  },
-  {
-   "id": "27545",
-   "titulo": "El camino de Cutter",
-   "tipo": "p",
-   "plataforma": "prime",
-   "estado": "new",
-   "fecha": "2026-11-15",
-   "genero": "Drama",
-   "generos": [
-    "Drama",
-    "Misterio",
-    "Suspense",
-    "Crimen"
-   ],
-   "imdb": 6.7,
-   "rt": 92,
-   "duracion": "1 h 49 min",
-   "sinopsis": "Una intriga criminal y tres inadaptados se mezclan en este thriller con aires de cine negro. Según algunos críticos norteamericanos y británicos, uno de los films claves de la década de los ochenta. (FILMAFFINITY)",
-   "poster": "https://image.tmdb.org/t/p/w342/iDKMMWwYs7clBrO1kfQ9hPH1YEZ.jpg",
-   "reparto": [
-    {
-     "nombre": "Jeff Bridges",
-     "foto": "https://image.tmdb.org/t/p/w185/xms1RAY6q7Lzp7wNeRCB0kzhucn.jpg"
-    },
-    {
-     "nombre": "John Heard",
-     "foto": "https://image.tmdb.org/t/p/w185/zjhcxrCFK4q0C1gtVmeN8FeqCw0.jpg"
-    },
-    {
-     "nombre": "Lisa Eichhorn",
-     "foto": "https://image.tmdb.org/t/p/w185/gMKTeKne8A3E8p5HxwOCX5Wts1A.jpg"
-    },
-    {
-     "nombre": "Stephen Elliott",
-     "foto": "https://image.tmdb.org/t/p/w185/ueLx0ahogooLzpBGMtNQ5e216VB.jpg"
-    },
-    {
-     "nombre": "Arthur Rosenberg",
-     "foto": "https://image.tmdb.org/t/p/w185/t9O9LFof5DJoWLOmDHXQm8bl8e8.jpg"
-    },
-    {
-     "nombre": "Nina van Pallandt",
-     "foto": "https://image.tmdb.org/t/p/w185/8eUeOcWHczbpFGYyYtYTgZC7WES.jpg"
-    }
-   ],
-   "trailer": "https://www.youtube.com/watch?v=FPFgPSkw6Oo",
-   "temporadas_det": []
-  },
-  {
-   "id": "25940359",
-   "titulo": "Pueblo de Cenizas",
-   "tipo": "p",
-   "plataforma": "prime",
-   "estado": "new",
-   "fecha": "2026-11-15",
-   "genero": "Terror",
-   "generos": [
-    "Terror",
-    "Suspense"
-   ],
-   "imdb": null,
-   "rt": null,
-   "duracion": "1 h 40 min",
-   "sinopsis": "Antonio, heredero de una hacienda cafetera, vive con su padre Ramón, un colono que enviudó en sucesos extraños y con su esposa Evelia, quien no puede darle un hijo para continuar con el linaje familiar. En el pueblo conviven naturalmente con leyendas, brujas y demonios propios de la región, hasta que llega Miriam, la sobrina huérfana de Evelia quien es atacada misteriosamente por El Duende, un ser sobrenatural aparentemente inofensivo, que presta su poder al servicio de las pasiones humanas y es capaz de lo peor para conservar su territorio.",
-   "poster": "https://image.tmdb.org/t/p/w342/jU2jRkwo6PGrpwHcAnhvhNhR8rt.jpg",
-   "reparto": [
-    {
-     "nombre": "Caterine Escobar",
-     "foto": null
-    },
-    {
-     "nombre": "Alex Adames",
-     "foto": null
-    },
-    {
-     "nombre": "Luis Fernando Hoyos",
-     "foto": null
-    },
-    {
-     "nombre": "Patricia Tamayo",
-     "foto": "https://image.tmdb.org/t/p/w185/tanOAogWo2ECSsPonlLp3pNPpk.jpg"
-    },
-    {
-     "nombre": "Jorge Herrera",
-     "foto": "https://image.tmdb.org/t/p/w185/gKZQnmOH8NEqDiUKM7qrW5HinuB.jpg"
-    },
-    {
-     "nombre": "Patricia Castaño Valencia",
-     "foto": null
-    }
-   ],
-   "trailer": "https://www.youtube.com/watch?v=VMTELYWKsUQ",
-   "temporadas_det": []
-  },
-  {
-   "id": "24601339",
-   "titulo": "When a Witness Recants",
+   "id": "5274355",
+   "titulo": "Siempre nos quedará mañana",
    "tipo": "p",
    "plataforma": "hbo",
-   "estado": "upcoming",
+   "estado": "new",
    "fecha": "2026-11-18",
-   "genero": "Documental",
+   "genero": "Historia",
    "generos": [
-    "Documental",
-    "Animación"
-   ],
-   "imdb": 4.0,
-   "rt": null,
-   "duracion": "1 h 52 min",
-   "sinopsis": "",
-   "poster": "https://image.tmdb.org/t/p/w342/jWHwiwbLAjLCg9WZlE1eMKvV5Nr.jpg",
-   "reparto": [],
-   "trailer": "https://www.youtube.com/watch?v=CV04IYt-n_g",
-   "temporadas_det": []
-  },
-  {
-   "id": "26597286",
-   "titulo": "Guarding Stars",
-   "tipo": "p",
-   "plataforma": "netflix",
-   "estado": "upcoming",
-   "fecha": "2026-11-18",
-   "genero": "Comedia",
-   "generos": [
+    "Historia",
     "Comedia",
-    "Romance"
+    "Drama"
    ],
-   "imdb": null,
-   "rt": null,
-   "duracion": "",
-   "sinopsis": "",
-   "poster": "https://image.tmdb.org/t/p/w342/wWNizZ4IcSld3xXH1WEXziJiNJN.jpg",
+   "imdb": 7.1,
+   "rt": 89,
+   "duracion": "1 h 58 min",
+   "sinopsis": "Es primavera y toda la familia está alborotada por el inminente compromiso de la querida hija mayor, Marcella, quien, por su parte, sólo espera casarse rápidamente con un simpático chico de clase media, Giulio, y librarse por fin de esa incómoda familia.",
+   "poster": "https://image.tmdb.org/t/p/w342/4v92mnLAfVfRcaQaEVmg2Ss2t72.jpg",
    "reparto": [
     {
-     "nombre": "Leighton Meester",
-     "foto": "https://image.tmdb.org/t/p/w185/6P8sa2eR2wpNkA1n1NVHREaeXPV.jpg"
+     "nombre": "Paola Cortellesi",
+     "foto": "https://image.tmdb.org/t/p/w185/6saUVpvd5WASLoWokWErTp5VviY.jpg"
     },
     {
-     "nombre": "Jared Padalecki",
-     "foto": "https://image.tmdb.org/t/p/w185/dTV5ImKP5uIdFShiG3VFbbjLFWo.jpg"
+     "nombre": "Valerio Mastandrea",
+     "foto": "https://image.tmdb.org/t/p/w185/tE7JkSuyv2N8vtEN0YypsCAxW9B.jpg"
     },
     {
-     "nombre": "Andie MacDowell",
-     "foto": "https://image.tmdb.org/t/p/w185/akeheO4i3cR1HpSU8yu9HrLcsKm.jpg"
+     "nombre": "Romana Maggiora Vergano",
+     "foto": "https://image.tmdb.org/t/p/w185/2tT5redcYdVbsgjd4kXXM4NspgU.jpg"
     },
     {
-     "nombre": "Walker Hayes",
-     "foto": "https://image.tmdb.org/t/p/w185/8kC7c8lO9grfgCP5FxLmEKCKMP6.jpg"
+     "nombre": "Emanuela Fanelli",
+     "foto": "https://image.tmdb.org/t/p/w185/iBnInh4sJq0VQKITiHPp4R5gJWc.jpg"
     },
     {
-     "nombre": "Noah LaLonde",
-     "foto": "https://image.tmdb.org/t/p/w185/kFN2p5zW8kbsLaEOA4usN88lq86.jpg"
+     "nombre": "Giorgio Colangeli",
+     "foto": "https://image.tmdb.org/t/p/w185/3LxOBPqDPT4k0CJ4hJGMSrYKtP1.jpg"
     },
     {
-     "nombre": "Toby Sandeman",
-     "foto": "https://image.tmdb.org/t/p/w185/5ZmXTHbRlbkQDtga4Cbk447osUY.jpg"
+     "nombre": "Vinicio Marchioni",
+     "foto": "https://image.tmdb.org/t/p/w185/phasNXLAL4fylSgts1dNdeXUkuZ.jpg"
     }
    ],
-   "trailer": "https://www.youtube.com/watch?v=mFvtVPMa5ak",
+   "trailer": "https://www.youtube.com/watch?v=Z5hAvdF6xQA",
    "temporadas_det": []
-  },
-  {
-   "id": "26597442",
-   "titulo": "Prawo bestii",
-   "tipo": "s",
-   "plataforma": "netflix",
-   "estado": "upcoming",
-   "fecha": "2026-11-18",
-   "genero": "Drama",
-   "generos": [
-    "Drama",
-    "Crimen"
-   ],
-   "imdb": null,
-   "rt": null,
-   "duracion": "1 temporada, 4 episodios",
-   "sinopsis": "",
-   "poster": "https://cdn.movieofthenight.com/show/26597442/poster/vertical/en/240.jpg?Expires=1826565308&Signature=GmUTFL33ATPCuvyyfEi8uGoBx22qnXc1DAhynNMNrJ~vFr5ltmmHe1YKPGpSj6MyIkwhuTicsTJZCCaB7~AgrQ3fZKMwk8h33wLUBeGdy1Uabxp1odEdWCFuFu1QPeOqg2A1jiF3QypPjrWTWNpaezk3nYTAZlO7oD4JGU-GCtQq024OqjqAIDxo6P0F4F4NGaA0hZQyxjqOTs02JsOtI8pR6Dhr6JQ0Gs7j7K6XpiM2odlC6huHRgyEy--uTknh9TR34bwqua6BMMI7Ljlcjos9VaZxbkG4QkCx7-XwrCcO8hhIGczI7u5Y6I1nLR5-zU38VNAcVFw~wqxIM17BRQ__&Key-Pair-Id=KK4HN3OO4AT5R",
-   "reparto": [
-    {
-     "nombre": "Agnieszka Grochowska",
-     "foto": "https://image.tmdb.org/t/p/w185/9XBjnqR2PWw4KdcyTRaTZCFllxu.jpg"
-    },
-    {
-     "nombre": "Agnieszka Żulewska",
-     "foto": "https://image.tmdb.org/t/p/w185/4rvcJMkl1Test5C6DFFpqJY2CrJ.jpg"
-    },
-    {
-     "nombre": "Michał Pawlik",
-     "foto": "https://image.tmdb.org/t/p/w185/loDhKENuDQ6VCijcWVq9WUBvuX9.jpg"
-    }
-   ],
-   "trailer": null,
-   "temporadas_det": [
-    {
-     "n": 1,
-     "eps": [
-      {
-       "n": 1,
-       "t": "Episodio 1",
-       "f": "2026-11-18"
-      },
-      {
-       "n": 2,
-       "t": "Episodio 2",
-       "f": "2026-11-18"
-      },
-      {
-       "n": 3,
-       "t": "Episodio 3",
-       "f": "2026-11-18"
-      },
-      {
-       "n": 4,
-       "t": "Episodio 4",
-       "f": "2026-11-18"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "id": "27519278",
-   "titulo": "Win the Mall",
-   "tipo": "s",
-   "plataforma": "netflix",
-   "estado": "upcoming",
-   "fecha": "2026-11-18",
-   "genero": "Reality",
-   "generos": [
-    "Reality"
-   ],
-   "imdb": null,
-   "rt": null,
-   "duracion": "1 temporada, 8 episodios",
-   "sinopsis": "",
-   "poster": "https://image.tmdb.org/t/p/w342/awZejt5KgmNzqlQIReQa4vJelx4.jpg",
-   "reparto": [
-    {
-     "nombre": "Haley Kalil",
-     "foto": "https://image.tmdb.org/t/p/w185/ArtQraKSijaHLBdRJk0KYLF3iik.jpg"
-    }
-   ],
-   "trailer": "https://www.youtube.com/watch?v=dnNvYvYk9yQ",
-   "temporadas_det": [
-    {
-     "n": 1,
-     "eps": [
-      {
-       "n": 1,
-       "t": "Episodio 1",
-       "f": "2026-11-18"
-      },
-      {
-       "n": 2,
-       "t": "Episodio 2",
-       "f": "2026-11-18"
-      },
-      {
-       "n": 3,
-       "t": "Episodio 3",
-       "f": "2026-11-18"
-      },
-      {
-       "n": 4,
-       "t": "Episodio 4",
-       "f": "2026-11-18"
-      },
-      {
-       "n": 5,
-       "t": "Episodio 5",
-       "f": "2026-11-18"
-      },
-      {
-       "n": 6,
-       "t": "Episodio 6",
-       "f": "2026-11-18"
-      },
-      {
-       "n": 7,
-       "t": "Episodio 7",
-       "f": "2026-11-18"
-      },
-      {
-       "n": 8,
-       "t": "Episodio 8",
-       "f": "2026-11-18"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "id": "27519885",
-   "titulo": "Gordon",
-   "tipo": "s",
-   "plataforma": "netflix",
-   "estado": "upcoming",
-   "fecha": "2026-11-18",
-   "genero": "Drama",
-   "generos": [
-    "Drama",
-    "Crimen"
-   ],
-   "imdb": null,
-   "rt": null,
-   "duracion": "1 temporada, 7 episodios",
-   "sinopsis": "Aníbal Gordon, un ladrón de poca monta, termina convertido en asesino múltiple en la Argentina de la década de 1970. Una serie dramática basada en el libro de Marcelo Larraquy.",
-   "poster": "https://image.tmdb.org/t/p/w342/8oRI8QXgSnz9CVQWWufiaE9DQ2l.jpg",
-   "reparto": [
-    {
-     "nombre": "Rodrigo de la Serna",
-     "foto": "https://image.tmdb.org/t/p/w185/yUngw2JLFYewHJq1oqx5JnNVpnW.jpg"
-    },
-    {
-     "nombre": "Matías Recalt",
-     "foto": "https://image.tmdb.org/t/p/w185/nM76X11MNK8G3CzeCieTDFOxw5r.jpg"
-    },
-    {
-     "nombre": "Camila Peralta",
-     "foto": "https://image.tmdb.org/t/p/w185/tmCYBZ8rCdLsK8hgjB1EBh83Cz8.jpg"
-    },
-    {
-     "nombre": "Fiorella Bottaioli",
-     "foto": "https://image.tmdb.org/t/p/w185/xLFjRuvHZ3OFzRqStsYJGCWgALj.jpg"
-    },
-    {
-     "nombre": "Agustín Pardella",
-     "foto": "https://image.tmdb.org/t/p/w185/ca5F6oZBc5lkBGg8h4PxbnWdheI.jpg"
-    },
-    {
-     "nombre": "Fernando Contigiani García",
-     "foto": "https://image.tmdb.org/t/p/w185/ayxKY2CnDcwVGkV9mWkHZYTTiuS.jpg"
-    }
-   ],
-   "trailer": "https://www.youtube.com/watch?v=BWs_qLVSNMo",
-   "temporadas_det": [
-    {
-     "n": 1,
-     "eps": [
-      {
-       "n": 1,
-       "t": "Episodio 1",
-       "f": "2026-11-18"
-      },
-      {
-       "n": 2,
-       "t": "Episodio 2",
-       "f": "2026-11-18"
-      },
-      {
-       "n": 3,
-       "t": "Episodio 3",
-       "f": "2026-11-18"
-      },
-      {
-       "n": 4,
-       "t": "Episodio 4",
-       "f": "2026-11-18"
-      },
-      {
-       "n": 5,
-       "t": "Episodio 5",
-       "f": "2026-11-18"
-      },
-      {
-       "n": 6,
-       "t": "Episodio 6",
-       "f": "2026-11-18"
-      },
-      {
-       "n": 7,
-       "t": "Episodio 7",
-       "f": "2026-11-18"
-      }
-     ]
-    }
-   ]
   },
   {
    "id": "27527107",
@@ -6207,6 +5829,163 @@
        "n": 7,
        "t": "Episodio 7",
        "f": "2026-12-01"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "25030318",
+   "titulo": "En busca del saco mágico",
+   "tipo": "p",
+   "plataforma": "prime",
+   "estado": "upcoming",
+   "fecha": "2026-12-02",
+   "genero": "Fantasía",
+   "generos": [
+    "Fantasía",
+    "Comedia",
+    "Familia",
+    "Acción"
+   ],
+   "imdb": null,
+   "rt": null,
+   "duracion": "",
+   "sinopsis": "Cuando una elfa rebelde y con sed de venganza roba el icónico saco rojo de Papá Noel, la Navidad se ve amenazada. Con la noche más importante del año a la vuelta de la esquina, Papá Noel recluta a un ladrón de su \"lista de los malos\", quien rápidamente reúne a un equipo de inadaptados con habilidades delictivas que, con un poco de ayuda de elfos y renos, darán el golpe más insólito de sus vidas.",
+   "poster": "https://image.tmdb.org/t/p/w342/1mgZyHcwrUwS8MjhL4YllbAysTe.jpg",
+   "reparto": [
+    {
+     "nombre": "Arnold Schwarzenegger",
+     "foto": "https://image.tmdb.org/t/p/w185/4jM3vsHIEQVeNFifiTAUDVAmiUo.jpg"
+    },
+    {
+     "nombre": "Alan Ritchson",
+     "foto": "https://image.tmdb.org/t/p/w185/92YNEEpCyugkTzPprJwZpvVtvuK.jpg"
+    },
+    {
+     "nombre": "Awkwafina",
+     "foto": "https://image.tmdb.org/t/p/w185/l5AKkg3H1QhMuXmTTmq1EyjyiRb.jpg"
+    },
+    {
+     "nombre": "Michael Cyril Creighton",
+     "foto": "https://image.tmdb.org/t/p/w185/nQ5CDkwEpLoscUNKq2xbu0u1UvD.jpg"
+    },
+    {
+     "nombre": "Liza Koshy",
+     "foto": "https://image.tmdb.org/t/p/w185/1Xs1DqpZTUCPyhHdjFhyFQaajg1.jpg"
+    },
+    {
+     "nombre": "Kyle Mooney",
+     "foto": "https://image.tmdb.org/t/p/w185/xywmFOt1OkUGa2Ex2YnmjI6gyd7.jpg"
+    }
+   ],
+   "trailer": "https://www.youtube.com/watch?v=PEVkJHLq4rQ",
+   "temporadas_det": []
+  },
+  {
+   "id": "26603188",
+   "titulo": "In a Holidaze",
+   "tipo": "p",
+   "plataforma": "netflix",
+   "estado": "upcoming",
+   "fecha": "2026-12-02",
+   "genero": "Ciencia ficción",
+   "generos": [
+    "Ciencia ficción",
+    "Romance",
+    "Comedia"
+   ],
+   "imdb": null,
+   "rt": null,
+   "duracion": "1 h 47 min",
+   "sinopsis": "En la historia que se presenta como una fusión entre Love Actually y el Día de la Marmota , es la época más maravillosa del año... pero no para Maelyn Jones. Vive con sus padres, odia su trabajo sin salida y acaba de cometer un error romántico de proporciones épicas. Durante un viaje navideño a la cabaña nevada favorita de su familia en Utah, le ruega al universo que la ayude a encontrar la felicidad, lo que resulta en un bucle temporal navideño del que no puede escapar.",
+   "poster": "https://image.tmdb.org/t/p/w342/fLgaNOlDG4pduslaeXJcaokanQ8.jpg",
+   "reparto": [
+    {
+     "nombre": "Maddie Ziegler",
+     "foto": "https://image.tmdb.org/t/p/w185/uYMtRyQS78el5XRLLnGBfMhVhif.jpg"
+    },
+    {
+     "nombre": "Rob Lowe",
+     "foto": "https://image.tmdb.org/t/p/w185/uY0u865QqHqT0YBtwdBXFfVI6Hr.jpg"
+    },
+    {
+     "nombre": "Graham Phillips",
+     "foto": "https://image.tmdb.org/t/p/w185/tDQQamh95HT4XcYJXyHzvT7QFE7.jpg"
+    },
+    {
+     "nombre": "Elias Kacavas",
+     "foto": "https://image.tmdb.org/t/p/w185/4KzuVpFgp1MOzRBdOAfyIYS4blE.jpg"
+    },
+    {
+     "nombre": "Patton Oswalt",
+     "foto": "https://image.tmdb.org/t/p/w185/ljQvjbPmcIAl205Lb2Mu4CW8WO7.jpg"
+    },
+    {
+     "nombre": "Jackie Sandler",
+     "foto": "https://image.tmdb.org/t/p/w185/7oLSJ2Ewlzg75m9dm2N9GqDQXvk.jpg"
+    }
+   ],
+   "trailer": "https://www.youtube.com/watch?v=5f1H5Rk9l4o",
+   "temporadas_det": []
+  },
+  {
+   "id": "5460818",
+   "titulo": "La II Guerra Mundial: Desde el frente",
+   "tipo": "s",
+   "plataforma": "netflix",
+   "estado": "upcoming",
+   "fecha": "2026-12-02",
+   "genero": "Documental",
+   "generos": [
+    "Documental",
+    "Bélica"
+   ],
+   "imdb": 6.7,
+   "rt": null,
+   "duracion": "1 temporada, 6 episodios",
+   "sinopsis": "Esta docuserie muestra la II Guerra Mundial como nunca antes a través de imágenes de archivo restauradas y testimonios de personas de los dos bandos del conflicto.",
+   "poster": "https://image.tmdb.org/t/p/w342/zPtVWfcHFn7Mtr1Ezz8zQH8VZTJ.jpg",
+   "reparto": [
+    {
+     "nombre": "John Boyega",
+     "foto": "https://image.tmdb.org/t/p/w185/3153CfpgZQXTzCY0i74WpJumMQe.jpg"
+    }
+   ],
+   "trailer": "https://www.youtube.com/watch?v=dz1rTZE9xgE",
+   "temporadas_det": [
+    {
+     "n": 1,
+     "eps": [
+      {
+       "n": 1,
+       "t": "Una raza superior",
+       "f": "2023-12-07"
+      },
+      {
+       "n": 2,
+       "t": "Dominar el mundo",
+       "f": "2023-12-07"
+      },
+      {
+       "n": 3,
+       "t": "Punto de inflexión",
+       "f": "2023-12-07"
+      },
+      {
+       "n": 4,
+       "t": "Fortaleza Europa",
+       "f": "2023-12-07"
+      },
+      {
+       "n": 5,
+       "t": "Invasión",
+       "f": "2023-12-07"
+      },
+      {
+       "n": 6,
+       "t": "Los últimos cartuchos",
+       "f": "2023-12-07"
       }
      ]
     }
