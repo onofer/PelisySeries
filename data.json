@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-20T00:28:07+00:00",
+ "generado": "2026-11-20T15:09:47+00:00",
  "pais": "ES",
  "items": [
   {
@@ -2052,45 +2052,44 @@
   },
   {
    "id": "239602",
-   "titulo": "Chain Reaction",
+   "titulo": "Reacción en cadena",
    "tipo": "p",
    "plataforma": "prime",
    "estado": "expiring",
    "fecha": "2026-11-26",
    "genero": "Acción",
    "generos": [
-    "Acción",
-    "Aventura"
+    "Acción"
    ],
    "imdb": 4.6,
    "rt": null,
-   "duracion": "1 h 41 min",
-   "sinopsis": "Guilherme is an honest family man. Exemplary auditor, no misappropriation of money escapes your scrutiny. Suddenly his life takes a turn: his wife asks for a divorce and he gets a promotion at work, and he meets an old crush, Lara. He discovers that his new boss runs a powerful embezzlement scheme to buy deputies. Guilherme decides to turn the game around.",
-   "poster": "https://cdn.movieofthenight.com/show/239602/poster/vertical/en/240.jpg?Expires=1818609279&Signature=kJtl1WNBR-4KQGlZD6fF8wlv3hnJXQfjDzPWDnG2WnEB5RhG9yOy7zdP0~3b5XVEKAe4Lf6qtKsx5Qdfvd65E2zA1cqVt0IvTvmLFIMns-WDz-haxhRLMPCElqM3dTtP-D44SbaJSEsFKVJCIuRJGBf~iXv-t~p-WUE4KdB9vKO7ogUhOg8RdsZWlQGqQNZbFDX-I7XoKPZ-PCAFLcDomC2U~kYyZO11wb3~fc8f~xZJ3W~ndHCC4J6hvPOF5jwmKYsrSPxdvwSAEcepieOgpEMFp8q9pls5NwYbV3OODIFaz9S4v7IrSyOLFtYVVBpzeZEQ5gOGUlVrBlzJN5Kxww__&Key-Pair-Id=KK4HN3OO4AT5R",
+   "duracion": "1 h 40 min",
+   "sinopsis": "Un contador pacífico, luego de reencontrar el amor de la juventud, descubre un gran desfalco en la empresa donde trabaja. Gracias al hecho, termina involucrándose en una red de corrupción que abastece al sistema político brasileño.",
+   "poster": "https://image.tmdb.org/t/p/w342/qfnYaV20yk9wm2Z0mJBq856zzSY.jpg",
    "reparto": [
     {
      "nombre": "Monique Alfradique",
-     "foto": null
+     "foto": "https://image.tmdb.org/t/p/w185/42G6lu5IeBvjMoQTyuKal2dcbbp.jpg"
     },
     {
      "nombre": "Bruno Gissoni",
-     "foto": null
+     "foto": "https://image.tmdb.org/t/p/w185/tJ5HiRTdtNO6NuSTbKWtSeuM1ry.jpg"
     },
     {
      "nombre": "André Bankoff",
-     "foto": null
+     "foto": "https://image.tmdb.org/t/p/w185/9CrdVLHHjARa9BVVhcaQbyBMP4G.jpg"
     },
     {
      "nombre": "Adriano Garib",
-     "foto": null
+     "foto": "https://image.tmdb.org/t/p/w185/w8jtj9gZ6oOvgcHoDstWFi19yGv.jpg"
     },
     {
      "nombre": "Silvio Matos",
-     "foto": null
+     "foto": "https://image.tmdb.org/t/p/w185/tY4WGh4QHXdFH5RoBUmAT68fgVU.jpg"
     },
     {
      "nombre": "Juliana Knust",
-     "foto": null
+     "foto": "https://image.tmdb.org/t/p/w185/89smIJLJBliInZbWnmCF5wA1iUU.jpg"
     }
    ],
    "trailer": null,
@@ -5174,97 +5173,6 @@
    "temporadas_det": []
   },
   {
-   "id": "27068123",
-   "titulo": "La vida secreta de las esposas mormonas: Orange County",
-   "tipo": "s",
-   "plataforma": "disney",
-   "estado": "new",
-   "fecha": "2026-11-19",
-   "genero": "Reality",
-   "generos": [
-    "Reality"
-   ],
-   "imdb": null,
-   "rt": null,
-   "duracion": "1 temporada, 10 episodios",
-   "sinopsis": "En el condado de Orange, un grupo de jóvenes y dinámicas madres choca en una comunidad donde sus creencias no son solo su religión, sino su identidad. Mientras unas defienden su estilo de vida y luchan contra la modernidad, otras abrazan el cambio y se convierten en una plataforma para romper con el statu quo. Saldrán a la luz escándalos y secretos, las apariencias se derrumbarán y las familias y amistades cambiarán para siempre en ambos bandos, mientras este grupo de influencers fuertes y rompedoras se une para crear su propia respuesta a #MomTok. Esto es \"Vidas secretas de esposas mormonas: Condado de Orange\".",
-   "poster": "https://image.tmdb.org/t/p/w342/rEcJkRhfs663zsjWCJhtsbRWv7g.jpg",
-   "reparto": [
-    {
-     "nombre": "Ashleigh Pease",
-     "foto": null
-    },
-    {
-     "nombre": "Aspyn Ovard",
-     "foto": null
-    },
-    {
-     "nombre": "Avery Woods",
-     "foto": null
-    },
-    {
-     "nombre": "Bobbi Althoff",
-     "foto": "https://image.tmdb.org/t/p/w185/3paiMEXfQXBsEWLbo44K3GKeoP4.jpg"
-    },
-    {
-     "nombre": "Jen Affleck",
-     "foto": "https://image.tmdb.org/t/p/w185/eSfIQ7Bhne9wyPb0lL2Y85Lz6nY.jpg"
-    },
-    {
-     "nombre": "Jordan McClanahan",
-     "foto": null
-    }
-   ],
-   "trailer": "https://www.youtube.com/watch?v=0JLdH0cPdnc",
-   "temporadas_det": [
-    {
-     "n": 1,
-     "eps": [
-      {
-       "n": 1,
-       "t": "Episodio 1",
-       "f": "2026-11-12"
-      },
-      {
-       "n": 2,
-       "t": "Episodio 2",
-       "f": "2026-11-12"
-      },
-      {
-       "n": 3,
-       "t": "Episodio 3",
-       "f": "2026-11-12"
-      },
-      {
-       "n": 4,
-       "t": "Episodio 4",
-       "f": "2026-11-12"
-      },
-      {
-       "n": 5,
-       "t": "Episodio 5",
-       "f": "2026-11-12"
-      },
-      {
-       "n": 6,
-       "t": "Episodio 6",
-       "f": "2026-11-12"
-      },
-      {
-       "n": 7,
-       "t": "Episodio 7",
-       "f": "2026-11-12"
-      },
-      {
-       "n": 8,
-       "t": "Episodio 8",
-       "f": "2026-11-12"
-      }
-     ]
-    }
-   ]
-  },
-  {
    "id": "23192496",
    "titulo": "Todos los lados de la cama",
    "tipo": "p",
@@ -6068,289 +5976,6 @@
      "foto": "https://image.tmdb.org/t/p/w185/nji2gk7rif5mgTer5WqyQ83VFTG.jpg"
     }
    ],
-   "trailer": null,
-   "temporadas_det": []
-  },
-  {
-   "id": "25370470",
-   "titulo": "Hermanastras",
-   "tipo": "p",
-   "plataforma": "netflix",
-   "estado": "upcoming",
-   "fecha": "2026-11-20",
-   "genero": "Animación",
-   "generos": [
-    "Animación",
-    "Fantasía",
-    "Comedia",
-    "Familia",
-    "Aventura"
-   ],
-   "imdb": null,
-   "rt": null,
-   "duracion": "1 h 42 min",
-   "sinopsis": "",
-   "poster": "https://image.tmdb.org/t/p/w342/jtfCcWZ3ZyKdgi0u7JVOxEOSSJP.jpg",
-   "reparto": [
-    {
-     "nombre": "Ali Wong",
-     "foto": "https://image.tmdb.org/t/p/w185/vpVDlzPIIzgwdO23MbbwvfmPtXQ.jpg"
-    },
-    {
-     "nombre": "Amanda Seyfried",
-     "foto": "https://image.tmdb.org/t/p/w185/gtBUIpZ3dvLpOMIVORxE6sHSyZj.jpg"
-    },
-    {
-     "nombre": "Stephanie Hsu",
-     "foto": "https://image.tmdb.org/t/p/w185/8gb3lfIHKQAGOQyeC4ynQPsCiHr.jpg"
-    },
-    {
-     "nombre": "Bette Midler",
-     "foto": "https://image.tmdb.org/t/p/w185/ooPKeoLvwacY6BRj99u7uvZCYlF.jpg"
-    },
-    {
-     "nombre": "Nikki Glaser",
-     "foto": "https://image.tmdb.org/t/p/w185/zF2UyqN6000VpUkgXVnM9JHuAhW.jpg"
-    },
-    {
-     "nombre": "Peter Dinklage",
-     "foto": "https://image.tmdb.org/t/p/w185/9CAd7wr8QZyIN0E7nm8v1B6WkGn.jpg"
-    }
-   ],
-   "trailer": "https://www.youtube.com/watch?v=tNV4i3BqUGY",
-   "temporadas_det": []
-  },
-  {
-   "id": "26596910",
-   "titulo": "푸른길",
-   "tipo": "s",
-   "plataforma": "netflix",
-   "estado": "upcoming",
-   "fecha": "2026-11-20",
-   "genero": "Crimen",
-   "generos": [
-    "Crimen",
-    "Misterio"
-   ],
-   "imdb": null,
-   "rt": null,
-   "duracion": "1 temporada, 8 episodios",
-   "sinopsis": "",
-   "poster": "https://image.tmdb.org/t/p/w342/rHgC4wYhpI8Vx7kSwA1OTvwQRh0.jpg",
-   "reparto": [
-    {
-     "nombre": "손석구",
-     "foto": "https://image.tmdb.org/t/p/w185/natZWFVBAWLKWCYebgVGywHtsME.jpg"
-    },
-    {
-     "nombre": "永山瑛太",
-     "foto": "https://image.tmdb.org/t/p/w185/10Q2xdJyMJ4Bngx8NDYtFbBcWLQ.jpg"
-    },
-    {
-     "nombre": "김신록",
-     "foto": "https://image.tmdb.org/t/p/w185/x4zo2mSbehnQY80PbuldAZ7ruGm.jpg"
-    },
-    {
-     "nombre": "최성은",
-     "foto": "https://image.tmdb.org/t/p/w185/sbtcXMrHoFVyX2Mw5s5NDryaUaM.jpg"
-    },
-    {
-     "nombre": "정재영",
-     "foto": "https://image.tmdb.org/t/p/w185/xeiFPl5GOHemLGGMpvzeiK0Nlpm.jpg"
-    },
-    {
-     "nombre": "나호원",
-     "foto": "https://image.tmdb.org/t/p/w185/9lmM8KcpUPDy7NYzyfTIOoVIdkC.jpg"
-    }
-   ],
-   "trailer": null,
-   "temporadas_det": [
-    {
-     "n": 1,
-     "eps": [
-      {
-       "n": 1,
-       "t": "Episodio 1",
-       "f": "2026-11-20"
-      },
-      {
-       "n": 2,
-       "t": "Episodio 2",
-       "f": "2026-11-20"
-      },
-      {
-       "n": 3,
-       "t": "Episodio 3",
-       "f": "2026-11-20"
-      },
-      {
-       "n": 4,
-       "t": "Episodio 4",
-       "f": "2026-11-20"
-      },
-      {
-       "n": 5,
-       "t": "Episodio 5",
-       "f": "2026-11-20"
-      },
-      {
-       "n": 6,
-       "t": "Episodio 6",
-       "f": "2026-11-20"
-      },
-      {
-       "n": 7,
-       "t": "Episodio 7",
-       "f": "2026-11-20"
-      },
-      {
-       "n": 8,
-       "t": "Episodio 8",
-       "f": "2026-11-20"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "id": "26030295",
-   "titulo": "Génesis",
-   "tipo": "s",
-   "plataforma": "netflix",
-   "estado": "upcoming",
-   "fecha": "2026-11-20",
-   "genero": "Drama",
-   "generos": [
-    "Drama"
-   ],
-   "imdb": null,
-   "rt": null,
-   "duracion": "1 temporada, 6 episodios",
-   "sinopsis": "",
-   "poster": "https://image.tmdb.org/t/p/w342/snrRW8Dc4iMMWqSXejxr0LvMhJs.jpg",
-   "reparto": [
-    {
-     "nombre": "Ivan Massagué",
-     "foto": "https://image.tmdb.org/t/p/w185/dmnJo2sGlfFjtKb8FDPlNjRhfyc.jpg"
-    },
-    {
-     "nombre": "Mónica López",
-     "foto": "https://image.tmdb.org/t/p/w185/7Gm2h0ApsorCUJhUA8gUtxrWzMd.jpg"
-    },
-    {
-     "nombre": "Miquel Fernández",
-     "foto": "https://image.tmdb.org/t/p/w185/xkJaKVSaLbwksDzvT5cacq9DuL6.jpg"
-    },
-    {
-     "nombre": "Carlos Cuevas",
-     "foto": "https://image.tmdb.org/t/p/w185/he5a5qQV3ZydOpTiBGb4HCrc8Z6.jpg"
-    },
-    {
-     "nombre": "Joana Vilapuig",
-     "foto": "https://image.tmdb.org/t/p/w185/pQpnPMsin3t8s8zLPGAqM2WYtFd.jpg"
-    }
-   ],
-   "trailer": null,
-   "temporadas_det": [
-    {
-     "n": 1,
-     "eps": [
-      {
-       "n": 1,
-       "t": "Episodio 1",
-       "f": "2026-09-21"
-      },
-      {
-       "n": 2,
-       "t": "Episodio 2",
-       "f": "2026-09-21"
-      },
-      {
-       "n": 3,
-       "t": "Episodio 3",
-       "f": "2026-09-28"
-      },
-      {
-       "n": 4,
-       "t": "Episodio 4",
-       "f": "2026-09-28"
-      },
-      {
-       "n": 5,
-       "t": "Episodio 5",
-       "f": "2026-10-05"
-      },
-      {
-       "n": 6,
-       "t": "Episodio 6",
-       "f": "2026-10-05"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "id": "26342721",
-   "titulo": "Vicentina pide disculpas",
-   "tipo": "p",
-   "plataforma": "netflix",
-   "estado": "upcoming",
-   "fecha": "2026-11-20",
-   "genero": "Drama",
-   "generos": [
-    "Drama"
-   ],
-   "imdb": null,
-   "rt": null,
-   "duracion": "2 h 28 min",
-   "sinopsis": "Vicentina lucha por sobrellevar la muerte de su hijo Wesley tras un trágico accidente de autobús que él mismo conducía. A medida que avanza la investigación, los indicios sugieren que las acciones de Wesley pudieron haber sido suicidas. Vicentina emprende entonces un viaje para buscar a las familias de las víctimas y pedirles perdón, mientras se enfrenta a su propio duelo y a la incertidumbre.",
-   "poster": "https://image.tmdb.org/t/p/w342/2Lw3ouMPsK8F0asNdXl2xfyV78T.jpg",
-   "reparto": [
-    {
-     "nombre": "Rejane Faria",
-     "foto": "https://image.tmdb.org/t/p/w185/iie8IOxVZF6JXB416EanhE2bqkT.jpg"
-    },
-    {
-     "nombre": "Maíra Azevedo",
-     "foto": "https://image.tmdb.org/t/p/w185/xYQfXAbP55oGag2JYAP0opVtVRX.jpg"
-    },
-    {
-     "nombre": "Thalma de Freitas",
-     "foto": "https://image.tmdb.org/t/p/w185/l5V2w20y5NhvyTOCaEx0dW3CWE.jpg"
-    },
-    {
-     "nombre": "Grace Passô",
-     "foto": "https://image.tmdb.org/t/p/w185/xzomAlvVQor81adGhWjf94F6rP0.jpg"
-    },
-    {
-     "nombre": "Giovanna Heliodoro",
-     "foto": null
-    },
-    {
-     "nombre": "Renato Novaes",
-     "foto": "https://image.tmdb.org/t/p/w185/gXdCJC9QPTC60gRwR2ZRPVCCkqX.jpg"
-    }
-   ],
-   "trailer": null,
-   "temporadas_det": []
-  },
-  {
-   "id": "27526879",
-   "titulo": "Primetime Preacher$",
-   "tipo": "p",
-   "plataforma": "netflix",
-   "estado": "upcoming",
-   "fecha": "2026-11-20",
-   "genero": "Documental",
-   "generos": [
-    "Documental"
-   ],
-   "imdb": null,
-   "rt": null,
-   "duracion": "",
-   "sinopsis": "",
-   "poster": "https://image.tmdb.org/t/p/w342/ilFRKYUhsYyW0mpSifpFZmpR9yo.jpg",
-   "reparto": [],
    "trailer": null,
    "temporadas_det": []
   },
@@ -7787,17 +7412,63 @@
    ]
   },
   {
+   "id": "24600513",
+   "titulo": "Mother Mary",
+   "tipo": "p",
+   "plataforma": "hbo",
+   "estado": "upcoming",
+   "fecha": "2026-12-04",
+   "genero": "Música",
+   "generos": [
+    "Música",
+    "Suspense",
+    "Drama"
+   ],
+   "imdb": 5.4,
+   "rt": null,
+   "duracion": "1 h 52 min",
+   "sinopsis": "La intensa relación entre la cantante de pop Mary y Sam, una antigua amiga suya, diseñadora de moda, que se vuelven a reunir tras la necesidad de la primera de un vestido para su nueva gira de conciertos.",
+   "poster": "https://image.tmdb.org/t/p/w342/d4CWItPJIjdnnRsao1DPBO3u5AD.jpg",
+   "reparto": [
+    {
+     "nombre": "Anne Hathaway",
+     "foto": "https://image.tmdb.org/t/p/w185/s6tflSD20MGz04ZR2R1lZvhmC4Y.jpg"
+    },
+    {
+     "nombre": "Michaela Coel",
+     "foto": "https://image.tmdb.org/t/p/w185/rbN1F0R8DMUh6IYwl0owyD8LukN.jpg"
+    },
+    {
+     "nombre": "Hunter Schafer",
+     "foto": "https://image.tmdb.org/t/p/w185/AilBKow2NuvPBQbvGRx69RxKUBi.jpg"
+    },
+    {
+     "nombre": "FKA twigs",
+     "foto": "https://image.tmdb.org/t/p/w185/8bUUu7jPEY1aQgAtJXM2NyYpfgN.jpg"
+    },
+    {
+     "nombre": "Sian Clifford",
+     "foto": "https://image.tmdb.org/t/p/w185/rIqcwewXdkrDTMTwX56QPa7MNTC.jpg"
+    },
+    {
+     "nombre": "Kaia Gerber",
+     "foto": "https://image.tmdb.org/t/p/w185/wO3y1JaO32GhqTVE7AE3ABkz1o7.jpg"
+    }
+   ],
+   "trailer": "https://www.youtube.com/watch?v=zw6OCs5nF-I",
+   "temporadas_det": []
+  },
+  {
    "id": "26635370",
    "titulo": "The Murder of JonBenét Ramsey",
    "tipo": "s",
    "plataforma": "netflix",
    "estado": "upcoming",
    "fecha": "2026-12-10",
-   "genero": "Crimen",
+   "genero": "Drama",
    "generos": [
-    "Crimen",
     "Drama",
-    "Misterio"
+    "Crimen"
    ],
    "imdb": null,
    "rt": null,
@@ -7807,31 +7478,77 @@
    "reparto": [
     {
      "nombre": "Melissa McCarthy",
-     "foto": null
+     "foto": "https://image.tmdb.org/t/p/w185/yl0qva0O4u92fvtItakdvKmKrW9.jpg"
     },
     {
      "nombre": "Clive Owen",
-     "foto": null
+     "foto": "https://image.tmdb.org/t/p/w185/xlWpuLgwxMnZEVgV9OID1TkUNtP.jpg"
     },
     {
      "nombre": "Emily Mitchell",
-     "foto": null
+     "foto": "https://image.tmdb.org/t/p/w185/A6gzXB5KbLwnrMH07lX3i43Lahs.jpg"
     },
     {
      "nombre": "Garrett Hedlund",
-     "foto": null
+     "foto": "https://image.tmdb.org/t/p/w185/9zec61HuFJgiUEzPSt0NfPIj0Xv.jpg"
     },
     {
      "nombre": "Alison Pill",
-     "foto": null
+     "foto": "https://image.tmdb.org/t/p/w185/qQm7UR0G8Kcxn7SKTNl6fdSfcTm.jpg"
     },
     {
      "nombre": "Shea Whigham",
-     "foto": null
+     "foto": "https://image.tmdb.org/t/p/w185/d3caK3l4UfbnzOxv95wLoFLZzMO.jpg"
     }
    ],
    "trailer": null,
-   "temporadas_det": []
+   "temporadas_det": [
+    {
+     "n": 1,
+     "eps": [
+      {
+       "n": 1,
+       "t": "Episodio 1",
+       "f": "2026-12-10"
+      },
+      {
+       "n": 2,
+       "t": "Episodio 2",
+       "f": "2026-12-10"
+      },
+      {
+       "n": 3,
+       "t": "Episodio 3",
+       "f": "2026-12-10"
+      },
+      {
+       "n": 4,
+       "t": "Episodio 4",
+       "f": "2026-12-10"
+      },
+      {
+       "n": 5,
+       "t": "Episodio 5",
+       "f": "2026-12-10"
+      },
+      {
+       "n": 6,
+       "t": "Episodio 6",
+       "f": "2026-12-10"
+      },
+      {
+       "n": 7,
+       "t": "Episodio 7",
+       "f": "2026-12-10"
+      },
+      {
+       "n": 8,
+       "t": "Episodio 8",
+       "f": "2026-12-10"
+      }
+     ]
+    }
+   ]
   },
   {
    "id": "27518542",
@@ -7840,43 +7557,43 @@
    "plataforma": "netflix",
    "estado": "upcoming",
    "fecha": "2026-12-10",
-   "genero": "Acción",
+   "genero": "Drama",
    "generos": [
-    "Acción",
+    "Drama",
     "Comedia"
    ],
    "imdb": null,
    "rt": null,
    "duracion": "",
    "sinopsis": "",
-   "poster": "https://cdn.movieofthenight.com/show/27518542/poster/vertical/en/240.jpg?Expires=1826666728&Signature=fBqwP5bKMc53agCGQym0b1NtMql5w~rG5SYb~QKQWTh-sKEIfhtD-DBQHuFtkEEnH907tfpaZNP0LFLHbmvBwOrtkuFO~5fc6FsHyCwnKpVSzaxg3YQjSpg~4n3ZuYlu5Y94JD1bMQj5G8mA1MhwGbhi9D3YJUITKA0mfIcg27fTHpuHVcF3kRm~91lTV0TWwefVTP7JZZddvDb8rb~rTzh-1js3GVIhHoUpGSEEEHZpmncle0KjDyuZhXv78xzvpdAknMu~bXniR11qXUkrBOXG8i3LjKUFa~VnFpcTx0z-JRTk9oVFKLAncsax6vZ5IpGJCBePvrTklxso8taHrQ__&Key-Pair-Id=KK4HN3OO4AT5R",
+   "poster": "https://image.tmdb.org/t/p/w342/gPzaBj052pM3tyrcdko8ghQkIV2.jpg",
    "reparto": [
     {
      "nombre": "Björn Gustafsson",
-     "foto": null
+     "foto": "https://image.tmdb.org/t/p/w185/70iVhIfiswXAHDqKWMhSSFAIkhH.jpg"
     },
     {
      "nombre": "Aliette Opheim",
-     "foto": null
+     "foto": "https://image.tmdb.org/t/p/w185/waFUEGAL58vlAiQe0q3FjdUwsLX.jpg"
     },
     {
      "nombre": "Bahador Foladi",
-     "foto": null
+     "foto": "https://image.tmdb.org/t/p/w185/iciyiV1tj2osd3JTOInoc24e4r3.jpg"
     },
     {
      "nombre": "Marie Richardson",
-     "foto": null
+     "foto": "https://image.tmdb.org/t/p/w185/y2zq5XV66m5IKGkPbT5VZ8n0s23.jpg"
     },
     {
      "nombre": "Vera Vitali",
-     "foto": null
+     "foto": "https://image.tmdb.org/t/p/w185/haEZ30hA9rROlaiUs0IfpDLbWwX.jpg"
     },
     {
      "nombre": "Peter Eggers",
-     "foto": null
+     "foto": "https://image.tmdb.org/t/p/w185/3Dt2L82P140PgIccGi3KwdaJFE9.jpg"
     }
    ],
-   "trailer": null,
+   "trailer": "https://www.youtube.com/watch?v=G18Dztgn81c",
    "temporadas_det": []
   }
  ]
