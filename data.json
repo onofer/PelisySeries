@@ -1,137 +1,7 @@
 {
- "generado": "2026-11-20T15:09:47+00:00",
+ "generado": "2026-11-20T23:51:26+00:00",
  "pais": "ES",
  "items": [
-  {
-   "id": "15599",
-   "titulo": "Calle Tzameti: 13 - El club del suicidio",
-   "tipo": "p",
-   "plataforma": "prime",
-   "estado": "expiring",
-   "fecha": "2026-11-20",
-   "genero": "Acción",
-   "generos": [
-    "Acción",
-    "Suspense"
-   ],
-   "imdb": 6.8,
-   "rt": 83,
-   "duracion": "1 h 35 min",
-   "sinopsis": "Sebastian es un joven de 20 años cuya familia inmigrante está pasando por penurias económicas. Para intentar sacarles de esa situación, acepta seguir unas instrucciones de un hombre adicto a la morfina para conseguir sacarse un dinero fácil. Así, una casual serie de acontecimientos, y el hallazgo de una carta que contiene un billete de tren y una reserva de hotel, llevarán a Sébastien a embarcarse en un viaje del que todo desconoce.",
-   "poster": "https://image.tmdb.org/t/p/w342/xPkR0dOqzMnMgjt5wVD9vdt67RP.jpg",
-   "reparto": [
-    {
-     "nombre": "გიორგი ბაბლუანი",
-     "foto": "https://image.tmdb.org/t/p/w185/rnLRO2ILupNGf8DvHaRlIOO931Z.jpg"
-    },
-    {
-     "nombre": "Aurélien Recoing",
-     "foto": "https://image.tmdb.org/t/p/w185/slDvlNa3l9eadFF2sANRk7jcjCl.jpg"
-    },
-    {
-     "nombre": "Pascal Bongard",
-     "foto": "https://image.tmdb.org/t/p/w185/bZXt06EFZQQxqdS8ZirC5Y6Oef0.jpg"
-    },
-    {
-     "nombre": "Fred Ulysse",
-     "foto": "https://image.tmdb.org/t/p/w185/zmPImRvC8p6J12IDCOJlXgWrYxj.jpg"
-    },
-    {
-     "nombre": "Nicolas Pignon",
-     "foto": null
-    },
-    {
-     "nombre": "Vania Vilers",
-     "foto": "https://image.tmdb.org/t/p/w185/feuwFPWk5dCCNQhK12H5szdTsG5.jpg"
-    }
-   ],
-   "trailer": null,
-   "temporadas_det": []
-  },
-  {
-   "id": "14625683",
-   "titulo": "Expediente Warren: El último rito",
-   "tipo": "p",
-   "plataforma": "hbo",
-   "estado": "expiring",
-   "fecha": "2026-11-20",
-   "genero": "Terror",
-   "generos": [
-    "Terror"
-   ],
-   "imdb": 6.3,
-   "rt": null,
-   "duracion": "2 h 16 min",
-   "sinopsis": "Los investigadores de lo paranormal Ed y Lorraine Warren se enfrentan a un último caso aterrador en el que están implicadas entidades misteriosas a las que deben enfrentarse.",
-   "poster": "https://image.tmdb.org/t/p/w342/vrfti9ycF4mlA5WuIyfgCf1LJQG.jpg",
-   "reparto": [
-    {
-     "nombre": "Patrick Wilson",
-     "foto": "https://image.tmdb.org/t/p/w185/oym6H2QD9esk4yABjCHaUoNAOa8.jpg"
-    },
-    {
-     "nombre": "Vera Farmiga",
-     "foto": "https://image.tmdb.org/t/p/w185/5Vs7huBmTKftwlsc2BPAntyaQYj.jpg"
-    },
-    {
-     "nombre": "Mia Tomlinson",
-     "foto": "https://image.tmdb.org/t/p/w185/i8Kel9mWoL86UCKGGz3zf5Fza6y.jpg"
-    },
-    {
-     "nombre": "Ben Hardy",
-     "foto": "https://image.tmdb.org/t/p/w185/qCV3G1OHTJgPHX9kbWEBbS9RwVJ.jpg"
-    },
-    {
-     "nombre": "Rebecca Calder",
-     "foto": "https://image.tmdb.org/t/p/w185/2pkBR7d9MMrgRUBopEc7kRP8ZJL.jpg"
-    },
-    {
-     "nombre": "Tilly Walker",
-     "foto": "https://image.tmdb.org/t/p/w185/wd9La2PfiSP9CsU4BwlNHqXfDn6.jpg"
-    }
-   ],
-   "trailer": "https://www.youtube.com/watch?v=p4aWdkM5xF8",
-   "temporadas_det": []
-  },
-  {
-   "id": "14366912",
-   "titulo": "Thomas y sus amigos: El correo navideño exprés",
-   "tipo": "p",
-   "plataforma": "netflix",
-   "estado": "expiring",
-   "fecha": "2026-11-20",
-   "genero": "Animación",
-   "generos": [
-    "Animación",
-    "Aventura",
-    "Familia"
-   ],
-   "imdb": 4.6,
-   "rt": null,
-   "duracion": "1 h 00 min",
-   "sinopsis": "Percy descubre una carta de un niño a Santa Claus olvidada en el fondo de su furgón de correo en Nochebuena, pero está decidido a hacer las cosas bien, ¡incluso si eso significa localizar al propio Sr. Claus! Con la ayuda de Thomas y sus amigos, Percy viaja a través de deslumbrantes desfiles, dulces olores horneados de pan de jengibre y ráfagas de copos de nieve en una búsqueda para entregarle la carta a Santa y hacer realidad el deseo navideño de un niño.",
-   "poster": "https://image.tmdb.org/t/p/w342/XNMrpSPx2biE5bEPdpVAyQA4Sp.jpg",
-   "reparto": [
-    {
-     "nombre": "Neil Crone",
-     "foto": "https://image.tmdb.org/t/p/w185/dSKEir3QWqSKJQjPIQftNZoD8Hs.jpg"
-    },
-    {
-     "nombre": "Charlie Zeltzer",
-     "foto": "https://image.tmdb.org/t/p/w185/1dk52sApRAf1YMEcYUJPsT06nvs.jpg"
-    },
-    {
-     "nombre": "Luke Marty",
-     "foto": "https://image.tmdb.org/t/p/w185/6s6Pd5bbsWW6jCgLavdDUT5qN7Y.jpg"
-    },
-    {
-     "nombre": "Kai Harris",
-     "foto": "https://image.tmdb.org/t/p/w185/puIL0Z1bybGQcV1IwUhyDUNLk7M.jpg"
-    }
-   ],
-   "trailer": null,
-   "temporadas_det": []
-  },
   {
    "id": "27050",
    "titulo": "Karakuri Circus",
@@ -2563,6 +2433,145 @@
    "temporadas_det": []
   },
   {
+   "id": "712",
+   "titulo": "La terminal",
+   "tipo": "p",
+   "plataforma": "prime",
+   "estado": "expiring",
+   "fecha": "2026-11-27",
+   "genero": "Comedia",
+   "generos": [
+    "Comedia",
+    "Drama"
+   ],
+   "imdb": 7.3,
+   "rt": 61,
+   "duracion": "2 h 09 min",
+   "sinopsis": "Viktor Navorski es un inmigrante balcánico que, al estallar la guerra en su país y quedar anulado su pasaporte, se encuentra involuntariamente exiliado en un aeropuerto de los Estados Unidos.",
+   "poster": "https://image.tmdb.org/t/p/w342/GZHg5TMQpfNDjOWJ6zO2mO7ftS.jpg",
+   "reparto": [
+    {
+     "nombre": "Tom Hanks",
+     "foto": "https://image.tmdb.org/t/p/w185/oFvZoKI6lvU03n4YoNGAll9rkas.jpg"
+    },
+    {
+     "nombre": "Catherine Zeta-Jones",
+     "foto": "https://image.tmdb.org/t/p/w185/2fAo0jWy8zPl9jgR4DH5nLyL8Xa.jpg"
+    },
+    {
+     "nombre": "Stanley Tucci",
+     "foto": "https://image.tmdb.org/t/p/w185/q4TanMDI5Rgsvw4SfyNbPBh4URr.jpg"
+    },
+    {
+     "nombre": "Chi McBride",
+     "foto": "https://image.tmdb.org/t/p/w185/cesCeJZ5gSywA9lTYReB5uhkfek.jpg"
+    },
+    {
+     "nombre": "Diego Luna",
+     "foto": "https://image.tmdb.org/t/p/w185/qwbjcyDN37OHiln4a6P4LP31o7F.jpg"
+    },
+    {
+     "nombre": "Barry Shabaka Henley",
+     "foto": "https://image.tmdb.org/t/p/w185/q0hI6T9OlmdUYdjYRX8K3pdRnYH.jpg"
+    }
+   ],
+   "trailer": "https://www.youtube.com/watch?v=GZjC9dAvWuU",
+   "temporadas_det": []
+  },
+  {
+   "id": "4794557",
+   "titulo": "Los buenos modales",
+   "tipo": "p",
+   "plataforma": "hbo",
+   "estado": "expiring",
+   "fecha": "2026-11-27",
+   "genero": "Drama",
+   "generos": [
+    "Drama",
+    "Comedia"
+   ],
+   "imdb": 5.4,
+   "rt": null,
+   "duracion": "1 h 30 min",
+   "sinopsis": "Manuela y Rosario son dos hermanas que, tras años sin hablarse a causa de un secreto familiar, se reencuentran inesperadamente en el cumpleaños de sus nietos. Los niños se han conocido gracias a sus cuidadoras, Trini y Milagros, amigas inseparables, vecinas de toda la vida y limpiadoras. Cuando descubren la situación familiar intentarán con mucho amor, torpeza y un poco de disparate, reconciliar a las dos familias.",
+   "poster": "https://image.tmdb.org/t/p/w342/k7fAmDcHwfru0dQdJOVF2RzOEvN.jpg",
+   "reparto": [
+    {
+     "nombre": "Elena Irureta",
+     "foto": "https://image.tmdb.org/t/p/w185/gJWLhfOXFoYTTVjh5Q9GlxLSsEE.jpg"
+    },
+    {
+     "nombre": "Gloria Muñoz",
+     "foto": "https://image.tmdb.org/t/p/w185/welTISMFpKiNvgPIz5NiViUMVzr.jpg"
+    },
+    {
+     "nombre": "Carmen Flores Sandoval",
+     "foto": "https://image.tmdb.org/t/p/w185/geVHwjv5ke2ySrkVoOFaSYZ5SSa.jpg"
+    },
+    {
+     "nombre": "Pepa Aniorte",
+     "foto": "https://image.tmdb.org/t/p/w185/hWuJNXMlZnWTOKVyHatiWRR6jR8.jpg"
+    },
+    {
+     "nombre": "Bárbara Santa-Cruz",
+     "foto": "https://image.tmdb.org/t/p/w185/3d9MH5ZAfS8HHY4zSLL8y6XU4Du.jpg"
+    },
+    {
+     "nombre": "Ricard Farré",
+     "foto": null
+    }
+   ],
+   "trailer": "https://www.youtube.com/watch?v=EdEC2AUXRpY",
+   "temporadas_det": []
+  },
+  {
+   "id": "1670",
+   "titulo": "Matrix Resurrections",
+   "tipo": "p",
+   "plataforma": "hbo",
+   "estado": "expiring",
+   "fecha": "2026-11-27",
+   "genero": "Ciencia ficción",
+   "generos": [
+    "Ciencia ficción",
+    "Acción",
+    "Aventura"
+   ],
+   "imdb": 5.7,
+   "rt": 63,
+   "duracion": "2 h 28 min",
+   "sinopsis": "En un mundo compuesto por dos realidades, lo cotidiano y lo oculto tras ella, Thomas Anderson se ve obligado de nuevo a ir tras el conejo blanco. Dicha elección continúa siendo la vía de acceso a Matrix, que esta vez es más poderosa e intrincada que en ocasiones anteriores.",
+   "poster": "https://image.tmdb.org/t/p/w342/dLIwpCTf4QoW01pp85KP9jcfTpu.jpg",
+   "reparto": [
+    {
+     "nombre": "Keanu Reeves",
+     "foto": "https://image.tmdb.org/t/p/w185/8RZLOyYGsoRe9p44q3xin9QkMHv.jpg"
+    },
+    {
+     "nombre": "Carrie-Anne Moss",
+     "foto": "https://image.tmdb.org/t/p/w185/9zya72vRZYBQILfetACsnmCBgdj.jpg"
+    },
+    {
+     "nombre": "Yahya Abdul-Mateen II",
+     "foto": "https://image.tmdb.org/t/p/w185/38D1WYFVUlcuaVvMbyFvctrDlDR.jpg"
+    },
+    {
+     "nombre": "Jonathan Groff",
+     "foto": "https://image.tmdb.org/t/p/w185/3kmnYKAzSc3Lp7iK5pcj97Hx9Cm.jpg"
+    },
+    {
+     "nombre": "Jessica Henwick",
+     "foto": "https://image.tmdb.org/t/p/w185/ayMJbMeg68uJyirPKmcAtHYML8r.jpg"
+    },
+    {
+     "nombre": "Neil Patrick Harris",
+     "foto": "https://image.tmdb.org/t/p/w185/r2twLWLwDpKJ7JyhWsD1YsL7rJV.jpg"
+    }
+   ],
+   "trailer": "https://www.youtube.com/watch?v=nNpvWBuTfrc",
+   "temporadas_det": []
+  },
+  {
    "id": "19364429",
    "titulo": "Jak se dělá opera",
    "tipo": "p",
@@ -4858,319 +4867,70 @@
    "temporadas_det": []
   },
   {
-   "id": "1450",
-   "titulo": "Contact",
-   "tipo": "p",
+   "id": "27519583",
+   "titulo": "LOL: Chi ride è fuori - Halloween Special",
+   "tipo": "s",
    "plataforma": "prime",
    "estado": "new",
-   "fecha": "2026-11-19",
-   "genero": "Drama",
-   "generos": [
-    "Drama",
-    "Ciencia ficción",
-    "Misterio"
-   ],
-   "imdb": 7.4,
-   "rt": 69,
-   "duracion": "2 h 30 min",
-   "sinopsis": "Eleanor Arroway perdió la fe en Dios tras la muerte de sus padres en su niñez. Sin embargo, Ellie ha desarrollado una clase distinta de fe en lo desconocido: trabaja con un grupo de científicos escrutando ondas de radio procedentes del espacio exterior en busca de señales de inteligencias extraterrestres. Su trabajo se verá recompensado cuando detecte una señal desconocida que supuestamente porta las instrucciones de fabricación de una máquina para reunirse con los creadores del mensaje.",
-   "poster": "https://image.tmdb.org/t/p/w342/rFcs0iDNWD5mAq9a6YrKn5qdsFa.jpg",
-   "reparto": [
-    {
-     "nombre": "Jodie Foster",
-     "foto": "https://image.tmdb.org/t/p/w185/5emVgsLFlU6SmeBIFsF2Y7aqwtG.jpg"
-    },
-    {
-     "nombre": "Matthew McConaughey",
-     "foto": "https://image.tmdb.org/t/p/w185/lCySuYjhXix3FzQdS4oceDDrXKI.jpg"
-    },
-    {
-     "nombre": "James Woods",
-     "foto": "https://image.tmdb.org/t/p/w185/tLH7mpH4KqkWL5VgjueTbewGsfK.jpg"
-    },
-    {
-     "nombre": "John Hurt",
-     "foto": "https://image.tmdb.org/t/p/w185/bjNSzt1d7uK3q5PbtFXUJrRt4qg.jpg"
-    },
-    {
-     "nombre": "Tom Skerritt",
-     "foto": "https://image.tmdb.org/t/p/w185/oWFCyBLm1lsbsbT5Nmx3SPMaqFZ.jpg"
-    },
-    {
-     "nombre": "William Fichtner",
-     "foto": "https://image.tmdb.org/t/p/w185/wWtJOoaNAwPparpzMNuRBjvxwEf.jpg"
-    }
-   ],
-   "trailer": "https://www.youtube.com/watch?v=s3hcz8OCd-Q",
-   "temporadas_det": []
-  },
-  {
-   "id": "2792",
-   "titulo": "Scary Movie 2",
-   "tipo": "p",
-   "plataforma": "prime",
-   "estado": "new",
-   "fecha": "2026-11-19",
+   "fecha": "2026-11-20",
    "genero": "Comedia",
    "generos": [
     "Comedia"
    ],
-   "imdb": 5.5,
-   "rt": 13,
-   "duracion": "1 h 22 min",
-   "sinopsis": "En esta ocasión los hermanos Wayans empiezan la historia con una satírica parodia de El Exorcista, mostrando a James Woods en el papel de un cura poco convencional, el padre McFelly, ocupado en salvar a una Natasha Lyonne de un espíritu de otro mundo. Entonces, retomando la historia donde la dejaron, los hermanos Wayans se vuelven a reunir de forma cómica con la heroína Cindy Campbell, convertida ahora en una buena estudiante universitaria. Un profesor loco la recluta a ella y a su grupo de compañeros deseosos de vivir aventuras y nuevas experiencias, para una salida de fin de semana bajo el pretexto de realizar un experimento científico. Mientras se desarollan las actividades del fin de semana, las continuas sorpresas mantienen la diversión siempre en marcha.",
-   "poster": "https://image.tmdb.org/t/p/w342/r4qTydYjntbb5TfZKV229NpSaCt.jpg",
-   "reparto": [
-    {
-     "nombre": "Anna Faris",
-     "foto": "https://image.tmdb.org/t/p/w185/tptTb0BQwCpKWETNqzkZzzf5qSZ.jpg"
-    },
-    {
-     "nombre": "Regina Hall",
-     "foto": "https://image.tmdb.org/t/p/w185/jiFZ4xNrvUUZLBHnJu71CvdN4kj.jpg"
-    },
-    {
-     "nombre": "Marlon Wayans",
-     "foto": "https://image.tmdb.org/t/p/w185/7LYnX3vluHFBs1WCRKUjSIEDEkn.jpg"
-    },
-    {
-     "nombre": "Shawn Wayans",
-     "foto": "https://image.tmdb.org/t/p/w185/Cat25uXhB680QLmvg9Tu16W563.jpg"
-    },
-    {
-     "nombre": "Christopher Masterson",
-     "foto": "https://image.tmdb.org/t/p/w185/vDpW40I1UMul7j4ZwGylPuWHteC.jpg"
-    },
-    {
-     "nombre": "David Cross",
-     "foto": "https://image.tmdb.org/t/p/w185/aYsbAtUu5oWk1p8RY31k3w5Emul.jpg"
-    }
-   ],
-   "trailer": "https://www.youtube.com/watch?v=wsHCoKGxjLk",
-   "temporadas_det": []
-  },
-  {
-   "id": "1218",
-   "titulo": "Notting Hill",
-   "tipo": "p",
-   "plataforma": "prime",
-   "estado": "new",
-   "fecha": "2026-11-19",
-   "genero": "Romance",
-   "generos": [
-    "Romance",
-    "Comedia"
-   ],
-   "imdb": 7.2,
-   "rt": 84,
-   "duracion": "2 h 04 min",
-   "sinopsis": "La historia se centra en William, propietario de una tienda de libros en el popular barrio londinense de Notting Hill, y Anna Scott, la estrella más rutilante del firmamento cinematográfico. Desde el momento en que la actriz entra en la tienda, William se embarca en un cortejo complicado, para el cual cuenta con la inestimable ayuda de sus inseparables amigos, entre los que destaca su compañero de piso el singular Spike, que observa con asombro e incredulidad cómo el bueno de William tiene un romance con una mujer inalcanzable para cualquier otro ser humano.",
-   "poster": "https://image.tmdb.org/t/p/w342/n0QNJ6zc0DJn3adJsm4rZojq25v.jpg",
-   "reparto": [
-    {
-     "nombre": "Julia Roberts",
-     "foto": "https://image.tmdb.org/t/p/w185/fQacAdIa1WUNChQ6FgEko13eqOA.jpg"
-    },
-    {
-     "nombre": "Hugh Grant",
-     "foto": "https://image.tmdb.org/t/p/w185/dvV843fOuzsEPXHtFvdzsHpy1rC.jpg"
-    },
-    {
-     "nombre": "Gina McKee",
-     "foto": "https://image.tmdb.org/t/p/w185/rHL7GGeFZ2x9PbFL2P3hVkLfvAS.jpg"
-    },
-    {
-     "nombre": "Tim McInnerny",
-     "foto": "https://image.tmdb.org/t/p/w185/c2LODB0Lf9vXoEq5gHXCorYkkt2.jpg"
-    },
-    {
-     "nombre": "Rhys Ifans",
-     "foto": "https://image.tmdb.org/t/p/w185/5X8XcIqCDxsQYyHdx7mBwPVkSTs.jpg"
-    },
-    {
-     "nombre": "Emma Chambers",
-     "foto": "https://image.tmdb.org/t/p/w185/fz85d7hEiAbjYov0uT3a59REfHQ.jpg"
-    }
-   ],
-   "trailer": "https://www.youtube.com/watch?v=sn-m50RUf_Q",
-   "temporadas_det": []
-  },
-  {
-   "id": "11906",
-   "titulo": "A sangre fría",
-   "tipo": "p",
-   "plataforma": "prime",
-   "estado": "new",
-   "fecha": "2026-11-19",
-   "genero": "Crimen",
-   "generos": [
-    "Crimen",
-    "Drama"
-   ],
-   "imdb": 6.9,
-   "rt": 75,
-   "duracion": "2 h 14 min",
-   "sinopsis": "Adaptación de la novela homónima de Truman Capote. Un honrado granjero de Kansas lleva una vida tranquila con su esposa y sus dos hijos. No puede sospechar ni remotamente que dos ex-presidiarios, con las facultades mentales perturbadas, planean matarlos.",
-   "poster": "https://image.tmdb.org/t/p/w342/oEZCjH5CvZAhPC9hoGfyJ2KXf9f.jpg",
-   "reparto": [
-    {
-     "nombre": "Robert Blake",
-     "foto": "https://image.tmdb.org/t/p/w185/gxhVHS4qhVp1xJiCy9s08ltIiPu.jpg"
-    },
-    {
-     "nombre": "Scott Wilson",
-     "foto": "https://image.tmdb.org/t/p/w185/ynH2YOLn0A7iIlmMiiWAGtC76Hx.jpg"
-    },
-    {
-     "nombre": "John Forsythe",
-     "foto": "https://image.tmdb.org/t/p/w185/lfhKEIepJXdIW9JVCZZ15ULYy8n.jpg"
-    },
-    {
-     "nombre": "Paul Stewart",
-     "foto": "https://image.tmdb.org/t/p/w185/8dsAzDIErQFdPAZOJaaVGrohdnf.jpg"
-    },
-    {
-     "nombre": "Gerald S. O'Loughlin",
-     "foto": "https://image.tmdb.org/t/p/w185/oOETvtYCturbIwoyWFdN9fpCwBl.jpg"
-    },
-    {
-     "nombre": "Jeff Corey",
-     "foto": "https://image.tmdb.org/t/p/w185/n1BIWS5L0D6HmS0TpVZMHmDJY6g.jpg"
-    }
-   ],
-   "trailer": "https://www.youtube.com/watch?v=vU_TY9ZQ48A",
-   "temporadas_det": []
-  },
-  {
-   "id": "225615",
-   "titulo": "Papa est devenu un lutin",
-   "tipo": "p",
-   "plataforma": "prime",
-   "estado": "new",
-   "fecha": "2026-11-19",
-   "genero": "Comedia",
-   "generos": [
-    "Comedia",
-    "Fantasía"
-   ],
-   "imdb": 4.0,
+   "imdb": null,
    "rt": null,
-   "duracion": "1 h 14 min",
+   "duracion": "1 temporada, 3 episodios",
    "sinopsis": "",
-   "poster": "https://image.tmdb.org/t/p/w342/4C5sr5mUnluU3XZnoeO2PVZqEoT.jpg",
+   "poster": "https://image.tmdb.org/t/p/w342/z4bqvUYSyTuaAhiQQ2R6i12N9mT.jpg",
    "reparto": [
     {
-     "nombre": "Jean-Marie Corbeil",
-     "foto": "https://image.tmdb.org/t/p/w185/cdztKvT1g2hBZaLTH6epQIFGutl.jpg"
+     "nombre": "Katia Follesa",
+     "foto": "https://image.tmdb.org/t/p/w185/9UjtrBB4z53iqzLg7gbUPZGHhQD.jpg"
     },
     {
-     "nombre": "Elisabetta Fantone",
-     "foto": "https://image.tmdb.org/t/p/w185/fj41Ckf80R9bXLC3R2vCV01SPY7.jpg"
+     "nombre": "Lillo",
+     "foto": "https://image.tmdb.org/t/p/w185/8PbWSjZ1pv6iA1j6JVgSsPOu2ED.jpg"
     },
     {
-     "nombre": "Anaïs Laforge",
-     "foto": null
+     "nombre": "Herbert Ballerina",
+     "foto": "https://image.tmdb.org/t/p/w185/zRo3J2gCTKYhUkYXwN65D8vk5xU.jpg"
     },
     {
-     "nombre": "Jack Adams",
-     "foto": null
+     "nombre": "Maccio Capatonda",
+     "foto": "https://image.tmdb.org/t/p/w185/4RErHtwGHDgJ7XfNnfPdlFeBXAh.jpg"
+    },
+    {
+     "nombre": "Brenda Lodigiani",
+     "foto": "https://image.tmdb.org/t/p/w185/yptq0hQSCryq1gDJRNbYlXDB61B.jpg"
+    },
+    {
+     "nombre": "Lucia Ocone",
+     "foto": "https://image.tmdb.org/t/p/w185/llBay47tuvLeBH0I3cmF0Fa86L5.jpg"
     }
    ],
    "trailer": null,
-   "temporadas_det": []
-  },
-  {
-   "id": "226",
-   "titulo": "Snatch. Cerdos y diamantes",
-   "tipo": "p",
-   "plataforma": "prime",
-   "estado": "new",
-   "fecha": "2026-11-19",
-   "genero": "Crimen",
-   "generos": [
-    "Crimen",
-    "Comedia"
-   ],
-   "imdb": 8.1,
-   "rt": 74,
-   "duracion": "1 h 44 min",
-   "sinopsis": "Franky es una ladrón de diamantes que tiene que entregar una enorme pieza a su jefe Avi, pero en el camino es tentado por Boris para apostar en un combate ilegal de boxeo. En realidad, es una trampa para atracarle por lo que, cuando Avi se entera, contrata a Tony para encontrar a Franky y el diamante. Pronto se descubre el triste destino de Franky, y la caza y captura de la gema desaparecida lleva a todo el mundo a un juego de locos que corre el riesgo de descontrolarse, donde el engaño, el chantaje y el fraude se mezclan de forma sangrienta con perros, diamantes, boxeadores y gran variedad de armas en una caótica merienda de negros.",
-   "poster": "https://image.tmdb.org/t/p/w342/ziWecvSRGjqeNKPx3kMqlYwssDo.jpg",
-   "reparto": [
+   "temporadas_det": [
     {
-     "nombre": "Jason Statham",
-     "foto": "https://image.tmdb.org/t/p/w185/8l6lmrmKFDvhDjMJPj6tBpJdhaA.jpg"
-    },
-    {
-     "nombre": "Alan Ford",
-     "foto": "https://image.tmdb.org/t/p/w185/nSlngfcFsCPENxiqCwZnB1twKuC.jpg"
-    },
-    {
-     "nombre": "Stephen Graham",
-     "foto": "https://image.tmdb.org/t/p/w185/yguEO9zFvuccq87kOJpFLsmUgvs.jpg"
-    },
-    {
-     "nombre": "Brad Pitt",
-     "foto": "https://image.tmdb.org/t/p/w185/ajNaPmXVVMJFg9GWmu6MJzTaXdV.jpg"
-    },
-    {
-     "nombre": "Dennis Farina",
-     "foto": "https://image.tmdb.org/t/p/w185/4hEWe0ZcDpGlB3nRizLkVMcG13B.jpg"
-    },
-    {
-     "nombre": "Robbie Gee",
-     "foto": "https://image.tmdb.org/t/p/w185/mzzfbA0e4DWgxvIYjaryMolkiqm.jpg"
+     "n": 1,
+     "eps": [
+      {
+       "n": 1,
+       "t": "Episodio 1",
+       "f": "2026-10-23"
+      },
+      {
+       "n": 2,
+       "t": "Episodio 2",
+       "f": "2026-10-23"
+      },
+      {
+       "n": 3,
+       "t": "Episodio 3",
+       "f": "2026-10-23"
+      }
+     ]
     }
-   ],
-   "trailer": "https://www.youtube.com/watch?v=IXYy07RTMnI",
-   "temporadas_det": []
-  },
-  {
-   "id": "2303",
-   "titulo": "Godzilla",
-   "tipo": "p",
-   "plataforma": "prime",
-   "estado": "new",
-   "fecha": "2026-11-19",
-   "genero": "Ciencia ficción",
-   "generos": [
-    "Ciencia ficción",
-    "Acción",
-    "Suspense"
-   ],
-   "imdb": 5.5,
-   "rt": 20,
-   "duracion": "2 h 18 min",
-   "sinopsis": "Las pruebas nucleares realizadas por los franceses en el Pacífico originan la aparición en el océano de un reptil mutante, de enormes dimensiones, localizado tras el ataque a un barco pescador japonés. Sin embargo, la criatura no se va a limitar a vivir en el agua: Godzilla se dirige con rumbo fijo a Nueva York, en cuyas calles causará el pánico.",
-   "poster": "https://image.tmdb.org/t/p/w342/y50YnyDwvGgqGdRXbOrcV6BvBeQ.jpg",
-   "reparto": [
-    {
-     "nombre": "Matthew Broderick",
-     "foto": "https://image.tmdb.org/t/p/w185/papqFgpyroZJEqd7WvuNGN8ti2k.jpg"
-    },
-    {
-     "nombre": "Jean Reno",
-     "foto": "https://image.tmdb.org/t/p/w185/mw0EZJYz3kiFq9fNxsML773gotF.jpg"
-    },
-    {
-     "nombre": "Maria Pitillo",
-     "foto": "https://image.tmdb.org/t/p/w185/e2RqURksoCGa9fBqqMtOuY7pDk5.jpg"
-    },
-    {
-     "nombre": "Hank Azaria",
-     "foto": "https://image.tmdb.org/t/p/w185/yFDw4b0jucuFWNnGcBPfpYUtn16.jpg"
-    },
-    {
-     "nombre": "Kevin Dunn",
-     "foto": "https://image.tmdb.org/t/p/w185/7dqLQjMNCQnuxQJQwQ5Ozz16LBq.jpg"
-    },
-    {
-     "nombre": "Michael Lerner",
-     "foto": "https://image.tmdb.org/t/p/w185/1jRm6TRS5atQrA1VQSef7GoL13g.jpg"
-    }
-   ],
-   "trailer": "https://www.youtube.com/watch?v=TAfd8SaG4T8",
-   "temporadas_det": []
+   ]
   },
   {
    "id": "23192496",
