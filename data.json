@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-22T05:59:20+00:00",
+ "generado": "2026-11-22T14:27:50+00:00",
  "pais": "ES",
  "items": [
   {
@@ -5159,7 +5159,7 @@
     "Ciencia ficción",
     "Fantasía"
    ],
-   "imdb": null,
+   "imdb": 6.6,
    "rt": null,
    "duracion": "1 temporada, 10 episodios",
    "sinopsis": "Navier, la querida emperatriz del Imperio Oriental, gobierna junto al emperador Sovieshu. Pero cuando Sovieshu se enamora de una esclava fugitiva y pide el divorcio, Navier accede con la condición de poder volver a casarse con su rival, el príncipe Heinrey del Reino Occidental.",
@@ -16654,139 +16654,29 @@
    "temporadas_det": []
   },
   {
-   "id": "32790",
-   "titulo": "Kiss of the Damned",
+   "id": "19019123",
+   "titulo": "Tokyo",
    "tipo": "p",
-   "plataforma": "prime",
+   "plataforma": "disney",
    "estado": "new",
-   "fecha": "2026-11-21",
-   "genero": "Suspense",
+   "fecha": "2026-11-22",
+   "genero": "Documental",
    "generos": [
-    "Suspense",
-    "Terror",
-    "Romance"
+    "Documental"
    ],
-   "imdb": 5.3,
-   "rt": 69,
-   "duracion": "1 h 45 min",
-   "sinopsis": "Cuenta la historia de Djuna, una bella vampira que trata de resistirse al encanto de Paulo, de profesión guionista, pero finalmente sucumbe. Más tarde, cuando su hermana Mimi llega inesperadamente, peligrarán tanto su historia de amor como la comunidad vampira, la cual se verá amenazada por la extinción.",
-   "poster": "https://image.tmdb.org/t/p/w342/oUrphKci0e2GyFaInyJLvr8Gbi3.jpg",
-   "reparto": [
-    {
-     "nombre": "Joséphine de la Baume",
-     "foto": "https://image.tmdb.org/t/p/w185/r4IhMoiYFsLIFU1R5ilzFOlrEdO.jpg"
-    },
-    {
-     "nombre": "Milo Ventimiglia",
-     "foto": "https://image.tmdb.org/t/p/w185/9yFPsQCYi9sbPQ0xJGtoAF4Ar6v.jpg"
-    },
-    {
-     "nombre": "Roxane Mesquida",
-     "foto": "https://image.tmdb.org/t/p/w185/zMj3cn2mK7691lg88eIBZK7EVKx.jpg"
-    },
-    {
-     "nombre": "Michael Rapaport",
-     "foto": "https://image.tmdb.org/t/p/w185/lrJnD5hT6kFlvlfSQa3CKctWvku.jpg"
-    },
-    {
-     "nombre": "Riley Keough",
-     "foto": "https://image.tmdb.org/t/p/w185/du1FYr5dTQL6gCMX6ISnQBOxz2F.jpg"
-    },
-    {
-     "nombre": "Anna Mouglalis",
-     "foto": "https://image.tmdb.org/t/p/w185/jltxoIc4RbHHUneODrVmawnd8BY.jpg"
-    }
-   ],
-   "trailer": "https://www.youtube.com/watch?v=Qk8kKHed20Q",
-   "temporadas_det": []
-  },
-  {
-   "id": "26014",
-   "titulo": "Bereavement",
-   "tipo": "p",
-   "plataforma": "prime",
-   "estado": "new",
-   "fecha": "2026-11-21",
-   "genero": "Crimen",
-   "generos": [
-    "Crimen",
-    "Terror"
-   ],
-   "imdb": 5.0,
-   "rt": 44,
-   "duracion": "1 h 43 min",
-   "sinopsis": "Precuela de Malevolence que contará la historia de Martin Bristol, un niño de seis años de edad que es secuestrado y forzado a ser testigo de los brutales crímenes cometidos por su mentor (y maestro) Graham Sutter.",
-   "poster": "https://image.tmdb.org/t/p/w342/5Zd0NzvT3x8EhuE5lYMJz5ShcH1.jpg",
-   "reparto": [
-    {
-     "nombre": "Michael Biehn",
-     "foto": "https://image.tmdb.org/t/p/w185/9oFLsADWQm2TvU8XzLIzBbjdMkU.jpg"
-    },
-    {
-     "nombre": "Alexandra Daddario",
-     "foto": "https://image.tmdb.org/t/p/w185/6qiLUZZYBE4FsrG8irWbb3I7P1n.jpg"
-    },
-    {
-     "nombre": "Nolan Gerard Funk",
-     "foto": "https://image.tmdb.org/t/p/w185/nu8k4yKULdaK4bDOfBIBMdH6QqA.jpg"
-    },
-    {
-     "nombre": "Spencer List",
-     "foto": "https://image.tmdb.org/t/p/w185/kPRhwLAldRaC5mSE2QXcWaP7Ai9.jpg"
-    },
-    {
-     "nombre": "Brett Rickaby",
-     "foto": "https://image.tmdb.org/t/p/w185/t3vF4LptlWQ7trz6gArGzVv241i.jpg"
-    },
-    {
-     "nombre": "John Savage",
-     "foto": "https://image.tmdb.org/t/p/w185/exzL5D7RSnIepF9FsFlzCs248he.jpg"
-    }
-   ],
-   "trailer": "https://www.youtube.com/watch?v=C03r8eWOYU8",
-   "temporadas_det": []
-  },
-  {
-   "id": "150032",
-   "titulo": "No somos nadie",
-   "tipo": "p",
-   "plataforma": "prime",
-   "estado": "new",
-   "fecha": "2026-11-21",
-   "genero": "Comedia",
-   "generos": [
-    "Comedia",
-    "Drama"
-   ],
-   "imdb": 4.9,
+   "imdb": null,
    "rt": null,
-   "duracion": "1 h 31 min",
-   "sinopsis": "Esta es la historia de Salva, un humilde chico de barrio que se busca la vida en el metro acompañado de su amigo Ángel. Pero la frase \"es triste de pedir, pero más triste es de robar\", ya no les funciona. En vista del éxito obtenido por todo tipo de telepredicadores, videntes y demás mercachifles que pululan por todas las televisiones engañando a todo hijo de vecino, deciden hacer lo mismo. Se inventan la historia de que poseen un brebaje con poderes curativos: \"Vermut Celestial\". Un accidente les conduce a la cárcel. Entonces aparece en escena \"Mano Dura\": un reality show donde se decide si personas condenadas a muerte pueden salvarse o no (nunca se salva a ninguno). El presentador, Bigardo, agobiado por los problemas de audiencia, ve en Salva la posibilidad de levantar el programa, juzgando (y condenando) a un inocente. Salva cae bien a la audiencia, que lo libera, y lo convierte en un fenómeno de masas...",
-   "poster": "https://image.tmdb.org/t/p/w342/tdJk0OAc1yB3A995kloJ6JISNse.jpg",
+   "duracion": "",
+   "sinopsis": "",
+   "poster": "https://image.tmdb.org/t/p/w342/wSuPpX2wrAnrucambbpfL4l46Au.jpg",
    "reparto": [
     {
-     "nombre": "Jordi Mollà",
-     "foto": "https://image.tmdb.org/t/p/w185/9XsTmWLJ2qMXoUpcb105h6h5OUX.jpg"
-    },
-    {
-     "nombre": "Candela Peña",
-     "foto": "https://image.tmdb.org/t/p/w185/26dZFEdXT16fzuQAgLR1ZWQmw3I.jpg"
-    },
-    {
-     "nombre": "Juan Carlos Vellido",
-     "foto": "https://image.tmdb.org/t/p/w185/m1GEfFgcDNPTCTGUhrita7d5ec1.jpg"
-    },
-    {
-     "nombre": "Daniel Giménez Cacho",
-     "foto": "https://image.tmdb.org/t/p/w185/4sM4fbDAyjDcEcxRqVWpUF35IrL.jpg"
-    },
-    {
-     "nombre": "Franco di Francescantonio",
+     "nombre": "Nicol Wimmer",
      "foto": null
     },
     {
-     "nombre": "Florinda Chico",
-     "foto": "https://image.tmdb.org/t/p/w185/mpM0PSrWngqkj7ClfNasMwDod5O.jpg"
+     "nombre": "Jaqueline Schaffer",
+     "foto": null
     }
    ],
    "trailer": null,
@@ -17281,7 +17171,7 @@
     "Suspense",
     "Acción"
    ],
-   "imdb": 6.0,
+   "imdb": 6.1,
    "rt": null,
    "duracion": "1 h 34 min",
    "sinopsis": "Risas y peligro se fusionan cuando un chofer con mal de amores y un mecánico estafador se embarcan en una alocada aventura tras recoger por error a un capo mafioso retirado.",
