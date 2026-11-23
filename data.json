@@ -1,54 +1,7 @@
 {
- "generado": "2026-11-22T23:27:03+00:00",
+ "generado": "2026-11-23T06:50:26+00:00",
  "pais": "ES",
  "items": [
-  {
-   "id": "6585",
-   "titulo": "K-19: The Widowmaker",
-   "tipo": "p",
-   "plataforma": "prime",
-   "estado": "expiring",
-   "fecha": "2026-11-23",
-   "genero": "Historia",
-   "generos": [
-    "Historia",
-    "Suspense",
-    "Drama"
-   ],
-   "imdb": 6.6,
-   "rt": 60,
-   "duracion": "2 h 18 min",
-   "sinopsis": "Querido y de confianza para sus hombres, respetado como el capitán de submarinos con mayor experiencia de la Marina soviética, el Capitán Mikhail Polenin (Liam Neeson) es destituido del mando del K-19 cuando el liderazgo soviético decide que no está preparando su submarino insignia lo suficientemente rápido para su primera travesía. En su lugar, el Capitán Alexei Vostrikov (Harrison Ford), un oficial estrictamente \"orientado a la misión\" y con una voluntad de hierro, consigue sacar el K-19 al mar exactamente a la hora programada 16:00 horas del día 18 de Junio de 1961.",
-   "poster": "https://image.tmdb.org/t/p/w342/tsnjybp9cj9VOeZyxSx2cLuETWf.jpg",
-   "reparto": [
-    {
-     "nombre": "Harrison Ford",
-     "foto": "https://image.tmdb.org/t/p/w185/pjBMJVPpcZK23Vt1nzr1zEBTWrP.jpg"
-    },
-    {
-     "nombre": "Liam Neeson",
-     "foto": "https://image.tmdb.org/t/p/w185/sRLev3wJioBgun3ZoeAUFpkLy0D.jpg"
-    },
-    {
-     "nombre": "Peter Sarsgaard",
-     "foto": "https://image.tmdb.org/t/p/w185/5UANyM4co2nwYPgSEmGeNlZRm7V.jpg"
-    },
-    {
-     "nombre": "Joss Ackland",
-     "foto": "https://image.tmdb.org/t/p/w185/k8GQrf54DLILcLBmnMq94xijA6z.jpg"
-    },
-    {
-     "nombre": "John Shrapnel",
-     "foto": "https://image.tmdb.org/t/p/w185/A4Wmltbkz3sz79GcBkLeTqwfkvE.jpg"
-    },
-    {
-     "nombre": "Donald Sumpter",
-     "foto": "https://image.tmdb.org/t/p/w185/jfdH7vojRZ3fRSesLF8K3tZwwtq.jpg"
-    }
-   ],
-   "trailer": "https://www.youtube.com/watch?v=BvHWH8xg0Rw",
-   "temporadas_det": []
-  },
   {
    "id": "11714830",
    "titulo": "La guitarra flamenca de Yerai Cortés",
@@ -3287,6 +3240,52 @@
     }
    ],
    "trailer": "https://www.youtube.com/watch?v=nJxwye_VdS8",
+   "temporadas_det": []
+  },
+  {
+   "id": "3217",
+   "titulo": "Animales fantásticos III. Los secretos de Dumbledore",
+   "tipo": "p",
+   "plataforma": "hbo",
+   "estado": "expiring",
+   "fecha": "2026-11-29",
+   "genero": "Fantasía",
+   "generos": [
+    "Fantasía",
+    "Aventura"
+   ],
+   "imdb": 6.3,
+   "rt": 46,
+   "duracion": "2 h 23 min",
+   "sinopsis": "El profesor Albus Dumbledore sabe que el poderoso mago oscuro Gellert Grindelwald está haciendo planes para apoderarse del mundo mágico. Incapaz de detenerlo él solo, confía en el Magizoólogo Newt Scamander para dirigir un intrépido equipo de magos, brujas y un valiente panadero Muggle en una misión peligrosa, donde se encuentran con antiguos y nuevos animales y se enfrentan a una legión cada vez más numerosa de seguidores de Grindelwald.",
+   "poster": "https://image.tmdb.org/t/p/w342/yOeuJdwag4bAlnvgrdweRoiuXGC.jpg",
+   "reparto": [
+    {
+     "nombre": "Eddie Redmayne",
+     "foto": "https://image.tmdb.org/t/p/w185/fSvG7qzoBBnJUmgtIuMgrK3EQPN.jpg"
+    },
+    {
+     "nombre": "Jude Law",
+     "foto": "https://image.tmdb.org/t/p/w185/6UadpSbfC39WMChAcdnNunzwDxv.jpg"
+    },
+    {
+     "nombre": "Mads Mikkelsen",
+     "foto": "https://image.tmdb.org/t/p/w185/AsX4bdvZ8UCayWTmAf9lAqOA8V7.jpg"
+    },
+    {
+     "nombre": "Ezra Miller",
+     "foto": "https://image.tmdb.org/t/p/w185/6wmTpbYpmhthaxzM5ss3377F9IV.jpg"
+    },
+    {
+     "nombre": "Dan Fogler",
+     "foto": "https://image.tmdb.org/t/p/w185/zJWbLEjfbDthBMucq9M6L4GJXL3.jpg"
+    },
+    {
+     "nombre": "Alison Sudol",
+     "foto": "https://image.tmdb.org/t/p/w185/BNrfybwhIhN74JMTQL2CHstXkx.jpg"
+    }
+   ],
+   "trailer": "https://www.youtube.com/watch?v=Fo6TfHkLW6Y",
    "temporadas_det": []
   },
   {
@@ -16809,63 +16808,6 @@
    ],
    "trailer": "https://www.youtube.com/watch?v=dPFk2V77lIs",
    "temporadas_det": []
-  },
-  {
-   "id": "27521650",
-   "titulo": "Oobah: Scams for a Better Tomorrow",
-   "tipo": "s",
-   "plataforma": "hbo",
-   "estado": "upcoming",
-   "fecha": "2026-11-23",
-   "genero": "Comedia",
-   "generos": [
-    "Comedia",
-    "Documental"
-   ],
-   "imdb": null,
-   "rt": null,
-   "duracion": "1 temporada, 5 episodios",
-   "sinopsis": "",
-   "poster": "https://image.tmdb.org/t/p/w342/rWqhULNvOmIBHZymAPce2SlRr2T.jpg",
-   "reparto": [
-    {
-     "nombre": "Oobah Butler",
-     "foto": "https://image.tmdb.org/t/p/w185/9UuILq5CjRsKtZ9GO6oInyBofEI.jpg"
-    }
-   ],
-   "trailer": "https://www.youtube.com/watch?v=i3fXiJ40WOw",
-   "temporadas_det": [
-    {
-     "n": 1,
-     "eps": [
-      {
-       "n": 1,
-       "t": "Episodio 1",
-       "f": "2026-11-22"
-      },
-      {
-       "n": 2,
-       "t": "Episodio 2",
-       "f": "2026-11-29"
-      },
-      {
-       "n": 3,
-       "t": "Episodio 3",
-       "f": "2026-12-06"
-      },
-      {
-       "n": 4,
-       "t": "Episodio 4",
-       "f": "2026-12-13"
-      },
-      {
-       "n": 5,
-       "t": "Episodio 5",
-       "f": "2026-12-20"
-      }
-     ]
-    }
-   ]
   },
   {
    "id": "27521277",
