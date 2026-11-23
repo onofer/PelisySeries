@@ -1,479 +1,7 @@
 {
- "generado": "2026-11-23T06:50:26+00:00",
+ "generado": "2026-11-23T23:38:57+00:00",
  "pais": "ES",
  "items": [
-  {
-   "id": "11714830",
-   "titulo": "La guitarra flamenca de Yerai Cortés",
-   "tipo": "p",
-   "plataforma": "prime",
-   "estado": "expiring",
-   "fecha": "2026-11-23",
-   "genero": "Documental",
-   "generos": [
-    "Documental",
-    "Música"
-   ],
-   "imdb": 5.6,
-   "rt": null,
-   "duracion": "1 h 35 min",
-   "sinopsis": "Cuando C. Tangana conoce a Yerai Cortés, se queda completamente fascinado con su talento e intrigado por su historia familiar. Yerai es una figura inusual dentro del flamenco; tan respetado por los gitanos más tradicionalistas como por los artistas vanguardistas de la nueva ola de la que él forma parte. Deciden emprender un viaje juntos para grabar un disco en el que las canciones vienen marcadas por una gran pena, donde el propio proceso artístico lo enfrenta con su pasado y lo empuja a explorar un secreto familiar a través del cual trata de redimir la relación con sus padres.",
-   "poster": "https://image.tmdb.org/t/p/w342/s1t3dpcwcVSNzas4AyCjLTV9ufL.jpg",
-   "reparto": [
-    {
-     "nombre": "Yerai Cortés",
-     "foto": "https://image.tmdb.org/t/p/w185/s1Prz4M0j820uYaN3q4OiDdZV9G.jpg"
-    },
-    {
-     "nombre": "C. Tangana",
-     "foto": "https://image.tmdb.org/t/p/w185/b96W6QXMP2LfCZ166RXMwtMxKxP.jpg"
-    },
-    {
-     "nombre": "La Tania",
-     "foto": "https://image.tmdb.org/t/p/w185/vdrFNdZSrM6wCNBzf1hQxdwSxdf.jpg"
-    },
-    {
-     "nombre": "Remedios Amaya",
-     "foto": "https://image.tmdb.org/t/p/w185/c376Sv2MT47K6N4BmwJVp9V7RjG.jpg"
-    },
-    {
-     "nombre": "farruquito",
-     "foto": "https://image.tmdb.org/t/p/w185/8xy7HdYUGd1BWKW3PMLEELOU18c.jpg"
-    },
-    {
-     "nombre": "María Merino",
-     "foto": "https://image.tmdb.org/t/p/w185/pHdzf9Rk3yQpgaf0pqyQwzvAZ14.jpg"
-    }
-   ],
-   "trailer": "https://www.youtube.com/watch?v=gs5s7g2kXJo",
-   "temporadas_det": []
-  },
-  {
-   "id": "11714830",
-   "titulo": "La guitarra flamenca de Yerai Cortés",
-   "tipo": "p",
-   "plataforma": "hbo",
-   "estado": "expiring",
-   "fecha": "2026-11-23",
-   "genero": "Documental",
-   "generos": [
-    "Documental",
-    "Música"
-   ],
-   "imdb": 5.6,
-   "rt": null,
-   "duracion": "1 h 35 min",
-   "sinopsis": "Cuando C. Tangana conoce a Yerai Cortés, se queda completamente fascinado con su talento e intrigado por su historia familiar. Yerai es una figura inusual dentro del flamenco; tan respetado por los gitanos más tradicionalistas como por los artistas vanguardistas de la nueva ola de la que él forma parte. Deciden emprender un viaje juntos para grabar un disco en el que las canciones vienen marcadas por una gran pena, donde el propio proceso artístico lo enfrenta con su pasado y lo empuja a explorar un secreto familiar a través del cual trata de redimir la relación con sus padres.",
-   "poster": "https://image.tmdb.org/t/p/w342/s1t3dpcwcVSNzas4AyCjLTV9ufL.jpg",
-   "reparto": [
-    {
-     "nombre": "Yerai Cortés",
-     "foto": "https://image.tmdb.org/t/p/w185/s1Prz4M0j820uYaN3q4OiDdZV9G.jpg"
-    },
-    {
-     "nombre": "C. Tangana",
-     "foto": "https://image.tmdb.org/t/p/w185/b96W6QXMP2LfCZ166RXMwtMxKxP.jpg"
-    },
-    {
-     "nombre": "La Tania",
-     "foto": "https://image.tmdb.org/t/p/w185/vdrFNdZSrM6wCNBzf1hQxdwSxdf.jpg"
-    },
-    {
-     "nombre": "Remedios Amaya",
-     "foto": "https://image.tmdb.org/t/p/w185/c376Sv2MT47K6N4BmwJVp9V7RjG.jpg"
-    },
-    {
-     "nombre": "farruquito",
-     "foto": "https://image.tmdb.org/t/p/w185/8xy7HdYUGd1BWKW3PMLEELOU18c.jpg"
-    },
-    {
-     "nombre": "María Merino",
-     "foto": "https://image.tmdb.org/t/p/w185/pHdzf9Rk3yQpgaf0pqyQwzvAZ14.jpg"
-    }
-   ],
-   "trailer": "https://www.youtube.com/watch?v=gs5s7g2kXJo",
-   "temporadas_det": []
-  },
-  {
-   "id": "179533",
-   "titulo": "Dragones al rescate: Las fiestas en Huttsgalor",
-   "tipo": "p",
-   "plataforma": "netflix",
-   "estado": "expiring",
-   "fecha": "2026-11-23",
-   "genero": "Animación",
-   "generos": [
-    "Animación",
-    "Familia"
-   ],
-   "imdb": 5.0,
-   "rt": null,
-   "duracion": "46 min",
-   "sinopsis": "Con la primera nevada llega la Odinavidad: la fiesta vikinga de la generosidad. Pero un tiempo de locos la pone en peligro. ¿Podrán salvarla los guardianes defensores?",
-   "poster": "https://image.tmdb.org/t/p/w342/AtOCY95r75F0Ybtp8Vk5YMnSrD4.jpg",
-   "reparto": [
-    {
-     "nombre": "Noah Kaye Bentley",
-     "foto": "https://image.tmdb.org/t/p/w185/1XFtLgZ9ijVisZyrKWqGykAoaFU.jpg"
-    },
-    {
-     "nombre": "Brennley Brown",
-     "foto": "https://image.tmdb.org/t/p/w185/47SKNOSxWhax5sbemeBIhl45YW0.jpg"
-    },
-    {
-     "nombre": "Zach Callison",
-     "foto": "https://image.tmdb.org/t/p/w185/xZ498fu7e34DNBDVNMAs4phMrdV.jpg"
-    },
-    {
-     "nombre": "Skai Jackson",
-     "foto": "https://image.tmdb.org/t/p/w185/5Hy1XF5QjERKuwOQLIUU3CyoCvH.jpg"
-    },
-    {
-     "nombre": "Marsai Martin",
-     "foto": "https://image.tmdb.org/t/p/w185/hYErUiiesrm9jmiY1JTbwlxcN7l.jpg"
-    },
-    {
-     "nombre": "Andre Robinson",
-     "foto": "https://image.tmdb.org/t/p/w185/94IRACbuilkND9xTK7DG5s1dDVI.jpg"
-    }
-   ],
-   "trailer": "https://www.youtube.com/watch?v=LF-C5js2iAQ",
-   "temporadas_det": []
-  },
-  {
-   "id": "28533",
-   "titulo": "Dragones al rescate",
-   "tipo": "s",
-   "plataforma": "netflix",
-   "estado": "expiring",
-   "fecha": "2026-11-23",
-   "genero": "Animación",
-   "generos": [
-    "Animación",
-    "Acción",
-    "Aventura",
-    "Comedia",
-    "Infantil",
-    "Ciencia ficción",
-    "Fantasía",
-    "Drama"
-   ],
-   "imdb": 5.4,
-   "rt": null,
-   "duracion": "2 temporadas, 26 episodios",
-   "sinopsis": "Los gemelos Dak y Leyla y sus amigos dragones dedican sus vidas a rescatar a otros, defender su hogar de Huttsgalor y divertirse en el camino.",
-   "poster": "https://image.tmdb.org/t/p/w342/gk588hozezLty9l2CLGO2JE9b8w.jpg",
-   "reparto": [
-    {
-     "nombre": "Brennley Brown",
-     "foto": "https://image.tmdb.org/t/p/w185/47SKNOSxWhax5sbemeBIhl45YW0.jpg"
-    },
-    {
-     "nombre": "Noah Kaye Bentley",
-     "foto": "https://image.tmdb.org/t/p/w185/1XFtLgZ9ijVisZyrKWqGykAoaFU.jpg"
-    },
-    {
-     "nombre": "Nicolas Cantu",
-     "foto": "https://image.tmdb.org/t/p/w185/ySFxLOQ9ejiZddviRVf9bhZvDsf.jpg"
-    },
-    {
-     "nombre": "Andre Robinson",
-     "foto": "https://image.tmdb.org/t/p/w185/94IRACbuilkND9xTK7DG5s1dDVI.jpg"
-    },
-    {
-     "nombre": "Zach Callison",
-     "foto": "https://image.tmdb.org/t/p/w185/xZ498fu7e34DNBDVNMAs4phMrdV.jpg"
-    },
-    {
-     "nombre": "Marsai Martin",
-     "foto": "https://image.tmdb.org/t/p/w185/hYErUiiesrm9jmiY1JTbwlxcN7l.jpg"
-    }
-   ],
-   "trailer": "https://www.youtube.com/watch?v=MB9bn5eg_pM",
-   "temporadas_det": [
-    {
-     "n": 1,
-     "eps": [
-      {
-       "n": 1,
-       "t": "El nido",
-       "f": "2019-09-27"
-      },
-      {
-       "n": 2,
-       "t": "Asunto intrincado",
-       "f": "2019-09-27"
-      },
-      {
-       "n": 3,
-       "t": "¡Feliz susto!",
-       "f": "2019-09-27"
-      },
-      {
-       "n": 4,
-       "t": "No hay humo sin fuego",
-       "f": "2019-09-27"
-      },
-      {
-       "n": 5,
-       "t": "Polos opuestos",
-       "f": "2019-09-27"
-      },
-      {
-       "n": 6,
-       "t": "Rompiendo el hielo",
-       "f": "2019-09-27"
-      },
-      {
-       "n": 7,
-       "t": "Malitos",
-       "f": "2019-09-27"
-      },
-      {
-       "n": 8,
-       "t": "Mala baba",
-       "f": "2019-09-27"
-      },
-      {
-       "n": 9,
-       "t": "Solos en casa",
-       "f": "2019-09-27"
-      },
-      {
-       "n": 10,
-       "t": "Peligro baboso",
-       "f": "2019-09-27"
-      },
-      {
-       "n": 11,
-       "t": "Entrenamiento intensivo",
-       "f": "2019-09-27"
-      },
-      {
-       "n": 12,
-       "t": "Diversión furiosa",
-       "f": "2019-09-27"
-      },
-      {
-       "n": 13,
-       "t": "Cascarrabias: 1.ª parte",
-       "f": "2019-09-27"
-      },
-      {
-       "n": 14,
-       "t": "Cascarrabias: 2.ª parte",
-       "f": "2019-09-27"
-      }
-     ]
-    },
-    {
-     "n": 2,
-     "eps": [
-      {
-       "n": 1,
-       "t": "¡Una estafa descomunal!",
-       "f": "2020-02-07"
-      },
-      {
-       "n": 2,
-       "t": "Alasmarinas",
-       "f": "2020-02-07"
-      },
-      {
-       "n": 3,
-       "t": "Amenaza mecánica",
-       "f": "2020-02-07"
-      },
-      {
-       "n": 4,
-       "t": "Unas merecidas vacaciones",
-       "f": "2020-02-07"
-      },
-      {
-       "n": 5,
-       "t": "Guardianes del tesoro",
-       "f": "2020-02-07"
-      },
-      {
-       "n": 6,
-       "t": "Un fichaje caótico",
-       "f": "2020-02-07"
-      },
-      {
-       "n": 7,
-       "t": "Temperatura volcánica",
-       "f": "2020-02-07"
-      },
-      {
-       "n": 8,
-       "t": "Miedo a las alturas",
-       "f": "2020-02-07"
-      },
-      {
-       "n": 9,
-       "t": "El rey Zampón",
-       "f": "2020-02-07"
-      },
-      {
-       "n": 10,
-       "t": "Sobrecarga",
-       "f": "2020-02-07"
-      },
-      {
-       "n": 11,
-       "t": "En la boca del dragón",
-       "f": "2020-02-07"
-      },
-      {
-       "n": 12,
-       "t": "Juego de Cuernos",
-       "f": "2020-02-07"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "id": "156718",
-   "titulo": "Dragones al rescate: El secreto del Ala Cantarina",
-   "tipo": "p",
-   "plataforma": "netflix",
-   "estado": "expiring",
-   "fecha": "2026-11-23",
-   "genero": "Animación",
-   "generos": [
-    "Animación",
-    "Familia",
-    "Película de TV"
-   ],
-   "imdb": 5.1,
-   "rt": null,
-   "duracion": "45 min",
-   "sinopsis": "Un dragón cantante con una hermosa voz hipnotiza a los dragones y al pueblo de Huttsgalor, y los guardianes defensores deben dar con un modo de romper el hechizo.",
-   "poster": "https://image.tmdb.org/t/p/w342/dW0y9G5ovOK7IayMUGl3p25wdRN.jpg",
-   "reparto": [
-    {
-     "nombre": "Noah Kaye Bentley",
-     "foto": "https://image.tmdb.org/t/p/w185/1XFtLgZ9ijVisZyrKWqGykAoaFU.jpg"
-    },
-    {
-     "nombre": "Brennley Brown",
-     "foto": "https://image.tmdb.org/t/p/w185/47SKNOSxWhax5sbemeBIhl45YW0.jpg"
-    },
-    {
-     "nombre": "Zach Callison",
-     "foto": "https://image.tmdb.org/t/p/w185/xZ498fu7e34DNBDVNMAs4phMrdV.jpg"
-    },
-    {
-     "nombre": "Nicolas Cantu",
-     "foto": "https://image.tmdb.org/t/p/w185/ySFxLOQ9ejiZddviRVf9bhZvDsf.jpg"
-    },
-    {
-     "nombre": "Skai Jackson",
-     "foto": "https://image.tmdb.org/t/p/w185/5Hy1XF5QjERKuwOQLIUU3CyoCvH.jpg"
-    },
-    {
-     "nombre": "Marsai Martin",
-     "foto": "https://image.tmdb.org/t/p/w185/hYErUiiesrm9jmiY1JTbwlxcN7l.jpg"
-    }
-   ],
-   "trailer": "https://www.youtube.com/watch?v=Pn4P1IYdQuU",
-   "temporadas_det": []
-  },
-  {
-   "id": "166626",
-   "titulo": "Dragones al rescate: A la caza del dragón dorado",
-   "tipo": "p",
-   "plataforma": "netflix",
-   "estado": "expiring",
-   "fecha": "2026-11-23",
-   "genero": "Animación",
-   "generos": [
-    "Animación",
-    "Familia",
-    "Película de TV"
-   ],
-   "imdb": 5.0,
-   "rt": null,
-   "duracion": "46 min",
-   "sinopsis": "El equipo de rescate vive la búsqueda del tesoro más emocionante de su vida cuando debe encontrar un huevo valiosísimo y protegerlo de piratas malvados.",
-   "poster": "https://image.tmdb.org/t/p/w342/fD68JTgLp9Sa5tgdYIdvxWgj9I0.jpg",
-   "reparto": [
-    {
-     "nombre": "Noah Kaye Bentley",
-     "foto": "https://image.tmdb.org/t/p/w185/1XFtLgZ9ijVisZyrKWqGykAoaFU.jpg"
-    },
-    {
-     "nombre": "Zach Callison",
-     "foto": "https://image.tmdb.org/t/p/w185/xZ498fu7e34DNBDVNMAs4phMrdV.jpg"
-    },
-    {
-     "nombre": "Nicolas Cantu",
-     "foto": "https://image.tmdb.org/t/p/w185/ySFxLOQ9ejiZddviRVf9bhZvDsf.jpg"
-    },
-    {
-     "nombre": "Skai Jackson",
-     "foto": "https://image.tmdb.org/t/p/w185/5Hy1XF5QjERKuwOQLIUU3CyoCvH.jpg"
-    },
-    {
-     "nombre": "Marsai Martin",
-     "foto": "https://image.tmdb.org/t/p/w185/hYErUiiesrm9jmiY1JTbwlxcN7l.jpg"
-    },
-    {
-     "nombre": "Andre Robinson",
-     "foto": "https://image.tmdb.org/t/p/w185/94IRACbuilkND9xTK7DG5s1dDVI.jpg"
-    }
-   ],
-   "trailer": "https://www.youtube.com/watch?v=wP5S9YAFfdE",
-   "temporadas_det": []
-  },
-  {
-   "id": "5974",
-   "titulo": "Escapada perfecta",
-   "tipo": "p",
-   "plataforma": "netflix",
-   "estado": "expiring",
-   "fecha": "2026-11-23",
-   "genero": "Suspense",
-   "generos": [
-    "Suspense",
-    "Misterio",
-    "Aventura"
-   ],
-   "imdb": 6.4,
-   "rt": 62,
-   "duracion": "1 h 38 min",
-   "sinopsis": "Cliff y Cydney son una joven pareja aventurera que está pasando su luna de miel en una de las más maravillosas y remotas playas de Hawai. Creen haber encontrado el paraíso en sus tierras salvajes y senderos solitarios, hasta que se encuentran con un asustado grupo de excursionistas que hablan sobre el horrible asesinato de unos recién casados en las islas, y comienzan a preguntarse si quizás deberían volverse. Indecisos sobre qué hacer, Cliff y Cydney se unen a otras dos parejas, Nick y Gina y Kale y Cleo, y es cuando las cosas comienzan a ir terroríficamente de mal a peor. Lejos de la civilización o de poder ser rescatados, cada uno de ellos empieza a sentirse amenazado, sin saber ya en quién confiar. El paraíso se convierte en un infierno terrenal donde da comienzo una batalla brutal por la supervivencia.",
-   "poster": "https://image.tmdb.org/t/p/w342/w3pYmfz65PPEsDHVFuuiHe2tZVi.jpg",
-   "reparto": [
-    {
-     "nombre": "Steve Zahn",
-     "foto": "https://image.tmdb.org/t/p/w185/rwrPdKGwXnByxUVMxMf8Y7oswi3.jpg"
-    },
-    {
-     "nombre": "Milla Jovovich",
-     "foto": "https://image.tmdb.org/t/p/w185/usWnHCzbADijULREZYSJ0qfM00y.jpg"
-    },
-    {
-     "nombre": "Timothy Olyphant",
-     "foto": "https://image.tmdb.org/t/p/w185/ccQzw9I1BYBv0HHVJr4cvAWjtkI.jpg"
-    },
-    {
-     "nombre": "Kiele Sanchez",
-     "foto": "https://image.tmdb.org/t/p/w185/klmeWImg34TiEia6c6ZkwHhaVoB.jpg"
-    },
-    {
-     "nombre": "Chris Hemsworth",
-     "foto": "https://image.tmdb.org/t/p/w185/piQGdoIQOF3C1EI5cbYZLAW1gfj.jpg"
-    },
-    {
-     "nombre": "Marley Shelton",
-     "foto": "https://image.tmdb.org/t/p/w185/6fqY7QzZI5yoCCJZpvX0MceL6kZ.jpg"
-    }
-   ],
-   "trailer": "https://www.youtube.com/watch?v=izudtkH3rkU",
-   "temporadas_det": []
-  },
   {
    "id": "176646",
    "titulo": "Izla",
@@ -3286,6 +2814,519 @@
     }
    ],
    "trailer": "https://www.youtube.com/watch?v=Fo6TfHkLW6Y",
+   "temporadas_det": []
+  },
+  {
+   "id": "22241",
+   "titulo": "Koi No Tsuki:  Suerte en el amor",
+   "tipo": "s",
+   "plataforma": "netflix",
+   "estado": "expiring",
+   "fecha": "2026-11-29",
+   "genero": "Drama",
+   "generos": [
+    "Drama"
+   ],
+   "imdb": 5.6,
+   "rt": null,
+   "duracion": "1 temporada, 12 episodios",
+   "sinopsis": "A sus treinta y tantos y frustrada por la vida con su novio, Wako no puede evitar interesarse en Yumeaki, un estudiante de secundaria, a pesar de la diferencia de edades.",
+   "poster": "https://image.tmdb.org/t/p/w342/3wu56sYfaeeBDVTJaQBWQTdsxkk.jpg",
+   "reparto": [
+    {
+     "nombre": "徳永えり",
+     "foto": "https://image.tmdb.org/t/p/w185/9LgNJkJdhu2h2WawUr9PSF5ZV7Q.jpg"
+    },
+    {
+     "nombre": "川谷絵音",
+     "foto": "https://image.tmdb.org/t/p/w185/i2J0HOZZQKCs707OX3TJE79VjZF.jpg"
+    },
+    {
+     "nombre": "山田愛奈",
+     "foto": "https://image.tmdb.org/t/p/w185/eytG09sAvIrJ9WlRcrFcYQF4451.jpg"
+    },
+    {
+     "nombre": "きたろう",
+     "foto": "https://image.tmdb.org/t/p/w185/2L4TVkoMrdBbnRllnt1Y74SU4DL.jpg"
+    },
+    {
+     "nombre": "Sairi Ito",
+     "foto": "https://image.tmdb.org/t/p/w185/5E66xtBsjyL7mgfWxEdNJsDLZnb.jpg"
+    },
+    {
+     "nombre": "小倉ゆうか",
+     "foto": "https://image.tmdb.org/t/p/w185/wt8xlSPYzRQDFG5XICm1jJLwbVP.jpg"
+    }
+   ],
+   "trailer": null,
+   "temporadas_det": [
+    {
+     "n": 1,
+     "eps": [
+      {
+       "n": 1,
+       "t": "Boy meets girl",
+       "f": "2018-09-14"
+      },
+      {
+       "n": 2,
+       "t": "Episodio 2",
+       "f": "2018-09-21"
+      },
+      {
+       "n": 3,
+       "t": "Episodio 3",
+       "f": "2018-09-28"
+      },
+      {
+       "n": 4,
+       "t": "Episodio 4",
+       "f": "2018-10-05"
+      },
+      {
+       "n": 5,
+       "t": "Episodio 5",
+       "f": "2018-10-12"
+      },
+      {
+       "n": 6,
+       "t": "Episodio 6",
+       "f": "2018-10-19"
+      },
+      {
+       "n": 7,
+       "t": "Episodio 7",
+       "f": "2018-10-26"
+      },
+      {
+       "n": 8,
+       "t": "Episodio 8",
+       "f": "2018-11-02"
+      },
+      {
+       "n": 9,
+       "t": "Episodio 9",
+       "f": "2018-11-09"
+      },
+      {
+       "n": 10,
+       "t": "Episodio 10",
+       "f": "2018-11-16"
+      },
+      {
+       "n": 11,
+       "t": "Episodio 11",
+       "f": "2018-11-23"
+      },
+      {
+       "n": 12,
+       "t": "Episodio 12",
+       "f": "2018-11-30"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "3709",
+   "titulo": "Malditos vecinos 2",
+   "tipo": "p",
+   "plataforma": "netflix",
+   "estado": "expiring",
+   "fecha": "2026-11-29",
+   "genero": "Comedia",
+   "generos": [
+    "Comedia"
+   ],
+   "imdb": 5.7,
+   "rt": null,
+   "duracion": "1 h 32 min",
+   "sinopsis": "Secuela de la comedia estrenada en 2014. Comienza cuando una fraternidad se muda a la casa de Mac y Kelly Radner. Entonces ellos para solucionar el problema recurrirán a la ayuda de su antiguo enemigo: Teddy Sanders, el líder de la hermandad juvenil Delta Psi Beta.",
+   "poster": "https://image.tmdb.org/t/p/w342/nVE18oyPTFX3h7ufL6N4w2D4vL8.jpg",
+   "reparto": [
+    {
+     "nombre": "Seth Rogen",
+     "foto": "https://image.tmdb.org/t/p/w185/nYl9bvQzaPQLzlf0wf75clLN6Hi.jpg"
+    },
+    {
+     "nombre": "Zac Efron",
+     "foto": "https://image.tmdb.org/t/p/w185/6yL3AGhT3QBQBY6SSWIFWwdQySl.jpg"
+    },
+    {
+     "nombre": "Rose Byrne",
+     "foto": "https://image.tmdb.org/t/p/w185/wR8YZlrewVW2FixRBrJcxaXU3R1.jpg"
+    },
+    {
+     "nombre": "Chloë Grace Moretz",
+     "foto": "https://image.tmdb.org/t/p/w185/yq4rYmaTRC5degaOYmJQFpaiho1.jpg"
+    },
+    {
+     "nombre": "Dave Franco",
+     "foto": "https://image.tmdb.org/t/p/w185/nMROwyhekhgV5jU9TLQQAsjpNdw.jpg"
+    },
+    {
+     "nombre": "Ike Barinholtz",
+     "foto": "https://image.tmdb.org/t/p/w185/pxK1HXsQFfh3zT1KA3t6lEKMiZK.jpg"
+    }
+   ],
+   "trailer": "https://www.youtube.com/watch?v=uldqs2kW25g",
+   "temporadas_det": []
+  },
+  {
+   "id": "1241",
+   "titulo": "Malditos vecinos",
+   "tipo": "p",
+   "plataforma": "netflix",
+   "estado": "expiring",
+   "fecha": "2026-11-29",
+   "genero": "Comedia",
+   "generos": [
+    "Comedia"
+   ],
+   "imdb": 6.2,
+   "rt": null,
+   "duracion": "1 h 36 min",
+   "sinopsis": "Aparentemente, Mac Radner y su esposa Kelly han hecho realidad el sueño americano: acaban de tener una niña adorable y se han comprado una preciosa casa en las afueras. La pareja de treintañeros está convencida de que ha adquirido el aplomo necesario para la vida de adultos, pero estos exjuerguistas van a enfrentarse a un reto inesperado. Cuando Mac y Kelly descubren que sus nuevos vecinos son los miembros de la fraternidad Delta Psi Beta, con el carismático presidente Teddy Sanders a la cabeza, intentan estar a la altura de la situación y parecer más colegas que adultos. Pero las juergas de los chicos adquieren proporciones épicas y a la pareja no le queda más remedio que poner un poco de orden. La guerra entre vecinos escala a la velocidad del rayo a medida que el matrimonio se las ingenia para que expulsen a los universitarios, y estos últimos, para hacer perder la poca cordura que les queda a los nuevos padres.",
+   "poster": "https://image.tmdb.org/t/p/w342/f3zFfLgh0snxZxcOHxDYAyczXGA.jpg",
+   "reparto": [
+    {
+     "nombre": "Seth Rogen",
+     "foto": "https://image.tmdb.org/t/p/w185/nYl9bvQzaPQLzlf0wf75clLN6Hi.jpg"
+    },
+    {
+     "nombre": "Zac Efron",
+     "foto": "https://image.tmdb.org/t/p/w185/6yL3AGhT3QBQBY6SSWIFWwdQySl.jpg"
+    },
+    {
+     "nombre": "Rose Byrne",
+     "foto": "https://image.tmdb.org/t/p/w185/wR8YZlrewVW2FixRBrJcxaXU3R1.jpg"
+    },
+    {
+     "nombre": "Dave Franco",
+     "foto": "https://image.tmdb.org/t/p/w185/nMROwyhekhgV5jU9TLQQAsjpNdw.jpg"
+    },
+    {
+     "nombre": "Christopher Mintz-Plasse",
+     "foto": "https://image.tmdb.org/t/p/w185/dnj2qyxmPt5JF5uurbXQLegppAx.jpg"
+    },
+    {
+     "nombre": "Jerrod Carmichael",
+     "foto": "https://image.tmdb.org/t/p/w185/v1i5xodXbPw3blXYg4v0HmH3PGK.jpg"
+    }
+   ],
+   "trailer": "https://www.youtube.com/watch?v=VI18Jc2roqY",
+   "temporadas_det": []
+  },
+  {
+   "id": "9690935",
+   "titulo": "Historias de las Tortugas Ninja",
+   "tipo": "s",
+   "plataforma": "netflix",
+   "estado": "expiring",
+   "fecha": "2026-11-29",
+   "genero": "Animación",
+   "generos": [
+    "Animación",
+    "Acción",
+    "Aventura",
+    "Ciencia ficción",
+    "Fantasía",
+    "Familia",
+    "Comedia"
+   ],
+   "imdb": 6.1,
+   "rt": null,
+   "duracion": "2 temporadas, 24 episodios",
+   "sinopsis": "Las heroicas Tortugas Ninja, Leo, Mikey, Raph y Donnie, amantes de la pizza, deben aprender a encontrar sus puntos fuertes y colaborar con viejos aliados para sobrevivir a la vida adolescente y enfrentarse a nuevos villanos.",
+   "poster": "https://image.tmdb.org/t/p/w342/nZI6SaTGvTx9cUUPdib3alUq7zy.jpg",
+   "reparto": [
+    {
+     "nombre": "Micah Abbey",
+     "foto": "https://image.tmdb.org/t/p/w185/nfQGd7AblQuHloLY3R4Lr46jQhL.jpg"
+    },
+    {
+     "nombre": "Shamon Brown Jr.",
+     "foto": "https://image.tmdb.org/t/p/w185/wLg3pI7xqV5swxHnH7IfcSL5wjN.jpg"
+    },
+    {
+     "nombre": "Nicolas Cantu",
+     "foto": "https://image.tmdb.org/t/p/w185/ySFxLOQ9ejiZddviRVf9bhZvDsf.jpg"
+    },
+    {
+     "nombre": "Brady Noon",
+     "foto": "https://image.tmdb.org/t/p/w185/qn7dJS2XxKfSoJdK9BVgFiPEeCJ.jpg"
+    }
+   ],
+   "trailer": "https://www.youtube.com/watch?v=qZo7A_XBNeE",
+   "temporadas_det": [
+    {
+     "n": 1,
+     "eps": [
+      {
+       "n": 1,
+       "t": "Leo Nardo se queda solo",
+       "f": "2024-08-08"
+      },
+      {
+       "n": 2,
+       "t": "Mikey hace lo correcto",
+       "f": "2024-08-08"
+      },
+      {
+       "n": 3,
+       "t": "Rafael lo piensa bien",
+       "f": "2024-08-08"
+      },
+      {
+       "n": 4,
+       "t": "Donnie se mantiene firme",
+       "f": "2024-08-08"
+      },
+      {
+       "n": 5,
+       "t": "Bishop hace su movimiento",
+       "f": "2024-08-08"
+      },
+      {
+       "n": 6,
+       "t": "La noche de los mecazoides",
+       "f": "2024-08-08"
+      },
+      {
+       "n": 7,
+       "t": "Raph contra Agua",
+       "f": "2024-08-09"
+      },
+      {
+       "n": 8,
+       "t": "Mikey toma el mando",
+       "f": "2024-08-09"
+      },
+      {
+       "n": 9,
+       "t": "Splinter y April luchan contra un pez dorado",
+       "f": "2024-08-09"
+      },
+      {
+       "n": 10,
+       "t": "Donnie se adentra en lo profundo",
+       "f": "2024-08-09"
+      },
+      {
+       "n": 11,
+       "t": "Leonardo se prepara para la batalla",
+       "f": "2024-08-09"
+      },
+      {
+       "n": 12,
+       "t": "La perla",
+       "f": "2024-08-09"
+      }
+     ]
+    },
+    {
+     "n": 2,
+     "eps": [
+      {
+       "n": 1,
+       "t": "La arena de combate mutante",
+       "f": "2025-12-12"
+      },
+      {
+       "n": 2,
+       "t": "Combate por el título de Mutantweight",
+       "f": "2025-12-12"
+      },
+      {
+       "n": 3,
+       "t": "Raph se enfrenta a todos",
+       "f": "2025-12-12"
+      },
+      {
+       "n": 4,
+       "t": "La isla",
+       "f": "2025-12-12"
+      },
+      {
+       "n": 5,
+       "t": "Los otros Mutanimales",
+       "f": "2025-12-12"
+      },
+      {
+       "n": 6,
+       "t": "Los marginados",
+       "f": "2025-12-12"
+      },
+      {
+       "n": 7,
+       "t": "El ascenso del Ninja Nocturno",
+       "f": "2025-12-12"
+      },
+      {
+       "n": 8,
+       "t": "El regreso del Ninja Nocturno",
+       "f": "2025-12-12"
+      },
+      {
+       "n": 9,
+       "t": "El picor de Scratch",
+       "f": "2025-12-12"
+      },
+      {
+       "n": 10,
+       "t": "A por Rod",
+       "f": "2025-12-12"
+      },
+      {
+       "n": 11,
+       "t": "Los sospechosos inusuales",
+       "f": "2025-12-12"
+      },
+      {
+       "n": 12,
+       "t": "El Gran Muck",
+       "f": "2025-12-12"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "8867324",
+   "titulo": "Romper el círculo",
+   "tipo": "p",
+   "plataforma": "netflix",
+   "estado": "expiring",
+   "fecha": "2026-11-29",
+   "genero": "Drama",
+   "generos": [
+    "Drama",
+    "Romance"
+   ],
+   "imdb": 6.4,
+   "rt": null,
+   "duracion": "2 h 11 min",
+   "sinopsis": "Una mujer atraviesa las tumultuosas etapas de una relación abusiva. Tras mudarse a la ciudad de Boston después de la universidad, decide iniciar su propio negocio como florista y se enamora de un joven neurocirujano.",
+   "poster": "https://image.tmdb.org/t/p/w342/hvpQDMkfAbkiz8kxJOybcNSAq1j.jpg",
+   "reparto": [
+    {
+     "nombre": "Blake Lively",
+     "foto": "https://image.tmdb.org/t/p/w185/3sQ694q6XZPWsn07i6hsOV5rG1y.jpg"
+    },
+    {
+     "nombre": "Justin Baldoni",
+     "foto": "https://image.tmdb.org/t/p/w185/a7Z3lA96nyZswEc80nXAKCWfXn1.jpg"
+    },
+    {
+     "nombre": "Jenny Slate",
+     "foto": "https://image.tmdb.org/t/p/w185/mMxsNO6r966ut0sordYzj2iDOb6.jpg"
+    },
+    {
+     "nombre": "Brandon Sklenar",
+     "foto": "https://image.tmdb.org/t/p/w185/juLH1EhkY1Xx9Zai2H4icvfn4pD.jpg"
+    },
+    {
+     "nombre": "Hasan Minhaj",
+     "foto": "https://image.tmdb.org/t/p/w185/6vHHhLnbKBCPmYc90qAV2Cde95F.jpg"
+    },
+    {
+     "nombre": "Kevin McKidd",
+     "foto": "https://image.tmdb.org/t/p/w185/KtmEKOSehmQ35JfGjEjpqlypbP.jpg"
+    }
+   ],
+   "trailer": "https://www.youtube.com/watch?v=TSRlpWLTcBA",
+   "temporadas_det": []
+  },
+  {
+   "id": "3449",
+   "titulo": "Separados",
+   "tipo": "p",
+   "plataforma": "netflix",
+   "estado": "expiring",
+   "fecha": "2026-11-29",
+   "genero": "Romance",
+   "generos": [
+    "Romance",
+    "Comedia"
+   ],
+   "imdb": 5.8,
+   "rt": null,
+   "duracion": "1 h 46 min",
+   "sinopsis": "Relato sobre las consecuencias de una ruptura sentimental. Gary (Vince Vaughn) y Brooke (Jennifer Aniston), tras dos años de noviazgo, descubren que el amor que se habían profesado ha desaparecido. El detonante es una pequeña discusión doméstica que acaba convirtiéndose en una pelea desaforada. El problema es que ninguno de los dos quiere dejar el apartamento; empieza así una batalla en la que no faltan amigos y parientes que les aconsejan recurrir a la guerra \"psicológica\" para conseguir que el otro abandone el hogar...",
+   "poster": "https://image.tmdb.org/t/p/w342/rJaFF9C3cPKGk2U9yyyOE6FQKwS.jpg",
+   "reparto": [
+    {
+     "nombre": "Vince Vaughn",
+     "foto": "https://image.tmdb.org/t/p/w185/qImHvsd7SFJh46Ujx50xUfkeMNz.jpg"
+    },
+    {
+     "nombre": "Jennifer Aniston",
+     "foto": "https://image.tmdb.org/t/p/w185/PBSCmHDFdCMBhjx0EbXpTw4Z94.jpg"
+    },
+    {
+     "nombre": "Joey Lauren Adams",
+     "foto": "https://image.tmdb.org/t/p/w185/A7p7Rrda5tmYQvlcCY5UXCpT5tq.jpg"
+    },
+    {
+     "nombre": "Cole Hauser",
+     "foto": "https://image.tmdb.org/t/p/w185/1SNoIDILoXtAUJu4f7nDCPVQH5j.jpg"
+    },
+    {
+     "nombre": "Jon Favreau",
+     "foto": "https://image.tmdb.org/t/p/w185/8MtRRnEHaBSw8Ztdl8saXiw1egP.jpg"
+    },
+    {
+     "nombre": "Jason Bateman",
+     "foto": "https://image.tmdb.org/t/p/w185/8e6mt0vGjPo6eW52gqRuXy5YnfN.jpg"
+    }
+   ],
+   "trailer": "https://www.youtube.com/watch?v=SfTaJUh3_J4",
+   "temporadas_det": []
+  },
+  {
+   "id": "3103",
+   "titulo": "Starsky y Hutch",
+   "tipo": "p",
+   "plataforma": "netflix",
+   "estado": "expiring",
+   "fecha": "2026-11-29",
+   "genero": "Comedia",
+   "generos": [
+    "Comedia",
+    "Crimen"
+   ],
+   "imdb": 6.0,
+   "rt": 63,
+   "duracion": "1 h 41 min",
+   "sinopsis": "Adaptación cinematográfica, en clave de humor, de la popular serie de televisión de los años setenta \"Starsky & Hutch\". Dave Starsky (Ben Stiller) y Ken “Hutch” Hutchinson (Owen Wilson) son dos detectives secretos de Bay City, California, unidos para realizar su primera misión. Starsky & Hutch contarán con la valiosa ayuda del astuto y genial Huggy Bear (Snoop Dogg) y de tres espectaculares animadoras (Carmen Electra, Amy Smart y Brande Roderick) para enfrentarse a un caso sumamente delicado y peligroso.",
+   "poster": "https://image.tmdb.org/t/p/w342/x06h1JHSKeqEiH3v5iXXdeLD93K.jpg",
+   "reparto": [
+    {
+     "nombre": "Ben Stiller",
+     "foto": "https://image.tmdb.org/t/p/w185/scgpxhI05JpdNXXfmpK6z0rPOWN.jpg"
+    },
+    {
+     "nombre": "Owen Wilson",
+     "foto": "https://image.tmdb.org/t/p/w185/5A46lNOwmpX77jAdhyKxU7e2Hub.jpg"
+    },
+    {
+     "nombre": "Snoop Dogg",
+     "foto": "https://image.tmdb.org/t/p/w185/rbxBK2m6fEq0oHeMoBUMVYkJEdJ.jpg"
+    },
+    {
+     "nombre": "Vince Vaughn",
+     "foto": "https://image.tmdb.org/t/p/w185/qImHvsd7SFJh46Ujx50xUfkeMNz.jpg"
+    },
+    {
+     "nombre": "Fred Williamson",
+     "foto": "https://image.tmdb.org/t/p/w185/h8cWu4xwqUGmkYUkl5LF9OFJyOg.jpg"
+    },
+    {
+     "nombre": "Juliette Lewis",
+     "foto": "https://image.tmdb.org/t/p/w185/sSGCW01aUsYlVQhuk3XSY7cl6Ww.jpg"
+    }
+   ],
+   "trailer": "https://www.youtube.com/watch?v=Y0bdqhP-SMw",
    "temporadas_det": []
   },
   {
@@ -16807,91 +16848,6 @@
     }
    ],
    "trailer": "https://www.youtube.com/watch?v=dPFk2V77lIs",
-   "temporadas_det": []
-  },
-  {
-   "id": "27521277",
-   "titulo": "The Trials of Karen Read",
-   "tipo": "s",
-   "plataforma": "netflix",
-   "estado": "upcoming",
-   "fecha": "2026-11-23",
-   "genero": "Crimen",
-   "generos": [
-    "Crimen",
-    "Documental",
-    "Drama"
-   ],
-   "imdb": null,
-   "rt": null,
-   "duracion": "1 temporada, 1 episodios",
-   "sinopsis": "",
-   "poster": "https://image.tmdb.org/t/p/w342/hDlEoxu0sX5vz2PB26vreBREhjB.jpg",
-   "reparto": [
-    {
-     "nombre": "Karen Read",
-     "foto": null
-    }
-   ],
-   "trailer": "https://www.youtube.com/watch?v=cya18nTNMzI",
-   "temporadas_det": [
-    {
-     "n": 1,
-     "eps": [
-      {
-       "n": 1,
-       "t": "Episodio 1",
-       "f": "2026-11-23"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "id": "4397059",
-   "titulo": "Frente a frente",
-   "tipo": "p",
-   "plataforma": "netflix",
-   "estado": "upcoming",
-   "fecha": "2026-11-23",
-   "genero": "Comedia",
-   "generos": [
-    "Comedia",
-    "Suspense",
-    "Acción"
-   ],
-   "imdb": 6.1,
-   "rt": null,
-   "duracion": "1 h 34 min",
-   "sinopsis": "Risas y peligro se fusionan cuando un chofer con mal de amores y un mecánico estafador se embarcan en una alocada aventura tras recoger por error a un capo mafioso retirado.",
-   "poster": "https://image.tmdb.org/t/p/w342/wZuPAT74OHH49OesHQ0mlRrmvqd.jpg",
-   "reparto": [
-    {
-     "nombre": "عبدالعزيز الشهري",
-     "foto": "https://image.tmdb.org/t/p/w185/cSfRkFhl8u9liaCT2Ct81guM7tP.jpg"
-    },
-    {
-     "nombre": "زياد العمري",
-     "foto": "https://image.tmdb.org/t/p/w185/iUiGMdBmXBXD5TJIvxNhYcOkJyB.jpg"
-    },
-    {
-     "nombre": "عادل رضوان",
-     "foto": "https://image.tmdb.org/t/p/w185/r65Hf8kC5OAsecHvNbIKccqWKZ9.jpg"
-    },
-    {
-     "nombre": "محمد القس",
-     "foto": "https://image.tmdb.org/t/p/w185/nQiTDW4RULTWWRM9HqlnF7uEswi.jpg"
-    },
-    {
-     "nombre": "آيدا القصي",
-     "foto": "https://image.tmdb.org/t/p/w185/tzu0GLkebhR7S8Rc6sdmdLXM5x5.jpg"
-    },
-    {
-     "nombre": "أحمد الكعبي",
-     "foto": "https://image.tmdb.org/t/p/w185/2znfgS4ffaD5ebnTq2xTljLtYuP.jpg"
-    }
-   ],
-   "trailer": "https://www.youtube.com/watch?v=tWa3V_n-9iY",
    "temporadas_det": []
   },
   {
