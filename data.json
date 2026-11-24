@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-23T23:38:57+00:00",
+ "generado": "2026-11-24T09:16:56+00:00",
  "pais": "ES",
  "items": [
   {
@@ -16851,1293 +16851,6 @@
    "temporadas_det": []
   },
   {
-   "id": "24976650",
-   "titulo": "One Last Order",
-   "tipo": "p",
-   "plataforma": "netflix",
-   "estado": "upcoming",
-   "fecha": "2026-11-24",
-   "genero": "Documental",
-   "generos": [
-    "Documental"
-   ],
-   "imdb": null,
-   "rt": null,
-   "duracion": "20 min",
-   "sinopsis": "",
-   "poster": "https://image.tmdb.org/t/p/w342/ept9ZKHko1JbYPHEUxMK9cf6tzy.jpg",
-   "reparto": [
-    {
-     "nombre": "Sighle Williams",
-     "foto": null
-    }
-   ],
-   "trailer": "https://www.youtube.com/watch?v=uxrhaidYnrw",
-   "temporadas_det": []
-  },
-  {
-   "id": "27527996",
-   "titulo": "Rob Lowe: The Outsider",
-   "tipo": "p",
-   "plataforma": "netflix",
-   "estado": "upcoming",
-   "fecha": "2026-11-24",
-   "genero": "Documental",
-   "generos": [
-    "Documental"
-   ],
-   "imdb": null,
-   "rt": null,
-   "duracion": "1 h 31 min",
-   "sinopsis": "",
-   "poster": "https://image.tmdb.org/t/p/w342/47xmeKxYTiKGQIwrKaPn6PSUIq5.jpg",
-   "reparto": [
-    {
-     "nombre": "Rob Lowe",
-     "foto": "https://image.tmdb.org/t/p/w185/uY0u865QqHqT0YBtwdBXFfVI6Hr.jpg"
-    }
-   ],
-   "trailer": "https://www.youtube.com/watch?v=WxXQrtp5PDM",
-   "temporadas_det": []
-  },
-  {
-   "id": "27719014",
-   "titulo": "Nate Bargatze: Good for Nathan",
-   "tipo": "p",
-   "plataforma": "netflix",
-   "estado": "upcoming",
-   "fecha": "2026-11-24",
-   "genero": "Comedia",
-   "generos": [
-    "Comedia"
-   ],
-   "imdb": null,
-   "rt": null,
-   "duracion": "1 h 01 min",
-   "sinopsis": "",
-   "poster": "https://image.tmdb.org/t/p/w342/fho1KwBlnQZjnup5LYNLxEGkGpn.jpg",
-   "reparto": [
-    {
-     "nombre": "Nate Bargatze",
-     "foto": "https://image.tmdb.org/t/p/w185/60KdELrwXRuNAKJveTaZIpHyDUU.jpg"
-    }
-   ],
-   "trailer": "https://www.youtube.com/watch?v=E2MIEbkPonw",
-   "temporadas_det": []
-  },
-  {
-   "id": "64714",
-   "titulo": "La ruleta de la suerte",
-   "tipo": "s",
-   "plataforma": "netflix",
-   "estado": "upcoming",
-   "fecha": "2026-11-24",
-   "genero": "Familia",
-   "generos": [
-    "Familia",
-    "Entrevistas"
-   ],
-   "imdb": 4.2,
-   "rt": null,
-   "duracion": "27 temporadas, 206 episodios",
-   "sinopsis": "La ruleta de la suerte es un concurso de televisión español emitido por Antena 3 y presentado por Jorge Fernández junto a Laura Moure.",
-   "poster": "https://image.tmdb.org/t/p/w342/7IrzpLAQOVSjL3R4KAh5bkPNUVi.jpg",
-   "reparto": [
-    {
-     "nombre": "Jorge Fernández",
-     "foto": null
-    },
-    {
-     "nombre": "Laura Moure",
-     "foto": null
-    },
-    {
-     "nombre": "Paloma López",
-     "foto": null
-    },
-    {
-     "nombre": "Bárbara González",
-     "foto": null
-    },
-    {
-     "nombre": "Mayra Gómez Kemp",
-     "foto": null
-    },
-    {
-     "nombre": "Ramón García",
-     "foto": null
-    }
-   ],
-   "trailer": null,
-   "temporadas_det": [
-    {
-     "n": 1,
-     "eps": [
-      {
-       "n": 1,
-       "t": "Episodio 1",
-       "f": "1990-04-23"
-      }
-     ]
-    },
-    {
-     "n": 2,
-     "eps": [
-      {
-       "n": 1,
-       "t": "Episodio 1",
-       "f": "1990-09-03"
-      }
-     ]
-    },
-    {
-     "n": 3,
-     "eps": [
-      {
-       "n": 1,
-       "t": "Episodio 1",
-       "f": "1991-09-02"
-      }
-     ]
-    },
-    {
-     "n": 4,
-     "eps": [
-      {
-       "n": 1,
-       "t": "Episodio 1",
-       "f": "1992-08-31"
-      }
-     ]
-    },
-    {
-     "n": 5,
-     "eps": [
-      {
-       "n": 1,
-       "t": "Episodio 1",
-       "f": "1993-08-30"
-      }
-     ]
-    },
-    {
-     "n": 6,
-     "eps": [
-      {
-       "n": 1,
-       "t": "Episodio 1",
-       "f": "1994-09-05"
-      }
-     ]
-    },
-    {
-     "n": 7,
-     "eps": [
-      {
-       "n": 1,
-       "t": "Episodio 1",
-       "f": "1995-09-04"
-      }
-     ]
-    },
-    {
-     "n": 8,
-     "eps": [
-      {
-       "n": 1,
-       "t": "Episodio 1",
-       "f": "1996-09-02"
-      }
-     ]
-    },
-    {
-     "n": 9,
-     "eps": [
-      {
-       "n": 1,
-       "t": "Episodio 1",
-       "f": "1997-09-01"
-      }
-     ]
-    },
-    {
-     "n": 10,
-     "eps": [
-      {
-       "n": 1,
-       "t": "Episodio 1",
-       "f": "2006-09-04"
-      }
-     ]
-    },
-    {
-     "n": 11,
-     "eps": [
-      {
-       "n": 1,
-       "t": "Episodio 1",
-       "f": "2007-09-03"
-      }
-     ]
-    },
-    {
-     "n": 12,
-     "eps": [
-      {
-       "n": 1,
-       "t": "Episodio 1",
-       "f": "2008-09-01"
-      }
-     ]
-    },
-    {
-     "n": 13,
-     "eps": [
-      {
-       "n": 1,
-       "t": "Episodio 1",
-       "f": "2009-08-31"
-      }
-     ]
-    },
-    {
-     "n": 14,
-     "eps": [
-      {
-       "n": 1,
-       "t": "Episodio 1",
-       "f": "2010-08-30"
-      }
-     ]
-    },
-    {
-     "n": 15,
-     "eps": [
-      {
-       "n": 1,
-       "t": "Episodio 1",
-       "f": "2011-09-05"
-      }
-     ]
-    },
-    {
-     "n": 16,
-     "eps": [
-      {
-       "n": 1,
-       "t": "Episodio 1",
-       "f": "2012-09-03"
-      }
-     ]
-    },
-    {
-     "n": 17,
-     "eps": [
-      {
-       "n": 1,
-       "t": "Episodio 1",
-       "f": "2013-09-02"
-      }
-     ]
-    },
-    {
-     "n": 18,
-     "eps": [
-      {
-       "n": 1,
-       "t": "Episodio 1",
-       "f": "2014-09-01"
-      }
-     ]
-    },
-    {
-     "n": 19,
-     "eps": [
-      {
-       "n": 1,
-       "t": "Episodio 1",
-       "f": "2015-08-31"
-      }
-     ]
-    },
-    {
-     "n": 20,
-     "eps": [
-      {
-       "n": 1,
-       "t": "Episodio 1",
-       "f": "2016-09-05"
-      }
-     ]
-    },
-    {
-     "n": 21,
-     "eps": [
-      {
-       "n": 1,
-       "t": "Episodio 1",
-       "f": "2017-09-04"
-      }
-     ]
-    },
-    {
-     "n": 22,
-     "eps": [
-      {
-       "n": 1,
-       "t": "Episodio 1",
-       "f": "2018-09-03"
-      }
-     ]
-    },
-    {
-     "n": 23,
-     "eps": [
-      {
-       "n": 1,
-       "t": "Episodio 1",
-       "f": "2019-09-02"
-      }
-     ]
-    },
-    {
-     "n": 24,
-     "eps": [
-      {
-       "n": 1,
-       "t": "Episodio 1",
-       "f": "2020-08-31"
-      }
-     ]
-    },
-    {
-     "n": 25,
-     "eps": [
-      {
-       "n": 1,
-       "t": "Episodio 1",
-       "f": "2021-08-30"
-      }
-     ]
-    },
-    {
-     "n": 26,
-     "eps": [
-      {
-       "n": 1,
-       "t": "Episodio 1",
-       "f": "2022-08-29"
-      },
-      {
-       "n": 2,
-       "t": "Episodio 2",
-       "f": "2022-08-30"
-      },
-      {
-       "n": 3,
-       "t": "Episodio 3",
-       "f": "2022-08-31"
-      },
-      {
-       "n": 4,
-       "t": "Episodio 4",
-       "f": "2022-09-01"
-      },
-      {
-       "n": 5,
-       "t": "Episodio 5",
-       "f": "2022-09-02"
-      },
-      {
-       "n": 6,
-       "t": "Episodio 6",
-       "f": "2022-09-05"
-      },
-      {
-       "n": 7,
-       "t": "Episodio 7",
-       "f": "2022-09-06"
-      },
-      {
-       "n": 8,
-       "t": "Episodio 8",
-       "f": "2022-09-07"
-      },
-      {
-       "n": 9,
-       "t": "Episodio 9",
-       "f": "2022-09-08"
-      },
-      {
-       "n": 10,
-       "t": "Episodio 10",
-       "f": "2022-09-09"
-      },
-      {
-       "n": 11,
-       "t": "Episodio 11",
-       "f": "2022-09-12"
-      },
-      {
-       "n": 12,
-       "t": "Episodio 12",
-       "f": "2022-09-13"
-      },
-      {
-       "n": 13,
-       "t": "Episodio 13",
-       "f": "2022-09-14"
-      },
-      {
-       "n": 14,
-       "t": "Episodio 14",
-       "f": "2022-09-15"
-      },
-      {
-       "n": 15,
-       "t": "Episodio 15",
-       "f": "2022-09-16"
-      },
-      {
-       "n": 16,
-       "t": "Episodio 16",
-       "f": "2022-09-19"
-      },
-      {
-       "n": 17,
-       "t": "Episodio 17",
-       "f": "2022-09-20"
-      },
-      {
-       "n": 18,
-       "t": "Episodio 18",
-       "f": "2022-09-21"
-      },
-      {
-       "n": 19,
-       "t": "Episodio 19",
-       "f": "2022-09-22"
-      },
-      {
-       "n": 20,
-       "t": "Episodio 20",
-       "f": "2022-09-23"
-      },
-      {
-       "n": 21,
-       "t": "Episodio 21",
-       "f": "2022-09-26"
-      },
-      {
-       "n": 22,
-       "t": "Episodio 22",
-       "f": "2022-09-27"
-      },
-      {
-       "n": 23,
-       "t": "Episodio 23",
-       "f": "2022-09-28"
-      },
-      {
-       "n": 24,
-       "t": "Episodio 24",
-       "f": "2022-09-29"
-      },
-      {
-       "n": 25,
-       "t": "Episodio 25",
-       "f": "2022-09-30"
-      },
-      {
-       "n": 26,
-       "t": "Episodio 26",
-       "f": "2022-10-03"
-      },
-      {
-       "n": 27,
-       "t": "Episodio 27",
-       "f": "2022-10-04"
-      },
-      {
-       "n": 28,
-       "t": "Episodio 28",
-       "f": "2022-10-05"
-      },
-      {
-       "n": 29,
-       "t": "Episodio 29",
-       "f": "2022-10-06"
-      },
-      {
-       "n": 30,
-       "t": "Episodio 30",
-       "f": "2022-10-07"
-      },
-      {
-       "n": 31,
-       "t": "Episodio 31",
-       "f": "2022-10-10"
-      },
-      {
-       "n": 32,
-       "t": "Episodio 32",
-       "f": "2022-10-11"
-      },
-      {
-       "n": 33,
-       "t": "Episodio 33",
-       "f": "2022-10-12"
-      },
-      {
-       "n": 34,
-       "t": "Episodio 34",
-       "f": "2022-10-13"
-      },
-      {
-       "n": 35,
-       "t": "Episodio 35",
-       "f": "2022-10-14"
-      },
-      {
-       "n": 36,
-       "t": "Episodio 36",
-       "f": "2022-10-17"
-      },
-      {
-       "n": 37,
-       "t": "Episodio 37",
-       "f": "2022-10-18"
-      },
-      {
-       "n": 38,
-       "t": "Episodio 38",
-       "f": "2022-10-19"
-      },
-      {
-       "n": 39,
-       "t": "Episodio 39",
-       "f": "2022-10-20"
-      },
-      {
-       "n": 40,
-       "t": "Episodio 40",
-       "f": "2022-10-21"
-      },
-      {
-       "n": 41,
-       "t": "Episodio 41",
-       "f": "2022-10-24"
-      },
-      {
-       "n": 42,
-       "t": "Episodio 42",
-       "f": "2022-10-25"
-      },
-      {
-       "n": 43,
-       "t": "Episodio 43",
-       "f": "2022-10-26"
-      },
-      {
-       "n": 44,
-       "t": "Episodio 44",
-       "f": "2022-10-27"
-      },
-      {
-       "n": 45,
-       "t": "Episodio 45",
-       "f": "2022-10-28"
-      },
-      {
-       "n": 46,
-       "t": "Episodio 46",
-       "f": "2022-10-31"
-      },
-      {
-       "n": 47,
-       "t": "Episodio 47",
-       "f": "2022-11-01"
-      },
-      {
-       "n": 48,
-       "t": "Episodio 48",
-       "f": "2022-11-02"
-      },
-      {
-       "n": 49,
-       "t": "Episodio 49",
-       "f": "2022-11-03"
-      },
-      {
-       "n": 50,
-       "t": "Episodio 50",
-       "f": "2022-11-04"
-      },
-      {
-       "n": 51,
-       "t": "Episodio 51",
-       "f": "2022-11-07"
-      },
-      {
-       "n": 52,
-       "t": "Episodio 52",
-       "f": "2022-11-08"
-      },
-      {
-       "n": 53,
-       "t": "Episodio 53",
-       "f": "2022-11-09"
-      },
-      {
-       "n": 54,
-       "t": "Episodio 54",
-       "f": "2022-11-10"
-      },
-      {
-       "n": 55,
-       "t": "Episodio 55",
-       "f": "2022-11-11"
-      },
-      {
-       "n": 56,
-       "t": "Episodio 56",
-       "f": "2022-11-14"
-      },
-      {
-       "n": 57,
-       "t": "Episodio 57",
-       "f": "2022-11-15"
-      },
-      {
-       "n": 58,
-       "t": "Episodio 58",
-       "f": "2022-11-16"
-      },
-      {
-       "n": 59,
-       "t": "Episodio 59",
-       "f": "2022-11-17"
-      },
-      {
-       "n": 60,
-       "t": "Episodio 60",
-       "f": "2022-11-18"
-      },
-      {
-       "n": 61,
-       "t": "Episodio 61",
-       "f": "2022-11-21"
-      },
-      {
-       "n": 62,
-       "t": "Episodio 62",
-       "f": "2022-11-22"
-      },
-      {
-       "n": 63,
-       "t": "Episodio 63",
-       "f": "2022-11-23"
-      },
-      {
-       "n": 64,
-       "t": "Episodio 64",
-       "f": "2022-11-24"
-      },
-      {
-       "n": 65,
-       "t": "Episodio 65",
-       "f": "2022-11-25"
-      },
-      {
-       "n": 66,
-       "t": "Episodio 66",
-       "f": "2022-11-28"
-      },
-      {
-       "n": 67,
-       "t": "Episodio 67",
-       "f": "2022-11-29"
-      },
-      {
-       "n": 68,
-       "t": "Episodio 68",
-       "f": "2022-11-30"
-      },
-      {
-       "n": 69,
-       "t": "Episodio 69",
-       "f": "2022-12-01"
-      },
-      {
-       "n": 70,
-       "t": "Episodio 70",
-       "f": "2022-12-02"
-      },
-      {
-       "n": 71,
-       "t": "Episodio 71",
-       "f": "2022-12-05"
-      },
-      {
-       "n": 72,
-       "t": "Episodio 72",
-       "f": "2022-12-06"
-      },
-      {
-       "n": 73,
-       "t": "Episodio 73",
-       "f": "2022-12-07"
-      },
-      {
-       "n": 74,
-       "t": "Episodio 74",
-       "f": "2022-12-08"
-      },
-      {
-       "n": 75,
-       "t": "Episodio 75",
-       "f": "2022-12-09"
-      },
-      {
-       "n": 76,
-       "t": "Episodio 76",
-       "f": "2022-12-12"
-      },
-      {
-       "n": 77,
-       "t": "Episodio 77",
-       "f": "2022-12-13"
-      },
-      {
-       "n": 78,
-       "t": "Episodio 78",
-       "f": "2022-12-14"
-      },
-      {
-       "n": 79,
-       "t": "Episodio 79",
-       "f": "2022-12-15"
-      },
-      {
-       "n": 80,
-       "t": "Episodio 80",
-       "f": "2022-12-16"
-      },
-      {
-       "n": 81,
-       "t": "Episodio 81",
-       "f": "2022-12-19"
-      },
-      {
-       "n": 82,
-       "t": "Episodio 82",
-       "f": "2022-12-20"
-      },
-      {
-       "n": 83,
-       "t": "Episodio 83",
-       "f": "2022-12-21"
-      },
-      {
-       "n": 84,
-       "t": "Episodio 84",
-       "f": "2022-12-22"
-      },
-      {
-       "n": 85,
-       "t": "Episodio 85",
-       "f": "2022-12-23"
-      },
-      {
-       "n": 86,
-       "t": "Episodio 86",
-       "f": "2022-12-26"
-      },
-      {
-       "n": 87,
-       "t": "Episodio 87",
-       "f": "2022-12-27"
-      },
-      {
-       "n": 88,
-       "t": "Episodio 88",
-       "f": "2022-12-28"
-      },
-      {
-       "n": 89,
-       "t": "Episodio 89",
-       "f": "2022-12-29"
-      },
-      {
-       "n": 90,
-       "t": "Episodio 90",
-       "f": "2022-12-30"
-      },
-      {
-       "n": 91,
-       "t": "Episodio 91",
-       "f": "2023-01-02"
-      },
-      {
-       "n": 92,
-       "t": "Episodio 92",
-       "f": "2023-01-03"
-      },
-      {
-       "n": 93,
-       "t": "Episodio 93",
-       "f": "2023-01-04"
-      },
-      {
-       "n": 94,
-       "t": "Episodio 94",
-       "f": "2023-01-05"
-      },
-      {
-       "n": 95,
-       "t": "Episodio 95",
-       "f": "2023-01-06"
-      },
-      {
-       "n": 96,
-       "t": "Episodio 96",
-       "f": "2023-01-09"
-      },
-      {
-       "n": 97,
-       "t": "Episodio 97",
-       "f": "2023-01-10"
-      },
-      {
-       "n": 98,
-       "t": "Episodio 98",
-       "f": "2023-01-11"
-      },
-      {
-       "n": 99,
-       "t": "Episodio 99",
-       "f": "2023-01-12"
-      },
-      {
-       "n": 100,
-       "t": "Episodio 100",
-       "f": "2023-01-13"
-      },
-      {
-       "n": 101,
-       "t": "Episodio 101",
-       "f": "2023-01-16"
-      },
-      {
-       "n": 102,
-       "t": "Episodio 102",
-       "f": "2023-01-17"
-      },
-      {
-       "n": 103,
-       "t": "Episodio 103",
-       "f": "2023-01-18"
-      },
-      {
-       "n": 104,
-       "t": "Episodio 104",
-       "f": "2023-01-19"
-      },
-      {
-       "n": 105,
-       "t": "(20-01-23)",
-       "f": "2023-01-20"
-      },
-      {
-       "n": 106,
-       "t": "(23-01-23)",
-       "f": "2023-01-23"
-      },
-      {
-       "n": 107,
-       "t": "(24-01-23)",
-       "f": "2023-01-24"
-      },
-      {
-       "n": 108,
-       "t": "(25-01-23)",
-       "f": "2023-01-25"
-      },
-      {
-       "n": 109,
-       "t": "(26-01-23)",
-       "f": "2023-01-26"
-      },
-      {
-       "n": 110,
-       "t": "(27-01-23)",
-       "f": "2023-01-27"
-      },
-      {
-       "n": 111,
-       "t": "(30-01-23)",
-       "f": "2023-01-30"
-      },
-      {
-       "n": 112,
-       "t": "(31-01-23)",
-       "f": "2023-01-31"
-      },
-      {
-       "n": 113,
-       "t": "(01-02-23)",
-       "f": "2023-02-01"
-      },
-      {
-       "n": 114,
-       "t": "(02-02-23)",
-       "f": "2023-02-02"
-      },
-      {
-       "n": 115,
-       "t": "(03-02-23)",
-       "f": "2023-02-03"
-      },
-      {
-       "n": 116,
-       "t": "(06-02-23)",
-       "f": "2023-02-06"
-      },
-      {
-       "n": 117,
-       "t": "(07-02-23)",
-       "f": "2023-02-07"
-      },
-      {
-       "n": 118,
-       "t": "(08-02-23)",
-       "f": "2023-02-08"
-      },
-      {
-       "n": 119,
-       "t": "(09-02-23)",
-       "f": "2023-02-09"
-      },
-      {
-       "n": 120,
-       "t": "(10-02-23)",
-       "f": "2023-02-10"
-      },
-      {
-       "n": 121,
-       "t": "(13-02-23)",
-       "f": "2023-02-13"
-      },
-      {
-       "n": 122,
-       "t": "(14-02-23)",
-       "f": "2023-02-14"
-      },
-      {
-       "n": 123,
-       "t": "(15-02-23)",
-       "f": "2023-02-15"
-      },
-      {
-       "n": 124,
-       "t": "(16-02-23)",
-       "f": "2023-02-16"
-      },
-      {
-       "n": 125,
-       "t": "(17-02-23)",
-       "f": "2023-02-17"
-      },
-      {
-       "n": 126,
-       "t": "(20-02-23)",
-       "f": "2023-02-20"
-      },
-      {
-       "n": 127,
-       "t": "(21-02-23)",
-       "f": "2023-02-21"
-      },
-      {
-       "n": 128,
-       "t": "(28-02-22)",
-       "f": "2023-02-22"
-      },
-      {
-       "n": 129,
-       "t": "(23-02-23)",
-       "f": "2023-02-23"
-      },
-      {
-       "n": 130,
-       "t": "(24-02-23)",
-       "f": "2023-02-24"
-      }
-     ]
-    },
-    {
-     "n": 27,
-     "eps": [
-      {
-       "n": 1,
-       "t": "Episodio 1",
-       "f": "2023-09-04"
-      },
-      {
-       "n": 2,
-       "t": "Episodio 2",
-       "f": "2023-09-05"
-      },
-      {
-       "n": 3,
-       "t": "Episodio 3",
-       "f": "2023-09-06"
-      },
-      {
-       "n": 4,
-       "t": "Episodio 4",
-       "f": "2023-09-07"
-      },
-      {
-       "n": 5,
-       "t": "Episodio 5",
-       "f": "2023-09-08"
-      },
-      {
-       "n": 6,
-       "t": "Episodio 6",
-       "f": "2023-09-11"
-      },
-      {
-       "n": 7,
-       "t": "Episodio 7",
-       "f": "2023-09-12"
-      },
-      {
-       "n": 8,
-       "t": "Episodio 8",
-       "f": "2023-09-13"
-      },
-      {
-       "n": 9,
-       "t": "Episodio 9",
-       "f": "2023-09-14"
-      },
-      {
-       "n": 10,
-       "t": "Episodio 10",
-       "f": "2023-09-15"
-      },
-      {
-       "n": 11,
-       "t": "Episodio 11",
-       "f": "2023-09-18"
-      },
-      {
-       "n": 12,
-       "t": "Episodio 12",
-       "f": "2023-09-19"
-      },
-      {
-       "n": 13,
-       "t": "Episodio 13",
-       "f": "2023-09-20"
-      },
-      {
-       "n": 14,
-       "t": "Episodio 14",
-       "f": "2023-09-21"
-      },
-      {
-       "n": 15,
-       "t": "Episodio 15",
-       "f": "2023-09-22"
-      },
-      {
-       "n": 16,
-       "t": "Episodio 16",
-       "f": "2023-09-25"
-      },
-      {
-       "n": 17,
-       "t": "Episodio 17",
-       "f": "2023-09-26"
-      },
-      {
-       "n": 18,
-       "t": "Episodio 18",
-       "f": "2023-09-27"
-      },
-      {
-       "n": 19,
-       "t": "Episodio 19",
-       "f": "2023-09-28"
-      },
-      {
-       "n": 20,
-       "t": "Episodio 20",
-       "f": "2023-09-29"
-      },
-      {
-       "n": 21,
-       "t": "Episodio 21",
-       "f": "2023-10-02"
-      },
-      {
-       "n": 22,
-       "t": "Episodio 22",
-       "f": "2023-10-03"
-      },
-      {
-       "n": 23,
-       "t": "Episodio 23",
-       "f": "2023-10-04"
-      },
-      {
-       "n": 24,
-       "t": "Episodio 24",
-       "f": "2023-10-05"
-      },
-      {
-       "n": 25,
-       "t": "Episodio 25",
-       "f": "2023-10-06"
-      },
-      {
-       "n": 26,
-       "t": "Episodio 26",
-       "f": "2023-10-09"
-      },
-      {
-       "n": 27,
-       "t": "Episodio 27",
-       "f": "2023-10-10"
-      },
-      {
-       "n": 28,
-       "t": "Episodio 28",
-       "f": "2023-10-11"
-      },
-      {
-       "n": 29,
-       "t": "Episodio 29",
-       "f": "2023-10-12"
-      },
-      {
-       "n": 30,
-       "t": "Episodio 30",
-       "f": "2023-10-13"
-      },
-      {
-       "n": 31,
-       "t": "Episodio 31",
-       "f": "2023-10-16"
-      },
-      {
-       "n": 32,
-       "t": "Episodio 32",
-       "f": "2023-10-17"
-      },
-      {
-       "n": 33,
-       "t": "Episodio 33",
-       "f": "2023-10-18"
-      },
-      {
-       "n": 34,
-       "t": "Episodio 34",
-       "f": "2023-10-19"
-      },
-      {
-       "n": 35,
-       "t": "Episodio 35",
-       "f": "2023-10-20"
-      },
-      {
-       "n": 36,
-       "t": "Episodio 36",
-       "f": "2023-10-23"
-      },
-      {
-       "n": 37,
-       "t": "Episodio 37",
-       "f": "2023-10-24"
-      },
-      {
-       "n": 38,
-       "t": "Episodio 38",
-       "f": "2023-10-25"
-      },
-      {
-       "n": 39,
-       "t": "Episodio 39",
-       "f": "2023-10-26"
-      },
-      {
-       "n": 40,
-       "t": "Episodio 40",
-       "f": "2023-10-27"
-      },
-      {
-       "n": 41,
-       "t": "Episodio 41",
-       "f": "2023-10-30"
-      },
-      {
-       "n": 42,
-       "t": "Episodio 42",
-       "f": "2023-10-31"
-      },
-      {
-       "n": 43,
-       "t": "Episodio 43",
-       "f": "2023-11-01"
-      },
-      {
-       "n": 44,
-       "t": "Episodio 44",
-       "f": "2023-11-02"
-      },
-      {
-       "n": 45,
-       "t": "Episodio 45",
-       "f": "2023-11-03"
-      },
-      {
-       "n": 46,
-       "t": "Episodio 46",
-       "f": "2023-11-06"
-      },
-      {
-       "n": 47,
-       "t": "Episodio 47",
-       "f": "2023-11-07"
-      },
-      {
-       "n": 48,
-       "t": "Episodio 48",
-       "f": "2023-11-08"
-      },
-      {
-       "n": 49,
-       "t": "Episodio 49",
-       "f": "2023-11-09"
-      },
-      {
-       "n": 50,
-       "t": "Episodio 50",
-       "f": "2023-11-10"
-      },
-      {
-       "n": 51,
-       "t": "Episodio 51",
-       "f": "2023-11-13"
-      }
-     ]
-    }
-   ]
-  },
-  {
    "id": "25861614",
    "titulo": "Blade Runner 2099",
    "tipo": "s",
@@ -19687,6 +18400,181 @@
     }
    ],
    "trailer": "https://www.youtube.com/watch?v=5f1H5Rk9l4o",
+   "temporadas_det": []
+  },
+  {
+   "id": "26635413",
+   "titulo": "Orgullo y Prejuicio",
+   "tipo": "s",
+   "plataforma": "netflix",
+   "estado": "upcoming",
+   "fecha": "2026-12-03",
+   "genero": "Drama",
+   "generos": [
+    "Drama"
+   ],
+   "imdb": null,
+   "rt": null,
+   "duracion": "1 temporada, 6 episodios",
+   "sinopsis": "",
+   "poster": "https://image.tmdb.org/t/p/w342/kbZ3IT4iC3I16unJ7nOZIzTKG3I.jpg",
+   "reparto": [
+    {
+     "nombre": "Emma Corrin",
+     "foto": "https://image.tmdb.org/t/p/w185/miSbXJBlq6S3dVvOr7OoNL4axW6.jpg"
+    },
+    {
+     "nombre": "Jack Lowden",
+     "foto": "https://image.tmdb.org/t/p/w185/mQeiB35UBxjcO1D0pc8ZHKJW5dP.jpg"
+    },
+    {
+     "nombre": "Olivia Colman",
+     "foto": "https://image.tmdb.org/t/p/w185/lawJUdbLb1YW0niaYjiVGR9IBG8.jpg"
+    },
+    {
+     "nombre": "Rufus Sewell",
+     "foto": "https://image.tmdb.org/t/p/w185/yc2EWyg45GO03YqDttaEhjvegiE.jpg"
+    },
+    {
+     "nombre": "Fiona Shaw",
+     "foto": "https://image.tmdb.org/t/p/w185/8X7fZybxtwh2nTvYk6kjRYo9RIY.jpg"
+    },
+    {
+     "nombre": "Louis Partridge",
+     "foto": "https://image.tmdb.org/t/p/w185/Q6X8fZQchv1gWjI9pWU58yZ0wb.jpg"
+    }
+   ],
+   "trailer": "https://www.youtube.com/watch?v=KuRYRhP6kag",
+   "temporadas_det": [
+    {
+     "n": 1,
+     "eps": [
+      {
+       "n": 1,
+       "t": "Episodio 1",
+       "f": "2026-12-03"
+      },
+      {
+       "n": 2,
+       "t": "Episodio 2",
+       "f": "2026-12-03"
+      },
+      {
+       "n": 3,
+       "t": "Episodio 3",
+       "f": "2026-12-03"
+      },
+      {
+       "n": 4,
+       "t": "Episodio 4",
+       "f": "2026-12-03"
+      },
+      {
+       "n": 5,
+       "t": "Episodio 5",
+       "f": "2026-12-03"
+      },
+      {
+       "n": 6,
+       "t": "Episodio 6",
+       "f": "2026-12-03"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "26635529",
+   "titulo": "เพลิงพระนาง",
+   "tipo": "s",
+   "plataforma": "netflix",
+   "estado": "upcoming",
+   "fecha": "2026-12-03",
+   "genero": "Drama",
+   "generos": [
+    "Drama"
+   ],
+   "imdb": null,
+   "rt": null,
+   "duracion": "1 temporada, 1 episodios",
+   "sinopsis": "",
+   "poster": "https://image.tmdb.org/t/p/w342/lGfdmmjT8HEVNhaXm1AvWLvdlii.jpg",
+   "reparto": [
+    {
+     "nombre": "พิมพ์ชนก ลือวิเศษไพบูลย์",
+     "foto": "https://image.tmdb.org/t/p/w185/1dAa0G7gG3KbeF66HOof4DPXrpX.jpg"
+    },
+    {
+     "nombre": "นริลญา กุลมงคลเพชร",
+     "foto": "https://image.tmdb.org/t/p/w185/eBa4fndcdfVcI4dNXi7ZFwMSXHL.jpg"
+    },
+    {
+     "nombre": "เขมนิจ จามิกรณ์",
+     "foto": "https://image.tmdb.org/t/p/w185/jWnKARcHRRppqZWxelXWgFwARsq.jpg"
+    },
+    {
+     "nombre": "ปริญ สุภารัตน์",
+     "foto": "https://image.tmdb.org/t/p/w185/lo6zChxhJrIGYaSZV46IG1K98Rw.jpg"
+    },
+    {
+     "nombre": "Pakorn Chatborirak",
+     "foto": "https://image.tmdb.org/t/p/w185/tPMUhJJNPvA2xcXkiZgK71rNuXM.jpg"
+    },
+    {
+     "nombre": "Amanda Chalisa Obdam",
+     "foto": "https://image.tmdb.org/t/p/w185/3c3z0ErOaxWmxy7WWQSqEobTE08.jpg"
+    }
+   ],
+   "trailer": null,
+   "temporadas_det": [
+    {
+     "n": 1,
+     "eps": [
+      {
+       "n": 1,
+       "t": "Episodio 1",
+       "f": "2026-12-03"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "27719230",
+   "titulo": "Secrets",
+   "tipo": "p",
+   "plataforma": "netflix",
+   "estado": "upcoming",
+   "fecha": "2026-12-03",
+   "genero": "Drama",
+   "generos": [
+    "Drama",
+    "Suspense"
+   ],
+   "imdb": null,
+   "rt": null,
+   "duracion": "2 h 09 min",
+   "sinopsis": "",
+   "poster": "https://image.tmdb.org/t/p/w342/j1MVrfow1MbA0nLQ8rlvD8FYz4k.jpg",
+   "reparto": [
+    {
+     "nombre": "Sha Ine Febriyanti",
+     "foto": "https://image.tmdb.org/t/p/w185/rMcPuz7ANlSiiiOxL0Y8EGVdeeo.jpg"
+    },
+    {
+     "nombre": "Abimana Aryasatya",
+     "foto": "https://image.tmdb.org/t/p/w185/b4ncXBTGaiPS6cof11vKeh3DuFj.jpg"
+    },
+    {
+     "nombre": "Shenina Cinnamon",
+     "foto": "https://image.tmdb.org/t/p/w185/opQkgz6CbcA4P4A0XprP49qqKDV.jpg"
+    },
+    {
+     "nombre": "Ruth Marini",
+     "foto": "https://image.tmdb.org/t/p/w185/mLc3McLQaWeEJSijBA0orbulf0o.jpg"
+    }
+   ],
+   "trailer": "https://www.youtube.com/watch?v=sp3iPAOs0UQ",
    "temporadas_det": []
   }
  ]
