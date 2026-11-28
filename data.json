@@ -1,1764 +1,58 @@
 {
- "generado": "2026-11-27T20:56:10+00:00",
+ "generado": "2026-11-28T07:09:42+00:00",
  "pais": "ES",
  "items": [
   {
-   "id": "1670",
-   "titulo": "Matrix Resurrections",
-   "tipo": "p",
-   "plataforma": "prime",
-   "estado": "expiring",
-   "fecha": "2026-11-27",
-   "genero": "Ciencia ficción",
-   "generos": [
-    "Ciencia ficción",
-    "Acción",
-    "Aventura"
-   ],
-   "imdb": 5.7,
-   "rt": 63,
-   "duracion": "2 h 28 min",
-   "sinopsis": "En un mundo compuesto por dos realidades, lo cotidiano y lo oculto tras ella, Thomas Anderson se ve obligado de nuevo a ir tras el conejo blanco. Dicha elección continúa siendo la vía de acceso a Matrix, que esta vez es más poderosa e intrincada que en ocasiones anteriores.",
-   "poster": "https://image.tmdb.org/t/p/w342/dLIwpCTf4QoW01pp85KP9jcfTpu.jpg",
-   "reparto": [
-    {
-     "nombre": "Keanu Reeves",
-     "foto": "https://image.tmdb.org/t/p/w185/8RZLOyYGsoRe9p44q3xin9QkMHv.jpg"
-    },
-    {
-     "nombre": "Carrie-Anne Moss",
-     "foto": "https://image.tmdb.org/t/p/w185/9zya72vRZYBQILfetACsnmCBgdj.jpg"
-    },
-    {
-     "nombre": "Yahya Abdul-Mateen II",
-     "foto": "https://image.tmdb.org/t/p/w185/38D1WYFVUlcuaVvMbyFvctrDlDR.jpg"
-    },
-    {
-     "nombre": "Jonathan Groff",
-     "foto": "https://image.tmdb.org/t/p/w185/3kmnYKAzSc3Lp7iK5pcj97Hx9Cm.jpg"
-    },
-    {
-     "nombre": "Jessica Henwick",
-     "foto": "https://image.tmdb.org/t/p/w185/ayMJbMeg68uJyirPKmcAtHYML8r.jpg"
-    },
-    {
-     "nombre": "Neil Patrick Harris",
-     "foto": "https://image.tmdb.org/t/p/w185/r2twLWLwDpKJ7JyhWsD1YsL7rJV.jpg"
-    }
-   ],
-   "trailer": "https://www.youtube.com/watch?v=nNpvWBuTfrc",
-   "temporadas_det": []
-  },
-  {
-   "id": "78",
-   "titulo": "Matrix",
-   "tipo": "p",
-   "plataforma": "prime",
-   "estado": "expiring",
-   "fecha": "2026-11-27",
-   "genero": "Acción",
-   "generos": [
-    "Acción",
-    "Ciencia ficción"
-   ],
-   "imdb": 8.5,
-   "rt": 83,
-   "duracion": "2 h 18 min",
-   "sinopsis": "Thomas Anderson lleva una doble vida: por el día es programador en una importante empresa de software, y por la noche un hacker informático llamado Neo. Su vida no volverá a ser igual cuando unos misteriosos personajes le inviten a descubrir la respuesta a la pregunta que no le deja dormir: ¿qué es Matrix?",
-   "poster": "https://image.tmdb.org/t/p/w342/8rT9kG2EYkZpJmYCuTJNnPDEube.jpg",
-   "reparto": [
-    {
-     "nombre": "Keanu Reeves",
-     "foto": "https://image.tmdb.org/t/p/w185/8RZLOyYGsoRe9p44q3xin9QkMHv.jpg"
-    },
-    {
-     "nombre": "Laurence Fishburne",
-     "foto": "https://image.tmdb.org/t/p/w185/2GbXERENPpl5MmlqOLlPVaVtifD.jpg"
-    },
-    {
-     "nombre": "Carrie-Anne Moss",
-     "foto": "https://image.tmdb.org/t/p/w185/9zya72vRZYBQILfetACsnmCBgdj.jpg"
-    },
-    {
-     "nombre": "Hugo Weaving",
-     "foto": "https://image.tmdb.org/t/p/w185/lSC8Et0PYi5zeQb3IpPkFje7hgR.jpg"
-    },
-    {
-     "nombre": "Gloria Foster",
-     "foto": "https://image.tmdb.org/t/p/w185/AriGXtC9fjBOia9Zr8CZjn4o3rx.jpg"
-    },
-    {
-     "nombre": "Joe Pantoliano",
-     "foto": "https://image.tmdb.org/t/p/w185/3OHUI3nX4SYGGItDk3xqeIvWtIf.jpg"
-    }
-   ],
-   "trailer": "https://www.youtube.com/watch?v=Zd8Jw1Z_j4w",
-   "temporadas_det": []
-  },
-  {
-   "id": "600",
-   "titulo": "Matrix Revolutions",
-   "tipo": "p",
-   "plataforma": "prime",
-   "estado": "expiring",
-   "fecha": "2026-11-27",
-   "genero": "Acción",
-   "generos": [
-    "Acción",
-    "Suspense",
-    "Ciencia ficción"
-   ],
-   "imdb": 6.7,
-   "rt": 33,
-   "duracion": "2 h 08 min",
-   "sinopsis": "Quedan veinte horas para la irrupción de las máquinas en Sión, el último bastión de los humanos libres. Mientras el cuerpo de Neo permanece en coma, su consciencia se encuentra en tierra de nadie, en un lugar entre el mundo humano y el de las máquinas.",
-   "poster": "https://image.tmdb.org/t/p/w342/zi1UMF9jIM2JnQz0u2AyUw8QFZi.jpg",
-   "reparto": [
-    {
-     "nombre": "Keanu Reeves",
-     "foto": "https://image.tmdb.org/t/p/w185/8RZLOyYGsoRe9p44q3xin9QkMHv.jpg"
-    },
-    {
-     "nombre": "Laurence Fishburne",
-     "foto": "https://image.tmdb.org/t/p/w185/2GbXERENPpl5MmlqOLlPVaVtifD.jpg"
-    },
-    {
-     "nombre": "Carrie-Anne Moss",
-     "foto": "https://image.tmdb.org/t/p/w185/9zya72vRZYBQILfetACsnmCBgdj.jpg"
-    },
-    {
-     "nombre": "Hugo Weaving",
-     "foto": "https://image.tmdb.org/t/p/w185/lSC8Et0PYi5zeQb3IpPkFje7hgR.jpg"
-    },
-    {
-     "nombre": "Jada Pinkett Smith",
-     "foto": "https://image.tmdb.org/t/p/w185/3RyvVVSlgRbZANDFkYiAsRMaHW.jpg"
-    },
-    {
-     "nombre": "Mary Alice",
-     "foto": "https://image.tmdb.org/t/p/w185/jniFVDRjYyIxx5EFTR2kzpFAB02.jpg"
-    }
-   ],
-   "trailer": "https://www.youtube.com/watch?v=VjI7JLqeQ6E",
-   "temporadas_det": []
-  },
-  {
-   "id": "4794557",
-   "titulo": "Los buenos modales",
-   "tipo": "p",
-   "plataforma": "prime",
-   "estado": "expiring",
-   "fecha": "2026-11-27",
-   "genero": "Drama",
-   "generos": [
-    "Drama",
-    "Comedia"
-   ],
-   "imdb": 5.4,
-   "rt": null,
-   "duracion": "1 h 30 min",
-   "sinopsis": "Manuela y Rosario son dos hermanas que, tras años sin hablarse a causa de un secreto familiar, se reencuentran inesperadamente en el cumpleaños de sus nietos. Los niños se han conocido gracias a sus cuidadoras, Trini y Milagros, amigas inseparables, vecinas de toda la vida y limpiadoras. Cuando descubren la situación familiar intentarán con mucho amor, torpeza y un poco de disparate, reconciliar a las dos familias.",
-   "poster": "https://image.tmdb.org/t/p/w342/k7fAmDcHwfru0dQdJOVF2RzOEvN.jpg",
-   "reparto": [
-    {
-     "nombre": "Elena Irureta",
-     "foto": "https://image.tmdb.org/t/p/w185/gJWLhfOXFoYTTVjh5Q9GlxLSsEE.jpg"
-    },
-    {
-     "nombre": "Gloria Muñoz",
-     "foto": "https://image.tmdb.org/t/p/w185/welTISMFpKiNvgPIz5NiViUMVzr.jpg"
-    },
-    {
-     "nombre": "Carmen Flores Sandoval",
-     "foto": "https://image.tmdb.org/t/p/w185/geVHwjv5ke2ySrkVoOFaSYZ5SSa.jpg"
-    },
-    {
-     "nombre": "Pepa Aniorte",
-     "foto": "https://image.tmdb.org/t/p/w185/hWuJNXMlZnWTOKVyHatiWRR6jR8.jpg"
-    },
-    {
-     "nombre": "Bárbara Santa-Cruz",
-     "foto": "https://image.tmdb.org/t/p/w185/3d9MH5ZAfS8HHY4zSLL8y6XU4Du.jpg"
-    },
-    {
-     "nombre": "Ricard Farré",
-     "foto": null
-    }
-   ],
-   "trailer": "https://www.youtube.com/watch?v=EdEC2AUXRpY",
-   "temporadas_det": []
-  },
-  {
-   "id": "4794557",
-   "titulo": "Los buenos modales",
-   "tipo": "p",
-   "plataforma": "hbo",
-   "estado": "expiring",
-   "fecha": "2026-11-27",
-   "genero": "Drama",
-   "generos": [
-    "Drama",
-    "Comedia"
-   ],
-   "imdb": 5.4,
-   "rt": null,
-   "duracion": "1 h 30 min",
-   "sinopsis": "Manuela y Rosario son dos hermanas que, tras años sin hablarse a causa de un secreto familiar, se reencuentran inesperadamente en el cumpleaños de sus nietos. Los niños se han conocido gracias a sus cuidadoras, Trini y Milagros, amigas inseparables, vecinas de toda la vida y limpiadoras. Cuando descubren la situación familiar intentarán con mucho amor, torpeza y un poco de disparate, reconciliar a las dos familias.",
-   "poster": "https://image.tmdb.org/t/p/w342/k7fAmDcHwfru0dQdJOVF2RzOEvN.jpg",
-   "reparto": [
-    {
-     "nombre": "Elena Irureta",
-     "foto": "https://image.tmdb.org/t/p/w185/gJWLhfOXFoYTTVjh5Q9GlxLSsEE.jpg"
-    },
-    {
-     "nombre": "Gloria Muñoz",
-     "foto": "https://image.tmdb.org/t/p/w185/welTISMFpKiNvgPIz5NiViUMVzr.jpg"
-    },
-    {
-     "nombre": "Carmen Flores Sandoval",
-     "foto": "https://image.tmdb.org/t/p/w185/geVHwjv5ke2ySrkVoOFaSYZ5SSa.jpg"
-    },
-    {
-     "nombre": "Pepa Aniorte",
-     "foto": "https://image.tmdb.org/t/p/w185/hWuJNXMlZnWTOKVyHatiWRR6jR8.jpg"
-    },
-    {
-     "nombre": "Bárbara Santa-Cruz",
-     "foto": "https://image.tmdb.org/t/p/w185/3d9MH5ZAfS8HHY4zSLL8y6XU4Du.jpg"
-    },
-    {
-     "nombre": "Ricard Farré",
-     "foto": null
-    }
-   ],
-   "trailer": "https://www.youtube.com/watch?v=EdEC2AUXRpY",
-   "temporadas_det": []
-  },
-  {
-   "id": "1670",
-   "titulo": "Matrix Resurrections",
-   "tipo": "p",
-   "plataforma": "hbo",
-   "estado": "expiring",
-   "fecha": "2026-11-27",
-   "genero": "Ciencia ficción",
-   "generos": [
-    "Ciencia ficción",
-    "Acción",
-    "Aventura"
-   ],
-   "imdb": 5.7,
-   "rt": 63,
-   "duracion": "2 h 28 min",
-   "sinopsis": "En un mundo compuesto por dos realidades, lo cotidiano y lo oculto tras ella, Thomas Anderson se ve obligado de nuevo a ir tras el conejo blanco. Dicha elección continúa siendo la vía de acceso a Matrix, que esta vez es más poderosa e intrincada que en ocasiones anteriores.",
-   "poster": "https://image.tmdb.org/t/p/w342/dLIwpCTf4QoW01pp85KP9jcfTpu.jpg",
-   "reparto": [
-    {
-     "nombre": "Keanu Reeves",
-     "foto": "https://image.tmdb.org/t/p/w185/8RZLOyYGsoRe9p44q3xin9QkMHv.jpg"
-    },
-    {
-     "nombre": "Carrie-Anne Moss",
-     "foto": "https://image.tmdb.org/t/p/w185/9zya72vRZYBQILfetACsnmCBgdj.jpg"
-    },
-    {
-     "nombre": "Yahya Abdul-Mateen II",
-     "foto": "https://image.tmdb.org/t/p/w185/38D1WYFVUlcuaVvMbyFvctrDlDR.jpg"
-    },
-    {
-     "nombre": "Jonathan Groff",
-     "foto": "https://image.tmdb.org/t/p/w185/3kmnYKAzSc3Lp7iK5pcj97Hx9Cm.jpg"
-    },
-    {
-     "nombre": "Jessica Henwick",
-     "foto": "https://image.tmdb.org/t/p/w185/ayMJbMeg68uJyirPKmcAtHYML8r.jpg"
-    },
-    {
-     "nombre": "Neil Patrick Harris",
-     "foto": "https://image.tmdb.org/t/p/w185/r2twLWLwDpKJ7JyhWsD1YsL7rJV.jpg"
-    }
-   ],
-   "trailer": "https://www.youtube.com/watch?v=nNpvWBuTfrc",
-   "temporadas_det": []
-  },
-  {
-   "id": "78",
-   "titulo": "Matrix",
-   "tipo": "p",
-   "plataforma": "hbo",
-   "estado": "expiring",
-   "fecha": "2026-11-27",
-   "genero": "Acción",
-   "generos": [
-    "Acción",
-    "Ciencia ficción"
-   ],
-   "imdb": 8.5,
-   "rt": 83,
-   "duracion": "2 h 18 min",
-   "sinopsis": "Thomas Anderson lleva una doble vida: por el día es programador en una importante empresa de software, y por la noche un hacker informático llamado Neo. Su vida no volverá a ser igual cuando unos misteriosos personajes le inviten a descubrir la respuesta a la pregunta que no le deja dormir: ¿qué es Matrix?",
-   "poster": "https://image.tmdb.org/t/p/w342/8rT9kG2EYkZpJmYCuTJNnPDEube.jpg",
-   "reparto": [
-    {
-     "nombre": "Keanu Reeves",
-     "foto": "https://image.tmdb.org/t/p/w185/8RZLOyYGsoRe9p44q3xin9QkMHv.jpg"
-    },
-    {
-     "nombre": "Laurence Fishburne",
-     "foto": "https://image.tmdb.org/t/p/w185/2GbXERENPpl5MmlqOLlPVaVtifD.jpg"
-    },
-    {
-     "nombre": "Carrie-Anne Moss",
-     "foto": "https://image.tmdb.org/t/p/w185/9zya72vRZYBQILfetACsnmCBgdj.jpg"
-    },
-    {
-     "nombre": "Hugo Weaving",
-     "foto": "https://image.tmdb.org/t/p/w185/lSC8Et0PYi5zeQb3IpPkFje7hgR.jpg"
-    },
-    {
-     "nombre": "Gloria Foster",
-     "foto": "https://image.tmdb.org/t/p/w185/AriGXtC9fjBOia9Zr8CZjn4o3rx.jpg"
-    },
-    {
-     "nombre": "Joe Pantoliano",
-     "foto": "https://image.tmdb.org/t/p/w185/3OHUI3nX4SYGGItDk3xqeIvWtIf.jpg"
-    }
-   ],
-   "trailer": "https://www.youtube.com/watch?v=Zd8Jw1Z_j4w",
-   "temporadas_det": []
-  },
-  {
-   "id": "476",
-   "titulo": "Matrix Reloaded",
-   "tipo": "p",
-   "plataforma": "hbo",
-   "estado": "expiring",
-   "fecha": "2026-11-27",
-   "genero": "Acción",
-   "generos": [
-    "Acción",
-    "Suspense",
-    "Ciencia ficción"
-   ],
-   "imdb": 7.1,
-   "rt": 74,
-   "duracion": "2 h 18 min",
-   "sinopsis": "Las máquinas avanzan imparables hacia Zion en su afán por destruir a toda la humanidad y todas las naves se preparan para la dura batalla. Neo junto con Morfeo y Trinity buscan el camino del elegido dentro de Matrix para vencer a las máquinas y se encuentran con dificultades inesperadas: el agente Smith ha vuelto y no sólo eso, otros programas dentro de Matrix intentarán acabar con su misión. Mientras tanto Neo se tendrá que adaptar a la vida real y a la fama de ser el elegido.",
-   "poster": "https://image.tmdb.org/t/p/w342/7IZk3Xp3HIpRJGXFYNvzmyRwDlt.jpg",
-   "reparto": [
-    {
-     "nombre": "Keanu Reeves",
-     "foto": "https://image.tmdb.org/t/p/w185/8RZLOyYGsoRe9p44q3xin9QkMHv.jpg"
-    },
-    {
-     "nombre": "Laurence Fishburne",
-     "foto": "https://image.tmdb.org/t/p/w185/2GbXERENPpl5MmlqOLlPVaVtifD.jpg"
-    },
-    {
-     "nombre": "Carrie-Anne Moss",
-     "foto": "https://image.tmdb.org/t/p/w185/9zya72vRZYBQILfetACsnmCBgdj.jpg"
-    },
-    {
-     "nombre": "Hugo Weaving",
-     "foto": "https://image.tmdb.org/t/p/w185/lSC8Et0PYi5zeQb3IpPkFje7hgR.jpg"
-    },
-    {
-     "nombre": "Jada Pinkett Smith",
-     "foto": "https://image.tmdb.org/t/p/w185/3RyvVVSlgRbZANDFkYiAsRMaHW.jpg"
-    },
-    {
-     "nombre": "Gloria Foster",
-     "foto": "https://image.tmdb.org/t/p/w185/AriGXtC9fjBOia9Zr8CZjn4o3rx.jpg"
-    }
-   ],
-   "trailer": "https://www.youtube.com/watch?v=PtzlaZ3n5Kc",
-   "temporadas_det": []
-  },
-  {
-   "id": "194876",
-   "titulo": "El Banquete Real de Master Moley",
-   "tipo": "p",
-   "plataforma": "hbo",
-   "estado": "expiring",
-   "fecha": "2026-11-27",
-   "genero": "Animación",
-   "generos": [
-    "Animación"
-   ],
-   "imdb": 4.9,
-   "rt": null,
-   "duracion": "32 min",
-   "sinopsis": "Un topo joven recoge una rosa del Jardín de la Reina, sin saber que este simple acto cambiará no solo su vida, sino la vida de todos los topos.",
-   "poster": "https://image.tmdb.org/t/p/w342/fEMFjJhx4v6B2V3Cxn2aVsuW6AR.jpg",
-   "reparto": [
-    {
-     "nombre": "Warwick Davis",
-     "foto": "https://image.tmdb.org/t/p/w185/vUwjgAYcBEcCv0OVAN00qUUXX3V.jpg"
-    },
-    {
-     "nombre": "Gemma Arterton",
-     "foto": "https://image.tmdb.org/t/p/w185/Alfm28oyHNiYweNCUaMmrVjVMAT.jpg"
-    },
-    {
-     "nombre": "伊川東吾",
-     "foto": "https://image.tmdb.org/t/p/w185/ceEgj3Ezbf07xWvb8CWh0MEhpTg.jpg"
-    },
-    {
-     "nombre": "Richard E. Grant",
-     "foto": "https://image.tmdb.org/t/p/w185/92oaBntIXhndCxUXaGywUyILIIE.jpg"
-    },
-    {
-     "nombre": "Charles Dance",
-     "foto": "https://image.tmdb.org/t/p/w185/28ElvRC5ftOSzZBFM0cn4XrwH36.jpg"
-    },
-    {
-     "nombre": "Julie Walters",
-     "foto": "https://image.tmdb.org/t/p/w185/bCTkV2OUgzbJdQEoCk3GesE4DXq.jpg"
-    }
-   ],
-   "trailer": "https://www.youtube.com/watch?v=A0MwhBUsfrQ",
-   "temporadas_det": []
-  },
-  {
-   "id": "600",
-   "titulo": "Matrix Revolutions",
-   "tipo": "p",
-   "plataforma": "hbo",
-   "estado": "expiring",
-   "fecha": "2026-11-27",
-   "genero": "Acción",
-   "generos": [
-    "Acción",
-    "Suspense",
-    "Ciencia ficción"
-   ],
-   "imdb": 6.7,
-   "rt": 33,
-   "duracion": "2 h 08 min",
-   "sinopsis": "Quedan veinte horas para la irrupción de las máquinas en Sión, el último bastión de los humanos libres. Mientras el cuerpo de Neo permanece en coma, su consciencia se encuentra en tierra de nadie, en un lugar entre el mundo humano y el de las máquinas.",
-   "poster": "https://image.tmdb.org/t/p/w342/zi1UMF9jIM2JnQz0u2AyUw8QFZi.jpg",
-   "reparto": [
-    {
-     "nombre": "Keanu Reeves",
-     "foto": "https://image.tmdb.org/t/p/w185/8RZLOyYGsoRe9p44q3xin9QkMHv.jpg"
-    },
-    {
-     "nombre": "Laurence Fishburne",
-     "foto": "https://image.tmdb.org/t/p/w185/2GbXERENPpl5MmlqOLlPVaVtifD.jpg"
-    },
-    {
-     "nombre": "Carrie-Anne Moss",
-     "foto": "https://image.tmdb.org/t/p/w185/9zya72vRZYBQILfetACsnmCBgdj.jpg"
-    },
-    {
-     "nombre": "Hugo Weaving",
-     "foto": "https://image.tmdb.org/t/p/w185/lSC8Et0PYi5zeQb3IpPkFje7hgR.jpg"
-    },
-    {
-     "nombre": "Jada Pinkett Smith",
-     "foto": "https://image.tmdb.org/t/p/w185/3RyvVVSlgRbZANDFkYiAsRMaHW.jpg"
-    },
-    {
-     "nombre": "Mary Alice",
-     "foto": "https://image.tmdb.org/t/p/w185/jniFVDRjYyIxx5EFTR2kzpFAB02.jpg"
-    }
-   ],
-   "trailer": "https://www.youtube.com/watch?v=VjI7JLqeQ6E",
-   "temporadas_det": []
-  },
-  {
-   "id": "121413",
-   "titulo": "Seis puntos sobre Emma",
-   "tipo": "p",
-   "plataforma": "prime",
-   "estado": "expiring",
-   "fecha": "2026-11-27",
-   "genero": "Drama",
-   "generos": [
-    "Drama"
-   ],
-   "imdb": 5.7,
-   "rt": null,
-   "duracion": "1 h 25 min",
-   "sinopsis": "Emma tiene casi treinta años y, aunque es ciega, vive obsesionada con el deseo de ser madre. Cuando descubre que su novio no podrá dejarla embarazada, rompe con él y emprende la búsqueda de un espermatozoide perfecto. Sin enamorarse, sin sentimientos. Parece fácil, pero no tardará en descubrir que su ceguera no reside únicamente en sus ojos.",
-   "poster": "https://image.tmdb.org/t/p/w342/cPvFs8zFsOiDwX7tuaU7fXExvvZ.jpg",
-   "reparto": [
-    {
-     "nombre": "Verónica Echegui",
-     "foto": "https://image.tmdb.org/t/p/w185/A6bHIHnDlmKY6pWOlgLNsUf60W5.jpg"
-    },
-    {
-     "nombre": "Álex García",
-     "foto": "https://image.tmdb.org/t/p/w185/e084h1xHbQsEsq0zLBWfFmRNvsg.jpg"
-    },
-    {
-     "nombre": "Mariam Hernández",
-     "foto": "https://image.tmdb.org/t/p/w185/dnajO4auqajU63IIqZcuZfxJ41e.jpg"
-    },
-    {
-     "nombre": "Fernando Tielve",
-     "foto": "https://image.tmdb.org/t/p/w185/oG5ans5tCzzIjvK3GjP5w8hFDpn.jpg"
-    },
-    {
-     "nombre": "Nacho Aldeguer",
-     "foto": "https://image.tmdb.org/t/p/w185/cFNmjyZD0HVAOFEMHtsFNYz57gu.jpg"
-    },
-    {
-     "nombre": "Mabel del Pozo",
-     "foto": "https://image.tmdb.org/t/p/w185/rcl3y06AXmHd3Xwiebdqh8xcbys.jpg"
-    }
-   ],
-   "trailer": "https://www.youtube.com/watch?v=5BFCitiTIOw",
-   "temporadas_det": []
-  },
-  {
-   "id": "4346638",
-   "titulo": "kRAJ",
-   "tipo": "p",
-   "plataforma": "netflix",
-   "estado": "expiring",
-   "fecha": "2026-11-27",
-   "genero": "Comedia",
-   "generos": [
-    "Comedia",
-    "Crimen",
-    "Drama"
-   ],
-   "imdb": 5.6,
-   "rt": null,
-   "duracion": "1 h 43 min",
-   "sinopsis": "Poles from different walks of life encounter seemingly everyday events that succeed in pushing them over the edge.",
-   "poster": "https://image.tmdb.org/t/p/w342/qgmkHhik5AX4HOrIN7EnhJLGEMy.jpg",
-   "reparto": [
-    {
-     "nombre": "Krzysztof Stroiński",
-     "foto": "https://image.tmdb.org/t/p/w185/3n5EGQardFSjLEYiKnhiBOqTzjy.jpg"
-    },
-    {
-     "nombre": "Remigiusz Jankowski",
-     "foto": "https://image.tmdb.org/t/p/w185/36ixsCd72Vps42uuBs9m8jpZLGs.jpg"
-    },
-    {
-     "nombre": "Tomasz Włosok",
-     "foto": "https://image.tmdb.org/t/p/w185/bBGaNaQeFMq00zpcc2Tx1aOS13s.jpg"
-    },
-    {
-     "nombre": "Julia Adamczyk",
-     "foto": "https://image.tmdb.org/t/p/w185/9diYFCORSC6I6CdxvAnSuZoVXLP.jpg"
-    },
-    {
-     "nombre": "Pawel Adamczyk",
-     "foto": null
-    },
-    {
-     "nombre": "Violetta Arlak",
-     "foto": "https://image.tmdb.org/t/p/w185/8UVz2Z097Z8Ii1LpHyYSPjQlH21.jpg"
-    }
-   ],
-   "trailer": null,
-   "temporadas_det": []
-  },
-  {
-   "id": "28460",
-   "titulo": "El comisario",
+   "id": "12912",
+   "titulo": "Harry Potter: El Torneo de las Casas de Hogwarts",
    "tipo": "s",
-   "plataforma": "netflix",
+   "plataforma": "prime",
    "estado": "expiring",
-   "fecha": "2026-11-27",
-   "genero": "Crimen",
+   "fecha": "2026-11-28",
+   "genero": "Reality",
    "generos": [
-    "Crimen"
+    "Reality",
+    "Familia"
    ],
-   "imdb": 5.1,
+   "imdb": 5.5,
    "rt": null,
-   "duracion": "12 temporadas, 191 episodios",
-   "sinopsis": "Serie de acción que muestra el agresivo y, a la vez, humano trabajo que desempeñan unos policías. Deben tratar con ladrones, heroinómanos, prostitutas, asesinos... pero nunca descuidan la vertiente humana de su profesión.",
-   "poster": "https://image.tmdb.org/t/p/w342/pKKwpGgqmHlnTBxiWrUlglOnrGg.jpg",
+   "duracion": "1 temporada, 4 episodios",
+   "sinopsis": "Este acontecimiento especial en cuatro partes mostrará a fans del universo mágico que quieran poner a prueba sus conocimientos sobre Harry Potter. Lucharán entre sí para conseguir el mayor de los honores: ganar la Copa de las Casas",
+   "poster": "https://image.tmdb.org/t/p/w342/AfJWWCRkzwgmXIjYCNUMgcSURUx.jpg",
    "reparto": [
     {
-     "nombre": "Tito Valverde",
-     "foto": "https://image.tmdb.org/t/p/w185/1Xj7ih7Ya1CqjPykCsKE4EaknrY.jpg"
-    },
-    {
-     "nombre": "Juanjo Artero",
-     "foto": "https://image.tmdb.org/t/p/w185/XdUHzzZsegAmifWmUTo5SqQJ4B.jpg"
-    },
-    {
-     "nombre": "Marcial Álvarez",
-     "foto": "https://image.tmdb.org/t/p/w185/2V1GVVrK2AJP84caPNcY06HzNMH.jpg"
-    },
-    {
-     "nombre": "Jaime Pujol",
-     "foto": "https://image.tmdb.org/t/p/w185/vt3tk5tywjodc1aNZTrZKplQFRc.jpg"
-    },
-    {
-     "nombre": "Elena Irureta",
-     "foto": "https://image.tmdb.org/t/p/w185/gJWLhfOXFoYTTVjh5Q9GlxLSsEE.jpg"
-    },
-    {
-     "nombre": "Joaquín Climent",
-     "foto": "https://image.tmdb.org/t/p/w185/xtq8blzK76qwRwg5CAtvk9gm57D.jpg"
+     "nombre": "Helen Mirren",
+     "foto": "https://image.tmdb.org/t/p/w185/y56z4xzud2UEO4uWsiUgUPfXx7t.jpg"
     }
    ],
-   "trailer": null,
+   "trailer": "https://www.youtube.com/watch?v=TxXQlJ9o6_k",
    "temporadas_det": [
     {
      "n": 1,
      "eps": [
       {
        "n": 1,
-       "t": "El Caso Del Destornillador",
-       "f": "1999-04-26"
+       "t": "Gryffindor Vs. Hufflepuff",
+       "f": "2021-11-28"
       },
       {
        "n": 2,
-       "t": "Sobre ruedas",
-       "f": "1999-05-03"
+       "t": "Ravenclaw Vs. Slytherin",
+       "f": "2021-12-05"
       },
       {
        "n": 3,
-       "t": "El Butrón",
-       "f": "1999-05-10"
+       "t": "La Ronda Comodín",
+       "f": "2021-12-12"
       },
       {
        "n": 4,
-       "t": "Padres e hijos",
-       "f": "1999-05-17"
-      },
-      {
-       "n": 5,
-       "t": "Apertura búlgara",
-       "f": "1999-05-24"
-      },
-      {
-       "n": 6,
-       "t": "Ojo por ojo",
-       "f": "1999-05-31"
-      },
-      {
-       "n": 7,
-       "t": "Muerto por error",
-       "f": "1999-06-07"
-      },
-      {
-       "n": 8,
-       "t": "Heroína",
-       "f": "1999-06-14"
-      },
-      {
-       "n": 9,
-       "t": "Trapos sucios",
-       "f": "1999-06-21"
-      }
-     ]
-    },
-    {
-     "n": 2,
-     "eps": [
-      {
-       "n": 1,
-       "t": "El huevo de la serpiente",
-       "f": "2000-01-03"
-      },
-      {
-       "n": 2,
-       "t": "En la salud y en la enfermedad",
-       "f": "2000-01-10"
-      },
-      {
-       "n": 3,
-       "t": "1500 grados",
-       "f": "2000-01-17"
-      },
-      {
-       "n": 4,
-       "t": "Sin pruebas",
-       "f": "2000-01-24"
-      },
-      {
-       "n": 5,
-       "t": "La mano que da de comer",
-       "f": "2000-01-31"
-      },
-      {
-       "n": 6,
-       "t": "La cría del escorpión",
-       "f": "2000-02-07"
-      },
-      {
-       "n": 7,
-       "t": "Tratos",
-       "f": "2000-02-14"
-      },
-      {
-       "n": 8,
-       "t": "La tela de araña",
-       "f": "2000-02-21"
-      },
-      {
-       "n": 9,
-       "t": "Que veinte años no es nada",
-       "f": "2000-02-28"
-      },
-      {
-       "n": 10,
-       "t": "El último viaje",
-       "f": "2000-03-06"
-      },
-      {
-       "n": 11,
-       "t": "La jaula del grillo",
-       "f": "2000-03-13"
-      },
-      {
-       "n": 12,
-       "t": "La jauría",
-       "f": "2000-03-20"
-      },
-      {
-       "n": 13,
-       "t": "Silencio",
-       "f": "2000-03-27"
-      },
-      {
-       "n": 14,
-       "t": "Armonía mortal",
-       "f": "2000-04-03"
-      },
-      {
-       "n": 15,
-       "t": "La boca del Lobo",
-       "f": "2000-04-10"
-      },
-      {
-       "n": 16,
-       "t": "Contagio",
-       "f": "2000-04-17"
-      },
-      {
-       "n": 17,
-       "t": "En el límite",
-       "f": "2000-04-24"
-      },
-      {
-       "n": 18,
-       "t": "Un cadáver inquieto",
-       "f": "2000-05-01"
-      },
-      {
-       "n": 19,
-       "t": "Cosas a los que uno se acostumbra",
-       "f": "2000-05-08"
-      },
-      {
-       "n": 20,
-       "t": "Noche de autos",
-       "f": "2000-05-15"
-      },
-      {
-       "n": 21,
-       "t": "La sanguijuela",
-       "f": "2000-05-22"
-      },
-      {
-       "n": 22,
-       "t": "Preguntas sin respuestas",
-       "f": "2000-05-29"
-      },
-      {
-       "n": 23,
-       "t": "El diablo en el cuerpo",
-       "f": "2000-06-05"
-      },
-      {
-       "n": 24,
-       "t": "Nada que perder",
-       "f": "2000-06-12"
-      },
-      {
-       "n": 25,
-       "t": "Nido de viboras",
-       "f": "2000-06-19"
-      },
-      {
-       "n": 26,
-       "t": "24 horas",
-       "f": "2000-06-26"
-      }
-     ]
-    },
-    {
-     "n": 3,
-     "eps": [
-      {
-       "n": 1,
-       "t": "Cachorros",
-       "f": "2001-01-08"
-      },
-      {
-       "n": 2,
-       "t": "Bisturí",
-       "f": "2001-01-15"
-      },
-      {
-       "n": 3,
-       "t": "Lazos familiares",
-       "f": "2001-01-22"
-      },
-      {
-       "n": 4,
-       "t": "Ojos que no ven",
-       "f": "2001-01-29"
-      },
-      {
-       "n": 5,
-       "t": "Secuestro",
-       "f": "2001-02-05"
-      },
-      {
-       "n": 6,
-       "t": "Mal de ojo",
-       "f": "2001-02-12"
-      },
-      {
-       "n": 7,
-       "t": "Oscuridad",
-       "f": "2001-02-19"
-      },
-      {
-       "n": 8,
-       "t": "Riña de gallos",
-       "f": "2001-02-26"
-      },
-      {
-       "n": 9,
-       "t": "El vuelo de los buitres",
-       "f": "2001-03-05"
-      },
-      {
-       "n": 10,
-       "t": "Reacción en cadena",
-       "f": "2001-03-12"
-      },
-      {
-       "n": 11,
-       "t": "La hija de Ruano",
-       "f": "2001-03-19"
-      },
-      {
-       "n": 12,
-       "t": "Negocio de hienas",
-       "f": "2001-03-26"
-      },
-      {
-       "n": 13,
-       "t": "Dinero en juego",
-       "f": "2001-04-02"
-      }
-     ]
-    },
-    {
-     "n": 4,
-     "eps": [
-      {
-       "n": 1,
-       "t": "Sangre de su Sangre",
-       "f": "2002-01-07"
-      },
-      {
-       "n": 2,
-       "t": "Hábitos Inadecuados",
-       "f": "2002-01-14"
-      },
-      {
-       "n": 3,
-       "t": "El Pez Ahogado",
-       "f": "2002-01-22"
-      },
-      {
-       "n": 4,
-       "t": "Al Filo de la Memoria",
-       "f": "2002-01-29"
-      },
-      {
-       "n": 5,
-       "t": "La mano de Fátima",
-       "f": "2002-02-19"
-      },
-      {
-       "n": 6,
-       "t": "La huella del canguro",
-       "f": "2002-03-05"
-      },
-      {
-       "n": 7,
-       "t": "Los dos lados del espejo",
-       "f": "2002-03-12"
-      },
-      {
-       "n": 8,
-       "t": "Las puertas del infierno",
-       "f": "2002-03-19"
-      },
-      {
-       "n": 9,
-       "t": "La noche de todos los santos",
-       "f": "2002-03-26"
-      },
-      {
-       "n": 10,
-       "t": "El rastro del caracol",
-       "f": "2002-04-02"
-      },
-      {
-       "n": 11,
-       "t": "El carroñero",
-       "f": "2002-04-09"
-      },
-      {
-       "n": 12,
-       "t": "Nunca en horas de clase",
-       "f": "2002-04-16"
-      },
-      {
-       "n": 13,
-       "t": "Muerte de un bolero",
-       "f": "2002-04-23"
-      },
-      {
-       "n": 14,
-       "t": "Escrito con sangre",
-       "f": "2002-04-30"
-      }
-     ]
-    },
-    {
-     "n": 5,
-     "eps": [
-      {
-       "n": 1,
-       "t": "Como perros rabiosos",
-       "f": "2002-09-03"
-      },
-      {
-       "n": 2,
-       "t": "Miedo en el cuerpo",
-       "f": "2002-09-18"
-      },
-      {
-       "n": 3,
-       "t": "La hora del murciélago",
-       "f": "2002-09-25"
-      },
-      {
-       "n": 4,
-       "t": "Sin dolor",
-       "f": "2002-10-02"
-      },
-      {
-       "n": 5,
-       "t": "Las niñas de Conil",
-       "f": "2002-10-09"
-      },
-      {
-       "n": 6,
-       "t": "Las puertas del paraíso",
-       "f": "2002-10-16"
-      },
-      {
-       "n": 7,
-       "t": "El amigo colombiano",
-       "f": "2002-10-23"
-      },
-      {
-       "n": 8,
-       "t": "Tercer corte",
-       "f": "2002-10-30"
-      },
-      {
-       "n": 9,
-       "t": "Cuatro, tres, dos",
-       "f": "2002-11-06"
-      },
-      {
-       "n": 10,
-       "t": "Sangre",
-       "f": "2002-11-13"
-      },
-      {
-       "n": 11,
-       "t": "Cambio de planes",
-       "f": "2002-11-20"
-      },
-      {
-       "n": 12,
-       "t": "Testigo fantasma",
-       "f": "2002-11-27"
-      },
-      {
-       "n": 13,
-       "t": "El favor",
-       "f": "2002-12-04"
-      },
-      {
-       "n": 14,
-       "t": "¿Aún sueñas conmigo?",
-       "f": "2002-12-11"
-      },
-      {
-       "n": 15,
-       "t": "Vida por vida",
-       "f": "2002-12-18"
-      }
-     ]
-    },
-    {
-     "n": 6,
-     "eps": [
-      {
-       "n": 1,
-       "t": "360 minutos",
-       "f": "2003-04-23"
-      },
-      {
-       "n": 2,
-       "t": "Intercambio",
-       "f": "2003-04-30"
-      },
-      {
-       "n": 3,
-       "t": "Ladrones de cuerpos",
-       "f": "2003-05-07"
-      },
-      {
-       "n": 4,
-       "t": "Una cuestión de peso",
-       "f": "2003-05-14"
-      },
-      {
-       "n": 5,
-       "t": "Diógenes y la estatua",
-       "f": "2003-05-21"
-      },
-      {
-       "n": 6,
-       "t": "Pasión Kurda",
-       "f": "2003-05-28"
-      },
-      {
-       "n": 7,
-       "t": "Para que no me olvides",
-       "f": "2003-06-04"
-      },
-      {
-       "n": 8,
-       "t": "En el lugar equivocado",
-       "f": "2003-06-11"
-      },
-      {
-       "n": 9,
-       "t": "Punto sin retorno",
-       "f": "2003-06-18"
-      },
-      {
-       "n": 10,
-       "t": "Manzana envenenada",
-       "f": "2003-06-25"
-      },
-      {
-       "n": 11,
-       "t": "Los ojos de la zorra",
-       "f": "2003-07-02"
-      },
-      {
-       "n": 12,
-       "t": "Chucherías",
-       "f": "2003-07-09"
-      },
-      {
-       "n": 13,
-       "t": "Mordiendo el polvo",
-       "f": "2003-07-16"
-      }
-     ]
-    },
-    {
-     "n": 7,
-     "eps": [
-      {
-       "n": 1,
-       "t": "Intrusos en la noche",
-       "f": "2004-01-07"
-      },
-      {
-       "n": 2,
-       "t": "Pieza cobrada",
-       "f": "2004-01-14"
-      },
-      {
-       "n": 3,
-       "t": "Sírvase muy frío",
-       "f": "2004-01-21"
-      },
-      {
-       "n": 4,
-       "t": "Ojos que no ven",
-       "f": "2004-01-28"
-      },
-      {
-       "n": 5,
-       "t": "Última sesión",
-       "f": "2004-02-04"
-      },
-      {
-       "n": 6,
-       "t": "No lo hagas",
-       "f": "2004-02-11"
-      },
-      {
-       "n": 7,
-       "t": "Dos pájaros de un tiro",
-       "f": "2004-02-18"
-      },
-      {
-       "n": 8,
-       "t": "Por lo que más quieras",
-       "f": "2004-02-25"
-      },
-      {
-       "n": 9,
-       "t": "Pico cerrado",
-       "f": "2004-03-04"
-      },
-      {
-       "n": 10,
-       "t": "Nadie les invitó",
-       "f": "2004-03-10"
-      },
-      {
-       "n": 11,
-       "t": "El precio de un favor",
-       "f": "2004-03-17"
-      },
-      {
-       "n": 12,
-       "t": "En la punta de la lengua",
-       "f": "2004-03-24"
-      },
-      {
-       "n": 13,
-       "t": "Jaque mate",
-       "f": "2004-03-31"
-      }
-     ]
-    },
-    {
-     "n": 8,
-     "eps": [
-      {
-       "n": 1,
-       "t": "Mira por donde pisas",
-       "f": "2004-10-19"
-      },
-      {
-       "n": 2,
-       "t": "Grito mudo",
-       "f": "2004-10-26"
-      },
-      {
-       "n": 3,
-       "t": "Volver a nacer",
-       "f": "2004-11-02"
-      },
-      {
-       "n": 4,
-       "t": "Quid pro quo",
-       "f": "2004-11-09"
-      },
-      {
-       "n": 5,
-       "t": "El arte del enemigo",
-       "f": "2004-11-16"
-      },
-      {
-       "n": 6,
-       "t": "Apuesta mortal",
-       "f": "2004-11-23"
-      },
-      {
-       "n": 7,
-       "t": "La cara oculta de la estudiante",
-       "f": "2004-11-30"
-      },
-      {
-       "n": 8,
-       "t": "Cazador al acecho",
-       "f": "2004-12-07"
-      },
-      {
-       "n": 9,
-       "t": "Cuatro balas",
-       "f": "2004-12-14"
-      },
-      {
-       "n": 10,
-       "t": "Lo hice por ti",
-       "f": "2004-12-21"
-      },
-      {
-       "n": 11,
-       "t": "El infierno de Dante",
-       "f": "2005-01-14"
-      },
-      {
-       "n": 12,
-       "t": "Lo que el tiempo no cura",
-       "f": "2005-01-21"
-      },
-      {
-       "n": 13,
-       "t": "Ángela",
-       "f": "2005-01-28"
-      },
-      {
-       "n": 14,
-       "t": "No hay enemigo pequeño",
-       "f": "2005-02-04"
-      },
-      {
-       "n": 15,
-       "t": "Secreto a voces",
-       "f": "2005-02-11"
-      },
-      {
-       "n": 16,
-       "t": "Dulce amargo",
-       "f": "2005-02-18"
-      },
-      {
-       "n": 17,
-       "t": "Las lágrimas de la virgen",
-       "f": "2005-02-25"
-      },
-      {
-       "n": 18,
-       "t": "Una vida por otra",
-       "f": "2005-03-04"
-      },
-      {
-       "n": 19,
-       "t": "Celo profesional",
-       "f": "2005-03-11"
-      },
-      {
-       "n": 20,
-       "t": "Ana y Mía",
-       "f": "2005-03-18"
-      }
-     ]
-    },
-    {
-     "n": 9,
-     "eps": [
-      {
-       "n": 1,
-       "t": "La piel bajo la piel",
-       "f": "2005-11-18"
-      },
-      {
-       "n": 2,
-       "t": "Los hijos del averno",
-       "f": "2005-11-25"
-      },
-      {
-       "n": 3,
-       "t": "La casa de las meriendas",
-       "f": "2005-12-02"
-      },
-      {
-       "n": 4,
-       "t": "Doble",
-       "f": "2005-12-09"
-      },
-      {
-       "n": 5,
-       "t": "Sola en casa",
-       "f": "2005-12-16"
-      },
-      {
-       "n": 6,
-       "t": "Paralelo 38",
-       "f": "2005-12-23"
-      },
-      {
-       "n": 7,
-       "t": "Mikel",
-       "f": "2005-12-30"
-      },
-      {
-       "n": 8,
-       "t": "Fuego y plomo",
-       "f": "2006-01-06"
-      },
-      {
-       "n": 9,
-       "t": "13 puñaladas",
-       "f": "2006-01-13"
-      },
-      {
-       "n": 10,
-       "t": "Eva del principio al fin",
-       "f": "2006-01-17"
-      },
-      {
-       "n": 11,
-       "t": "Revancha",
-       "f": "2006-01-24"
-      },
-      {
-       "n": 12,
-       "t": "Figuras eroticas",
-       "f": "2006-02-01"
-      },
-      {
-       "n": 13,
-       "t": "Sabor a traición",
-       "f": "2006-02-07"
-      },
-      {
-       "n": 14,
-       "t": "Mejor no saber",
-       "f": "2006-02-14"
-      },
-      {
-       "n": 15,
-       "t": "La huella de la iguana",
-       "f": "2006-02-21"
-      },
-      {
-       "n": 16,
-       "t": "Papeles cambiados",
-       "f": "2006-02-28"
-      },
-      {
-       "n": 17,
-       "t": "Palabra de honor",
-       "f": "2006-03-03"
-      },
-      {
-       "n": 18,
-       "t": "El ocaso de Venus",
-       "f": "2006-03-07"
-      },
-      {
-       "n": 19,
-       "t": "Las niñas del RIF, 1",
-       "f": "2006-03-10"
-      },
-      {
-       "n": 20,
-       "t": "Las niñas del RIF, 2",
-       "f": "2006-03-14"
-      },
-      {
-       "n": 21,
-       "t": "Varón, 7 meses",
-       "f": "2006-03-17"
-      },
-      {
-       "n": 22,
-       "t": "Matar llorando",
-       "f": "2006-03-21"
-      },
-      {
-       "n": 23,
-       "t": "Y dime tonta",
-       "f": "2006-03-24"
-      },
-      {
-       "n": 24,
-       "t": "El fin de una pesadilla",
-       "f": "2006-03-28"
-      }
-     ]
-    },
-    {
-     "n": 10,
-     "eps": [
-      {
-       "n": 1,
-       "t": "El corazón en vilo",
-       "f": "2006-10-10"
-      },
-      {
-       "n": 2,
-       "t": "Criando cuervos",
-       "f": "2006-10-17"
-      },
-      {
-       "n": 3,
-       "t": "El diablo en el cuerpo",
-       "f": "2006-10-24"
-      },
-      {
-       "n": 4,
-       "t": "Justicia desesperada",
-       "f": "2006-10-31"
-      },
-      {
-       "n": 5,
-       "t": "Mascotas y amos",
-       "f": "2006-11-07"
-      },
-      {
-       "n": 6,
-       "t": "Setecientas mil de las de entonces",
-       "f": "2006-11-14"
-      },
-      {
-       "n": 7,
-       "t": "Mala elección",
-       "f": "2006-11-21"
-      },
-      {
-       "n": 8,
-       "t": "En el límite del mal",
-       "f": "2006-11-28"
-      },
-      {
-       "n": 9,
-       "t": "Asomarse al abismo",
-       "f": "2006-12-05"
-      },
-      {
-       "n": 10,
-       "t": "Cordón latino",
-       "f": "2006-12-12"
-      },
-      {
-       "n": 11,
-       "t": "Como perro acorralado",
-       "f": "2006-12-19"
-      },
-      {
-       "n": 12,
-       "t": "Cuenta atrás",
-       "f": "2006-12-26"
-      }
-     ]
-    },
-    {
-     "n": 11,
-     "eps": [
-      {
-       "n": 1,
-       "t": "En acto de servicio",
-       "f": "2007-09-14"
-      },
-      {
-       "n": 2,
-       "t": "Despedida fatal",
-       "f": "2007-09-21"
-      },
-      {
-       "n": 3,
-       "t": "Contra el mundo",
-       "f": "2007-09-28"
-      },
-      {
-       "n": 4,
-       "t": "Lázaro",
-       "f": "2007-10-05"
-      },
-      {
-       "n": 5,
-       "t": "Gente legal",
-       "f": "2007-10-12"
-      },
-      {
-       "n": 6,
-       "t": "El año que nevó en el Sáhara",
-       "f": "2007-10-20"
-      },
-      {
-       "n": 7,
-       "t": "Dulce Clara",
-       "f": "2007-10-26"
-      },
-      {
-       "n": 8,
-       "t": "Dulce Clara II",
-       "f": "2007-11-02"
-      },
-      {
-       "n": 9,
-       "t": "Zona sin humo",
-       "f": "2007-11-09"
-      },
-      {
-       "n": 10,
-       "t": "Idus de marzo",
-       "f": "2007-11-15"
-      },
-      {
-       "n": 11,
-       "t": "El ángel exterminador",
-       "f": "2007-11-23"
-      },
-      {
-       "n": 12,
-       "t": "Ángeles por la ciudad",
-       "f": "2007-11-30"
-      },
-      {
-       "n": 13,
-       "t": "Cosas que pasan",
-       "f": "2007-12-07"
-      },
-      {
-       "n": 14,
-       "t": "La culpa no perdona",
-       "f": "2007-12-14"
-      },
-      {
-       "n": 15,
-       "t": "Lucas",
-       "f": "2007-12-21"
-      },
-      {
-       "n": 16,
-       "t": "Cadena de errores",
-       "f": "2007-12-28"
-      }
-     ]
-    },
-    {
-     "n": 12,
-     "eps": [
-      {
-       "n": 1,
-       "t": "Besos para todos",
-       "f": "2008-09-12"
-      },
-      {
-       "n": 2,
-       "t": "En carne viva",
-       "f": "2008-09-19"
-      },
-      {
-       "n": 3,
-       "t": "Los peligros de la montaña",
-       "f": "2008-09-26"
-      },
-      {
-       "n": 4,
-       "t": "Acta de defunción",
-       "f": "2008-10-03"
-      },
-      {
-       "n": 5,
-       "t": "La dama de blanco",
-       "f": "2008-10-10"
-      },
-      {
-       "n": 6,
-       "t": "Corazón loco",
-       "f": "2008-10-17"
-      },
-      {
-       "n": 7,
-       "t": "Tabú",
-       "f": "2008-10-24"
-      },
-      {
-       "n": 8,
-       "t": "Su único hijo",
-       "f": "2008-10-31"
-      },
-      {
-       "n": 9,
-       "t": "Ondas de poder alfa",
-       "f": "2008-11-07"
-      },
-      {
-       "n": 10,
-       "t": "Amantes y vecinos",
-       "f": "2008-11-14"
-      },
-      {
-       "n": 11,
-       "t": "Historia de un policía",
-       "f": "2008-12-05"
-      },
-      {
-       "n": 12,
-       "t": "Balones fuera",
-       "f": "2008-12-05"
-      },
-      {
-       "n": 13,
-       "t": "Tormenta en el corazón",
-       "f": "2008-12-12"
-      },
-      {
-       "n": 14,
-       "t": "El susurro de la Sangre",
-       "f": "2008-12-19"
-      },
-      {
-       "n": 15,
-       "t": "Sólo sexo",
-       "f": "2008-12-26"
-      },
-      {
-       "n": 16,
-       "t": "El show de Elena",
-       "f": "2009-01-02"
+       "t": "La Gran Final",
+       "f": "2021-12-19"
       }
      ]
     }
    ]
-  },
-  {
-   "id": "3317",
-   "titulo": "Dale duro",
-   "tipo": "p",
-   "plataforma": "netflix",
-   "estado": "expiring",
-   "fecha": "2026-11-27",
-   "genero": "Comedia",
-   "generos": [
-    "Comedia",
-    "Crimen"
-   ],
-   "imdb": 6.0,
-   "rt": 28,
-   "duracion": "1 h 40 min",
-   "sinopsis": "Cuando al millonario James King (Ferrell) le condenan a ir a la cárcel por un delito que en realidad no ha cometido, contratará los servicios de quien le limpia el coche, a la vez un delincuente habitual (Hart), para que le enseñe cómo ha de comportarse para sobrevivir en prisión.",
-   "poster": "https://image.tmdb.org/t/p/w342/jg6x8XO1Avu6aJVy8otVgb5AXqn.jpg",
-   "reparto": [
-    {
-     "nombre": "Will Ferrell",
-     "foto": "https://image.tmdb.org/t/p/w185/yjGbyQzVjpQl8xFkFGa7JxKZWQb.jpg"
-    },
-    {
-     "nombre": "Kevin Hart",
-     "foto": "https://image.tmdb.org/t/p/w185/byiNydUlM6oP8diA7WMvYbNM7a1.jpg"
-    },
-    {
-     "nombre": "Alison Brie",
-     "foto": "https://image.tmdb.org/t/p/w185/uu16GiwYblS6IJV3o4qFSLWKXOC.jpg"
-    },
-    {
-     "nombre": "Craig T. Nelson",
-     "foto": "https://image.tmdb.org/t/p/w185/rMh8qdexFKmc7mq7oLzsLLvCCjs.jpg"
-    },
-    {
-     "nombre": "T.I.",
-     "foto": "https://image.tmdb.org/t/p/w185/dHnR4QavU2ILjvbr3SXBh4cJSdJ.jpg"
-    },
-    {
-     "nombre": "Greg Germann",
-     "foto": "https://image.tmdb.org/t/p/w185/cRLbrKwasOiBj68pORvrZTPHRfB.jpg"
-    }
-   ],
-   "trailer": "https://www.youtube.com/watch?v=wOXuCEJlA2g",
-   "temporadas_det": []
-  },
-  {
-   "id": "1160",
-   "titulo": "Calle Cloverfield 10",
-   "tipo": "p",
-   "plataforma": "netflix",
-   "estado": "expiring",
-   "fecha": "2026-11-27",
-   "genero": "Suspense",
-   "generos": [
-    "Suspense",
-    "Ciencia ficción",
-    "Drama",
-    "Terror"
-   ],
-   "imdb": 7.1,
-   "rt": 91,
-   "duracion": "1 h 43 min",
-   "sinopsis": "Una joven sufre un accidente de coche. Cuando despierta se encuentra encerrada en una celda bajo tierra, secuestrada por un hombre extraño que dice haberla salvado del día del juicio final. El excéntrico captor asegura que el exterior es inhabitable por culpa de un terrible ataque químico, algo que no sabe si creer. Es así como comienza su pesadilla, en una espiral de desconocimiento. La mente del criminal es infranqueable, y ella tendrá que intentar analizar a su enemigo para conseguir sobrevivir.",
-   "poster": "https://image.tmdb.org/t/p/w342/ksLwEavVceUxYyF8LOjTewmpTp4.jpg",
-   "reparto": [
-    {
-     "nombre": "John Goodman",
-     "foto": "https://image.tmdb.org/t/p/w185/yyYqoyKHO7hE1zpgEV2XlqYWcNV.jpg"
-    },
-    {
-     "nombre": "Mary Elizabeth Winstead",
-     "foto": "https://image.tmdb.org/t/p/w185/vQn6IGsClpyhV6KTba9EDqSK7e2.jpg"
-    },
-    {
-     "nombre": "John Gallagher Jr.",
-     "foto": "https://image.tmdb.org/t/p/w185/e4eEg5lH6Yk0OkpieUoUYdzl2Ui.jpg"
-    },
-    {
-     "nombre": "Douglas M. Griffin",
-     "foto": "https://image.tmdb.org/t/p/w185/nCq4E6erWLPxC5woxQJu46mqyr.jpg"
-    },
-    {
-     "nombre": "Suzanne Cryer",
-     "foto": "https://image.tmdb.org/t/p/w185/hVqmp8WX9hRhZ3qE6ndk7PfkFDJ.jpg"
-    },
-    {
-     "nombre": "Bradley Cooper",
-     "foto": "https://image.tmdb.org/t/p/w185/5Dhy50qOMOHfR1NZifKIfffjV9X.jpg"
-    }
-   ],
-   "trailer": "https://www.youtube.com/watch?v=tQWM9Uucfw0",
-   "temporadas_det": []
-  },
-  {
-   "id": "2946",
-   "titulo": "La ley del silencio",
-   "tipo": "p",
-   "plataforma": "netflix",
-   "estado": "expiring",
-   "fecha": "2026-11-27",
-   "genero": "Crimen",
-   "generos": [
-    "Crimen",
-    "Drama",
-    "Romance"
-   ],
-   "imdb": 7.6,
-   "rt": 99,
-   "duracion": "1 h 48 min",
-   "sinopsis": "El exboxeador Terry Malloy podría haber sido un serio aspirante al título, pero se ve obligado a ganarse la vida trabajando para Johnny Friendly, el jefe de la conflictiva banda de gánsteres de la ciudad. Cuando dos de los matones de Friendly asesinan brutalmente a un hombre, Terry comienza a sentirse culpable con la vida que lleva, iniciando una peligrosa lucha para derrocar el imperio del hampa",
-   "poster": "https://image.tmdb.org/t/p/w342/rf342b70NdNhZIIQWFKa8sSDyf6.jpg",
-   "reparto": [
-    {
-     "nombre": "Marlon Brando",
-     "foto": "https://image.tmdb.org/t/p/w185/yIvLpf9U9NfAvC7fuAgOQ8tu51T.jpg"
-    },
-    {
-     "nombre": "Eva Marie Saint",
-     "foto": "https://image.tmdb.org/t/p/w185/nJgTHDaCA3yl8vDu3nP8S6qjhIx.jpg"
-    },
-    {
-     "nombre": "Karl Malden",
-     "foto": "https://image.tmdb.org/t/p/w185/njDua2jZ1X1f5SYLzpxDt0hIhYu.jpg"
-    },
-    {
-     "nombre": "Lee J. Cobb",
-     "foto": "https://image.tmdb.org/t/p/w185/yxMxBvM0PZwu7YXQamG0kFwt9DZ.jpg"
-    },
-    {
-     "nombre": "Rod Steiger",
-     "foto": "https://image.tmdb.org/t/p/w185/70bE5PZJbRHxG4th6gDvXGgXu4Z.jpg"
-    },
-    {
-     "nombre": "Pat Henning",
-     "foto": "https://image.tmdb.org/t/p/w185/owC4QL8ofk3hWsDVpA1oOTHP2Wc.jpg"
-    }
-   ],
-   "trailer": "https://www.youtube.com/watch?v=boekTHsOIY8",
-   "temporadas_det": []
   },
   {
    "id": "27050",
@@ -1991,58 +285,6 @@
        "n": 36,
        "t": "Cae el telón",
        "f": "2019-06-27"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "id": "12912",
-   "titulo": "Harry Potter: El Torneo de las Casas de Hogwarts",
-   "tipo": "s",
-   "plataforma": "prime",
-   "estado": "expiring",
-   "fecha": "2026-11-28",
-   "genero": "Reality",
-   "generos": [
-    "Reality",
-    "Familia"
-   ],
-   "imdb": 5.5,
-   "rt": null,
-   "duracion": "1 temporada, 4 episodios",
-   "sinopsis": "Este acontecimiento especial en cuatro partes mostrará a fans del universo mágico que quieran poner a prueba sus conocimientos sobre Harry Potter. Lucharán entre sí para conseguir el mayor de los honores: ganar la Copa de las Casas",
-   "poster": "https://image.tmdb.org/t/p/w342/AfJWWCRkzwgmXIjYCNUMgcSURUx.jpg",
-   "reparto": [
-    {
-     "nombre": "Helen Mirren",
-     "foto": "https://image.tmdb.org/t/p/w185/y56z4xzud2UEO4uWsiUgUPfXx7t.jpg"
-    }
-   ],
-   "trailer": "https://www.youtube.com/watch?v=TxXQlJ9o6_k",
-   "temporadas_det": [
-    {
-     "n": 1,
-     "eps": [
-      {
-       "n": 1,
-       "t": "Gryffindor Vs. Hufflepuff",
-       "f": "2021-11-28"
-      },
-      {
-       "n": 2,
-       "t": "Ravenclaw Vs. Slytherin",
-       "f": "2021-12-05"
-      },
-      {
-       "n": 3,
-       "t": "La Ronda Comodín",
-       "f": "2021-12-12"
-      },
-      {
-       "n": 4,
-       "t": "La Gran Final",
-       "f": "2021-12-19"
       }
      ]
     }
@@ -2512,6 +754,750 @@
     }
    ],
    "trailer": null,
+   "temporadas_det": []
+  },
+  {
+   "id": "728",
+   "titulo": "Liga de la Justicia",
+   "tipo": "p",
+   "plataforma": "prime",
+   "estado": "expiring",
+   "fecha": "2026-11-29",
+   "genero": "Acción",
+   "generos": [
+    "Acción",
+    "Aventura",
+    "Ciencia ficción"
+   ],
+   "imdb": 6.0,
+   "rt": null,
+   "duracion": "2 h 01 min",
+   "sinopsis": "Motivado por la fe que había recuperado en la humanidad e inspirado por la acción altruista de Superman, Bruce Wayne recluta la ayuda de su nueva aliada, Diana Prince, para enfrentarse a un enemigo aún mayor. Juntos, Batman y Wonder Woman se mueven rápidamente para intentar encontrar y reclutar un equipo de metahumanos que combata esta nueva amenaza. El problema es que a pesar de la formación de esta liga de héroes sin precedentes (Batman, Wonder Woman, Aquaman, Cyborg y Flash) puede que sea demasiado tarde para salvar el planeta de una amenaza de proporciones catastróficas.",
+   "poster": "https://image.tmdb.org/t/p/w342/wUWqnavD8iGZ5F4xXhWlrtEzKjV.jpg",
+   "reparto": [
+    {
+     "nombre": "Ben Affleck",
+     "foto": "https://image.tmdb.org/t/p/w185/aTcqu8cI4wMohU17xTdqmXKTGrw.jpg"
+    },
+    {
+     "nombre": "Henry Cavill",
+     "foto": "https://image.tmdb.org/t/p/w185/kN3A5oLgtKYAxa9lAkpsIGYKYVo.jpg"
+    },
+    {
+     "nombre": "Amy Adams",
+     "foto": "https://image.tmdb.org/t/p/w185/gn0K6c6d1L6qQrRc86iL8uyIqiF.jpg"
+    },
+    {
+     "nombre": "Gal Gadot",
+     "foto": "https://image.tmdb.org/t/p/w185/AbXKtWQwuDiwhoQLh34VRglwuBE.jpg"
+    },
+    {
+     "nombre": "Ezra Miller",
+     "foto": "https://image.tmdb.org/t/p/w185/hLtxNK8eeWZkFSeaAASFWm15Qv0.jpg"
+    },
+    {
+     "nombre": "Jason Momoa",
+     "foto": "https://image.tmdb.org/t/p/w185/rsdpJXHtKDq4oAlWQyF01N4neBV.jpg"
+    }
+   ],
+   "trailer": "https://www.youtube.com/watch?v=PXrgvNXfN7M",
+   "temporadas_det": []
+  },
+  {
+   "id": "14625795",
+   "titulo": "Sonata",
+   "tipo": "p",
+   "plataforma": "prime",
+   "estado": "expiring",
+   "fecha": "2026-11-29",
+   "genero": "Drama",
+   "generos": [
+    "Drama",
+    "Familia",
+    "Música"
+   ],
+   "imdb": null,
+   "rt": null,
+   "duracion": "20 min",
+   "sinopsis": "",
+   "poster": "https://image.tmdb.org/t/p/w342/2OLqxhHOxGh3vbSmM1A1Ufiyd9V.jpg",
+   "reparto": [
+    {
+     "nombre": "Joy Hana Park",
+     "foto": null
+    },
+    {
+     "nombre": "Claire Bae",
+     "foto": null
+    },
+    {
+     "nombre": "Sook Hyung Yang",
+     "foto": "https://image.tmdb.org/t/p/w185/kgi3tQTkhGm4tWetnHAz7Zryxyw.jpg"
+    },
+    {
+     "nombre": "Erin Choi",
+     "foto": "https://image.tmdb.org/t/p/w185/1aIGx5uHRr1upSEK2F6oQKNvoxC.jpg"
+    },
+    {
+     "nombre": "Chloe Jung",
+     "foto": null
+    },
+    {
+     "nombre": "Shelby Lewis",
+     "foto": null
+    }
+   ],
+   "trailer": null,
+   "temporadas_det": []
+  },
+  {
+   "id": "25941908",
+   "titulo": "Manon Lescaut",
+   "tipo": "p",
+   "plataforma": "prime",
+   "estado": "expiring",
+   "fecha": "2026-11-29",
+   "genero": "Música",
+   "generos": [
+    "Música"
+   ],
+   "imdb": null,
+   "rt": null,
+   "duracion": "",
+   "sinopsis": "",
+   "poster": "https://image.tmdb.org/t/p/w342/57pq0LiQ9dZcqJnSbh2Z5poRUGJ.jpg",
+   "reparto": [
+    {
+     "nombre": "Maria José Siri",
+     "foto": null
+    },
+    {
+     "nombre": "Roberto Aronica",
+     "foto": null
+    },
+    {
+     "nombre": "Massimo Cavalletti",
+     "foto": "https://image.tmdb.org/t/p/w185/oXH2QaCWZHIwrTxrsXSqsge9wMW.jpg"
+    },
+    {
+     "nombre": "Carlo Lepore",
+     "foto": "https://image.tmdb.org/t/p/w185/rVARdAsL6mbJdV1uCuoEH4I9Gyd.jpg"
+    },
+    {
+     "nombre": "Marco Ciaponi",
+     "foto": null
+    },
+    {
+     "nombre": "Emanuele Cordaro",
+     "foto": null
+    }
+   ],
+   "trailer": null,
+   "temporadas_det": []
+  },
+  {
+   "id": "5300428",
+   "titulo": "Un nuevo sueño de una noche de verano",
+   "tipo": "p",
+   "plataforma": "prime",
+   "estado": "expiring",
+   "fecha": "2026-11-29",
+   "genero": "Comedia",
+   "generos": [
+    "Comedia",
+    "Fantasía",
+    "Romance"
+   ],
+   "imdb": null,
+   "rt": null,
+   "duracion": "1 h 44 min",
+   "sinopsis": "Una recuento moderno del clásico drama de fantasía de William Shakespeare, ambientado en un exagerado y moderno día de hoy, donde las guerras son honorables y frecuentes y la tecnología está en el centro de todo.",
+   "poster": "https://image.tmdb.org/t/p/w342/bTkXnpnOsjUjUIZnglMa4ZV3Dqp.jpg",
+   "reparto": [
+    {
+     "nombre": "Robert Lindsay",
+     "foto": "https://image.tmdb.org/t/p/w185/7BRYggQuwUVfs3ncuVTcw7QgaDw.jpg"
+    },
+    {
+     "nombre": "Harry Jarvis",
+     "foto": "https://image.tmdb.org/t/p/w185/7EvtlqhPUg9cjlaSAlNL0znNzwo.jpg"
+    },
+    {
+     "nombre": "Tamzin Merchant",
+     "foto": "https://image.tmdb.org/t/p/w185/1OShUfvL8E4XI33xD39NE0g9uPl.jpg"
+    },
+    {
+     "nombre": "Juliet Aubrey",
+     "foto": "https://image.tmdb.org/t/p/w185/puwE4ofyI8OWXXjpoJNyGASdFiR.jpg"
+    },
+    {
+     "nombre": "Florence Kasumba",
+     "foto": "https://image.tmdb.org/t/p/w185/v7armAbV6haib0fTl6ZktTUMRmg.jpg"
+    },
+    {
+     "nombre": "Holly Earl",
+     "foto": "https://image.tmdb.org/t/p/w185/xOTgpttfytr7WJ2Okk8mia5u2qf.jpg"
+    }
+   ],
+   "trailer": null,
+   "temporadas_det": []
+  },
+  {
+   "id": "10246192",
+   "titulo": "Carmina Burana: Dancing in Defiance",
+   "tipo": "p",
+   "plataforma": "prime",
+   "estado": "expiring",
+   "fecha": "2026-11-29",
+   "genero": "Drama",
+   "generos": [
+    "Drama",
+    "Música"
+   ],
+   "imdb": null,
+   "rt": null,
+   "duracion": "1 h 12 min",
+   "sinopsis": "A live recording of Carl Orff's world-famous musical masterpiece Carmina Burana, performed by the more than 100 people of the National Opera and Ballet of Ukraine. With star soloists Alina Tkachuk, Bohdan Panchenko and Oleksandr Prokopovych in the leading roles, this promises to be an impressive performance.",
+   "poster": "https://image.tmdb.org/t/p/w342/ailyweqUPbpn8yFNRsbuSSYj815.jpg",
+   "reparto": [
+    {
+     "nombre": "Alina Tkachuck",
+     "foto": null
+    },
+    {
+     "nombre": "Bohdan Panchenko",
+     "foto": null
+    },
+    {
+     "nombre": "Oleksandr Prokopovych",
+     "foto": null
+    },
+    {
+     "nombre": "Vladislav Goray",
+     "foto": null
+    },
+    {
+     "nombre": "Alexander Stryuk",
+     "foto": null
+    }
+   ],
+   "trailer": null,
+   "temporadas_det": []
+  },
+  {
+   "id": "2033",
+   "titulo": "Polar Express",
+   "tipo": "p",
+   "plataforma": "prime",
+   "estado": "expiring",
+   "fecha": "2026-11-29",
+   "genero": "Aventura",
+   "generos": [
+    "Aventura",
+    "Animación",
+    "Familia",
+    "Fantasía"
+   ],
+   "imdb": 6.6,
+   "rt": 55,
+   "duracion": "1 h 40 min",
+   "sinopsis": "Esta es la historia de un jovencito en la víspera de Navidad quien aborda un poderoso y mágico tren que se dirige al hogar de Papá Noel, en el Polo Norte. Lo que se desarrolla es una aventura que sigue al dubitativo niño, quien toma un tren extraordinario al Polo Norte; durante este viaje, se embarca en una experiencia de autodescubrimiento que le muestra que las maravillas de la vida nunca se desvanecen para quienes creen.",
+   "poster": "https://image.tmdb.org/t/p/w342/ja6QGEUkP8t3wjjoHYvpRStomlT.jpg",
+   "reparto": [
+    {
+     "nombre": "Tom Hanks",
+     "foto": "https://image.tmdb.org/t/p/w185/oFvZoKI6lvU03n4YoNGAll9rkas.jpg"
+    },
+    {
+     "nombre": "Leslie Zemeckis",
+     "foto": "https://image.tmdb.org/t/p/w185/1bUcEr76agVCsWpMDbfll78biaW.jpg"
+    },
+    {
+     "nombre": "Eddie Deezen",
+     "foto": "https://image.tmdb.org/t/p/w185/AqjxoV14Jd3p5uvPsSPoAHmzQHI.jpg"
+    },
+    {
+     "nombre": "Nona Gaye",
+     "foto": "https://image.tmdb.org/t/p/w185/nD6Gawyx0QOQIKsFtJXBWMzjLw3.jpg"
+    },
+    {
+     "nombre": "Peter Scolari",
+     "foto": "https://image.tmdb.org/t/p/w185/r9sBCkb6hSinCpgWC7lu5XTJEfc.jpg"
+    },
+    {
+     "nombre": "Michael Jeter",
+     "foto": "https://image.tmdb.org/t/p/w185/pNBf8X56wCOHH7cArsMYJuke4fO.jpg"
+    }
+   ],
+   "trailer": "https://www.youtube.com/watch?v=f0oyHtZiJJs",
+   "temporadas_det": []
+  },
+  {
+   "id": "4073",
+   "titulo": "La flor del mal",
+   "tipo": "s",
+   "plataforma": "prime",
+   "estado": "expiring",
+   "fecha": "2026-11-29",
+   "genero": "Drama",
+   "generos": [
+    "Drama",
+    "Crimen",
+    "Misterio"
+   ],
+   "imdb": 7.0,
+   "rt": null,
+   "duracion": "1 temporada, 16 episodios",
+   "sinopsis": "\"Flower of Evil\" es un drama de suspenso sobre un psicópata que cambia su identidad para ocultar su pasado cruel y su esposa detective de homicidios que intenta rastrear la verdad. Este thriller atraerá los extremos de esta pareja, desde su armoniosa vida familiar hasta las escenas del crimen.",
+   "poster": "https://image.tmdb.org/t/p/w342/qC1MqCyisFqElFiqTq6xooGRuUQ.jpg",
+   "reparto": [
+    {
+     "nombre": "Lee Joon-gi",
+     "foto": "https://image.tmdb.org/t/p/w185/tHPJUgGiQRWt1Bh7ymqmmJ2zKF6.jpg"
+    },
+    {
+     "nombre": "문채원",
+     "foto": "https://image.tmdb.org/t/p/w185/x8kARXMszobY1YRcc3nbWczqyeZ.jpg"
+    },
+    {
+     "nombre": "장희진",
+     "foto": "https://image.tmdb.org/t/p/w185/kHoM8wW7IDpTfyfB0ohXCBgzobi.jpg"
+    },
+    {
+     "nombre": "서현우",
+     "foto": "https://image.tmdb.org/t/p/w185/i5HP0n06Y5GIZfpsbibFQWAcUjV.jpg"
+    },
+    {
+     "nombre": "정서연",
+     "foto": "https://image.tmdb.org/t/p/w185/x7mY7M3zn4de65AGY2qXxkeVi5v.jpg"
+    },
+    {
+     "nombre": "남기애",
+     "foto": "https://image.tmdb.org/t/p/w185/5sDZDAAxgJVAi4fxfgKVKD6owaw.jpg"
+    }
+   ],
+   "trailer": "https://www.youtube.com/watch?v=QSmDCxfdiAA",
+   "temporadas_det": [
+    {
+     "n": 1,
+     "eps": [
+      {
+       "n": 1,
+       "t": "Episodio 1",
+       "f": "2020-07-29"
+      },
+      {
+       "n": 2,
+       "t": "Episodio 2",
+       "f": "2020-07-30"
+      },
+      {
+       "n": 3,
+       "t": "Episodio 3",
+       "f": "2020-08-05"
+      },
+      {
+       "n": 4,
+       "t": "Episodio 4",
+       "f": "2020-08-06"
+      },
+      {
+       "n": 5,
+       "t": "Episodio 5",
+       "f": "2020-08-12"
+      },
+      {
+       "n": 6,
+       "t": "Episodio 6",
+       "f": "2020-08-13"
+      },
+      {
+       "n": 7,
+       "t": "Episodio 7",
+       "f": "2020-08-19"
+      },
+      {
+       "n": 8,
+       "t": "Episodio 8",
+       "f": "2020-08-20"
+      },
+      {
+       "n": 9,
+       "t": "Episodio 9",
+       "f": "2020-08-26"
+      },
+      {
+       "n": 10,
+       "t": "Episodio 10",
+       "f": "2020-08-27"
+      },
+      {
+       "n": 11,
+       "t": "Episodio 11",
+       "f": "2020-09-02"
+      },
+      {
+       "n": 12,
+       "t": "Episodio 12",
+       "f": "2020-09-09"
+      },
+      {
+       "n": 13,
+       "t": "Episodio 13",
+       "f": "2020-09-10"
+      },
+      {
+       "n": 14,
+       "t": "Episodio 14",
+       "f": "2020-09-16"
+      },
+      {
+       "n": 15,
+       "t": "Episodio 15",
+       "f": "2020-09-17"
+      },
+      {
+       "n": 16,
+       "t": "Episodio 16",
+       "f": "2020-09-23"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "24861162",
+   "titulo": "Yo (Love Is a Rebellious Bird)",
+   "tipo": "p",
+   "plataforma": "prime",
+   "estado": "expiring",
+   "fecha": "2026-11-29",
+   "genero": "Documental",
+   "generos": [
+    "Documental"
+   ],
+   "imdb": null,
+   "rt": null,
+   "duracion": "1 h 18 min",
+   "sinopsis": "",
+   "poster": "https://image.tmdb.org/t/p/w342/cgOMG0geLkgDDtBY2LOq8bRPCy5.jpg",
+   "reparto": [
+    {
+     "nombre": "Yolanda Shea",
+     "foto": null
+    }
+   ],
+   "trailer": null,
+   "temporadas_det": []
+  },
+  {
+   "id": "27774614",
+   "titulo": "Fantasymphony II - A Concert of Fire and Magic",
+   "tipo": "p",
+   "plataforma": "prime",
+   "estado": "expiring",
+   "fecha": "2026-11-29",
+   "genero": "Música",
+   "generos": [
+    "Música"
+   ],
+   "imdb": null,
+   "rt": null,
+   "duracion": "1 h 37 min",
+   "sinopsis": "Déjese llevar por la Orquesta Sinfónica de la República Dominicana y Jakob Stegelmann al oscuro y mágico mundo de la fantasía y experimente la magnífica música de, por ejemplo, El Señor de los Anillos, Juego de Tronos, Harry Potter y la Materia Oscura.",
+   "poster": "https://image.tmdb.org/t/p/w342/5bhDrRFl9GTIzxhNr8bSy4QewmJ.jpg",
+   "reparto": [
+    {
+     "nombre": "David Bateson",
+     "foto": "https://image.tmdb.org/t/p/w185/yCsSBDBFBu80qYrsFM38ctznItG.jpg"
+    },
+    {
+     "nombre": "Jakob Stegelmann",
+     "foto": "https://image.tmdb.org/t/p/w185/v0GCl47KXqL6TGdzWvxDHBtLopd.jpg"
+    },
+    {
+     "nombre": "Christian Schumann",
+     "foto": null
+    },
+    {
+     "nombre": "Tuva Semmingsen",
+     "foto": "https://image.tmdb.org/t/p/w185/xpzv7kGL3s6FOvO2649msj1bBzm.jpg"
+    }
+   ],
+   "trailer": "https://www.youtube.com/watch?v=cocOe7KQb74",
+   "temporadas_det": []
+  },
+  {
+   "id": "18914298",
+   "titulo": "Macbeth",
+   "tipo": "p",
+   "plataforma": "prime",
+   "estado": "expiring",
+   "fecha": "2026-11-29",
+   "genero": "Música",
+   "generos": [
+    "Música"
+   ],
+   "imdb": null,
+   "rt": null,
+   "duracion": "2 h 13 min",
+   "sinopsis": "",
+   "poster": "https://image.tmdb.org/t/p/w342/6XPDxMlfffU6BysJKMcj7ZDQ2St.jpg",
+   "reparto": [
+    {
+     "nombre": "Luca Salsi",
+     "foto": "https://image.tmdb.org/t/p/w185/c1krJAFeXyfWjUdWiz7ULwxJvCx.jpg"
+    },
+    {
+     "nombre": "Ильдар Абдразаков",
+     "foto": "https://image.tmdb.org/t/p/w185/8HP51tQMPhmwDklRduihCpXFhSM.jpg"
+    },
+    {
+     "nombre": "Anna Netrebko",
+     "foto": "https://image.tmdb.org/t/p/w185/6VZfjvfozqPyLKX3LkOvtcK6u1L.jpg"
+    },
+    {
+     "nombre": "Chiara Isotton",
+     "foto": "https://image.tmdb.org/t/p/w185/e72yWZfuNg6361fBrbARL32AghG.jpg"
+    },
+    {
+     "nombre": "Francesco Meli",
+     "foto": "https://image.tmdb.org/t/p/w185/1lnXvITG0C1CPUHPvQ3Om9StJnp.jpg"
+    },
+    {
+     "nombre": "Iván Ayón Rivas",
+     "foto": null
+    }
+   ],
+   "trailer": null,
+   "temporadas_det": []
+  },
+  {
+   "id": "27304466",
+   "titulo": "Chopin",
+   "tipo": "p",
+   "plataforma": "prime",
+   "estado": "expiring",
+   "fecha": "2026-11-29",
+   "genero": "Drama",
+   "generos": [
+    "Drama"
+   ],
+   "imdb": null,
+   "rt": null,
+   "duracion": "",
+   "sinopsis": "",
+   "poster": "https://image.tmdb.org/t/p/w342/7yNkvlLmtjqU9iyQNrCPMFohHlu.jpg",
+   "reparto": [
+    {
+     "nombre": "Eddie Liu",
+     "foto": "https://image.tmdb.org/t/p/w185/A1t8p3KtXjhztvlZFYg5zLWMzNL.jpg"
+    },
+    {
+     "nombre": "Violett Beane",
+     "foto": "https://image.tmdb.org/t/p/w185/5jalFEkEpbNxjc3HMsEYT0vQxSr.jpg"
+    },
+    {
+     "nombre": "戴立忍",
+     "foto": "https://image.tmdb.org/t/p/w185/goUmabqYbnDBc1HocW2pW8lNjln.jpg"
+    },
+    {
+     "nombre": "Wu Min",
+     "foto": "https://image.tmdb.org/t/p/w185/vyl8apwfnyVnw2NpxFVgIJkqCtm.jpg"
+    },
+    {
+     "nombre": "Jake Manley",
+     "foto": "https://image.tmdb.org/t/p/w185/mu8otJW0iA89jqF7SVe59ccrfAI.jpg"
+    },
+    {
+     "nombre": "Michael Bow",
+     "foto": "https://image.tmdb.org/t/p/w185/w255DV5BsgVAcAPrvmejaWSqDp2.jpg"
+    }
+   ],
+   "trailer": "https://www.youtube.com/watch?v=FwS1J2CFqyw",
+   "temporadas_det": []
+  },
+  {
+   "id": "18823548",
+   "titulo": "The Room: A Tribute",
+   "tipo": "p",
+   "plataforma": "prime",
+   "estado": "expiring",
+   "fecha": "2026-11-29",
+   "genero": "Drama",
+   "generos": [
+    "Drama",
+    "Romance"
+   ],
+   "imdb": 5.2,
+   "rt": null,
+   "duracion": "1 h 05 min",
+   "sinopsis": "",
+   "poster": "https://image.tmdb.org/t/p/w342/epsWTP2zoY9KpJ7vgSgWiQQcn6N.jpg",
+   "reparto": [
+    {
+     "nombre": "Bob Odenkirk",
+     "foto": "https://image.tmdb.org/t/p/w185/rF0Lb6SBhGSTvjRffmlKRSeI3jE.jpg"
+    },
+    {
+     "nombre": "Brando Crawford",
+     "foto": "https://image.tmdb.org/t/p/w185/wpZK03Jyv9ZWNkxha97MKfgEMAs.jpg"
+    },
+    {
+     "nombre": "Bella Heathcote",
+     "foto": "https://image.tmdb.org/t/p/w185/ohysJ8CJTAi2Vp5qBkByn98LANi.jpg"
+    },
+    {
+     "nombre": "Cameron Kasky",
+     "foto": "https://image.tmdb.org/t/p/w185/aFRP3ak0NN3yFOthjrVIefm4rks.jpg"
+    },
+    {
+     "nombre": "Mike Flanagan",
+     "foto": "https://image.tmdb.org/t/p/w185/sjnAyb7un3eS7THLQQzJBzkv2Yo.jpg"
+    },
+    {
+     "nombre": "Kate Siegel",
+     "foto": "https://image.tmdb.org/t/p/w185/jJJGmVKvMFHMJEwyfiHgxXEFePO.jpg"
+    }
+   ],
+   "trailer": "https://www.youtube.com/watch?v=NMKZ5e5h430",
+   "temporadas_det": []
+  },
+  {
+   "id": "89323",
+   "titulo": "La infeliz",
+   "tipo": "p",
+   "plataforma": "prime",
+   "estado": "expiring",
+   "fecha": "2026-11-29",
+   "genero": "Comedia",
+   "generos": [
+    "Comedia",
+    "Romance"
+   ],
+   "imdb": 5.6,
+   "rt": null,
+   "duracion": "1 h 34 min",
+   "sinopsis": "Leyla, una treintañera con el corazón roto y en el paro, decide reinventarse a sí misma y buscar la felicidad mientras su familia se empeña en buscarle novio.",
+   "poster": "https://image.tmdb.org/t/p/w342/gQk9VGygLyM4qk3KIF9tkTkEXSr.jpg",
+   "reparto": [
+    {
+     "nombre": "Maryam Hassouni",
+     "foto": "https://image.tmdb.org/t/p/w185/mPZoWGaLwO2iVOf3vx0DMC1TrbX.jpg"
+    },
+    {
+     "nombre": "Bilal Wahib",
+     "foto": "https://image.tmdb.org/t/p/w185/1bgsq5csGixBBwIuPaEvHrQ8Dix.jpg"
+    },
+    {
+     "nombre": "Jouman Fattal",
+     "foto": "https://image.tmdb.org/t/p/w185/vUoDfou68CvaD6ae84CMxeH9h2Z.jpg"
+    },
+    {
+     "nombre": "Nasrdin Dchar",
+     "foto": "https://image.tmdb.org/t/p/w185/jrmBAu6lFy8iEnAIMKJisgb4MKX.jpg"
+    },
+    {
+     "nombre": "Yasmin Karssing",
+     "foto": "https://image.tmdb.org/t/p/w185/8AkFRBHRTBh4oFNGMk03sCkgqUZ.jpg"
+    },
+    {
+     "nombre": "Vincent Banić",
+     "foto": "https://image.tmdb.org/t/p/w185/5yN9YdtdmvWMk4wrnJsDPWpWk98.jpg"
+    }
+   ],
+   "trailer": "https://www.youtube.com/watch?v=mn68KA5iMl4",
+   "temporadas_det": []
+  },
+  {
+   "id": "8863725",
+   "titulo": "Invierno, primavera, verano, otoño",
+   "tipo": "p",
+   "plataforma": "prime",
+   "estado": "expiring",
+   "fecha": "2026-11-29",
+   "genero": "Romance",
+   "generos": [
+    "Romance",
+    "Drama"
+   ],
+   "imdb": 6.4,
+   "rt": null,
+   "duracion": "1 h 37 min",
+   "sinopsis": "Cuenta la historia de dos adolescentes que se conocen y se enamoran durante cuatro días al año.",
+   "poster": "https://image.tmdb.org/t/p/w342/forUEJ4mqQek2vBg3IwRgqXcyHk.jpg",
+   "reparto": [
+    {
+     "nombre": "Jenna Ortega",
+     "foto": "https://image.tmdb.org/t/p/w185/q1NRzyZQlYkxLY07GO9NVPkQnu8.jpg"
+    },
+    {
+     "nombre": "Percy Hynes White",
+     "foto": "https://image.tmdb.org/t/p/w185/de84y3MlgDBnEtZZ3f7RDkYQPYs.jpg"
+    },
+    {
+     "nombre": "Adam Rodriguez",
+     "foto": "https://image.tmdb.org/t/p/w185/qFSbLvyNPZK40hY9gZXJDvq0qVK.jpg"
+    },
+    {
+     "nombre": "Marisol Nichols",
+     "foto": "https://image.tmdb.org/t/p/w185/xgCZ4aebwqSACsL8SHbdEDNfdyC.jpg"
+    },
+    {
+     "nombre": "Elias Kacavas",
+     "foto": "https://image.tmdb.org/t/p/w185/4KzuVpFgp1MOzRBdOAfyIYS4blE.jpg"
+    },
+    {
+     "nombre": "Corynn Treadwell",
+     "foto": "https://image.tmdb.org/t/p/w185/xw08OTEGYZ5mvPJP9SIKdGKCJ6J.jpg"
+    }
+   ],
+   "trailer": "https://www.youtube.com/watch?v=84-KAOf4OPM",
+   "temporadas_det": []
+  },
+  {
+   "id": "117683",
+   "titulo": "Santoalla",
+   "tipo": "p",
+   "plataforma": "prime",
+   "estado": "expiring",
+   "fecha": "2026-11-29",
+   "genero": "Documental",
+   "generos": [
+    "Documental"
+   ],
+   "imdb": 5.5,
+   "rt": null,
+   "duracion": "1 h 05 min",
+   "sinopsis": "Una pareja holandesa, Martin y Margo Verfondern, tras la búsqueda incansable por Europa de un lugar idílico donde vivir, llegan a un remoto pueblo español llamado Santoalla y deciden empezar una nueva vida en él. Tras un tiempo de convivencia con sus únicos vecinos, comienzan a desatarse ciertos conflictos territoriales que terminan con la desaparición de Martín.",
+   "poster": "https://image.tmdb.org/t/p/w342/eMiQJrxtR8lgXZMEH6a40rm3NjO.jpg",
+   "reparto": [
+    {
+     "nombre": "Carlos Rodríguez",
+     "foto": null
+    },
+    {
+     "nombre": "Jovita Rodríguez",
+     "foto": null
+    },
+    {
+     "nombre": "Julio Rodríguez",
+     "foto": null
+    },
+    {
+     "nombre": "Manolo Rodríguez",
+     "foto": null
+    },
+    {
+     "nombre": "Margo Verfondern",
+     "foto": null
+    },
+    {
+     "nombre": "Martin Verfondern",
+     "foto": null
+    }
+   ],
+   "trailer": "https://www.youtube.com/watch?v=Wp2ZA_UJF5c",
    "temporadas_det": []
   },
   {
@@ -3074,329 +2060,467 @@
    "temporadas_det": []
   },
   {
-   "id": "728",
-   "titulo": "Liga de la Justicia",
+   "id": "2709",
+   "titulo": "Destino final 2",
    "tipo": "p",
    "plataforma": "prime",
    "estado": "expiring",
    "fecha": "2026-11-30",
-   "genero": "Acción",
+   "genero": "Terror",
    "generos": [
-    "Acción",
-    "Aventura",
-    "Ciencia ficción"
+    "Terror",
+    "Misterio"
    ],
-   "imdb": 6.0,
+   "imdb": 6.2,
    "rt": null,
-   "duracion": "2 h 01 min",
-   "sinopsis": "Motivado por la fe que había recuperado en la humanidad e inspirado por la acción altruista de Superman, Bruce Wayne recluta la ayuda de su nueva aliada, Diana Prince, para enfrentarse a un enemigo aún mayor. Juntos, Batman y Wonder Woman se mueven rápidamente para intentar encontrar y reclutar un equipo de metahumanos que combata esta nueva amenaza. El problema es que a pesar de la formación de esta liga de héroes sin precedentes (Batman, Wonder Woman, Aquaman, Cyborg y Flash) puede que sea demasiado tarde para salvar el planeta de una amenaza de proporciones catastróficas.",
-   "poster": "https://image.tmdb.org/t/p/w342/wUWqnavD8iGZ5F4xXhWlrtEzKjV.jpg",
+   "duracion": "1 h 30 min",
+   "sinopsis": "Kimberly Corman se va de vacaciones con sus amigos Dano , Shaina  y Frankie hacia Daytona Beach. De repente, un camión cargado de troncos pierde el control al reventarse la cadena que los sostiene, cayendo y rodando por la autopista donde se origina un trágico accidente, matando a todos los que se encuentran a su paso. Pero esto solo fue una premonición de Kimberly, que al volver a la realidad se asusta y detiene la camioneta en plena desviación de la autopista, de modo que ocasiona que los autos que van detrás se detengan haciendo un gran atasco. Un policía , se acerca a ver que ocurre, y Kim le cuenta lo que ha visto. El policía no le cree y trata de tranquilizarla haciéndole entender que es solo su imaginación, y le ruega que retire el auto del camino, pero Kim se niega, cuando de repente, el camión de troncos cruza ante sus ojos y se cumple la catástrofe, tal y como ella lo había contado.",
+   "poster": "https://image.tmdb.org/t/p/w342/6m4TTnatasZcMi6qE4Hbe9LdJgz.jpg",
    "reparto": [
     {
-     "nombre": "Ben Affleck",
-     "foto": "https://image.tmdb.org/t/p/w185/aTcqu8cI4wMohU17xTdqmXKTGrw.jpg"
+     "nombre": "A.J. Cook",
+     "foto": "https://image.tmdb.org/t/p/w185/tvEjGDQVuu7jiOvWXwEU6tEE7NW.jpg"
     },
     {
-     "nombre": "Henry Cavill",
-     "foto": "https://image.tmdb.org/t/p/w185/kN3A5oLgtKYAxa9lAkpsIGYKYVo.jpg"
+     "nombre": "Ali Larter",
+     "foto": "https://image.tmdb.org/t/p/w185/5qaQFxx8Az83ycd4LHyQ39HXaEJ.jpg"
     },
     {
-     "nombre": "Amy Adams",
-     "foto": "https://image.tmdb.org/t/p/w185/gn0K6c6d1L6qQrRc86iL8uyIqiF.jpg"
+     "nombre": "Michael Landes",
+     "foto": "https://image.tmdb.org/t/p/w185/2EdaNaUQdWi7Vi0pLNaS9Ys9fVi.jpg"
     },
     {
-     "nombre": "Gal Gadot",
-     "foto": "https://image.tmdb.org/t/p/w185/AbXKtWQwuDiwhoQLh34VRglwuBE.jpg"
+     "nombre": "David Paetkau",
+     "foto": "https://image.tmdb.org/t/p/w185/c2LHO9ERSk8D5SW4vgRvgS9sSmb.jpg"
     },
     {
-     "nombre": "Ezra Miller",
-     "foto": "https://image.tmdb.org/t/p/w185/hLtxNK8eeWZkFSeaAASFWm15Qv0.jpg"
+     "nombre": "James Kirk",
+     "foto": "https://image.tmdb.org/t/p/w185/wgkCnBOX3anKMQ3vkDMcB4qVE2y.jpg"
     },
     {
-     "nombre": "Jason Momoa",
-     "foto": "https://image.tmdb.org/t/p/w185/rsdpJXHtKDq4oAlWQyF01N4neBV.jpg"
+     "nombre": "Lynda Boyd",
+     "foto": "https://image.tmdb.org/t/p/w185/5mPaot3TlnlZBzf9VY0fBYWuJgm.jpg"
     }
    ],
-   "trailer": "https://www.youtube.com/watch?v=PXrgvNXfN7M",
+   "trailer": "https://www.youtube.com/watch?v=MNXpuPu4URk",
    "temporadas_det": []
   },
   {
-   "id": "117683",
-   "titulo": "Santoalla",
+   "id": "8866927",
+   "titulo": "Los vigilantes",
    "tipo": "p",
    "plataforma": "prime",
    "estado": "expiring",
    "fecha": "2026-11-30",
-   "genero": "Documental",
+   "genero": "Fantasía",
    "generos": [
-    "Documental"
+    "Fantasía",
+    "Terror",
+    "Misterio"
+   ],
+   "imdb": 5.8,
+   "rt": null,
+   "duracion": "1 h 42 min",
+   "sinopsis": "Sigue a Mina, una artista de 28 años que queda varada en un bosque en el oeste de Irlanda. Cuando Mina encuentra refugio, sin saberlo, queda atrapada junto a tres extraños que son observados y acechados por misteriosas criaturas cada noche.",
+   "poster": "https://image.tmdb.org/t/p/w342/hxd2Jzz2IGpKxNvzqCUqfKhV8tS.jpg",
+   "reparto": [
+    {
+     "nombre": "Dakota Fanning",
+     "foto": "https://image.tmdb.org/t/p/w185/hwcO08SVWkelfvgfIa5HsTMxsK8.jpg"
+    },
+    {
+     "nombre": "Georgina Campbell",
+     "foto": "https://image.tmdb.org/t/p/w185/kgXHKjI728Nv7FLVf38S9QzHU2n.jpg"
+    },
+    {
+     "nombre": "Olwen Fouéré",
+     "foto": "https://image.tmdb.org/t/p/w185/jvBLYkqqEdZGGcg4YVUZhBl6or4.jpg"
+    },
+    {
+     "nombre": "Oliver Finnegan",
+     "foto": "https://image.tmdb.org/t/p/w185/n7MaoeKKfmH8SyXLvKbjXWbDyQO.jpg"
+    },
+    {
+     "nombre": "Alistair Brammer",
+     "foto": "https://image.tmdb.org/t/p/w185/9jYWbSSbpto6eCISIeKO9J1vTWe.jpg"
+    },
+    {
+     "nombre": "John Lynch",
+     "foto": "https://image.tmdb.org/t/p/w185/4TG8HYZ5SEFh1Yk5CCG4fXD55j9.jpg"
+    }
+   ],
+   "trailer": "https://www.youtube.com/watch?v=dYo91Fq9tKY",
+   "temporadas_det": []
+  },
+  {
+   "id": "4939",
+   "titulo": "Maligno",
+   "tipo": "p",
+   "plataforma": "prime",
+   "estado": "expiring",
+   "fecha": "2026-11-30",
+   "genero": "Terror",
+   "generos": [
+    "Terror",
+    "Misterio",
+    "Acción"
+   ],
+   "imdb": 6.3,
+   "rt": null,
+   "duracion": "1 h 51 min",
+   "sinopsis": "Madison es una mujer que tiene unas macabras pesadillas que la dejan completamente paralizada. Aterrada por lo que ve en ellas, Madison no consigue dormir por las noches ni vivir por el día. Pero el terror cada vez se irá apoderando de ella cuando descubra que esas pesadillas no son sueños, sino que son hechos de la vida real.",
+   "poster": "https://image.tmdb.org/t/p/w342/3Lq3VTrxyMjIMiI91rI6RPqScsu.jpg",
+   "reparto": [
+    {
+     "nombre": "Annabelle Wallis",
+     "foto": "https://image.tmdb.org/t/p/w185/2ZmO2Zz9TcR0rmSJHOkivcu0heR.jpg"
+    },
+    {
+     "nombre": "Maddie Hasson",
+     "foto": "https://image.tmdb.org/t/p/w185/k4mZCWtBVxcRmC74taxhlpB8gYT.jpg"
+    },
+    {
+     "nombre": "George Young",
+     "foto": "https://image.tmdb.org/t/p/w185/dDTtlhWEnqIvBoOljmX2Hoi8IO4.jpg"
+    },
+    {
+     "nombre": "Michole Briana White",
+     "foto": "https://image.tmdb.org/t/p/w185/4ooXO8EO9hJdwHVaYwY2eDIzUo4.jpg"
+    },
+    {
+     "nombre": "Susanna Thompson",
+     "foto": "https://image.tmdb.org/t/p/w185/7LsOYvF08HvJ5jBJtH1jrZx1dcD.jpg"
+    },
+    {
+     "nombre": "Ingrid Bisu",
+     "foto": "https://image.tmdb.org/t/p/w185/ndXpP6itF7oSDQwIoHLVZCekNSg.jpg"
+    }
+   ],
+   "trailer": "https://www.youtube.com/watch?v=IGP7AB776CQ",
+   "temporadas_det": []
+  },
+  {
+   "id": "4797487",
+   "titulo": "La monja II",
+   "tipo": "p",
+   "plataforma": "prime",
+   "estado": "expiring",
+   "fecha": "2026-11-30",
+   "genero": "Terror",
+   "generos": [
+    "Terror"
+   ],
+   "imdb": 5.8,
+   "rt": null,
+   "duracion": "1 h 50 min",
+   "sinopsis": "En 1956 en Francia, un sacerdote es asesinado y parece que un mal se está extendiendo. La hermana Irene una vez más se encuentra cara a cara con una fuerza demoníaca.",
+   "poster": "https://image.tmdb.org/t/p/w342/cRp5MhCXwyEjJ3gqynmUME4nJPv.jpg",
+   "reparto": [
+    {
+     "nombre": "Taissa Farmiga",
+     "foto": "https://image.tmdb.org/t/p/w185/jMDY4rFh2SFINj0wzoX10Roye3n.jpg"
+    },
+    {
+     "nombre": "Anna Popplewell",
+     "foto": "https://image.tmdb.org/t/p/w185/7GXEPxNCbc6EtnulCEPWnEvKJIN.jpg"
+    },
+    {
+     "nombre": "Jonas Bloquet",
+     "foto": "https://image.tmdb.org/t/p/w185/ivbElHgLKv8PaVc2A9zIZSMSPcv.jpg"
+    },
+    {
+     "nombre": "Storm Reid",
+     "foto": "https://image.tmdb.org/t/p/w185/c5ld0nVHZ2dv25Jhn5DpXwTlXyH.jpg"
+    },
+    {
+     "nombre": "Katelyn Rose Downey",
+     "foto": "https://image.tmdb.org/t/p/w185/50mZMR1gxqFNahFA8nahFnvsWQy.jpg"
+    },
+    {
+     "nombre": "Léontine d'Oncieu",
+     "foto": "https://image.tmdb.org/t/p/w185/orJtBX9JMDIW8F2SzgnNGCyHxQQ.jpg"
+    }
+   ],
+   "trailer": "https://www.youtube.com/watch?v=QF-oyCwaArU",
+   "temporadas_det": []
+  },
+  {
+   "id": "2851",
+   "titulo": "Annabelle",
+   "tipo": "p",
+   "plataforma": "prime",
+   "estado": "expiring",
+   "fecha": "2026-11-30",
+   "genero": "Terror",
+   "generos": [
+    "Terror"
    ],
    "imdb": 5.5,
    "rt": null,
-   "duracion": "1 h 05 min",
-   "sinopsis": "Una pareja holandesa, Martin y Margo Verfondern, tras la búsqueda incansable por Europa de un lugar idílico donde vivir, llegan a un remoto pueblo español llamado Santoalla y deciden empezar una nueva vida en él. Tras un tiempo de convivencia con sus únicos vecinos, comienzan a desatarse ciertos conflictos territoriales que terminan con la desaparición de Martín.",
-   "poster": "https://image.tmdb.org/t/p/w342/eMiQJrxtR8lgXZMEH6a40rm3NjO.jpg",
+   "duracion": "1 h 38 min",
+   "sinopsis": "John Form encuentra el regalo perfecto para su mujer embarazada, Mia: una preciosa e inusual muñeca vintage que lleva un vestido de novia blanco inmaculado. Sin embargo, la alegría de Mia al recibir a Annabelle no dura mucho. Durante una espantosa noche la pareja ve como miembros de una secta satánica invaden su hogar y los atacan brutalmente. No sólo dejan sangre derramada y terror tras su visita…los miembros de la secta conjuran a un ente de tal maldad que nada de lo que han hecho se compara al siniestro camino a la maldición que ahora es… Annabelle.",
+   "poster": "https://image.tmdb.org/t/p/w342/sFxgTJizaUUI3NByNT80oCVnkA2.jpg",
    "reparto": [
     {
-     "nombre": "Carlos Rodríguez",
-     "foto": null
+     "nombre": "Annabelle Wallis",
+     "foto": "https://image.tmdb.org/t/p/w185/2ZmO2Zz9TcR0rmSJHOkivcu0heR.jpg"
     },
     {
-     "nombre": "Jovita Rodríguez",
-     "foto": null
+     "nombre": "Ward Horton",
+     "foto": "https://image.tmdb.org/t/p/w185/qN28HktqfOCIaLVRK8W6bofdbvs.jpg"
     },
     {
-     "nombre": "Julio Rodríguez",
-     "foto": null
+     "nombre": "Tony Amendola",
+     "foto": "https://image.tmdb.org/t/p/w185/eGgQGEwO2vCqhFcmDfyyjctmWcl.jpg"
     },
     {
-     "nombre": "Manolo Rodríguez",
-     "foto": null
+     "nombre": "Alfre Woodard",
+     "foto": "https://image.tmdb.org/t/p/w185/erXesg092Pi7SHKEK2UHeimPPKf.jpg"
     },
     {
-     "nombre": "Margo Verfondern",
-     "foto": null
+     "nombre": "Eric Ladin",
+     "foto": "https://image.tmdb.org/t/p/w185/7uX4JUqMmPdrC550BeJWalMv72Y.jpg"
     },
     {
-     "nombre": "Martin Verfondern",
-     "foto": null
+     "nombre": "Kerry O'Malley",
+     "foto": "https://image.tmdb.org/t/p/w185/8a1wpq7lC8S3XiokACHkJOqJv5v.jpg"
     }
    ],
-   "trailer": "https://www.youtube.com/watch?v=Wp2ZA_UJF5c",
+   "trailer": "https://www.youtube.com/watch?v=8kmLHwKH31M",
    "temporadas_det": []
   },
   {
-   "id": "4073",
-   "titulo": "La flor del mal",
-   "tipo": "s",
+   "id": "4264",
+   "titulo": "Destino final 4",
+   "tipo": "p",
    "plataforma": "prime",
    "estado": "expiring",
    "fecha": "2026-11-30",
-   "genero": "Drama",
+   "genero": "Terror",
    "generos": [
-    "Drama",
-    "Crimen",
+    "Terror",
     "Misterio"
    ],
-   "imdb": 7.0,
+   "imdb": 5.2,
    "rt": null,
-   "duracion": "1 temporada, 16 episodios",
-   "sinopsis": "\"Flower of Evil\" es un drama de suspenso sobre un psicópata que cambia su identidad para ocultar su pasado cruel y su esposa detective de homicidios que intenta rastrear la verdad. Este thriller atraerá los extremos de esta pareja, desde su armoniosa vida familiar hasta las escenas del crimen.",
-   "poster": "https://image.tmdb.org/t/p/w342/qC1MqCyisFqElFiqTq6xooGRuUQ.jpg",
+   "duracion": "1 h 22 min",
+   "sinopsis": "Nick O’Bannon y unos amigos acuden a un circuito de carreras para presenciar una prueba del Nascar. Durante ésta tiene lugar un terrible accidente que conlleva desastrosas consecuencias para el estadio. Pero Nick descubre que se trata de sólo una visión de algo que está a punto de suceder, y junto con otras doce personas consigue salir del recinto y escapar de una tragedia segura. Pensando que han burlado a la muerte, el grupo continúa con su vida, pero desafortunadamente para Nick, Lori y sus amigos sólo es el principio, ya que la muerte no deja cabos sueltos, y regresará para llevarse a los supervivientes de una manera brutal.",
+   "poster": "https://image.tmdb.org/t/p/w342/8b1tsUQW8hogJRi6FFHHfO7D1fu.jpg",
    "reparto": [
     {
-     "nombre": "Lee Joon-gi",
-     "foto": "https://image.tmdb.org/t/p/w185/tHPJUgGiQRWt1Bh7ymqmmJ2zKF6.jpg"
+     "nombre": "Bobby Campo",
+     "foto": "https://image.tmdb.org/t/p/w185/6ART3lx7kJEC3vNJBKqILCKKOuM.jpg"
     },
     {
-     "nombre": "문채원",
-     "foto": "https://image.tmdb.org/t/p/w185/x8kARXMszobY1YRcc3nbWczqyeZ.jpg"
+     "nombre": "Shantel VanSanten",
+     "foto": "https://image.tmdb.org/t/p/w185/pjTcORzZ8TUKtJwYBuzgmT9aLsO.jpg"
     },
     {
-     "nombre": "장희진",
-     "foto": "https://image.tmdb.org/t/p/w185/kHoM8wW7IDpTfyfB0ohXCBgzobi.jpg"
+     "nombre": "Nick Zano",
+     "foto": "https://image.tmdb.org/t/p/w185/t47PZJOUehQV4RFOEXoszMiOEjx.jpg"
     },
     {
-     "nombre": "서현우",
-     "foto": "https://image.tmdb.org/t/p/w185/i5HP0n06Y5GIZfpsbibFQWAcUjV.jpg"
+     "nombre": "Haley Webb",
+     "foto": "https://image.tmdb.org/t/p/w185/tKMPyfje7LEQDFaNNMW1vQQ0fvE.jpg"
     },
     {
-     "nombre": "정서연",
-     "foto": "https://image.tmdb.org/t/p/w185/x7mY7M3zn4de65AGY2qXxkeVi5v.jpg"
+     "nombre": "Mykelti Williamson",
+     "foto": "https://image.tmdb.org/t/p/w185/dR16zD9AjnHWbeN5OVmJWE0vSax.jpg"
     },
     {
-     "nombre": "남기애",
-     "foto": "https://image.tmdb.org/t/p/w185/5sDZDAAxgJVAi4fxfgKVKD6owaw.jpg"
+     "nombre": "Krista Allen",
+     "foto": "https://image.tmdb.org/t/p/w185/tGZYog8LcayRuj0mjCQehbwO0W9.jpg"
     }
    ],
-   "trailer": "https://www.youtube.com/watch?v=QSmDCxfdiAA",
-   "temporadas_det": [
-    {
-     "n": 1,
-     "eps": [
-      {
-       "n": 1,
-       "t": "Episodio 1",
-       "f": "2020-07-29"
-      },
-      {
-       "n": 2,
-       "t": "Episodio 2",
-       "f": "2020-07-30"
-      },
-      {
-       "n": 3,
-       "t": "Episodio 3",
-       "f": "2020-08-05"
-      },
-      {
-       "n": 4,
-       "t": "Episodio 4",
-       "f": "2020-08-06"
-      },
-      {
-       "n": 5,
-       "t": "Episodio 5",
-       "f": "2020-08-12"
-      },
-      {
-       "n": 6,
-       "t": "Episodio 6",
-       "f": "2020-08-13"
-      },
-      {
-       "n": 7,
-       "t": "Episodio 7",
-       "f": "2020-08-19"
-      },
-      {
-       "n": 8,
-       "t": "Episodio 8",
-       "f": "2020-08-20"
-      },
-      {
-       "n": 9,
-       "t": "Episodio 9",
-       "f": "2020-08-26"
-      },
-      {
-       "n": 10,
-       "t": "Episodio 10",
-       "f": "2020-08-27"
-      },
-      {
-       "n": 11,
-       "t": "Episodio 11",
-       "f": "2020-09-02"
-      },
-      {
-       "n": 12,
-       "t": "Episodio 12",
-       "f": "2020-09-09"
-      },
-      {
-       "n": 13,
-       "t": "Episodio 13",
-       "f": "2020-09-10"
-      },
-      {
-       "n": 14,
-       "t": "Episodio 14",
-       "f": "2020-09-16"
-      },
-      {
-       "n": 15,
-       "t": "Episodio 15",
-       "f": "2020-09-17"
-      },
-      {
-       "n": 16,
-       "t": "Episodio 16",
-       "f": "2020-09-23"
-      }
-     ]
-    }
-   ]
+   "trailer": "https://www.youtube.com/watch?v=azQH42WEoTg",
+   "temporadas_det": []
   },
   {
-   "id": "5300428",
-   "titulo": "Un nuevo sueño de una noche de verano",
+   "id": "3367",
+   "titulo": "Annabelle: Creation",
    "tipo": "p",
    "plataforma": "prime",
    "estado": "expiring",
    "fecha": "2026-11-30",
-   "genero": "Comedia",
+   "genero": "Terror",
    "generos": [
-    "Comedia",
-    "Fantasía",
-    "Romance"
+    "Terror"
    ],
-   "imdb": 4.5,
+   "imdb": 6.5,
    "rt": null,
-   "duracion": "1 h 44 min",
-   "sinopsis": "Una recuento moderno del clásico drama de fantasía de William Shakespeare, ambientado en un exagerado y moderno día de hoy, donde las guerras son honorables y frecuentes y la tecnología está en el centro de todo.",
-   "poster": "https://image.tmdb.org/t/p/w342/bTkXnpnOsjUjUIZnglMa4ZV3Dqp.jpg",
+   "duracion": "1 h 49 min",
+   "sinopsis": "Varios años después del trágico fallecimiento de su hija, un juguetero que crea muñecas y su mujer, acogen en su casa a una monja enfermera y a un grupo de niñas, tratando de convertir su casa en un acogedor orfanato. Sin embargo, las nuevos inquilinos se convertirán en el objetivo de Annabelle, una muñeca poseída por un ser demoníaco. Secuela de \"Annabelle\" (2014).",
+   "poster": "https://image.tmdb.org/t/p/w342/dpdPo1kPE5y1pBopxKnchlSX8i8.jpg",
    "reparto": [
     {
-     "nombre": "Robert Lindsay",
-     "foto": "https://image.tmdb.org/t/p/w185/7BRYggQuwUVfs3ncuVTcw7QgaDw.jpg"
+     "nombre": "Stephanie Sigman",
+     "foto": "https://image.tmdb.org/t/p/w185/7jSt9h30UV0S2GDZpzt8xNq2GVQ.jpg"
     },
     {
-     "nombre": "Harry Jarvis",
-     "foto": "https://image.tmdb.org/t/p/w185/7EvtlqhPUg9cjlaSAlNL0znNzwo.jpg"
+     "nombre": "Talitha Eliana Bateman",
+     "foto": "https://image.tmdb.org/t/p/w185/nJ8usNkXlYwg6jUhtCWgcDwu3jw.jpg"
     },
     {
-     "nombre": "Tamzin Merchant",
-     "foto": "https://image.tmdb.org/t/p/w185/1OShUfvL8E4XI33xD39NE0g9uPl.jpg"
+     "nombre": "Lulu Wilson",
+     "foto": "https://image.tmdb.org/t/p/w185/7qqMBuvdZoayPVmVZKHBLqUgKiJ.jpg"
     },
     {
-     "nombre": "Juliet Aubrey",
-     "foto": "https://image.tmdb.org/t/p/w185/puwE4ofyI8OWXXjpoJNyGASdFiR.jpg"
+     "nombre": "Anthony LaPaglia",
+     "foto": "https://image.tmdb.org/t/p/w185/31fRY01Dq2ebkx09FjuG5g3QW9G.jpg"
     },
     {
-     "nombre": "Florence Kasumba",
-     "foto": "https://image.tmdb.org/t/p/w185/v7armAbV6haib0fTl6ZktTUMRmg.jpg"
+     "nombre": "Miranda Otto",
+     "foto": "https://image.tmdb.org/t/p/w185/szME1IBVTLgiKrO5D5wvOGnvUDW.jpg"
     },
     {
-     "nombre": "Holly Earl",
-     "foto": "https://image.tmdb.org/t/p/w185/xOTgpttfytr7WJ2Okk8mia5u2qf.jpg"
+     "nombre": "Grace Caroline Currey",
+     "foto": "https://image.tmdb.org/t/p/w185/6chZcnjWEiFfpmB6D5BR9YUeIs9.jpg"
     }
    ],
-   "trailer": null,
+   "trailer": "https://www.youtube.com/watch?v=EjZkJa6Z-SY",
    "temporadas_det": []
   },
   {
-   "id": "14625795",
-   "titulo": "Sonata",
+   "id": "14625683",
+   "titulo": "Expediente Warren: El último rito",
    "tipo": "p",
    "plataforma": "prime",
+   "estado": "expiring",
+   "fecha": "2026-11-30",
+   "genero": "Terror",
+   "generos": [
+    "Terror"
+   ],
+   "imdb": 6.3,
+   "rt": null,
+   "duracion": "2 h 16 min",
+   "sinopsis": "Los investigadores de lo paranormal Ed y Lorraine Warren se enfrentan a un último caso aterrador en el que están implicadas entidades misteriosas a las que deben enfrentarse.",
+   "poster": "https://image.tmdb.org/t/p/w342/vrfti9ycF4mlA5WuIyfgCf1LJQG.jpg",
+   "reparto": [
+    {
+     "nombre": "Patrick Wilson",
+     "foto": "https://image.tmdb.org/t/p/w185/oym6H2QD9esk4yABjCHaUoNAOa8.jpg"
+    },
+    {
+     "nombre": "Vera Farmiga",
+     "foto": "https://image.tmdb.org/t/p/w185/5Vs7huBmTKftwlsc2BPAntyaQYj.jpg"
+    },
+    {
+     "nombre": "Mia Tomlinson",
+     "foto": "https://image.tmdb.org/t/p/w185/i8Kel9mWoL86UCKGGz3zf5Fza6y.jpg"
+    },
+    {
+     "nombre": "Ben Hardy",
+     "foto": "https://image.tmdb.org/t/p/w185/qCV3G1OHTJgPHX9kbWEBbS9RwVJ.jpg"
+    },
+    {
+     "nombre": "Rebecca Calder",
+     "foto": "https://image.tmdb.org/t/p/w185/2pkBR7d9MMrgRUBopEc7kRP8ZJL.jpg"
+    },
+    {
+     "nombre": "Tilly Walker",
+     "foto": "https://image.tmdb.org/t/p/w185/wd9La2PfiSP9CsU4BwlNHqXfDn6.jpg"
+    }
+   ],
+   "trailer": "https://www.youtube.com/watch?v=p4aWdkM5xF8",
+   "temporadas_det": []
+  },
+  {
+   "id": "5720",
+   "titulo": "Annabelle: Vuelve a casa",
+   "tipo": "p",
+   "plataforma": "prime",
+   "estado": "expiring",
+   "fecha": "2026-11-30",
+   "genero": "Terror",
+   "generos": [
+    "Terror",
+    "Fantasía"
+   ],
+   "imdb": 6.0,
+   "rt": null,
+   "duracion": "1 h 46 min",
+   "sinopsis": "Annabelle Vuelve a Casa es la tercera entrega de la saga \"Annabelle\" de New Line Cinema, protagonizada por la infame y siniestra muñeca del universo \"Expediente Warren\".  Los demonólogos Ed y Lorraine Warren están decididos a evitar que Annabelle cause más estragos, así que llevan a la muñeca poseída a la sala de objetos bajo llave que tienen en su casa. La colocan \"a salvo\" en una vitrina sagrada bendecida por un sacerdote. Pero una terrorífica noche nada santa, Annabelle despierta a los espíritus malignos de la habitación que se fijan un nuevo objetivo: la hija de diez años de los Warren, Judy, y sus amigas.",
+   "poster": "https://image.tmdb.org/t/p/w342/zxwPksbRKGaAi06rapPfFTVsMHv.jpg",
+   "reparto": [
+    {
+     "nombre": "Mckenna Grace",
+     "foto": "https://image.tmdb.org/t/p/w185/sK0CVa56IIpFhCDrcXSTqPWxNbx.jpg"
+    },
+    {
+     "nombre": "Madison Iseman",
+     "foto": "https://image.tmdb.org/t/p/w185/AfFSYlXXbcXnRj6k8Mheffw7HiF.jpg"
+    },
+    {
+     "nombre": "Katie Sarife",
+     "foto": "https://image.tmdb.org/t/p/w185/oQLQZ58uvGgpdtCUpOcoiF5zYJW.jpg"
+    },
+    {
+     "nombre": "Michael Cimino",
+     "foto": "https://image.tmdb.org/t/p/w185/hixktl0ssobutw3csX3yQaEbRbA.jpg"
+    },
+    {
+     "nombre": "Samara Lee",
+     "foto": "https://image.tmdb.org/t/p/w185/c4TcMO3V0V4e0kqGktGTDAfj3W8.jpg"
+    },
+    {
+     "nombre": "Vera Farmiga",
+     "foto": "https://image.tmdb.org/t/p/w185/5Vs7huBmTKftwlsc2BPAntyaQYj.jpg"
+    }
+   ],
+   "trailer": "https://www.youtube.com/watch?v=bCxm7cTpBAs",
+   "temporadas_det": []
+  },
+  {
+   "id": "284",
+   "titulo": "Gran Torino",
+   "tipo": "p",
+   "plataforma": "hbo",
    "estado": "expiring",
    "fecha": "2026-11-30",
    "genero": "Drama",
    "generos": [
-    "Drama",
-    "Familia",
-    "Música"
+    "Drama"
    ],
-   "imdb": null,
+   "imdb": 8.0,
    "rt": null,
-   "duracion": "20 min",
-   "sinopsis": "",
-   "poster": "https://image.tmdb.org/t/p/w342/2OLqxhHOxGh3vbSmM1A1Ufiyd9V.jpg",
+   "duracion": "1 h 52 min",
+   "sinopsis": "Walt Kowalski, un veterano de la guerra de Corea, es un obrero jubilado del sector del automóvil. Su máxima pasión es cuidar de su más preciado tesoro: un coche Gran Torino de 1972. Es un hombre inflexible y con una voluntad de hierro, al que le cuesta trabajo asimilar los cambios que se producen a su alrededor. Sin embargo, las circustancias harán que se vea obligado a replantearse sus ideas.",
+   "poster": "https://image.tmdb.org/t/p/w342/7w54KRHdRokgXqxL59GKVau8e6l.jpg",
    "reparto": [
     {
-     "nombre": "Joy Hana Park",
-     "foto": null
+     "nombre": "Clint Eastwood",
+     "foto": "https://image.tmdb.org/t/p/w185/8TwdCfeOZH7ucRlfLZ6wObxa7cO.jpg"
     },
     {
-     "nombre": "Claire Bae",
-     "foto": null
+     "nombre": "Christopher Carley",
+     "foto": "https://image.tmdb.org/t/p/w185/3fhBW9Ev6Gc14FtUBPs6uKfRJaX.jpg"
     },
     {
-     "nombre": "Sook Hyung Yang",
-     "foto": "https://image.tmdb.org/t/p/w185/kgi3tQTkhGm4tWetnHAz7Zryxyw.jpg"
+     "nombre": "Bee Vang",
+     "foto": "https://image.tmdb.org/t/p/w185/jsuIB1gCwm0tPyhRsEocEqWO0XO.jpg"
     },
     {
-     "nombre": "Erin Choi",
-     "foto": "https://image.tmdb.org/t/p/w185/1aIGx5uHRr1upSEK2F6oQKNvoxC.jpg"
+     "nombre": "Ahney Her",
+     "foto": "https://image.tmdb.org/t/p/w185/qBdkZdoYUCmT5pdhfXSl8yHmZgD.jpg"
     },
     {
-     "nombre": "Chloe Jung",
-     "foto": null
+     "nombre": "Brian Haley",
+     "foto": "https://image.tmdb.org/t/p/w185/KoD3GS7jOHRpJjCVJt4XM9Dh30.jpg"
     },
     {
-     "nombre": "Shelby Lewis",
-     "foto": null
+     "nombre": "Geraldine Hughes",
+     "foto": "https://image.tmdb.org/t/p/w185/kBatdBpLl7h1vYnCOw6hRkjbspF.jpg"
     }
    ],
-   "trailer": null,
+   "trailer": "https://www.youtube.com/watch?v=F8zue_BzNsw",
    "temporadas_det": []
   },
   {
    "id": "2033",
    "titulo": "Polar Express",
    "tipo": "p",
-   "plataforma": "prime",
+   "plataforma": "hbo",
    "estado": "expiring",
    "fecha": "2026-11-30",
    "genero": "Aventura",
@@ -3441,99 +2565,72 @@
    "temporadas_det": []
   },
   {
-   "id": "10246192",
-   "titulo": "Carmina Burana: Dancing in Defiance",
-   "tipo": "p",
-   "plataforma": "prime",
+   "id": "40347",
+   "titulo": "Ghost Brothers: Lights Out",
+   "tipo": "s",
+   "plataforma": "hbo",
    "estado": "expiring",
    "fecha": "2026-11-30",
-   "genero": "Drama",
+   "genero": "Reality",
    "generos": [
-    "Drama",
-    "Música"
+    "Reality"
    ],
-   "imdb": null,
+   "imdb": 5.2,
    "rt": null,
-   "duracion": "1 h 12 min",
-   "sinopsis": "A live recording of Carl Orff's world-famous musical masterpiece Carmina Burana, performed by the more than 100 people of the National Opera and Ballet of Ukraine. With star soloists Alina Tkachuk, Bohdan Panchenko and Oleksandr Prokopovych in the leading roles, this promises to be an impressive performance.",
-   "poster": "https://image.tmdb.org/t/p/w342/ailyweqUPbpn8yFNRsbuSSYj815.jpg",
+   "duracion": "2 temporadas, 16 episodios",
+   "sinopsis": "A crew of ghost hunters travels across the United States, exploring local legends and paranormal hotspots in candid and unorthodox investigations.",
+   "poster": "https://image.tmdb.org/t/p/w342/jOVBzuV3HMyMVCopfT9bgNRhJ3e.jpg",
    "reparto": [
     {
-     "nombre": "Alina Tkachuck",
+     "nombre": "Dalen Spratt",
      "foto": null
     },
     {
-     "nombre": "Bohdan Panchenko",
+     "nombre": "Juwan Mass",
      "foto": null
     },
     {
-     "nombre": "Oleksandr Prokopovych",
-     "foto": null
-    },
-    {
-     "nombre": "Vladislav Goray",
-     "foto": null
-    },
-    {
-     "nombre": "Alexander Stryuk",
+     "nombre": "Marcus Harvey",
      "foto": null
     }
    ],
-   "trailer": null,
+   "trailer": "https://www.youtube.com/watch?v=ayLIfTYVoZc",
    "temporadas_det": []
   },
   {
-   "id": "2093428",
-   "titulo": "Trafficking",
-   "tipo": "p",
-   "plataforma": "prime",
+   "id": "39812",
+   "titulo": "We Bought a Funeral Home",
+   "tipo": "s",
+   "plataforma": "hbo",
    "estado": "expiring",
    "fecha": "2026-11-30",
-   "genero": "Crimen",
+   "genero": "Reality",
    "generos": [
-    "Crimen",
-    "Drama",
-    "Suspense"
+    "Reality"
    ],
-   "imdb": 4.3,
+   "imdb": 5.2,
    "rt": null,
-   "duracion": "1 h 36 min",
-   "sinopsis": "Un antiguo asesino a sueldo y cobrador de deudas venido a menos, conocido como Réquiem, rescata a una niña después de que sus padres sean asesinados por una banda internacional de traficantes de menores, lo que desencadena un violento juego del gato y el ratón.",
-   "poster": "https://image.tmdb.org/t/p/w342/sNabhIscYBSpw7M2qm8TK79jnKz.jpg",
+   "duracion": "1 temporada, 6 episodios",
+   "sinopsis": "From bats to a slew of haunting surprises, the Blumberg family transform an eerie 1800s Victorian funeral parlour into a weird and wonderful dream home, and it has them wondering if they're alone on this renovation adventure.",
+   "poster": "https://image.tmdb.org/t/p/w342/pbQWRckDL04RwqZxF5SMujcZDXi.jpg",
    "reparto": [
     {
-     "nombre": "Evie Hughes",
+     "nombre": "Heather Blumberg",
      "foto": null
     },
     {
-     "nombre": "Michael McKell",
-     "foto": "https://image.tmdb.org/t/p/w185/arVGxsidcKORTU0FEvT0qR8uxjN.jpg"
-    },
-    {
-     "nombre": "Nicholas Ball",
-     "foto": "https://image.tmdb.org/t/p/w185/8F2zPmK5gBhbJOEQpzgejoqGaFj.jpg"
-    },
-    {
-     "nombre": "Noel Brendan McAlley",
-     "foto": null
-    },
-    {
-     "nombre": "Steve Wraith",
-     "foto": null
-    },
-    {
-     "nombre": "Nina Cranstoun",
+     "nombre": "Arryn Blumberg",
      "foto": null
     }
    ],
-   "trailer": "https://www.youtube.com/watch?v=yu9mMfBPZzI",
+   "trailer": "https://www.youtube.com/watch?v=j3e3BTH7kIY",
    "temporadas_det": []
   },
   {
-   "id": "24861162",
-   "titulo": "Yo (Love Is a Rebellious Bird)",
+   "id": "6892237",
+   "titulo": "Sharkadelic Summer",
    "tipo": "p",
-   "plataforma": "prime",
+   "plataforma": "hbo",
    "estado": "expiring",
    "fecha": "2026-11-30",
    "genero": "Documental",
@@ -3542,12 +2639,56 @@
    ],
    "imdb": null,
    "rt": null,
-   "duracion": "1 h 18 min",
-   "sinopsis": "",
-   "poster": "https://image.tmdb.org/t/p/w342/cgOMG0geLkgDDtBY2LOq8bRPCy5.jpg",
+   "duracion": "44 min",
+   "sinopsis": "Snoop Dogg investigates ferocious great white sharks living around America.",
+   "poster": "https://image.tmdb.org/t/p/w342/vHBKKFArSRfapuuzHGL2fLNIo07.jpg",
+   "reparto": [],
+   "trailer": null,
+   "temporadas_det": []
+  },
+  {
+   "id": "42861",
+   "titulo": "Million Dollar Wheels",
+   "tipo": "s",
+   "plataforma": "hbo",
+   "estado": "expiring",
+   "fecha": "2026-11-30",
+   "genero": "Reality",
+   "generos": [
+    "Reality"
+   ],
+   "imdb": 4.8,
+   "rt": null,
+   "duracion": "1 temporada, 6 episodios",
+   "sinopsis": "What do Jeff Bezos, Jamie Foxx and the most baller orthodontist in Beverly Hills have in common? They're all DM'ing celebrity car dealer RD Whittington. This is a behind-the-scenes look at how he connects the ultra-rich with their million-dollar toys.",
+   "poster": "https://image.tmdb.org/t/p/w342/2kEwDDRh3ojDVFrylV5qZjcuIR2.jpg",
+   "reparto": [],
+   "trailer": "https://www.youtube.com/watch?v=xH6C6vu7Tdc",
+   "temporadas_det": []
+  },
+  {
+   "id": "387987",
+   "titulo": "Shark School with Michael Phelps",
+   "tipo": "p",
+   "plataforma": "hbo",
+   "estado": "expiring",
+   "fecha": "2026-11-30",
+   "genero": "Documental",
+   "generos": [
+    "Documental"
+   ],
+   "imdb": 3.5,
+   "rt": null,
+   "duracion": "42 min",
+   "sinopsis": "Michael Phelps travels to the Bimini Shark Lab to visit Shark Week veteran Doc Gruber and Dr. Tristan Gutteridge to learn everything shark. They dispel the myths and common misconceptions and also teach Michael how to safely dive with sharks.",
+   "poster": "https://image.tmdb.org/t/p/w342/sko60qNRGxN7A9FS2Lh8r4HS0Is.jpg",
    "reparto": [
     {
-     "nombre": "Yolanda Shea",
+     "nombre": "Michael Phelps",
+     "foto": "https://image.tmdb.org/t/p/w185/rS4HyEdM50My75JSJmRZcWVaurb.jpg"
+    },
+    {
+     "nombre": "Tristan Guttridge",
      "foto": null
     }
    ],
@@ -3555,141 +2696,535 @@
    "temporadas_det": []
   },
   {
-   "id": "8863725",
-   "titulo": "Invierno, primavera, verano, otoño",
+   "id": "6882434",
+   "titulo": "Dr. Pimple Popper Pops Shark Week",
    "tipo": "p",
-   "plataforma": "prime",
+   "plataforma": "hbo",
    "estado": "expiring",
    "fecha": "2026-11-30",
-   "genero": "Romance",
+   "genero": "Documental",
    "generos": [
-    "Romance",
-    "Drama"
-   ],
-   "imdb": 6.3,
-   "rt": null,
-   "duracion": "1 h 37 min",
-   "sinopsis": "Cuenta la historia de dos adolescentes que se conocen y se enamoran durante cuatro días al año.",
-   "poster": "https://image.tmdb.org/t/p/w342/forUEJ4mqQek2vBg3IwRgqXcyHk.jpg",
-   "reparto": [
-    {
-     "nombre": "Jenna Ortega",
-     "foto": "https://image.tmdb.org/t/p/w185/q1NRzyZQlYkxLY07GO9NVPkQnu8.jpg"
-    },
-    {
-     "nombre": "Percy Hynes White",
-     "foto": "https://image.tmdb.org/t/p/w185/de84y3MlgDBnEtZZ3f7RDkYQPYs.jpg"
-    },
-    {
-     "nombre": "Adam Rodriguez",
-     "foto": "https://image.tmdb.org/t/p/w185/qFSbLvyNPZK40hY9gZXJDvq0qVK.jpg"
-    },
-    {
-     "nombre": "Marisol Nichols",
-     "foto": "https://image.tmdb.org/t/p/w185/xgCZ4aebwqSACsL8SHbdEDNfdyC.jpg"
-    },
-    {
-     "nombre": "Elias Kacavas",
-     "foto": "https://image.tmdb.org/t/p/w185/4KzuVpFgp1MOzRBdOAfyIYS4blE.jpg"
-    },
-    {
-     "nombre": "Corynn Treadwell",
-     "foto": "https://image.tmdb.org/t/p/w185/xw08OTEGYZ5mvPJP9SIKdGKCJ6J.jpg"
-    }
-   ],
-   "trailer": "https://www.youtube.com/watch?v=84-KAOf4OPM",
-   "temporadas_det": []
-  },
-  {
-   "id": "89323",
-   "titulo": "La infeliz",
-   "tipo": "p",
-   "plataforma": "prime",
-   "estado": "expiring",
-   "fecha": "2026-11-30",
-   "genero": "Comedia",
-   "generos": [
-    "Comedia",
-    "Romance"
-   ],
-   "imdb": 5.6,
-   "rt": null,
-   "duracion": "1 h 34 min",
-   "sinopsis": "Leyla, una treintañera con el corazón roto y en el paro, decide reinventarse a sí misma y buscar la felicidad mientras su familia se empeña en buscarle novio.",
-   "poster": "https://image.tmdb.org/t/p/w342/gQk9VGygLyM4qk3KIF9tkTkEXSr.jpg",
-   "reparto": [
-    {
-     "nombre": "Maryam Hassouni",
-     "foto": "https://image.tmdb.org/t/p/w185/mPZoWGaLwO2iVOf3vx0DMC1TrbX.jpg"
-    },
-    {
-     "nombre": "Bilal Wahib",
-     "foto": "https://image.tmdb.org/t/p/w185/1bgsq5csGixBBwIuPaEvHrQ8Dix.jpg"
-    },
-    {
-     "nombre": "Jouman Fattal",
-     "foto": "https://image.tmdb.org/t/p/w185/vUoDfou68CvaD6ae84CMxeH9h2Z.jpg"
-    },
-    {
-     "nombre": "Nasrdin Dchar",
-     "foto": "https://image.tmdb.org/t/p/w185/jrmBAu6lFy8iEnAIMKJisgb4MKX.jpg"
-    },
-    {
-     "nombre": "Yasmin Karssing",
-     "foto": "https://image.tmdb.org/t/p/w185/8AkFRBHRTBh4oFNGMk03sCkgqUZ.jpg"
-    },
-    {
-     "nombre": "Vincent Banić",
-     "foto": "https://image.tmdb.org/t/p/w185/5yN9YdtdmvWMk4wrnJsDPWpWk98.jpg"
-    }
-   ],
-   "trailer": "https://www.youtube.com/watch?v=mn68KA5iMl4",
-   "temporadas_det": []
-  },
-  {
-   "id": "18823548",
-   "titulo": "The Room: A Tribute",
-   "tipo": "p",
-   "plataforma": "prime",
-   "estado": "expiring",
-   "fecha": "2026-11-30",
-   "genero": "Drama",
-   "generos": [
-    "Drama",
-    "Romance"
+    "Documental"
    ],
    "imdb": null,
    "rt": null,
-   "duracion": "1 h 05 min",
-   "sinopsis": "",
-   "poster": "https://image.tmdb.org/t/p/w342/epsWTP2zoY9KpJ7vgSgWiQQcn6N.jpg",
+   "duracion": "42 min",
+   "sinopsis": "Dr. Pimple Popper heads to Turks and Caicos with Dr. Austin Gallagher to explore the world of shark skin.",
+   "poster": "https://image.tmdb.org/t/p/w342/6Huh3im1A9cX5fbkYxgsP0gXlna.jpg",
    "reparto": [
     {
-     "nombre": "Bob Odenkirk",
-     "foto": "https://image.tmdb.org/t/p/w185/rF0Lb6SBhGSTvjRffmlKRSeI3jE.jpg"
+     "nombre": "Sandra Lee",
+     "foto": "https://image.tmdb.org/t/p/w185/liTVfvtdmStc5bn7EaXjo7vEK1N.jpg"
     },
     {
-     "nombre": "Brando Crawford",
-     "foto": "https://image.tmdb.org/t/p/w185/wpZK03Jyv9ZWNkxha97MKfgEMAs.jpg"
-    },
-    {
-     "nombre": "Bella Heathcote",
-     "foto": "https://image.tmdb.org/t/p/w185/ohysJ8CJTAi2Vp5qBkByn98LANi.jpg"
-    },
-    {
-     "nombre": "Cameron Kasky",
-     "foto": "https://image.tmdb.org/t/p/w185/aFRP3ak0NN3yFOthjrVIefm4rks.jpg"
-    },
-    {
-     "nombre": "Mike Flanagan",
-     "foto": "https://image.tmdb.org/t/p/w185/sjnAyb7un3eS7THLQQzJBzkv2Yo.jpg"
-    },
-    {
-     "nombre": "Kate Siegel",
-     "foto": "https://image.tmdb.org/t/p/w185/jJJGmVKvMFHMJEwyfiHgxXEFePO.jpg"
+     "nombre": "Austin Gallagher",
+     "foto": "https://image.tmdb.org/t/p/w185/pykapAS13p1YBEXqONWCuulGMbd.jpg"
     }
    ],
-   "trailer": "https://www.youtube.com/watch?v=NMKZ5e5h430",
+   "trailer": null,
+   "temporadas_det": []
+  },
+  {
+   "id": "300448",
+   "titulo": "Expedition Unknown: Shark Trek",
+   "tipo": "p",
+   "plataforma": "hbo",
+   "estado": "expiring",
+   "fecha": "2026-11-30",
+   "genero": "Documental",
+   "generos": [
+    "Documental",
+    "Película de TV"
+   ],
+   "imdb": null,
+   "rt": null,
+   "duracion": "42 min",
+   "sinopsis": "Josh Gates links up with his childhood hero, William Shatner, to boldly go where Shark Week has never gone before. The mission: enter shark-infested waters to understand the nature of fear and come face to face with an apex predator. This is Shark Trek.",
+   "poster": "https://image.tmdb.org/t/p/w342/2VEqlmaNokHP6udm2SquawVw2sy.jpg",
+   "reparto": [
+    {
+     "nombre": "Josh Gates",
+     "foto": "https://image.tmdb.org/t/p/w185/a3FCAPDaOWi5C7PEKXDvgzKfWbK.jpg"
+    },
+    {
+     "nombre": "William Shatner",
+     "foto": "https://image.tmdb.org/t/p/w185/8X9RuRmwOYQewfCvGg8zFZejC6U.jpg"
+    }
+   ],
+   "trailer": null,
+   "temporadas_det": []
+  },
+  {
+   "id": "102522",
+   "titulo": "Allanamiento de morada",
+   "tipo": "p",
+   "plataforma": "prime",
+   "estado": "new",
+   "fecha": "2026-11-27",
+   "genero": "Película de TV",
+   "generos": [
+    "Película de TV",
+    "Acción",
+    "Suspense"
+   ],
+   "imdb": 5.4,
+   "rt": null,
+   "duracion": "1 h 45 min",
+   "sinopsis": "Una mujer, asesina en defensa propia, a un hombre que entra a robar en su casa. Pero la novia del fallecido ansía venganza, de modo que se acerca a ella en el grupo de apoyo para víctimas de asaltos en el hogar.",
+   "poster": "https://image.tmdb.org/t/p/w342/464dHR5vrdTdc26L4RTtQKt9Pw6.jpg",
+   "reparto": [
+    {
+     "nombre": "Haylie Duff",
+     "foto": "https://image.tmdb.org/t/p/w185/ziRSxD0fugVY7Sy1Gx29HvkAKPZ.jpg"
+    },
+    {
+     "nombre": "Lisa Sheridan",
+     "foto": "https://image.tmdb.org/t/p/w185/wwIE675aMKv9ifBZXo2FDCClQy8.jpg"
+    },
+    {
+     "nombre": "Jason Brooks",
+     "foto": "https://image.tmdb.org/t/p/w185/56jMhjMsKDZWZmyQjwRKfe2jmLU.jpg"
+    },
+    {
+     "nombre": "C. Thomas Howell",
+     "foto": "https://image.tmdb.org/t/p/w185/739YbFWpAYyo9neHvBGThgmT4YH.jpg"
+    },
+    {
+     "nombre": "Barbara Niven",
+     "foto": "https://image.tmdb.org/t/p/w185/qRwCFXzAzna7viOOC4xjOCSu2Hy.jpg"
+    },
+    {
+     "nombre": "Al Sapienza",
+     "foto": "https://image.tmdb.org/t/p/w185/tqgr67aRg1OuuRhQFd8I3JduSRD.jpg"
+    }
+   ],
+   "trailer": "https://www.youtube.com/watch?v=mjV3LjqYzrw",
+   "temporadas_det": []
+  },
+  {
+   "id": "25488818",
+   "titulo": "Match",
+   "tipo": "p",
+   "plataforma": "prime",
+   "estado": "new",
+   "fecha": "2026-11-27",
+   "genero": "Drama",
+   "generos": [
+    "Drama"
+   ],
+   "imdb": null,
+   "rt": null,
+   "duracion": "",
+   "sinopsis": "",
+   "poster": "https://image.tmdb.org/t/p/w342/qfww3OjD7J5auGKcnB4WcQz2EPc.jpg",
+   "reparto": [
+    {
+     "nombre": "Rodrigo Soares",
+     "foto": "https://image.tmdb.org/t/p/w185/ssw2UTH8GZnbATgDJ2Bu71JC1dk.jpg"
+    },
+    {
+     "nombre": "Alexandra Lencastre",
+     "foto": "https://image.tmdb.org/t/p/w185/phRoh843zuXka6L9Oc1YFYD56h8.jpg"
+    },
+    {
+     "nombre": "Margarida Bakker",
+     "foto": "https://image.tmdb.org/t/p/w185/1ep57WpcfUIDzoHIuVAFLTYgZhr.jpg"
+    },
+    {
+     "nombre": "Paul S. Tracey",
+     "foto": "https://image.tmdb.org/t/p/w185/dzIAX2FLFKLZvFqf6DgFbH2T1aT.jpg"
+    },
+    {
+     "nombre": "Jacqueline Corado",
+     "foto": "https://image.tmdb.org/t/p/w185/155XFrieAu1g9Nipbe7FDruiTbN.jpg"
+    },
+    {
+     "nombre": "Guilherme Filipe",
+     "foto": "https://image.tmdb.org/t/p/w185/VGmneNCR4DubXbVKcKcm0gbzXV.jpg"
+    }
+   ],
+   "trailer": null,
+   "temporadas_det": []
+  },
+  {
+   "id": "72869",
+   "titulo": "Tokyo Revengers",
+   "tipo": "p",
+   "plataforma": "prime",
+   "estado": "new",
+   "fecha": "2026-11-27",
+   "genero": "Acción",
+   "generos": [
+    "Acción",
+    "Drama",
+    "Crimen"
+   ],
+   "imdb": 6.1,
+   "rt": null,
+   "duracion": "2 h 00 min",
+   "sinopsis": "Takemichi es un desempleado de 26 años que se entera que la chica con la que salía en la escuela media ha muerto. Pero sucede un accidente y regresa en el tiempo a sus años de escuela media. Él jura que cambiara el futuro y lograra salvar a la chica que era su novia, para lograrlo su objetivo es llegar a la cima de la región más violenta de bandas de delincuentes.",
+   "poster": "https://image.tmdb.org/t/p/w342/q8Q2VBt3rP0cSG3hNerIQuogLAH.jpg",
+   "reparto": [
+    {
+     "nombre": "Takumi Kitamura",
+     "foto": "https://image.tmdb.org/t/p/w185/hBt2HLj6khCESyaRl7ga8ifilsV.jpg"
+    },
+    {
+     "nombre": "吉沢亮",
+     "foto": "https://image.tmdb.org/t/p/w185/1FJI3Vw8rsTxG03ZObbTAvn380a.jpg"
+    },
+    {
+     "nombre": "山田裕貴",
+     "foto": "https://image.tmdb.org/t/p/w185/1oRe8UYddBYzyqAjlSwMTIFgg4K.jpg"
+    },
+    {
+     "nombre": "杉野遥亮",
+     "foto": "https://image.tmdb.org/t/p/w185/7b6Dapc0qX06oNnQe9pE5Vz67ir.jpg"
+    },
+    {
+     "nombre": "Mio Imada",
+     "foto": "https://image.tmdb.org/t/p/w185/1RiNJI6v9rBvATZ59m0CAZCFOpI.jpg"
+    },
+    {
+     "nombre": "磯村勇斗",
+     "foto": "https://image.tmdb.org/t/p/w185/iK0x2LJDgz07ebDf2fwFaw4D7qz.jpg"
+    }
+   ],
+   "trailer": "https://www.youtube.com/watch?v=XQ_kw5-TQbc",
+   "temporadas_det": []
+  },
+  {
+   "id": "237551",
+   "titulo": "Macabre",
+   "tipo": "p",
+   "plataforma": "prime",
+   "estado": "new",
+   "fecha": "2026-11-27",
+   "genero": "Terror",
+   "generos": [
+    "Terror",
+    "Misterio",
+    "Animación"
+   ],
+   "imdb": 5.5,
+   "rt": null,
+   "duracion": "20 min",
+   "sinopsis": "",
+   "poster": "https://image.tmdb.org/t/p/w342/k5ZbT1HyL0LUN4lEbXo8oRW0ZFc.jpg",
+   "reparto": [],
+   "trailer": "https://www.youtube.com/watch?v=IC7vit8qh_g",
+   "temporadas_det": []
+  },
+  {
+   "id": "24861378",
+   "titulo": "Taxi moto",
+   "tipo": "p",
+   "plataforma": "prime",
+   "estado": "new",
+   "fecha": "2026-11-27",
+   "genero": "Drama",
+   "generos": [
+    "Drama"
+   ],
+   "imdb": null,
+   "rt": null,
+   "duracion": "21 min",
+   "sinopsis": "In this sensual, canopied romance from director Gaël Kamilindi, a gibbous moon illuminates stolen moments of cocooned togetherness. Shot on film that shivers with the chemistry between costars Kamilindi and Erwan Kepoa Falé, Taxi Moto suspends a chrysalis of intimacy between Paris and the tropics.",
+   "poster": "https://image.tmdb.org/t/p/w342/yvtK6vx29fFTTiNE41GwrFrxLuY.jpg",
+   "reparto": [
+    {
+     "nombre": "Gaël Kamilindi",
+     "foto": "https://image.tmdb.org/t/p/w185/zqICs8gyWWcfF3o8Ft199l7n2s8.jpg"
+    },
+    {
+     "nombre": "Erwan Kepoa Falé",
+     "foto": "https://image.tmdb.org/t/p/w185/a1ViK4jBlxtlB4Vzf15Uz5ZnoRL.jpg"
+    }
+   ],
+   "trailer": null,
+   "temporadas_det": []
+  },
+  {
+   "id": "20259732",
+   "titulo": "La espera",
+   "tipo": "p",
+   "plataforma": "prime",
+   "estado": "new",
+   "fecha": "2026-11-27",
+   "genero": "",
+   "generos": [],
+   "imdb": null,
+   "rt": null,
+   "duracion": "13 min",
+   "sinopsis": "",
+   "poster": "https://image.tmdb.org/t/p/w342/9XWnXQjRYRreFnOsI61v02yhTKV.jpg",
+   "reparto": [
+    {
+     "nombre": "Karmen Rebecca Rosa Encarnación",
+     "foto": null
+    },
+    {
+     "nombre": "Ricardo Andre Lugo",
+     "foto": null
+    },
+    {
+     "nombre": "Gerardo Ortiz",
+     "foto": null
+    },
+    {
+     "nombre": "Heyda Salamán",
+     "foto": "https://image.tmdb.org/t/p/w185/8ZMV6w5VUnoNTzwUA7nczoD0cao.jpg"
+    },
+    {
+     "nombre": "Ángel Manuel García",
+     "foto": null
+    }
+   ],
+   "trailer": null,
+   "temporadas_det": []
+  },
+  {
+   "id": "19882379",
+   "titulo": "残次品·放逐星空",
+   "tipo": "s",
+   "plataforma": "prime",
+   "estado": "new",
+   "fecha": "2026-11-27",
+   "genero": "Animación",
+   "generos": [
+    "Animación",
+    "Ciencia ficción",
+    "Fantasía"
+   ],
+   "imdb": null,
+   "rt": null,
+   "duracion": "1 temporada, 16 episodios",
+   "sinopsis": "A futuristic society is ruled by the Eden System, a mind-link technology aid that removes pain and worry. However, those incapable of being integrated into its system are outcast to the eighth galaxy. Alliance General Lin Jingheng and young Lu Bixing couldn't be more different, but find themselves united by a common cause: leading the \"defectives\" in fighting against this unjust world.",
+   "poster": "https://image.tmdb.org/t/p/w342/8fjcGbFhvVtm0ZQDVztTHo3yFU1.jpg",
+   "reparto": [
+    {
+     "nombre": "沈磊",
+     "foto": "https://image.tmdb.org/t/p/w185/sZplvI3vJ2drydzRS2ZCD71BEBU.jpg"
+    },
+    {
+     "nombre": "梁达伟",
+     "foto": "https://image.tmdb.org/t/p/w185/yNXWQKc8K5JJlmsSs1pMhjjAhzj.jpg"
+    },
+    {
+     "nombre": "唐雅菁",
+     "foto": "https://image.tmdb.org/t/p/w185/1woRUHdnQLzpIeHsDQsgBfs4WRU.jpg"
+    }
+   ],
+   "trailer": null,
+   "temporadas_det": [
+    {
+     "n": 1,
+     "eps": [
+      {
+       "n": 1,
+       "t": "Episodio 1",
+       "f": "2021-07-30"
+      },
+      {
+       "n": 2,
+       "t": "Episodio 2",
+       "f": "2021-07-30"
+      },
+      {
+       "n": 3,
+       "t": "Episodio 3",
+       "f": "2021-08-06"
+      },
+      {
+       "n": 4,
+       "t": "Episodio 4",
+       "f": "2021-08-13"
+      },
+      {
+       "n": 5,
+       "t": "Episodio 5",
+       "f": "2021-08-20"
+      },
+      {
+       "n": 6,
+       "t": "Episodio 6",
+       "f": "2021-08-27"
+      },
+      {
+       "n": 7,
+       "t": "Episodio 7",
+       "f": "2021-09-03"
+      },
+      {
+       "n": 8,
+       "t": "Episodio 8",
+       "f": "2021-09-10"
+      },
+      {
+       "n": 9,
+       "t": "Episodio 9",
+       "f": "2021-09-17"
+      },
+      {
+       "n": 10,
+       "t": "Episodio 10",
+       "f": "2021-09-24"
+      },
+      {
+       "n": 11,
+       "t": "Episodio 11",
+       "f": "2021-10-01"
+      },
+      {
+       "n": 12,
+       "t": "Episodio 12",
+       "f": "2021-10-08"
+      },
+      {
+       "n": 13,
+       "t": "Episodio 13",
+       "f": "2021-10-15"
+      },
+      {
+       "n": 14,
+       "t": "Episodio 14",
+       "f": "2021-10-22"
+      },
+      {
+       "n": 15,
+       "t": "Episodio 15",
+       "f": "2021-10-29"
+      },
+      {
+       "n": 16,
+       "t": "Episodio 16",
+       "f": "2021-11-05"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "22504",
+   "titulo": "07-Ghost",
+   "tipo": "s",
+   "plataforma": "prime",
+   "estado": "new",
+   "fecha": "2026-11-27",
+   "genero": "Animación",
+   "generos": [
+    "Animación",
+    "Drama",
+    "Ciencia ficción",
+    "Fantasía"
+   ],
+   "imdb": 5.4,
+   "rt": null,
+   "duracion": "1 temporada, 25 episodios",
+   "sinopsis": "Cuenta la historia de Teito Klein, un huérfano y ex-esclavo que se convirtió en el mejor estudiante de la academia militar del Imperio de Barsburg debido a su manejo con el Zaiphon, un tipo de poder sobrenatural. Esta habilidad es muy rara de ver, por lo tanto es muy apreciada. Teito está amnésico, y sólo mediante unos sueños que tiene, puede averiguar algo de su pasado.\n\nDespués de estar un año en la academia, Teito tiene que hacer el examen de graduación, el cual aprueban 1 de cada 25 alumnos. La noche anterior al examen Teito y su mejor amigo Mikage, juran que siempre se ayudarán el uno al otro. Ambos logran aprobar el examen. Al día siguiente, Teito entrega unos documentos a un profesor cuando escucha a un hombre llamado Ayanami, aquel que mató a su padre en sus sueños. Teito trata de atacarlo, pero rápidamente es derribado por uno de los subordinados de Ayanami y enviado a prisión. Mikage viene a ayudarle a escapar, sólo para encontrar que Teito ha logrado combatir a los guardias por sí mismo. Los dos intentan huir del edificio, pero son acorralados en un balcón.",
+   "poster": "https://image.tmdb.org/t/p/w342/v4pW812Jpqpf3Ih5gYGCu51kdDl.jpg",
+   "reparto": [
+    {
+     "nombre": "Show Hayami",
+     "foto": "https://image.tmdb.org/t/p/w185/HU9LZJdb4H8coHiSaHiUprcFm1.jpg"
+    },
+    {
+     "nombre": "Susumu Chiba",
+     "foto": "https://image.tmdb.org/t/p/w185/3nUZrr5ghmqGxBgEfgX0wVMeUnN.jpg"
+    },
+    {
+     "nombre": "Junichi Suwabe",
+     "foto": "https://image.tmdb.org/t/p/w185/4S7c3n3r07A83HvkLrnWZGVhiHg.jpg"
+    },
+    {
+     "nombre": "Mitsuki Saiga",
+     "foto": "https://image.tmdb.org/t/p/w185/qjRHodCBpKY8nEa4p8dZriDoil4.jpg"
+    },
+    {
+     "nombre": "Kouki Miyata",
+     "foto": "https://image.tmdb.org/t/p/w185/cXPP0lVnfztFekBMxuY53URMHWn.jpg"
+    },
+    {
+     "nombre": "Hiroki Takahashi",
+     "foto": "https://image.tmdb.org/t/p/w185/lFwGUkR5Lj09FVz7s0xwFgQgeRi.jpg"
+    }
+   ],
+   "trailer": "https://www.youtube.com/watch?v=vRjlJDDfhJI",
+   "temporadas_det": []
+  },
+  {
+   "id": "204751",
+   "titulo": "Trondheimsreisen",
+   "tipo": "p",
+   "plataforma": "prime",
+   "estado": "new",
+   "fecha": "2026-11-27",
+   "genero": "Documental",
+   "generos": [
+    "Documental"
+   ],
+   "imdb": 4.7,
+   "rt": null,
+   "duracion": "1 h 20 min",
+   "sinopsis": "",
+   "poster": "https://image.tmdb.org/t/p/w342/ch5TpOxDWzAdr4lWBCDUhVH9mQ2.jpg",
+   "reparto": [
+    {
+     "nombre": "Liv Ullmann",
+     "foto": "https://image.tmdb.org/t/p/w185/7IJimLbXIOYpLAS4UaHcNYWRsJe.jpg"
+    },
+    {
+     "nombre": "Anne Krigsvoll",
+     "foto": "https://image.tmdb.org/t/p/w185/kRPOfNy7kMlz9keTFtAha5yacsx.jpg"
+    },
+    {
+     "nombre": "Hallbjørn Rønning",
+     "foto": "https://image.tmdb.org/t/p/w185/gt3FEErhC900LWZ5zWkBcXdULaC.jpg"
+    },
+    {
+     "nombre": "Ulf Risnes",
+     "foto": "https://image.tmdb.org/t/p/w185/hUrJBvOwSK2EiTjpjyJyuHC5Gv3.jpg"
+    },
+    {
+     "nombre": "Odd Reitan",
+     "foto": "https://image.tmdb.org/t/p/w185/rFTQhS3prhsbKyA2xyhB1rrRWb0.jpg"
+    },
+    {
+     "nombre": "Håkon Bleken",
+     "foto": "https://image.tmdb.org/t/p/w185/lv1vz0rYNBbWaf36OZmDqPd4Tu8.jpg"
+    }
+   ],
+   "trailer": "https://www.youtube.com/watch?v=uU3TYG5kDs8",
+   "temporadas_det": []
+  },
+  {
+   "id": "27775451",
+   "titulo": "The Zoo",
+   "tipo": "s",
+   "plataforma": "prime",
+   "estado": "new",
+   "fecha": "2026-11-27",
+   "genero": "Documental",
+   "generos": [
+    "Documental",
+    "Reality"
+   ],
+   "imdb": null,
+   "rt": null,
+   "duracion": "9 temporadas, 82 episodios",
+   "sinopsis": "",
+   "poster": "https://image.tmdb.org/t/p/w342/p8FQePTSJRWN8X5dA6Zl2kaAsF5.jpg",
+   "reparto": [
+    {
+     "nombre": "Gerry Creighton",
+     "foto": null
+    },
+    {
+     "nombre": "Brendan Walsh",
+     "foto": null
+    }
+   ],
+   "trailer": null,
    "temporadas_det": []
   },
   {
@@ -3749,7 +3284,7 @@
     "Comedia",
     "Drama"
    ],
-   "imdb": 5.1,
+   "imdb": 5.3,
    "rt": null,
    "duracion": "1 h 33 min",
    "sinopsis": "Two lifelong besties who’ve hit rock bottom devise a plan to live rent free for a year drifting through a gentrified Austin and an indifferent world.",
@@ -3912,7 +3447,7 @@
     "Documental",
     "Historia"
    ],
-   "imdb": 6.2,
+   "imdb": 6.1,
    "rt": null,
    "duracion": "1 h 12 min",
    "sinopsis": "Documental sobre los atentados de 1999 contra la comunidad negra, bangladesí y gay de Londres y la frenética búsqueda del culpable, un extremista de ultraderecha.",
@@ -3955,9 +3490,9 @@
     "Película de TV",
     "Drama"
    ],
-   "imdb": 4.5,
+   "imdb": null,
    "rt": null,
-   "duracion": "",
+   "duracion": "1 h 31 min",
    "sinopsis": "Camille ha desaparecido y nadie sabe qué ha pasado. ¿Ha sido un crimen, un suicidio, o se ha ido por su propia voluntad? Las declaraciones de quienes la conocieron son muy diferentes y crean un enigma sobre esta mujer casada y madre de dos niñas.",
    "poster": "https://image.tmdb.org/t/p/w342/qnGA6Tno3obsYDWJUqqFg1Yk325.jpg",
    "reparto": [
@@ -5419,10 +4954,10 @@
     "Misterio",
     "Drama"
    ],
-   "imdb": 3.8,
+   "imdb": null,
    "rt": null,
    "duracion": "1 temporada, 24 episodios",
-   "sinopsis": "",
+   "sinopsis": "O What happens when you are the \"new hire\" in a world as competitive as tv news? \"Ultima Hora\" newscast will give a lot to talk about and to laugh about. Erika will face new challenges leaving her colleagues amazed and furious; while the envious will claim they deserve the position and will not give up until they get it.",
    "poster": "https://image.tmdb.org/t/p/w342/hf9GtGLTl8fuy0EQKpTF8dogDaN.jpg",
    "reparto": [
     {
@@ -8889,206 +8424,2634 @@
    "temporadas_det": []
   },
   {
-   "id": "27718982",
-   "titulo": "Finally",
+   "id": "4013",
+   "titulo": "West Side Story (Amor sin barreras)",
    "tipo": "p",
-   "plataforma": "disney",
+   "plataforma": "prime",
    "estado": "new",
-   "fecha": "2026-11-27",
-   "genero": "Comedia",
+   "fecha": "2026-11-28",
+   "genero": "Crimen",
    "generos": [
-    "Comedia"
+    "Crimen",
+    "Drama",
+    "Romance"
+   ],
+   "imdb": 7.5,
+   "rt": null,
+   "duracion": "2 h 32 min",
+   "sinopsis": "En el barrio West Side de Nueva York, un barrio marginal, se disputan la hegemonía dos bandas callejeras: los Sharks portorriqueños y los Jets de europeos. El jefe de los primeros es Bernardo, que vive con su hermana María, quien acaba de llegar a Nueva York. Una noche, en un baile, coinciden los dos grupos y se desencadena una violenta pelea.",
+   "poster": "https://image.tmdb.org/t/p/w342/AejrmDDmafBvaOLXWNct9fbJnZt.jpg",
+   "reparto": [
+    {
+     "nombre": "Natalie Wood",
+     "foto": "https://image.tmdb.org/t/p/w185/6me9oS7GV1VjejWV61XD6y7fVA1.jpg"
+    },
+    {
+     "nombre": "Richard Beymer",
+     "foto": "https://image.tmdb.org/t/p/w185/q0RQwBRnBFonTgXXDyE7I8MgucV.jpg"
+    },
+    {
+     "nombre": "Russ Tamblyn",
+     "foto": "https://image.tmdb.org/t/p/w185/yNy2xvNTGVvFxIQthtxA5md6HDN.jpg"
+    },
+    {
+     "nombre": "Rita Moreno",
+     "foto": "https://image.tmdb.org/t/p/w185/zB0M77jr7tmsmWHEr2bWO2Xq66L.jpg"
+    },
+    {
+     "nombre": "George Chakiris",
+     "foto": "https://image.tmdb.org/t/p/w185/kbKFinrEuyRFUif5izPffYiU6yB.jpg"
+    },
+    {
+     "nombre": "Simon Oakland",
+     "foto": "https://image.tmdb.org/t/p/w185/wDytzjcJNp1P39mZ1hcRb8mcvvl.jpg"
+    }
+   ],
+   "trailer": "https://www.youtube.com/watch?v=HpKbrpPiExA",
+   "temporadas_det": []
+  },
+  {
+   "id": "27719449",
+   "titulo": "Amor",
+   "tipo": "p",
+   "plataforma": "prime",
+   "estado": "new",
+   "fecha": "2026-11-28",
+   "genero": "Terror",
+   "generos": [
+    "Terror",
+    "Romance",
+    "Misterio"
    ],
    "imdb": null,
    "rt": null,
-   "duracion": "45 min",
+   "duracion": "",
    "sinopsis": "",
-   "poster": "https://image.tmdb.org/t/p/w342/ahQKkfWgg4mJv9hIZIdC4cXObSA.jpg",
+   "poster": "https://image.tmdb.org/t/p/w342/uUDYKV0aSSVOragpXvWzqLoR9fj.jpg",
    "reparto": [
     {
-     "nombre": "Bobby Lee",
-     "foto": "https://image.tmdb.org/t/p/w185/90TyhVb7OfyHPmj3ZVX6hEjHGlD.jpg"
+     "nombre": "Rafael Luz",
+     "foto": "https://image.tmdb.org/t/p/w185/9X9adM82iujTsMMnHszyz7CWpTV.jpg"
+    },
+    {
+     "nombre": "Caetana Simas",
+     "foto": "https://image.tmdb.org/t/p/w185/6rPcMI3T5i7F0QSgsPFpetG4Hp8.jpg"
+    },
+    {
+     "nombre": "Lourenço Gonçalves",
+     "foto": "https://image.tmdb.org/t/p/w185/6jJsqMY6u0PguMwcdP8SF6QFO9o.jpg"
+    },
+    {
+     "nombre": "Leonor Pinto",
+     "foto": "https://image.tmdb.org/t/p/w185/9fI3KSzRmeQ5wNCiZn4znwgUMd5.jpg"
+    },
+    {
+     "nombre": "Rita Clemente",
+     "foto": "https://image.tmdb.org/t/p/w185/bhBxtxXy70TEL3lJAqnJ2mRlgQu.jpg"
+    },
+    {
+     "nombre": "Lourenço Seruya",
+     "foto": "https://image.tmdb.org/t/p/w185/2oqpo5Rj0j6Nx7X9U6vv6gY1koy.jpg"
     }
    ],
    "trailer": null,
    "temporadas_det": []
   },
   {
-   "id": "27306237",
-   "titulo": "Mickey: Solo en casa",
-   "tipo": "p",
-   "plataforma": "disney",
-   "estado": "new",
-   "fecha": "2026-11-27",
-   "genero": "Animación",
-   "generos": [
-    "Animación",
-    "Familia",
-    "Película de TV",
-    "Comedia"
-   ],
-   "imdb": null,
-   "rt": null,
-   "duracion": "30 min",
-   "sinopsis": "Cuando la pandilla se deja en casa sin querer a Mickey y Pluto por Navidad, la pareja debe proteger su cena de Nochebuena de unos peludos ladrones. Mientras, Minnie y sus amigos vuelven corriendo a casa.",
-   "poster": "https://image.tmdb.org/t/p/w342/yBPfZmi3Ou38aiZUxyzhPfhiquR.jpg",
-   "reparto": [
-    {
-     "nombre": "Bret Iwan",
-     "foto": "https://image.tmdb.org/t/p/w185/14m82iewt4tDjaaOmsYWMr6TKQ8.jpg"
-    },
-    {
-     "nombre": "Kaitlyn Robrock",
-     "foto": "https://image.tmdb.org/t/p/w185/1joOQrgyU9ap9W1cvimh01XmKcO.jpg"
-    },
-    {
-     "nombre": "Tony Anselmo",
-     "foto": "https://image.tmdb.org/t/p/w185/8ocCq9OxVg7A0g7hf7EqeT0QenX.jpg"
-    },
-    {
-     "nombre": "Tress MacNeille",
-     "foto": "https://image.tmdb.org/t/p/w185/6JNNnG2hbGVtkf6AtVXEhrV1wsr.jpg"
-    },
-    {
-     "nombre": "Bill Farmer",
-     "foto": "https://image.tmdb.org/t/p/w185/lhezx68R12s5Bsv7d77BrQb7tWA.jpg"
-    },
-    {
-     "nombre": "April Winchell",
-     "foto": "https://image.tmdb.org/t/p/w185/twx3xkmvRAuHHJp3xUd1sbxTZRS.jpg"
-    }
-   ],
-   "trailer": "https://www.youtube.com/watch?v=EtAQ-tzZI4E",
-   "temporadas_det": []
-  },
-  {
-   "id": "27774614",
-   "titulo": "Fantasymphony II - A Concert of Fire and Magic",
-   "tipo": "p",
+   "id": "27792850",
+   "titulo": "Shark Week",
+   "tipo": "s",
    "plataforma": "prime",
    "estado": "new",
-   "fecha": "2026-11-27",
-   "genero": "Música",
+   "fecha": "2026-11-28",
+   "genero": "Documental",
    "generos": [
-    "Música"
-   ],
-   "imdb": null,
-   "rt": null,
-   "duracion": "1 h 37 min",
-   "sinopsis": "Déjese llevar por la Orquesta Sinfónica de la República Dominicana y Jakob Stegelmann al oscuro y mágico mundo de la fantasía y experimente la magnífica música de, por ejemplo, El Señor de los Anillos, Juego de Tronos, Harry Potter y la Materia Oscura.",
-   "poster": "https://image.tmdb.org/t/p/w342/5bhDrRFl9GTIzxhNr8bSy4QewmJ.jpg",
-   "reparto": [
-    {
-     "nombre": "David Bateson",
-     "foto": "https://image.tmdb.org/t/p/w185/yCsSBDBFBu80qYrsFM38ctznItG.jpg"
-    },
-    {
-     "nombre": "Jakob Stegelmann",
-     "foto": "https://image.tmdb.org/t/p/w185/v0GCl47KXqL6TGdzWvxDHBtLopd.jpg"
-    },
-    {
-     "nombre": "Christian Schumann",
-     "foto": null
-    },
-    {
-     "nombre": "Tuva Semmingsen",
-     "foto": "https://image.tmdb.org/t/p/w185/xpzv7kGL3s6FOvO2649msj1bBzm.jpg"
-    }
-   ],
-   "trailer": "https://www.youtube.com/watch?v=cocOe7KQb74",
-   "temporadas_det": []
-  },
-  {
-   "id": "26635717",
-   "titulo": "Rammstein: Live in Mexico City",
-   "tipo": "p",
-   "plataforma": "prime",
-   "estado": "new",
-   "fecha": "2026-11-27",
-   "genero": "Música",
-   "generos": [
-    "Música",
     "Documental"
    ],
    "imdb": null,
    "rt": null,
-   "duracion": "2 h 22 min",
-   "sinopsis": "Una recopilación de tres noches que recoge sus espectaculares conciertos de octubre de 2022 en el Estadio Foro Sol de Ciudad de México, durante la gira «Stadium Tour». Este concierto en directo se ha convertido en el más multitudinario y el más largo de toda la carrera de la banda.",
-   "poster": "https://image.tmdb.org/t/p/w342/tdYH51KRnzip4Z4XHruqbOzsBo5.jpg",
+   "duracion": "39 temporadas, 459 episodios",
+   "sinopsis": "",
+   "poster": "https://image.tmdb.org/t/p/w342/mvFyMXZwoHKUfnXyAQNrolGvePv.jpg",
    "reparto": [
     {
-     "nombre": "Till Lindemann",
-     "foto": "https://image.tmdb.org/t/p/w185/nQyZXVx3kfFjK5uf6pvsq3CtIVC.jpg"
+     "nombre": "Josh Gates",
+     "foto": null
     },
     {
-     "nombre": "Richard Kruspe",
-     "foto": "https://image.tmdb.org/t/p/w185/uXk9mjgb4mqCoGWXQPX4cIm1Dq4.jpg"
+     "nombre": "Eli Roth",
+     "foto": null
     },
     {
-     "nombre": "Christoph Schneider",
-     "foto": "https://image.tmdb.org/t/p/w185/vo4BBEO4SbaaPBSv199oXAWid8Y.jpg"
+     "nombre": "Shaquille O'Neal",
+     "foto": null
     },
     {
-     "nombre": "Paul Landers",
-     "foto": "https://image.tmdb.org/t/p/w185/hSgkxg65eAVEWauIjbImY6CKwqL.jpg"
+     "nombre": "Josh Wolf",
+     "foto": null
     },
     {
-     "nombre": "Oliver Riedel",
-     "foto": "https://image.tmdb.org/t/p/w185/8vLuztIqxATiJLdTeD2WXmjN4tU.jpg"
+     "nombre": "Dwayne Johnson",
+     "foto": null
     },
     {
-     "nombre": "Christian Lorenz",
-     "foto": "https://image.tmdb.org/t/p/w185/eVFwuhuOg2bejR5RLEqZb8aM9WR.jpg"
+     "nombre": "Rob Riggle",
+     "foto": null
     }
    ],
-   "trailer": null,
-   "temporadas_det": []
-  },
-  {
-   "id": "24601845",
-   "titulo": "7 كلاب",
-   "tipo": "p",
-   "plataforma": "netflix",
-   "estado": "new",
-   "fecha": "2026-11-27",
-   "genero": "Acción",
-   "generos": [
-    "Acción",
-    "Comedia"
-   ],
-   "imdb": 5.6,
-   "rt": null,
-   "duracion": "2 h 03 min",
-   "sinopsis": "When a notorious crime syndicate unleashes a dangerous new drug, an Interpol agent forms a risky alliance with a former member to bring down the gang.",
-   "poster": "https://image.tmdb.org/t/p/w342/sqtFKaktHBb52pR3jygsjDAPJ1o.jpg",
-   "reparto": [
+   "trailer": "https://www.youtube.com/watch?v=kiyy-QLno3M",
+   "temporadas_det": [
     {
-     "nombre": "Ahmed Ezz",
-     "foto": "https://image.tmdb.org/t/p/w185/mgQhox7AbzVsQ8xeTZvkK5Gvkd4.jpg"
+     "n": 1,
+     "eps": [
+      {
+       "n": 1,
+       "t": "Episodio 1",
+       "f": "1988-07-17"
+      },
+      {
+       "n": 2,
+       "t": "Episodio 2",
+       "f": "1988-07-18"
+      },
+      {
+       "n": 3,
+       "t": "Episodio 3",
+       "f": "1988-07-19"
+      },
+      {
+       "n": 4,
+       "t": "Episodio 4",
+       "f": "1988-07-20"
+      }
+     ]
     },
     {
-     "nombre": "Karim Abdel Aziz",
-     "foto": "https://image.tmdb.org/t/p/w185/2BOyYiFfU1nCPjehs2RCCTmXIxu.jpg"
+     "n": 2,
+     "eps": [
+      {
+       "n": 1,
+       "t": "Episodio 1",
+       "f": "1989-01-01"
+      },
+      {
+       "n": 2,
+       "t": "Episodio 2",
+       "f": "1989-01-08"
+      },
+      {
+       "n": 3,
+       "t": "Episodio 3",
+       "f": "1989-01-15"
+      }
+     ]
     },
     {
-     "nombre": "Monica Bellucci",
-     "foto": "https://image.tmdb.org/t/p/w185/7g3k3u2gZpE7XU8GRYwHDuN1jlM.jpg"
+     "n": 3,
+     "eps": [
+      {
+       "n": 1,
+       "t": "Episodio 1",
+       "f": "1990-01-01"
+      },
+      {
+       "n": 2,
+       "t": "Episodio 2",
+       "f": "1990-01-08"
+      }
+     ]
     },
     {
-     "nombre": "ناصر القصبي",
-     "foto": "https://image.tmdb.org/t/p/w185/hNo0lzvLp323QjomlcS3Dw6rSbA.jpg"
+     "n": 4,
+     "eps": [
+      {
+       "n": 1,
+       "t": "Episodio 1",
+       "f": "1991-01-01"
+      },
+      {
+       "n": 2,
+       "t": "Episodio 2",
+       "f": "1991-01-08"
+      },
+      {
+       "n": 3,
+       "t": "Episodio 3",
+       "f": "1991-01-15"
+      }
+     ]
     },
     {
-     "nombre": "Sayed Ragab",
-     "foto": "https://image.tmdb.org/t/p/w185/r6zPbQX4Rj4Y1ynk5Ym4kfdYBpq.jpg"
+     "n": 5,
+     "eps": [
+      {
+       "n": 1,
+       "t": "Episodio 1",
+       "f": "1992-07-12"
+      },
+      {
+       "n": 2,
+       "t": "Episodio 2",
+       "f": "1992-07-13"
+      },
+      {
+       "n": 3,
+       "t": "Episodio 3",
+       "f": "1992-07-14"
+      },
+      {
+       "n": 4,
+       "t": "Episodio 4",
+       "f": "1992-07-15"
+      },
+      {
+       "n": 5,
+       "t": "Episodio 5",
+       "f": "1992-07-16"
+      },
+      {
+       "n": 6,
+       "t": "Episodio 6",
+       "f": "1992-07-19"
+      }
+     ]
     },
     {
-     "nombre": "تارا عماد",
-     "foto": "https://image.tmdb.org/t/p/w185/oNS3ui8NT6VWPIDERi2igvN82Tf.jpg"
+     "n": 6,
+     "eps": [
+      {
+       "n": 1,
+       "t": "Episodio 1",
+       "f": "1993-01-01"
+      },
+      {
+       "n": 2,
+       "t": "Episodio 2",
+       "f": "1993-01-08"
+      },
+      {
+       "n": 3,
+       "t": "Episodio 3",
+       "f": "1993-01-15"
+      },
+      {
+       "n": 4,
+       "t": "Episodio 4",
+       "f": "1993-01-22"
+      },
+      {
+       "n": 5,
+       "t": "Episodio 5",
+       "f": "1993-01-29"
+      }
+     ]
+    },
+    {
+     "n": 7,
+     "eps": [
+      {
+       "n": 1,
+       "t": "Episodio 1",
+       "f": "1994-07-31"
+      },
+      {
+       "n": 2,
+       "t": "Episodio 2",
+       "f": "1994-07-31"
+      },
+      {
+       "n": 3,
+       "t": "Episodio 3",
+       "f": "1994-08-01"
+      },
+      {
+       "n": 4,
+       "t": "Episodio 4",
+       "f": "1994-08-01"
+      },
+      {
+       "n": 5,
+       "t": "Episodio 5",
+       "f": "1994-08-02"
+      },
+      {
+       "n": 6,
+       "t": "Episodio 6",
+       "f": "1994-08-03"
+      },
+      {
+       "n": 7,
+       "t": "Episodio 7",
+       "f": "1994-08-04"
+      },
+      {
+       "n": 8,
+       "t": "Episodio 8",
+       "f": "1994-08-05"
+      },
+      {
+       "n": 9,
+       "t": "Episodio 9",
+       "f": "1994-08-06"
+      }
+     ]
+    },
+    {
+     "n": 8,
+     "eps": [
+      {
+       "n": 1,
+       "t": "Episodio 1",
+       "f": "1995-01-01"
+      },
+      {
+       "n": 2,
+       "t": "Episodio 2",
+       "f": "1995-01-08"
+      },
+      {
+       "n": 3,
+       "t": "Episodio 3",
+       "f": "1995-01-15"
+      },
+      {
+       "n": 4,
+       "t": "Episodio 4",
+       "f": "1995-01-22"
+      }
+     ]
+    },
+    {
+     "n": 9,
+     "eps": [
+      {
+       "n": 1,
+       "t": "Episodio 1",
+       "f": "1996-08-11"
+      },
+      {
+       "n": 2,
+       "t": "Episodio 2",
+       "f": "1996-08-12"
+      },
+      {
+       "n": 3,
+       "t": "Episodio 3",
+       "f": "1996-08-13"
+      },
+      {
+       "n": 4,
+       "t": "Episodio 4",
+       "f": "1996-08-18"
+      },
+      {
+       "n": 5,
+       "t": "Episodio 5",
+       "f": "1996-08-19"
+      }
+     ]
+    },
+    {
+     "n": 10,
+     "eps": [
+      {
+       "n": 1,
+       "t": "Episodio 1",
+       "f": "1997-08-10"
+      },
+      {
+       "n": 2,
+       "t": "Episodio 2",
+       "f": "1997-08-11"
+      },
+      {
+       "n": 3,
+       "t": "Episodio 3",
+       "f": "1997-08-12"
+      },
+      {
+       "n": 4,
+       "t": "Episodio 4",
+       "f": "1997-08-13"
+      },
+      {
+       "n": 5,
+       "t": "Episodio 5",
+       "f": "1997-08-14"
+      },
+      {
+       "n": 6,
+       "t": "Episodio 6",
+       "f": "1997-08-15"
+      },
+      {
+       "n": 7,
+       "t": "Episodio 7",
+       "f": "1997-08-16"
+      }
+     ]
+    },
+    {
+     "n": 11,
+     "eps": [
+      {
+       "n": 1,
+       "t": "Episodio 1",
+       "f": "1998-07-31"
+      },
+      {
+       "n": 2,
+       "t": "Episodio 2",
+       "f": "1998-08-01"
+      },
+      {
+       "n": 3,
+       "t": "Episodio 3",
+       "f": "1998-08-02"
+      },
+      {
+       "n": 4,
+       "t": "Episodio 4",
+       "f": "1998-08-03"
+      },
+      {
+       "n": 5,
+       "t": "Episodio 5",
+       "f": "1998-08-04"
+      },
+      {
+       "n": 6,
+       "t": "Episodio 6",
+       "f": "1998-08-05"
+      }
+     ]
+    },
+    {
+     "n": 12,
+     "eps": [
+      {
+       "n": 1,
+       "t": "Episodio 1",
+       "f": "1999-01-01"
+      },
+      {
+       "n": 2,
+       "t": "Episodio 2",
+       "f": "1999-01-08"
+      },
+      {
+       "n": 3,
+       "t": "Episodio 3",
+       "f": "1999-01-15"
+      },
+      {
+       "n": 4,
+       "t": "Episodio 4",
+       "f": "1999-01-22"
+      },
+      {
+       "n": 5,
+       "t": "Episodio 5",
+       "f": "1999-01-29"
+      }
+     ]
+    },
+    {
+     "n": 13,
+     "eps": [
+      {
+       "n": 1,
+       "t": "Episodio 1",
+       "f": "2000-02-16"
+      },
+      {
+       "n": 2,
+       "t": "Episodio 2",
+       "f": "2000-02-16"
+      },
+      {
+       "n": 3,
+       "t": "Episodio 3",
+       "f": "2000-02-16"
+      },
+      {
+       "n": 4,
+       "t": "Episodio 4",
+       "f": "2000-09-30"
+      },
+      {
+       "n": 5,
+       "t": "Episodio 5",
+       "f": "2000-09-30"
+      },
+      {
+       "n": 6,
+       "t": "Episodio 6",
+       "f": "2000-10-04"
+      }
+     ]
+    },
+    {
+     "n": 14,
+     "eps": [
+      {
+       "n": 1,
+       "t": "Episodio 1",
+       "f": "2001-08-27"
+      },
+      {
+       "n": 2,
+       "t": "Episodio 2",
+       "f": "2001-08-27"
+      },
+      {
+       "n": 3,
+       "t": "Episodio 3",
+       "f": "2001-08-27"
+      },
+      {
+       "n": 4,
+       "t": "Episodio 4",
+       "f": "2001-08-27"
+      },
+      {
+       "n": 5,
+       "t": "Episodio 5",
+       "f": "2001-08-27"
+      }
+     ]
+    },
+    {
+     "n": 15,
+     "eps": [
+      {
+       "n": 1,
+       "t": "Episodio 1",
+       "f": "2002-06-17"
+      },
+      {
+       "n": 2,
+       "t": "Episodio 2",
+       "f": "2002-02-28"
+      },
+      {
+       "n": 3,
+       "t": "Episodio 3",
+       "f": "2002-02-28"
+      },
+      {
+       "n": 4,
+       "t": "Episodio 4",
+       "f": "2002-03-04"
+      }
+     ]
+    },
+    {
+     "n": 16,
+     "eps": [
+      {
+       "n": 1,
+       "t": "Episodio 1",
+       "f": "2003-07-13"
+      },
+      {
+       "n": 2,
+       "t": "Episodio 2",
+       "f": "2003-08-14"
+      },
+      {
+       "n": 3,
+       "t": "Episodio 3",
+       "f": "2003-08-14"
+      },
+      {
+       "n": 4,
+       "t": "Episodio 4",
+       "f": "2003-08-14"
+      },
+      {
+       "n": 5,
+       "t": "Episodio 5",
+       "f": "2003-08-14"
+      },
+      {
+       "n": 6,
+       "t": "Episodio 6",
+       "f": "2003-08-23"
+      },
+      {
+       "n": 7,
+       "t": "Episodio 7",
+       "f": "2003-08-23"
+      }
+     ]
+    },
+    {
+     "n": 17,
+     "eps": [
+      {
+       "n": 1,
+       "t": "Episodio 1",
+       "f": "2004-12-12"
+      },
+      {
+       "n": 2,
+       "t": "Episodio 2",
+       "f": "2004-12-12"
+      },
+      {
+       "n": 3,
+       "t": "Episodio 3",
+       "f": "2004-12-12"
+      },
+      {
+       "n": 4,
+       "t": "Episodio 4",
+       "f": "2004-12-12"
+      },
+      {
+       "n": 5,
+       "t": "Episodio 5",
+       "f": "2004-12-12"
+      },
+      {
+       "n": 6,
+       "t": "Episodio 6",
+       "f": "2004-12-12"
+      },
+      {
+       "n": 7,
+       "t": "Episodio 7",
+       "f": "2004-12-12"
+      },
+      {
+       "n": 8,
+       "t": "Episodio 8",
+       "f": "2004-09-05"
+      }
+     ]
+    },
+    {
+     "n": 18,
+     "eps": [
+      {
+       "n": 1,
+       "t": "Episodio 1",
+       "f": "2005-06-08"
+      },
+      {
+       "n": 2,
+       "t": "Episodio 2",
+       "f": "2005-06-08"
+      },
+      {
+       "n": 3,
+       "t": "Episodio 3",
+       "f": "2005-10-18"
+      },
+      {
+       "n": 4,
+       "t": "Episodio 4",
+       "f": "2005-12-25"
+      }
+     ]
+    },
+    {
+     "n": 19,
+     "eps": [
+      {
+       "n": 1,
+       "t": "Episodio 1",
+       "f": "2006-07-30"
+      },
+      {
+       "n": 2,
+       "t": "Episodio 2",
+       "f": "2006-05-15"
+      },
+      {
+       "n": 3,
+       "t": "Episodio 3",
+       "f": "2006-08-01"
+      },
+      {
+       "n": 4,
+       "t": "Episodio 4",
+       "f": "2006-08-02"
+      },
+      {
+       "n": 5,
+       "t": "Episodio 5",
+       "f": "2006-08-03"
+      },
+      {
+       "n": 6,
+       "t": "Episodio 6",
+       "f": "2006-08-04"
+      },
+      {
+       "n": 7,
+       "t": "Episodio 7",
+       "f": "2006-08-04"
+      }
+     ]
+    },
+    {
+     "n": 20,
+     "eps": [
+      {
+       "n": 1,
+       "t": "Episodio 1",
+       "f": "2007-07-29"
+      },
+      {
+       "n": 2,
+       "t": "Episodio 2",
+       "f": "2007-07-30"
+      },
+      {
+       "n": 3,
+       "t": "Episodio 3",
+       "f": "2007-07-30"
+      },
+      {
+       "n": 4,
+       "t": "Episodio 4",
+       "f": "2007-07-31"
+      },
+      {
+       "n": 5,
+       "t": "Episodio 5",
+       "f": "2007-08-01"
+      },
+      {
+       "n": 6,
+       "t": "Episodio 6",
+       "f": "2007-08-02"
+      },
+      {
+       "n": 7,
+       "t": "Episodio 7",
+       "f": "2007-08-03"
+      },
+      {
+       "n": 8,
+       "t": "Episodio 8",
+       "f": "2007-08-04"
+      }
+     ]
+    },
+    {
+     "n": 21,
+     "eps": [
+      {
+       "n": 1,
+       "t": "Episodio 1",
+       "f": "2008-07-27"
+      },
+      {
+       "n": 2,
+       "t": "Episodio 2",
+       "f": "2008-07-28"
+      },
+      {
+       "n": 3,
+       "t": "Episodio 3",
+       "f": "2008-07-28"
+      },
+      {
+       "n": 4,
+       "t": "Episodio 4",
+       "f": "2008-07-29"
+      },
+      {
+       "n": 5,
+       "t": "Episodio 5",
+       "f": "2008-07-29"
+      },
+      {
+       "n": 6,
+       "t": "Episodio 6",
+       "f": "2008-07-30"
+      }
+     ]
+    },
+    {
+     "n": 22,
+     "eps": [
+      {
+       "n": 1,
+       "t": "Episodio 1",
+       "f": "2009-08-02"
+      },
+      {
+       "n": 2,
+       "t": "Episodio 2",
+       "f": "2009-08-03"
+      },
+      {
+       "n": 3,
+       "t": "Episodio 3",
+       "f": "2009-08-03"
+      },
+      {
+       "n": 4,
+       "t": "Episodio 4",
+       "f": "2009-08-04"
+      },
+      {
+       "n": 5,
+       "t": "Episodio 5",
+       "f": "2009-08-05"
+      },
+      {
+       "n": 6,
+       "t": "Episodio 6",
+       "f": "2009-08-06"
+      },
+      {
+       "n": 7,
+       "t": "Episodio 7",
+       "f": "2009-08-07"
+      },
+      {
+       "n": 8,
+       "t": "Episodio 8",
+       "f": "2009-08-08"
+      },
+      {
+       "n": 9,
+       "t": "Episodio 9",
+       "f": "2009-08-09"
+      },
+      {
+       "n": 10,
+       "t": "Episodio 10",
+       "f": "2009-08-10"
+      },
+      {
+       "n": 11,
+       "t": "Episodio 11",
+       "f": "2009-08-11"
+      },
+      {
+       "n": 12,
+       "t": "Episodio 12",
+       "f": "2009-08-12"
+      },
+      {
+       "n": 13,
+       "t": "Episodio 13",
+       "f": "2009-08-13"
+      },
+      {
+       "n": 14,
+       "t": "Episodio 14",
+       "f": "2009-08-14"
+      }
+     ]
+    },
+    {
+     "n": 23,
+     "eps": [
+      {
+       "n": 1,
+       "t": "Episodio 1",
+       "f": "2010-08-01"
+      },
+      {
+       "n": 2,
+       "t": "Episodio 2",
+       "f": "2010-08-01"
+      },
+      {
+       "n": 3,
+       "t": "Episodio 3",
+       "f": "2010-08-02"
+      },
+      {
+       "n": 4,
+       "t": "Episodio 4",
+       "f": "2010-08-02"
+      },
+      {
+       "n": 5,
+       "t": "Episodio 5",
+       "f": "2010-08-04"
+      },
+      {
+       "n": 6,
+       "t": "Episodio 6",
+       "f": "2010-08-05"
+      },
+      {
+       "n": 7,
+       "t": "Episodio 7",
+       "f": "2010-08-06"
+      }
+     ]
+    },
+    {
+     "n": 24,
+     "eps": [
+      {
+       "n": 1,
+       "t": "Episodio 1",
+       "f": "2011-07-31"
+      },
+      {
+       "n": 2,
+       "t": "Episodio 2",
+       "f": "2011-07-31"
+      },
+      {
+       "n": 3,
+       "t": "Episodio 3",
+       "f": "2011-08-01"
+      },
+      {
+       "n": 4,
+       "t": "Episodio 4",
+       "f": "2011-08-01"
+      },
+      {
+       "n": 5,
+       "t": "Episodio 5",
+       "f": "2011-08-02"
+      },
+      {
+       "n": 6,
+       "t": "Episodio 6",
+       "f": "2011-08-03"
+      },
+      {
+       "n": 7,
+       "t": "Episodio 7",
+       "f": "2011-08-04"
+      },
+      {
+       "n": 8,
+       "t": "Episodio 8",
+       "f": "2011-08-05"
+      }
+     ]
+    },
+    {
+     "n": 25,
+     "eps": [
+      {
+       "n": 1,
+       "t": "Episodio 1",
+       "f": "2012-08-12"
+      },
+      {
+       "n": 2,
+       "t": "Episodio 2",
+       "f": "2012-08-12"
+      },
+      {
+       "n": 3,
+       "t": "Episodio 3",
+       "f": "2012-08-13"
+      },
+      {
+       "n": 4,
+       "t": "Episodio 4",
+       "f": "2012-08-13"
+      },
+      {
+       "n": 5,
+       "t": "Episodio 5",
+       "f": "2012-08-14"
+      },
+      {
+       "n": 6,
+       "t": "Episodio 6",
+       "f": "2012-08-14"
+      },
+      {
+       "n": 7,
+       "t": "Episodio 7",
+       "f": "2012-08-15"
+      },
+      {
+       "n": 8,
+       "t": "Episodio 8",
+       "f": "2012-08-15"
+      },
+      {
+       "n": 9,
+       "t": "Episodio 9",
+       "f": "2012-08-16"
+      },
+      {
+       "n": 10,
+       "t": "Episodio 10",
+       "f": "2012-08-16"
+      }
+     ]
+    },
+    {
+     "n": 26,
+     "eps": [
+      {
+       "n": 1,
+       "t": "Episodio 1",
+       "f": "2013-08-04"
+      },
+      {
+       "n": 2,
+       "t": "Episodio 2",
+       "f": "2013-08-04"
+      },
+      {
+       "n": 3,
+       "t": "Episodio 3",
+       "f": "2013-08-05"
+      },
+      {
+       "n": 4,
+       "t": "Episodio 4",
+       "f": "2013-08-05"
+      },
+      {
+       "n": 5,
+       "t": "Episodio 5",
+       "f": "2013-08-06"
+      },
+      {
+       "n": 6,
+       "t": "Episodio 6",
+       "f": "2013-08-06"
+      },
+      {
+       "n": 7,
+       "t": "Episodio 7",
+       "f": "2013-08-07"
+      },
+      {
+       "n": 8,
+       "t": "Episodio 8",
+       "f": "2013-08-07"
+      },
+      {
+       "n": 9,
+       "t": "Episodio 9",
+       "f": "2013-08-08"
+      },
+      {
+       "n": 10,
+       "t": "Episodio 10",
+       "f": "2013-08-08"
+      },
+      {
+       "n": 11,
+       "t": "Episodio 11",
+       "f": "2013-08-08"
+      }
+     ]
+    },
+    {
+     "n": 27,
+     "eps": [
+      {
+       "n": 1,
+       "t": "Episodio 1",
+       "f": "2014-08-10"
+      },
+      {
+       "n": 2,
+       "t": "Episodio 2",
+       "f": "2014-08-10"
+      },
+      {
+       "n": 3,
+       "t": "Episodio 3",
+       "f": "2014-08-11"
+      },
+      {
+       "n": 4,
+       "t": "Episodio 4",
+       "f": "2014-08-11"
+      },
+      {
+       "n": 5,
+       "t": "Episodio 5",
+       "f": "2014-08-12"
+      },
+      {
+       "n": 6,
+       "t": "Episodio 6",
+       "f": "2014-08-12"
+      },
+      {
+       "n": 7,
+       "t": "Episodio 7",
+       "f": "2014-08-13"
+      },
+      {
+       "n": 8,
+       "t": "Episodio 8",
+       "f": "2014-08-13"
+      },
+      {
+       "n": 9,
+       "t": "Episodio 9",
+       "f": "2014-08-14"
+      },
+      {
+       "n": 10,
+       "t": "Episodio 10",
+       "f": "2014-08-14"
+      },
+      {
+       "n": 11,
+       "t": "Episodio 11",
+       "f": "2014-08-15"
+      },
+      {
+       "n": 12,
+       "t": "Episodio 12",
+       "f": "2014-08-15"
+      },
+      {
+       "n": 13,
+       "t": "Episodio 13",
+       "f": "2014-08-16"
+      },
+      {
+       "n": 14,
+       "t": "Episodio 14",
+       "f": "2014-08-16"
+      }
+     ]
+    },
+    {
+     "n": 28,
+     "eps": [
+      {
+       "n": 1,
+       "t": "Episodio 1",
+       "f": "2015-07-05"
+      },
+      {
+       "n": 2,
+       "t": "Episodio 2",
+       "f": "2015-07-05"
+      },
+      {
+       "n": 3,
+       "t": "Episodio 3",
+       "f": "2015-07-05"
+      },
+      {
+       "n": 4,
+       "t": "Episodio 4",
+       "f": "2015-07-06"
+      },
+      {
+       "n": 5,
+       "t": "Episodio 5",
+       "f": "2015-07-06"
+      },
+      {
+       "n": 6,
+       "t": "Episodio 6",
+       "f": "2015-07-07"
+      },
+      {
+       "n": 7,
+       "t": "Episodio 7",
+       "f": "2015-07-07"
+      },
+      {
+       "n": 8,
+       "t": "Episodio 8",
+       "f": "2015-07-08"
+      },
+      {
+       "n": 9,
+       "t": "Episodio 9",
+       "f": "2015-07-08"
+      },
+      {
+       "n": 10,
+       "t": "Episodio 10",
+       "f": "2015-07-09"
+      },
+      {
+       "n": 11,
+       "t": "Episodio 11",
+       "f": "2015-07-10"
+      },
+      {
+       "n": 12,
+       "t": "Episodio 12",
+       "f": "2015-07-10"
+      },
+      {
+       "n": 13,
+       "t": "Episodio 13",
+       "f": "2015-07-11"
+      },
+      {
+       "n": 14,
+       "t": "Episodio 14",
+       "f": "2015-07-12"
+      },
+      {
+       "n": 15,
+       "t": "Episodio 15",
+       "f": "2015-07-13"
+      },
+      {
+       "n": 16,
+       "t": "Episodio 16",
+       "f": "2015-07-13"
+      }
+     ]
+    },
+    {
+     "n": 29,
+     "eps": [
+      {
+       "n": 1,
+       "t": "Episodio 1",
+       "f": "2016-06-26"
+      },
+      {
+       "n": 2,
+       "t": "Episodio 2",
+       "f": "2016-06-26"
+      },
+      {
+       "n": 3,
+       "t": "Episodio 3",
+       "f": "2016-06-26"
+      },
+      {
+       "n": 4,
+       "t": "Episodio 4",
+       "f": "2016-06-27"
+      },
+      {
+       "n": 5,
+       "t": "Episodio 5",
+       "f": "2016-06-27"
+      },
+      {
+       "n": 6,
+       "t": "Episodio 6",
+       "f": "2016-06-27"
+      },
+      {
+       "n": 7,
+       "t": "Episodio 7",
+       "f": "2016-06-28"
+      },
+      {
+       "n": 8,
+       "t": "Episodio 8",
+       "f": "2016-06-28"
+      },
+      {
+       "n": 9,
+       "t": "Episodio 9",
+       "f": "2016-06-29"
+      },
+      {
+       "n": 10,
+       "t": "Episodio 10",
+       "f": "2016-06-29"
+      },
+      {
+       "n": 11,
+       "t": "Episodio 11",
+       "f": "2016-06-30"
+      },
+      {
+       "n": 12,
+       "t": "Episodio 12",
+       "f": "2016-06-30"
+      },
+      {
+       "n": 13,
+       "t": "Episodio 13",
+       "f": "2016-07-01"
+      },
+      {
+       "n": 14,
+       "t": "Episodio 14",
+       "f": "2016-07-01"
+      },
+      {
+       "n": 15,
+       "t": "Episodio 15",
+       "f": "2016-07-02"
+      },
+      {
+       "n": 16,
+       "t": "Episodio 16",
+       "f": "2016-07-03"
+      },
+      {
+       "n": 17,
+       "t": "Episodio 17",
+       "f": "2016-07-03"
+      }
+     ]
+    },
+    {
+     "n": 30,
+     "eps": [
+      {
+       "n": 1,
+       "t": "Episodio 1",
+       "f": "2017-07-23"
+      },
+      {
+       "n": 2,
+       "t": "Episodio 2",
+       "f": "2017-07-23"
+      },
+      {
+       "n": 3,
+       "t": "Episodio 3",
+       "f": "2017-07-23"
+      },
+      {
+       "n": 4,
+       "t": "Episodio 4",
+       "f": "2017-07-23"
+      },
+      {
+       "n": 5,
+       "t": "Episodio 5",
+       "f": "2017-07-24"
+      },
+      {
+       "n": 6,
+       "t": "Episodio 6",
+       "f": "2017-07-24"
+      },
+      {
+       "n": 7,
+       "t": "Episodio 7",
+       "f": "2017-07-24"
+      },
+      {
+       "n": 8,
+       "t": "Episodio 8",
+       "f": "2017-07-25"
+      },
+      {
+       "n": 9,
+       "t": "Episodio 9",
+       "f": "2017-07-25"
+      },
+      {
+       "n": 10,
+       "t": "Episodio 10",
+       "f": "2017-07-26"
+      },
+      {
+       "n": 11,
+       "t": "Episodio 11",
+       "f": "2017-07-26"
+      },
+      {
+       "n": 12,
+       "t": "Episodio 12",
+       "f": "2017-07-27"
+      },
+      {
+       "n": 13,
+       "t": "Episodio 13",
+       "f": "2017-07-27"
+      },
+      {
+       "n": 14,
+       "t": "Episodio 14",
+       "f": "2017-07-28"
+      },
+      {
+       "n": 15,
+       "t": "Episodio 15",
+       "f": "2017-07-28"
+      },
+      {
+       "n": 16,
+       "t": "Episodio 16",
+       "f": "2017-07-29"
+      },
+      {
+       "n": 17,
+       "t": "Episodio 17",
+       "f": "2017-07-30"
+      },
+      {
+       "n": 18,
+       "t": "Episodio 18",
+       "f": "2017-07-31"
+      },
+      {
+       "n": 19,
+       "t": "Episodio 19",
+       "f": "2017-07-31"
+      }
+     ]
+    },
+    {
+     "n": 31,
+     "eps": [
+      {
+       "n": 1,
+       "t": "Episodio 1",
+       "f": "2018-07-15"
+      },
+      {
+       "n": 2,
+       "t": "Episodio 2",
+       "f": "2018-07-22"
+      },
+      {
+       "n": 3,
+       "t": "Episodio 3",
+       "f": "2018-07-22"
+      },
+      {
+       "n": 4,
+       "t": "Episodio 4",
+       "f": "2018-07-22"
+      },
+      {
+       "n": 5,
+       "t": "Episodio 5",
+       "f": "2018-07-23"
+      },
+      {
+       "n": 6,
+       "t": "Episodio 6",
+       "f": "2018-07-23"
+      },
+      {
+       "n": 7,
+       "t": "Episodio 7",
+       "f": "2018-07-23"
+      },
+      {
+       "n": 8,
+       "t": "Episodio 8",
+       "f": "2018-07-24"
+      },
+      {
+       "n": 9,
+       "t": "Episodio 9",
+       "f": "2018-07-24"
+      },
+      {
+       "n": 10,
+       "t": "Episodio 10",
+       "f": "2018-07-24"
+      },
+      {
+       "n": 11,
+       "t": "Episodio 11",
+       "f": "2018-07-25"
+      },
+      {
+       "n": 12,
+       "t": "Episodio 12",
+       "f": "2018-07-25"
+      },
+      {
+       "n": 13,
+       "t": "Episodio 13",
+       "f": "2018-07-25"
+      },
+      {
+       "n": 14,
+       "t": "Episodio 14",
+       "f": "2018-07-26"
+      },
+      {
+       "n": 15,
+       "t": "Episodio 15",
+       "f": "2018-07-26"
+      },
+      {
+       "n": 16,
+       "t": "Episodio 16",
+       "f": "2018-07-26"
+      },
+      {
+       "n": 17,
+       "t": "Episodio 17",
+       "f": "2018-07-27"
+      },
+      {
+       "n": 18,
+       "t": "Episodio 18",
+       "f": "2018-07-27"
+      },
+      {
+       "n": 19,
+       "t": "Episodio 19",
+       "f": "2018-07-27"
+      },
+      {
+       "n": 20,
+       "t": "Episodio 20",
+       "f": "2018-07-27"
+      },
+      {
+       "n": 21,
+       "t": "Episodio 21",
+       "f": "2018-07-28"
+      },
+      {
+       "n": 22,
+       "t": "Episodio 22",
+       "f": "2018-07-28"
+      },
+      {
+       "n": 23,
+       "t": "Episodio 23",
+       "f": "2018-07-29"
+      },
+      {
+       "n": 24,
+       "t": "Episodio 24",
+       "f": "2018-07-16"
+      },
+      {
+       "n": 25,
+       "t": "Episodio 25",
+       "f": "2018-07-17"
+      },
+      {
+       "n": 26,
+       "t": "Episodio 26",
+       "f": "2018-07-18"
+      }
+     ]
+    },
+    {
+     "n": 32,
+     "eps": [
+      {
+       "n": 1,
+       "t": "Episodio 1",
+       "f": "2019-08-03"
+      },
+      {
+       "n": 2,
+       "t": "Episodio 2",
+       "f": "2019-08-03"
+      },
+      {
+       "n": 3,
+       "t": "Episodio 3",
+       "f": "2019-08-03"
+      },
+      {
+       "n": 4,
+       "t": "Episodio 4",
+       "f": "2019-08-03"
+      },
+      {
+       "n": 5,
+       "t": "Episodio 5",
+       "f": "2019-08-03"
+      },
+      {
+       "n": 6,
+       "t": "Episodio 6",
+       "f": "2019-08-03"
+      },
+      {
+       "n": 7,
+       "t": "Episodio 7",
+       "f": "2019-08-03"
+      },
+      {
+       "n": 8,
+       "t": "Episodio 8",
+       "f": "2019-08-03"
+      },
+      {
+       "n": 9,
+       "t": "Episodio 9",
+       "f": "2019-08-03"
+      },
+      {
+       "n": 10,
+       "t": "Episodio 10",
+       "f": "2019-08-03"
+      },
+      {
+       "n": 11,
+       "t": "Episodio 11",
+       "f": "2019-08-03"
+      },
+      {
+       "n": 12,
+       "t": "Episodio 12",
+       "f": "2019-08-03"
+      },
+      {
+       "n": 13,
+       "t": "Episodio 13",
+       "f": "2019-08-03"
+      },
+      {
+       "n": 14,
+       "t": "Episodio 14",
+       "f": "2019-08-03"
+      },
+      {
+       "n": 15,
+       "t": "Episodio 15",
+       "f": "2019-08-03"
+      },
+      {
+       "n": 16,
+       "t": "Episodio 16",
+       "f": "2019-08-03"
+      },
+      {
+       "n": 17,
+       "t": "Episodio 17",
+       "f": "2019-08-03"
+      },
+      {
+       "n": 18,
+       "t": "Episodio 18",
+       "f": "2019-08-03"
+      },
+      {
+       "n": 19,
+       "t": "Episodio 19",
+       "f": "2019-08-03"
+      },
+      {
+       "n": 20,
+       "t": "Episodio 20",
+       "f": "2019-08-03"
+      },
+      {
+       "n": 21,
+       "t": "Episodio 21",
+       "f": "2019-08-03"
+      },
+      {
+       "n": 22,
+       "t": "Episodio 22",
+       "f": "2019-08-03"
+      },
+      {
+       "n": 23,
+       "t": "Episodio 23",
+       "f": "2019-08-03"
+      },
+      {
+       "n": 24,
+       "t": "Episodio 24",
+       "f": "2019-08-03"
+      }
+     ]
+    },
+    {
+     "n": 33,
+     "eps": [
+      {
+       "n": 1,
+       "t": "Episodio 1",
+       "f": "2020-08-09"
+      },
+      {
+       "n": 2,
+       "t": "Episodio 2",
+       "f": "2020-08-09"
+      },
+      {
+       "n": 3,
+       "t": "Episodio 3",
+       "f": "2020-08-09"
+      },
+      {
+       "n": 4,
+       "t": "Episodio 4",
+       "f": "2020-08-10"
+      },
+      {
+       "n": 5,
+       "t": "Episodio 5",
+       "f": "2020-08-10"
+      },
+      {
+       "n": 6,
+       "t": "Episodio 6",
+       "f": "2020-08-11"
+      },
+      {
+       "n": 7,
+       "t": "Episodio 7",
+       "f": "2020-08-11"
+      },
+      {
+       "n": 8,
+       "t": "Episodio 8",
+       "f": "2020-08-12"
+      },
+      {
+       "n": 9,
+       "t": "Episodio 9",
+       "f": "2020-08-12"
+      },
+      {
+       "n": 10,
+       "t": "Episodio 10",
+       "f": "2020-08-13"
+      },
+      {
+       "n": 11,
+       "t": "Episodio 11",
+       "f": "2020-08-13"
+      },
+      {
+       "n": 12,
+       "t": "Episodio 12",
+       "f": "2020-08-13"
+      },
+      {
+       "n": 13,
+       "t": "Episodio 13",
+       "f": "2020-08-14"
+      },
+      {
+       "n": 14,
+       "t": "Episodio 14",
+       "f": "2020-08-14"
+      },
+      {
+       "n": 15,
+       "t": "Episodio 15",
+       "f": "2020-08-14"
+      },
+      {
+       "n": 16,
+       "t": "Episodio 16",
+       "f": "2020-08-15"
+      },
+      {
+       "n": 17,
+       "t": "Episodio 17",
+       "f": "2020-08-15"
+      },
+      {
+       "n": 18,
+       "t": "Episodio 18",
+       "f": "2020-08-15"
+      },
+      {
+       "n": 19,
+       "t": "Episodio 19",
+       "f": "2020-08-16"
+      },
+      {
+       "n": 20,
+       "t": "Episodio 20",
+       "f": "2020-08-17"
+      },
+      {
+       "n": 21,
+       "t": "Episodio 21",
+       "f": "2020-08-18"
+      },
+      {
+       "n": 22,
+       "t": "Episodio 22",
+       "f": "2020-08-19"
+      },
+      {
+       "n": 23,
+       "t": "Episodio 23",
+       "f": "2020-08-20"
+      },
+      {
+       "n": 24,
+       "t": "Episodio 24",
+       "f": "2020-08-21"
+      },
+      {
+       "n": 95,
+       "t": "Episodio 95",
+       "f": "2020-08-21"
+      },
+      {
+       "n": 96,
+       "t": "Episodio 96",
+       "f": "2020-08-21"
+      },
+      {
+       "n": 97,
+       "t": "Episodio 97",
+       "f": "2020-08-21"
+      },
+      {
+       "n": 98,
+       "t": "Episodio 98",
+       "f": "2020-08-21"
+      },
+      {
+       "n": 99,
+       "t": "Episodio 99",
+       "f": "2020-08-21"
+      }
+     ]
+    },
+    {
+     "n": 34,
+     "eps": [
+      {
+       "n": 1,
+       "t": "Episodio 1",
+       "f": "2021-07-11"
+      },
+      {
+       "n": 2,
+       "t": "Episodio 2",
+       "f": "2021-07-11"
+      },
+      {
+       "n": 3,
+       "t": "Episodio 3",
+       "f": "2021-07-11"
+      },
+      {
+       "n": 4,
+       "t": "Episodio 4",
+       "f": "2021-07-11"
+      },
+      {
+       "n": 5,
+       "t": "Episodio 5",
+       "f": "2021-07-11"
+      },
+      {
+       "n": 6,
+       "t": "Episodio 6",
+       "f": "2021-07-12"
+      },
+      {
+       "n": 7,
+       "t": "Episodio 7",
+       "f": "2021-07-12"
+      },
+      {
+       "n": 8,
+       "t": "Episodio 8",
+       "f": "2021-07-12"
+      },
+      {
+       "n": 9,
+       "t": "Episodio 9",
+       "f": "2021-07-12"
+      },
+      {
+       "n": 10,
+       "t": "Episodio 10",
+       "f": "2021-07-13"
+      },
+      {
+       "n": 11,
+       "t": "Episodio 11",
+       "f": "2021-07-13"
+      },
+      {
+       "n": 12,
+       "t": "Episodio 12",
+       "f": "2021-07-13"
+      },
+      {
+       "n": 13,
+       "t": "Episodio 13",
+       "f": "2021-07-13"
+      },
+      {
+       "n": 14,
+       "t": "Episodio 14",
+       "f": "2021-07-13"
+      },
+      {
+       "n": 15,
+       "t": "Episodio 15",
+       "f": "2021-07-14"
+      },
+      {
+       "n": 16,
+       "t": "Episodio 16",
+       "f": "2021-07-14"
+      },
+      {
+       "n": 17,
+       "t": "Episodio 17",
+       "f": "2021-07-14"
+      },
+      {
+       "n": 18,
+       "t": "Episodio 18",
+       "f": "2021-07-14"
+      },
+      {
+       "n": 19,
+       "t": "Episodio 19",
+       "f": "2021-07-15"
+      },
+      {
+       "n": 20,
+       "t": "Episodio 20",
+       "f": "2021-07-15"
+      },
+      {
+       "n": 21,
+       "t": "Episodio 21",
+       "f": "2021-07-15"
+      },
+      {
+       "n": 22,
+       "t": "Episodio 22",
+       "f": "2021-07-15"
+      },
+      {
+       "n": 23,
+       "t": "Episodio 23",
+       "f": "2021-07-15"
+      },
+      {
+       "n": 24,
+       "t": "Episodio 24",
+       "f": "2021-07-15"
+      },
+      {
+       "n": 25,
+       "t": "Episodio 25",
+       "f": "2021-07-15"
+      },
+      {
+       "n": 26,
+       "t": "Episodio 26",
+       "f": "2021-07-15"
+      },
+      {
+       "n": 27,
+       "t": "Episodio 27",
+       "f": "2021-07-15"
+      },
+      {
+       "n": 28,
+       "t": "Episodio 28",
+       "f": "2021-07-15"
+      },
+      {
+       "n": 29,
+       "t": "Episodio 29",
+       "f": "2021-07-15"
+      },
+      {
+       "n": 30,
+       "t": "Episodio 30",
+       "f": "2021-07-15"
+      },
+      {
+       "n": 31,
+       "t": "Episodio 31",
+       "f": "2021-07-15"
+      },
+      {
+       "n": 32,
+       "t": "Episodio 32",
+       "f": "2021-07-15"
+      },
+      {
+       "n": 33,
+       "t": "Episodio 33",
+       "f": "2021-07-15"
+      },
+      {
+       "n": 34,
+       "t": "Episodio 34",
+       "f": "2021-07-15"
+      },
+      {
+       "n": 35,
+       "t": "Episodio 35",
+       "f": "2021-07-15"
+      },
+      {
+       "n": 36,
+       "t": "Episodio 36",
+       "f": "2021-07-15"
+      },
+      {
+       "n": 37,
+       "t": "Episodio 37",
+       "f": "2021-07-15"
+      },
+      {
+       "n": 38,
+       "t": "Episodio 38",
+       "f": "2021-07-15"
+      },
+      {
+       "n": 39,
+       "t": "Episodio 39",
+       "f": "2021-07-15"
+      },
+      {
+       "n": 40,
+       "t": "Episodio 40",
+       "f": "2021-07-15"
+      },
+      {
+       "n": 41,
+       "t": "Episodio 41",
+       "f": "2021-07-15"
+      },
+      {
+       "n": 42,
+       "t": "Episodio 42",
+       "f": "2021-07-15"
+      },
+      {
+       "n": 43,
+       "t": "Episodio 43",
+       "f": "2021-07-15"
+      },
+      {
+       "n": 44,
+       "t": "Episodio 44",
+       "f": "2021-07-15"
+      }
+     ]
+    },
+    {
+     "n": 35,
+     "eps": [
+      {
+       "n": 1,
+       "t": "Episodio 1",
+       "f": "2022-07-24"
+      },
+      {
+       "n": 2,
+       "t": "Episodio 2",
+       "f": "2022-07-24"
+      },
+      {
+       "n": 3,
+       "t": "Episodio 3",
+       "f": "2022-07-24"
+      },
+      {
+       "n": 4,
+       "t": "Episodio 4",
+       "f": "2022-07-25"
+      },
+      {
+       "n": 5,
+       "t": "Episodio 5",
+       "f": "2022-07-25"
+      },
+      {
+       "n": 6,
+       "t": "Episodio 6",
+       "f": "2022-07-25"
+      },
+      {
+       "n": 7,
+       "t": "Episodio 7",
+       "f": "2022-07-26"
+      },
+      {
+       "n": 8,
+       "t": "Episodio 8",
+       "f": "2022-07-26"
+      },
+      {
+       "n": 9,
+       "t": "Episodio 9",
+       "f": "2022-07-27"
+      },
+      {
+       "n": 10,
+       "t": "Episodio 10",
+       "f": "2022-07-27"
+      },
+      {
+       "n": 11,
+       "t": "Episodio 11",
+       "f": "2022-07-31"
+      },
+      {
+       "n": 12,
+       "t": "Episodio 12",
+       "f": "2022-08-01"
+      },
+      {
+       "n": 13,
+       "t": "Episodio 13",
+       "f": "2022-08-02"
+      },
+      {
+       "n": 14,
+       "t": "Episodio 14",
+       "f": "2022-08-03"
+      },
+      {
+       "n": 15,
+       "t": "Episodio 15",
+       "f": "2022-08-07"
+      },
+      {
+       "n": 16,
+       "t": "Episodio 16",
+       "f": "2022-08-08"
+      },
+      {
+       "n": 17,
+       "t": "Episodio 17",
+       "f": "2022-08-09"
+      },
+      {
+       "n": 18,
+       "t": "Episodio 18",
+       "f": "2022-08-10"
+      },
+      {
+       "n": 19,
+       "t": "Episodio 19",
+       "f": "2022-08-14"
+      },
+      {
+       "n": 20,
+       "t": "Episodio 20",
+       "f": "2022-08-14"
+      },
+      {
+       "n": 21,
+       "t": "Episodio 21",
+       "f": "2022-08-14"
+      },
+      {
+       "n": 22,
+       "t": "Episodio 22",
+       "f": "2022-08-15"
+      },
+      {
+       "n": 23,
+       "t": "Episodio 23",
+       "f": "2022-08-15"
+      },
+      {
+       "n": 24,
+       "t": "Episodio 24",
+       "f": "2022-08-15"
+      }
+     ]
+    },
+    {
+     "n": 36,
+     "eps": [
+      {
+       "n": 1,
+       "t": "Episodio 1",
+       "f": "2023-07-23"
+      },
+      {
+       "n": 2,
+       "t": "Episodio 2",
+       "f": "2023-07-23"
+      },
+      {
+       "n": 3,
+       "t": "Episodio 3",
+       "f": "2023-07-23"
+      },
+      {
+       "n": 4,
+       "t": "Episodio 4",
+       "f": "2023-07-23"
+      },
+      {
+       "n": 5,
+       "t": "Episodio 5",
+       "f": "2023-07-24"
+      },
+      {
+       "n": 6,
+       "t": "Episodio 6",
+       "f": "2023-07-24"
+      },
+      {
+       "n": 7,
+       "t": "Episodio 7",
+       "f": "2023-07-24"
+      },
+      {
+       "n": 8,
+       "t": "Episodio 8",
+       "f": "2023-07-25"
+      },
+      {
+       "n": 9,
+       "t": "Episodio 9",
+       "f": "2023-07-25"
+      },
+      {
+       "n": 10,
+       "t": "Episodio 10",
+       "f": "2023-07-25"
+      },
+      {
+       "n": 11,
+       "t": "Episodio 11",
+       "f": "2023-07-26"
+      },
+      {
+       "n": 12,
+       "t": "Episodio 12",
+       "f": "2023-07-26"
+      },
+      {
+       "n": 13,
+       "t": "Episodio 13",
+       "f": "2023-07-26"
+      },
+      {
+       "n": 14,
+       "t": "Episodio 14",
+       "f": "2023-07-27"
+      },
+      {
+       "n": 15,
+       "t": "Episodio 15",
+       "f": "2023-07-27"
+      },
+      {
+       "n": 16,
+       "t": "Episodio 16",
+       "f": "2023-07-27"
+      },
+      {
+       "n": 17,
+       "t": "Episodio 17",
+       "f": "2023-07-28"
+      },
+      {
+       "n": 18,
+       "t": "Episodio 18",
+       "f": "2023-07-28"
+      },
+      {
+       "n": 19,
+       "t": "Episodio 19",
+       "f": "2023-07-29"
+      },
+      {
+       "n": 20,
+       "t": "Episodio 20",
+       "f": "2023-07-29"
+      },
+      {
+       "n": 21,
+       "t": "Episodio 21",
+       "f": "2023-07-29"
+      }
+     ]
+    },
+    {
+     "n": 37,
+     "eps": [
+      {
+       "n": 1,
+       "t": "Episodio 1",
+       "f": "2024-07-07"
+      },
+      {
+       "n": 2,
+       "t": "Episodio 2",
+       "f": "2024-07-07"
+      },
+      {
+       "n": 3,
+       "t": "Episodio 3",
+       "f": "2024-07-07"
+      },
+      {
+       "n": 4,
+       "t": "Episodio 4",
+       "f": "2024-07-07"
+      },
+      {
+       "n": 5,
+       "t": "Episodio 5",
+       "f": "2024-07-08"
+      },
+      {
+       "n": 6,
+       "t": "Episodio 6",
+       "f": "2024-07-08"
+      },
+      {
+       "n": 7,
+       "t": "Episodio 7",
+       "f": "2024-07-08"
+      },
+      {
+       "n": 8,
+       "t": "Episodio 8",
+       "f": "2024-07-09"
+      },
+      {
+       "n": 9,
+       "t": "Episodio 9",
+       "f": "2024-07-09"
+      },
+      {
+       "n": 10,
+       "t": "Episodio 10",
+       "f": "2024-07-09"
+      },
+      {
+       "n": 11,
+       "t": "Episodio 11",
+       "f": "2024-07-10"
+      },
+      {
+       "n": 12,
+       "t": "Episodio 12",
+       "f": "2024-07-10"
+      },
+      {
+       "n": 13,
+       "t": "Episodio 13",
+       "f": "2024-07-10"
+      },
+      {
+       "n": 14,
+       "t": "Episodio 14",
+       "f": "2024-07-11"
+      },
+      {
+       "n": 15,
+       "t": "Episodio 15",
+       "f": "2024-07-11"
+      },
+      {
+       "n": 16,
+       "t": "Episodio 16",
+       "f": "2024-07-11"
+      },
+      {
+       "n": 17,
+       "t": "Episodio 17",
+       "f": "2024-07-12"
+      },
+      {
+       "n": 18,
+       "t": "Episodio 18",
+       "f": "2024-07-12"
+      },
+      {
+       "n": 19,
+       "t": "Episodio 19",
+       "f": "2024-07-12"
+      },
+      {
+       "n": 20,
+       "t": "Episodio 20",
+       "f": "2024-07-13"
+      },
+      {
+       "n": 21,
+       "t": "Episodio 21",
+       "f": "2024-07-13"
+      }
+     ]
+    },
+    {
+     "n": 38,
+     "eps": [
+      {
+       "n": 1,
+       "t": "Episodio 1",
+       "f": "2025-07-20"
+      },
+      {
+       "n": 2,
+       "t": "Episodio 2",
+       "f": "2025-07-20"
+      },
+      {
+       "n": 3,
+       "t": "Episodio 3",
+       "f": "2025-07-20"
+      },
+      {
+       "n": 4,
+       "t": "Episodio 4",
+       "f": "2025-07-21"
+      },
+      {
+       "n": 5,
+       "t": "Episodio 5",
+       "f": "2025-07-21"
+      },
+      {
+       "n": 6,
+       "t": "Episodio 6",
+       "f": "2025-07-21"
+      },
+      {
+       "n": 7,
+       "t": "Episodio 7",
+       "f": "2025-07-22"
+      },
+      {
+       "n": 8,
+       "t": "Episodio 8",
+       "f": "2025-07-22"
+      },
+      {
+       "n": 9,
+       "t": "Episodio 9",
+       "f": "2025-07-22"
+      },
+      {
+       "n": 10,
+       "t": "Episodio 10",
+       "f": "2025-07-23"
+      },
+      {
+       "n": 11,
+       "t": "Episodio 11",
+       "f": "2025-07-23"
+      },
+      {
+       "n": 12,
+       "t": "Episodio 12",
+       "f": "2025-07-23"
+      },
+      {
+       "n": 13,
+       "t": "Episodio 13",
+       "f": "2025-07-24"
+      },
+      {
+       "n": 14,
+       "t": "Episodio 14",
+       "f": "2025-07-24"
+      },
+      {
+       "n": 15,
+       "t": "Episodio 15",
+       "f": "2025-07-24"
+      },
+      {
+       "n": 16,
+       "t": "Episodio 16",
+       "f": "2025-07-25"
+      },
+      {
+       "n": 17,
+       "t": "Episodio 17",
+       "f": "2025-07-25"
+      },
+      {
+       "n": 18,
+       "t": "Episodio 18",
+       "f": "2025-07-25"
+      },
+      {
+       "n": 19,
+       "t": "Episodio 19",
+       "f": "2025-07-26"
+      },
+      {
+       "n": 20,
+       "t": "Episodio 20",
+       "f": "2025-07-26"
+      }
+     ]
+    },
+    {
+     "n": 39,
+     "eps": [
+      {
+       "n": 1,
+       "t": "Episodio 1",
+       "f": "2026-07-26"
+      },
+      {
+       "n": 2,
+       "t": "Episodio 2",
+       "f": "2026-07-26"
+      },
+      {
+       "n": 3,
+       "t": "Episodio 3",
+       "f": "2026-07-26"
+      },
+      {
+       "n": 4,
+       "t": "Episodio 4",
+       "f": "2026-07-27"
+      },
+      {
+       "n": 5,
+       "t": "Episodio 5",
+       "f": "2026-07-27"
+      },
+      {
+       "n": 6,
+       "t": "Episodio 6",
+       "f": "2026-07-27"
+      },
+      {
+       "n": 7,
+       "t": "Episodio 7",
+       "f": "2026-07-28"
+      },
+      {
+       "n": 8,
+       "t": "Episodio 8",
+       "f": "2026-07-28"
+      },
+      {
+       "n": 9,
+       "t": "Episodio 9",
+       "f": "2026-07-28"
+      },
+      {
+       "n": 10,
+       "t": "Episodio 10",
+       "f": "2026-07-29"
+      },
+      {
+       "n": 11,
+       "t": "Episodio 11",
+       "f": "2026-07-29"
+      },
+      {
+       "n": 12,
+       "t": "Episodio 12",
+       "f": "2026-07-29"
+      },
+      {
+       "n": 13,
+       "t": "Episodio 13",
+       "f": "2026-07-30"
+      },
+      {
+       "n": 14,
+       "t": "Episodio 14",
+       "f": "2026-07-30"
+      },
+      {
+       "n": 15,
+       "t": "Episodio 15",
+       "f": "2026-07-30"
+      },
+      {
+       "n": 16,
+       "t": "Episodio 16",
+       "f": "2026-07-31"
+      },
+      {
+       "n": 17,
+       "t": "Episodio 17",
+       "f": "2026-07-31"
+      },
+      {
+       "n": 18,
+       "t": "Episodio 18",
+       "f": "2026-07-31"
+      },
+      {
+       "n": 19,
+       "t": "Episodio 19",
+       "f": "2026-08-01"
+      },
+      {
+       "n": 20,
+       "t": "Episodio 20",
+       "f": "2026-08-01"
+      }
+     ]
     }
-   ],
-   "trailer": "https://www.youtube.com/watch?v=Kki2D_5l5bM",
-   "temporadas_det": []
+   ]
   },
   {
    "id": "27517853",
@@ -10482,7 +12445,7 @@
     "Comedia",
     "Drama"
    ],
-   "imdb": 5.4,
+   "imdb": 4.7,
    "rt": null,
    "duracion": "1 h 34 min",
    "sinopsis": "Una marchante de arte guiada por la ambición se enfrentará a rivalidades y escándalos durante el Miami Art Basel.",
